@@ -1,0 +1,3082 @@
+[
+  {
+    "id": 939035,
+    "date": "2022-08-27T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 18013,
+    "homeName": "Southern District",
+    "awayName": "HK U23",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 939036,
+    "date": "2022-08-27T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4457,
+    "homeName": "Eastern",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 939037,
+    "date": "2022-08-28T08:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4459,
+    "homeName": "Warriors",
+    "awayName": "Rangers",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 939040,
+    "date": "2022-09-03T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4470,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Resources Capital",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 939041,
+    "date": "2022-09-03T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4456,
+    "homeName": "Warriors",
+    "awayName": "Southern District",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 939042,
+    "date": "2022-09-04T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4462,
+    "homeName": "Sham Shui Po",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 939038,
+    "date": "2022-09-18T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4453,
+    "homeName": "Sham Shui Po",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 10
+  },
+  {
+    "id": 939039,
+    "date": "2022-09-18T10:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4462,
+    "homeName": "Resources Capital",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 939045,
+    "date": "2022-10-15T07:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 18013,
+    "homeName": "Warriors",
+    "awayName": "HK U23",
+    "homeGoals": 10,
+    "awayGoals": 0
+  },
+  {
+    "id": 939046,
+    "date": "2022-10-15T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4456,
+    "homeName": "Kitchee",
+    "awayName": "Southern District",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "id": 939048,
+    "date": "2022-10-16T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4462,
+    "homeName": "Rangers",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 939047,
+    "date": "2022-10-16T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4457,
+    "homeName": "Sham Shui Po",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 939049,
+    "date": "2022-10-16T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4470,
+    "homeName": "Eastern",
+    "awayName": "Resources Capital",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 939050,
+    "date": "2022-10-29T07:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 6402,
+    "homeName": "Eastern",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 939051,
+    "date": "2022-10-29T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4453,
+    "homeName": "Warriors",
+    "awayName": "Kitchee",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 939052,
+    "date": "2022-10-30T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4462,
+    "homeName": "Southern District",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 939053,
+    "date": "2022-10-30T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4457,
+    "homeName": "Rangers",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 939054,
+    "date": "2022-10-30T10:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4470,
+    "homeName": "HK U23",
+    "awayName": "Resources Capital",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 939043,
+    "date": "2022-11-06T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4453,
+    "homeName": "Rangers",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 939055,
+    "date": "2022-11-12T07:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 6402,
+    "homeName": "Resources Capital",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 939056,
+    "date": "2022-11-12T10:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4453,
+    "homeName": "HK U23",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 7
+  },
+  {
+    "id": 939057,
+    "date": "2022-11-13T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4207,
+    "homeName": "Hong Kong FC",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 939058,
+    "date": "2022-11-13T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4459,
+    "homeName": "Eastern",
+    "awayName": "Rangers",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 939060,
+    "date": "2022-11-19T07:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4456,
+    "homeName": "Resources Capital",
+    "awayName": "Southern District",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 939061,
+    "date": "2022-11-19T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4207,
+    "homeName": "Eastern",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 939062,
+    "date": "2022-11-20T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 6402,
+    "homeName": "Rangers",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 939063,
+    "date": "2022-11-20T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 18013,
+    "homeName": "Hong Kong FC",
+    "awayName": "HK U23",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 939064,
+    "date": "2022-11-20T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4457,
+    "homeName": "Kitchee",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 939065,
+    "date": "2022-11-26T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 6402,
+    "homeName": "Southern District",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 939066,
+    "date": "2022-11-26T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4459,
+    "homeName": "HK U23",
+    "awayName": "Rangers",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 939067,
+    "date": "2022-11-26T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4451,
+    "homeName": "Kitchee",
+    "awayName": "Eastern",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 939068,
+    "date": "2022-11-27T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4462,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 939069,
+    "date": "2022-11-27T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4470,
+    "homeName": "Warriors",
+    "awayName": "Resources Capital",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 939059,
+    "date": "2022-12-03T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4457,
+    "homeName": "Southern District",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 939044,
+    "date": "2022-12-04T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4451,
+    "homeName": "HK U23",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 939070,
+    "date": "2023-01-14T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4451,
+    "homeName": "Southern District",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 939071,
+    "date": "2023-01-14T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 6402,
+    "homeName": "HK U23",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 939072,
+    "date": "2023-01-14T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4462,
+    "homeName": "Kitchee",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 939073,
+    "date": "2023-01-15T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4470,
+    "homeName": "Rangers",
+    "awayName": "Resources Capital",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 939074,
+    "date": "2023-01-15T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4457,
+    "homeName": "Warriors",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 939075,
+    "date": "2023-01-28T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4459,
+    "homeName": "Southern District",
+    "awayName": "Rangers",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 939076,
+    "date": "2023-01-28T10:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4453,
+    "homeName": "Resources Capital",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 939077,
+    "date": "2023-01-29T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4207,
+    "homeName": "Sham Shui Po",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 939078,
+    "date": "2023-01-29T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4451,
+    "homeName": "Hong Kong FC",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 939079,
+    "date": "2023-01-29T10:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4457,
+    "homeName": "HK U23",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 939080,
+    "date": "2023-02-04T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4451,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 939081,
+    "date": "2023-02-04T10:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4456,
+    "homeName": "HK U23",
+    "awayName": "Southern District",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 939082,
+    "date": "2023-02-05T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4207,
+    "homeName": "Rangers",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 939083,
+    "date": "2023-02-05T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4470,
+    "homeName": "Hong Kong FC",
+    "awayName": "Resources Capital",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 939084,
+    "date": "2023-02-05T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 6402,
+    "homeName": "Kitchee",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "id": 939085,
+    "date": "2023-02-11T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4456,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Southern District",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 939086,
+    "date": "2023-02-11T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4462,
+    "homeName": "Warriors",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 939088,
+    "date": "2023-02-12T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4451,
+    "homeName": "Rangers",
+    "awayName": "Eastern",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 939087,
+    "date": "2023-02-12T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4470,
+    "homeName": "Sham Shui Po",
+    "awayName": "Resources Capital",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 939089,
+    "date": "2023-02-12T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 18013,
+    "homeName": "Kitchee",
+    "awayName": "HK U23",
+    "homeGoals": 8,
+    "awayGoals": 0
+  },
+  {
+    "id": 939090,
+    "date": "2023-02-18T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4207,
+    "homeName": "Southern District",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 939091,
+    "date": "2023-02-18T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4459,
+    "homeName": "Kitchee",
+    "awayName": "Rangers",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 939092,
+    "date": "2023-02-19T07:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4457,
+    "homeName": "Resources Capital",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 939093,
+    "date": "2023-02-19T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 6402,
+    "homeName": "Hong Kong FC",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 939094,
+    "date": "2023-02-19T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 18013,
+    "homeName": "Eastern",
+    "awayName": "HK U23",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 939095,
+    "date": "2023-02-25T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4207,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 939096,
+    "date": "2023-02-25T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4456,
+    "homeName": "Eastern",
+    "awayName": "Southern District",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 939097,
+    "date": "2023-02-26T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 18013,
+    "homeName": "Sham Shui Po",
+    "awayName": "HK U23",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 939098,
+    "date": "2023-02-26T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4453,
+    "homeName": "Hong Kong FC",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 939099,
+    "date": "2023-02-26T10:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4459,
+    "homeName": "Resources Capital",
+    "awayName": "Rangers",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 939100,
+    "date": "2023-03-11T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 18013,
+    "homeName": "Rangers",
+    "awayName": "HK U23",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 939101,
+    "date": "2023-03-11T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4453,
+    "homeName": "Eastern",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 939102,
+    "date": "2023-03-12T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4456,
+    "homeName": "Sham Shui Po",
+    "awayName": "Southern District",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 939103,
+    "date": "2023-03-12T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4457,
+    "homeName": "Hong Kong FC",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 939104,
+    "date": "2023-03-12T10:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4207,
+    "homeName": "Resources Capital",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 939105,
+    "date": "2023-03-18T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4470,
+    "homeName": "Southern District",
+    "awayName": "Resources Capital",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 939106,
+    "date": "2023-03-18T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4451,
+    "homeName": "Warriors",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 939108,
+    "date": "2023-03-19T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4453,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Kitchee",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 939107,
+    "date": "2023-03-19T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4459,
+    "homeName": "Sham Shui Po",
+    "awayName": "Rangers",
+    "homeGoals": 0,
+    "awayGoals": 7
+  },
+  {
+    "id": 939109,
+    "date": "2023-03-19T10:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4462,
+    "homeName": "HK U23",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 939110,
+    "date": "2023-04-15T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4453,
+    "homeName": "Southern District",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 939111,
+    "date": "2023-04-15T10:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4207,
+    "homeName": "HK U23",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 939112,
+    "date": "2023-04-16T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 6402,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 939113,
+    "date": "2023-04-16T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4459,
+    "homeName": "Hong Kong FC",
+    "awayName": "Rangers",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 939114,
+    "date": "2023-04-16T10:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4451,
+    "homeName": "Resources Capital",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 939115,
+    "date": "2023-04-22T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4456,
+    "homeName": "Rangers",
+    "awayName": "Southern District",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 939116,
+    "date": "2023-04-22T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4470,
+    "homeName": "Kitchee",
+    "awayName": "Resources Capital",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 939118,
+    "date": "2023-04-23T07:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 6402,
+    "homeName": "Warriors",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 939117,
+    "date": "2023-04-23T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 18013,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "HK U23",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 939119,
+    "date": "2023-04-23T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4462,
+    "homeName": "Eastern",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 939120,
+    "date": "2023-05-07T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4459,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Rangers",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 939123,
+    "date": "2023-05-07T07:00:00.000Z",
+    "homeId": 4462,
+    "awayId": 4456,
+    "homeName": "Hong Kong FC",
+    "awayName": "Southern District",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 939124,
+    "date": "2023-05-07T07:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 18013,
+    "homeName": "Resources Capital",
+    "awayName": "HK U23",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 939121,
+    "date": "2023-05-07T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4207,
+    "homeName": "Kitchee",
+    "awayName": "Warriors",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 939122,
+    "date": "2023-05-14T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4451,
+    "homeName": "Sham Shui Po",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1119376,
+    "date": "2023-08-19T08:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4457,
+    "homeName": "Kitchee",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119377,
+    "date": "2023-08-19T10:30:00.000Z",
+    "homeId": 4470,
+    "awayId": 6401,
+    "homeName": "Resources Capital",
+    "awayName": "North District",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119379,
+    "date": "2023-08-20T08:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 18013,
+    "homeName": "Eastern",
+    "awayName": "HK U23",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119378,
+    "date": "2023-08-20T08:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4456,
+    "homeName": "Sham Shui Po",
+    "awayName": "Southern District",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1119382,
+    "date": "2023-08-26T08:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4457,
+    "homeName": "Eastern",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119381,
+    "date": "2023-08-26T08:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 18013,
+    "homeName": "Southern District",
+    "awayName": "HK U23",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119383,
+    "date": "2023-08-26T10:30:00.000Z",
+    "homeId": 4470,
+    "awayId": 4207,
+    "homeName": "Resources Capital",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119384,
+    "date": "2023-08-27T08:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4462,
+    "homeName": "Kitchee",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 8,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119385,
+    "date": "2023-08-27T08:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 6402,
+    "homeName": "Rangers",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 9,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119389,
+    "date": "2023-09-03T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4459,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Rangers",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119388,
+    "date": "2023-09-03T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 6401,
+    "homeName": "Sham Shui Po",
+    "awayName": "North District",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1119390,
+    "date": "2023-09-03T10:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 18013,
+    "homeName": "Resources Capital",
+    "awayName": "HK U23",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119391,
+    "date": "2023-09-16T07:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4453,
+    "homeName": "Warriors",
+    "awayName": "Kitchee",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119392,
+    "date": "2023-09-17T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4462,
+    "homeName": "Sham Shui Po",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119396,
+    "date": "2023-09-23T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 18013,
+    "homeName": "Warriors",
+    "awayName": "HK U23",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119397,
+    "date": "2023-09-24T07:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4459,
+    "homeName": "Kitchee",
+    "awayName": "Rangers",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119463,
+    "date": "2023-10-01T11:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4459,
+    "homeName": "Warriors",
+    "awayName": "Rangers",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1119393,
+    "date": "2023-10-03T12:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4470,
+    "homeName": "Southern District",
+    "awayName": "Resources Capital",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119401,
+    "date": "2023-10-07T07:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 6402,
+    "homeName": "Eastern",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119420,
+    "date": "2023-10-07T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4470,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Resources Capital",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119402,
+    "date": "2023-10-07T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4456,
+    "homeName": "Warriors",
+    "awayName": "Southern District",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1119406,
+    "date": "2023-10-21T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4456,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Southern District",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119407,
+    "date": "2023-10-22T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4470,
+    "homeName": "Sham Shui Po",
+    "awayName": "Resources Capital",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119408,
+    "date": "2023-10-22T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4459,
+    "homeName": "HK U23",
+    "awayName": "Rangers",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 1119409,
+    "date": "2023-10-22T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4451,
+    "homeName": "Hong Kong FC",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1119412,
+    "date": "2023-10-28T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4451,
+    "homeName": "Warriors",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119414,
+    "date": "2023-10-29T07:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 6402,
+    "homeName": "Kitchee",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119413,
+    "date": "2023-10-29T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4462,
+    "homeName": "HK U23",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119415,
+    "date": "2023-10-29T10:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4459,
+    "homeName": "Resources Capital",
+    "awayName": "Rangers",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "id": 1119416,
+    "date": "2023-11-05T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4459,
+    "homeName": "Hong Kong FC",
+    "awayName": "Rangers",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119399,
+    "date": "2023-11-12T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4470,
+    "homeName": "Hong Kong FC",
+    "awayName": "Resources Capital",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119417,
+    "date": "2023-11-24T12:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4456,
+    "homeName": "Kitchee",
+    "awayName": "Southern District",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119418,
+    "date": "2023-11-25T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 6401,
+    "homeName": "HK U23",
+    "awayName": "North District",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119419,
+    "date": "2023-11-26T07:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 6402,
+    "homeName": "Warriors",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119426,
+    "date": "2023-12-03T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4453,
+    "homeName": "North District",
+    "awayName": "Kitchee",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119421,
+    "date": "2023-12-08T12:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4470,
+    "homeName": "Kitchee",
+    "awayName": "Resources Capital",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119422,
+    "date": "2023-12-09T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4459,
+    "homeName": "Eastern",
+    "awayName": "Rangers",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119423,
+    "date": "2023-12-10T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4207,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Warriors",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119425,
+    "date": "2023-12-17T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4462,
+    "homeName": "North District",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1119424,
+    "date": "2023-12-17T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 18013,
+    "homeName": "Sham Shui Po",
+    "awayName": "HK U23",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1119411,
+    "date": "2023-12-24T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4456,
+    "homeName": "North District",
+    "awayName": "Southern District",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1119394,
+    "date": "2024-01-27T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 18013,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "HK U23",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119432,
+    "date": "2024-02-17T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4451,
+    "homeName": "Southern District",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119431,
+    "date": "2024-02-17T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 6401,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "North District",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119433,
+    "date": "2024-02-17T10:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4453,
+    "homeName": "Rangers",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119435,
+    "date": "2024-02-18T07:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4462,
+    "homeName": "Resources Capital",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119434,
+    "date": "2024-02-18T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4207,
+    "homeName": "HK U23",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 1119446,
+    "date": "2024-02-24T07:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4457,
+    "homeName": "Warriors",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119404,
+    "date": "2024-02-24T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 6401,
+    "homeName": "Rangers",
+    "awayName": "North District",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119467,
+    "date": "2024-02-25T07:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 18013,
+    "homeName": "Kitchee",
+    "awayName": "HK U23",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119430,
+    "date": "2024-02-25T07:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4451,
+    "homeName": "Resources Capital",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1119455,
+    "date": "2024-02-25T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4456,
+    "homeName": "Hong Kong FC",
+    "awayName": "Southern District",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 1119436,
+    "date": "2024-03-02T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4451,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119437,
+    "date": "2024-03-02T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4456,
+    "homeName": "HK U23",
+    "awayName": "Southern District",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1119438,
+    "date": "2024-03-03T07:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4470,
+    "homeName": "Warriors",
+    "awayName": "Resources Capital",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119439,
+    "date": "2024-03-03T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4459,
+    "homeName": "Sham Shui Po",
+    "awayName": "Rangers",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119440,
+    "date": "2024-03-03T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4453,
+    "homeName": "Hong Kong FC",
+    "awayName": "Kitchee",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119395,
+    "date": "2024-03-06T12:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 6401,
+    "homeName": "Eastern",
+    "awayName": "North District",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119410,
+    "date": "2024-03-10T07:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 6401,
+    "homeName": "Warriors",
+    "awayName": "North District",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119400,
+    "date": "2024-03-10T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4456,
+    "homeName": "Eastern",
+    "awayName": "Southern District",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119427,
+    "date": "2024-03-13T12:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4456,
+    "homeName": "Rangers",
+    "awayName": "Southern District",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1119441,
+    "date": "2024-03-16T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 6401,
+    "homeName": "Southern District",
+    "awayName": "North District",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1119442,
+    "date": "2024-03-16T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4470,
+    "homeName": "Rangers",
+    "awayName": "Resources Capital",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119443,
+    "date": "2024-03-16T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4207,
+    "homeName": "Eastern",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119444,
+    "date": "2024-03-17T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4453,
+    "homeName": "Sham Shui Po",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119445,
+    "date": "2024-03-17T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 18013,
+    "homeName": "Hong Kong FC",
+    "awayName": "HK U23",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119447,
+    "date": "2024-03-30T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 6402,
+    "homeName": "HK U23",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119448,
+    "date": "2024-03-30T10:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4453,
+    "homeName": "Resources Capital",
+    "awayName": "Kitchee",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1119398,
+    "date": "2024-03-31T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4457,
+    "homeName": "North District",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119460,
+    "date": "2024-03-31T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4207,
+    "homeName": "Hong Kong FC",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1119450,
+    "date": "2024-03-31T10:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4451,
+    "homeName": "Rangers",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 1119386,
+    "date": "2024-04-06T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4462,
+    "homeName": "Southern District",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119451,
+    "date": "2024-04-06T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4457,
+    "homeName": "Rangers",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1119452,
+    "date": "2024-04-06T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4451,
+    "homeName": "Kitchee",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119453,
+    "date": "2024-04-07T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 6402,
+    "homeName": "North District",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119454,
+    "date": "2024-04-07T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4470,
+    "homeName": "HK U23",
+    "awayName": "Resources Capital",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119457,
+    "date": "2024-04-13T07:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4470,
+    "homeName": "Eastern",
+    "awayName": "Resources Capital",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119456,
+    "date": "2024-04-13T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4459,
+    "homeName": "Southern District",
+    "awayName": "Rangers",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119459,
+    "date": "2024-04-14T07:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 6401,
+    "homeName": "Kitchee",
+    "awayName": "North District",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119429,
+    "date": "2024-04-14T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4457,
+    "homeName": "Sham Shui Po",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119380,
+    "date": "2024-04-17T12:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4207,
+    "homeName": "Rangers",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119461,
+    "date": "2024-04-20T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 6402,
+    "homeName": "Southern District",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1119462,
+    "date": "2024-04-20T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4453,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119428,
+    "date": "2024-04-20T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4462,
+    "homeName": "Warriors",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119464,
+    "date": "2024-04-21T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4470,
+    "homeName": "North District",
+    "awayName": "Resources Capital",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1119465,
+    "date": "2024-04-21T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4451,
+    "homeName": "HK U23",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "id": 1119466,
+    "date": "2024-04-27T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4207,
+    "homeName": "Southern District",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119468,
+    "date": "2024-04-28T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4459,
+    "homeName": "North District",
+    "awayName": "Rangers",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119469,
+    "date": "2024-04-28T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4451,
+    "homeName": "Sham Shui Po",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119403,
+    "date": "2024-04-28T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4453,
+    "homeName": "HK U23",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "id": 1119470,
+    "date": "2024-04-28T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4457,
+    "homeName": "Hong Kong FC",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119458,
+    "date": "2024-05-01T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 6402,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119387,
+    "date": "2024-05-01T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4453,
+    "homeName": "Eastern",
+    "awayName": "Kitchee",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119471,
+    "date": "2024-05-04T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4457,
+    "homeName": "Southern District",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119475,
+    "date": "2024-05-05T07:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 6402,
+    "homeName": "Resources Capital",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119474,
+    "date": "2024-05-05T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4207,
+    "homeName": "North District",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1119472,
+    "date": "2024-05-05T10:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 18013,
+    "homeName": "Rangers",
+    "awayName": "HK U23",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119405,
+    "date": "2024-05-07T11:45:00.000Z",
+    "homeId": 4457,
+    "awayId": 4462,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119449,
+    "date": "2024-05-12T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 6401,
+    "homeName": "Hong Kong FC",
+    "awayName": "North District",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119476,
+    "date": "2024-05-18T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4453,
+    "homeName": "Southern District",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119477,
+    "date": "2024-05-18T07:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4457,
+    "homeName": "Resources Capital",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119478,
+    "date": "2024-05-19T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 18013,
+    "homeName": "North District",
+    "awayName": "HK U23",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119479,
+    "date": "2024-05-19T07:00:00.000Z",
+    "homeId": 6402,
+    "awayId": 4207,
+    "homeName": "Sham Shui Po",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "id": 1119480,
+    "date": "2024-05-19T10:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4462,
+    "homeName": "Rangers",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119473,
+    "date": "2024-05-22T12:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4462,
+    "homeName": "Eastern",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119483,
+    "date": "2024-05-26T07:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4207,
+    "homeName": "Kitchee",
+    "awayName": "Warriors",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1119484,
+    "date": "2024-05-26T07:00:00.000Z",
+    "homeId": 4462,
+    "awayId": 6402,
+    "homeName": "Hong Kong FC",
+    "awayName": "Sham Shui Po",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1119481,
+    "date": "2024-05-26T07:00:00.000Z",
+    "homeId": 4470,
+    "awayId": 4456,
+    "homeName": "Resources Capital",
+    "awayName": "Southern District",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1119482,
+    "date": "2024-05-26T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4451,
+    "homeName": "North District",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1119485,
+    "date": "2024-05-26T07:00:00.000Z",
+    "homeId": 18013,
+    "awayId": 4457,
+    "homeName": "HK U23",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": 1288828,
+    "date": "2024-08-30T12:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4459,
+    "homeName": "Eastern",
+    "awayName": "Rangers",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288829,
+    "date": "2024-08-31T08:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4207,
+    "homeName": "Southern District",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288830,
+    "date": "2024-08-31T08:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4453,
+    "homeName": "North District",
+    "awayName": "Kitchee",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288831,
+    "date": "2024-09-01T08:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 20392,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Kowloon City",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288864,
+    "date": "2024-09-12T12:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 6401,
+    "homeName": "Eastern",
+    "awayName": "North District",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288832,
+    "date": "2024-09-14T08:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4207,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Warriors",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288833,
+    "date": "2024-09-14T10:30:00.000Z",
+    "homeId": 4453,
+    "awayId": 4456,
+    "homeName": "Kitchee",
+    "awayName": "Southern District",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288834,
+    "date": "2024-09-15T08:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 20392,
+    "homeName": "North District",
+    "awayName": "Kowloon City",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288835,
+    "date": "2024-09-15T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4459,
+    "homeName": "Hong Kong FC",
+    "awayName": "Rangers",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288836,
+    "date": "2024-09-21T08:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4457,
+    "homeName": "Southern District",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288837,
+    "date": "2024-09-21T10:30:00.000Z",
+    "homeId": 4453,
+    "awayId": 4459,
+    "homeName": "Kitchee",
+    "awayName": "Rangers",
+    "homeGoals": 8,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288839,
+    "date": "2024-09-22T08:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4462,
+    "homeName": "Warriors",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288838,
+    "date": "2024-09-22T08:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 4451,
+    "homeName": "Kowloon City",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288865,
+    "date": "2024-09-25T12:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 20392,
+    "homeName": "Kitchee",
+    "awayName": "Kowloon City",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288868,
+    "date": "2024-09-28T08:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4451,
+    "homeName": "Southern District",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288840,
+    "date": "2024-09-28T10:30:00.000Z",
+    "homeId": 4207,
+    "awayId": 4459,
+    "homeName": "Warriors",
+    "awayName": "Rangers",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288841,
+    "date": "2024-09-29T08:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4457,
+    "homeName": "North District",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288842,
+    "date": "2024-09-29T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 20392,
+    "homeName": "Hong Kong FC",
+    "awayName": "Kowloon City",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288844,
+    "date": "2024-10-05T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 6401,
+    "homeName": "Southern District",
+    "awayName": "North District",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288845,
+    "date": "2024-10-05T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4462,
+    "homeName": "Kitchee",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288846,
+    "date": "2024-10-06T07:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 4459,
+    "homeName": "Kowloon City",
+    "awayName": "Rangers",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288847,
+    "date": "2024-10-06T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4451,
+    "homeName": "Warriors",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288848,
+    "date": "2024-10-19T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4453,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Kitchee",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288849,
+    "date": "2024-10-19T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4462,
+    "homeName": "Eastern",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288850,
+    "date": "2024-10-20T07:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 4456,
+    "homeName": "Kowloon City",
+    "awayName": "Southern District",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288851,
+    "date": "2024-10-20T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 6401,
+    "homeName": "Warriors",
+    "awayName": "North District",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288852,
+    "date": "2024-11-02T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4451,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288853,
+    "date": "2024-11-02T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4207,
+    "homeName": "Kitchee",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288854,
+    "date": "2024-11-03T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4456,
+    "homeName": "Rangers",
+    "awayName": "Southern District",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288855,
+    "date": "2024-11-03T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 6401,
+    "homeName": "Hong Kong FC",
+    "awayName": "North District",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288856,
+    "date": "2024-11-09T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4459,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Rangers",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288857,
+    "date": "2024-11-09T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 20392,
+    "homeName": "Warriors",
+    "awayName": "Kowloon City",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288858,
+    "date": "2024-11-10T07:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 6401,
+    "homeName": "Eastern",
+    "awayName": "North District",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288859,
+    "date": "2024-11-10T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4456,
+    "homeName": "Hong Kong FC",
+    "awayName": "Southern District",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": 1288860,
+    "date": "2024-11-23T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4462,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288863,
+    "date": "2024-11-24T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4459,
+    "homeName": "North District",
+    "awayName": "Rangers",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288862,
+    "date": "2024-11-24T07:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 4453,
+    "homeName": "Kowloon City",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 1288866,
+    "date": "2024-12-21T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4457,
+    "homeName": "Rangers",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "id": 1288867,
+    "date": "2024-12-22T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4456,
+    "homeName": "Hong Kong FC",
+    "awayName": "Southern District",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288869,
+    "date": "2025-01-05T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4459,
+    "homeName": "North District",
+    "awayName": "Rangers",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "id": 1288870,
+    "date": "2025-01-05T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4457,
+    "homeName": "Hong Kong FC",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288872,
+    "date": "2025-01-11T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4453,
+    "homeName": "Southern District",
+    "awayName": "Kitchee",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288873,
+    "date": "2025-01-11T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4207,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288874,
+    "date": "2025-01-12T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 20392,
+    "homeName": "North District",
+    "awayName": "Kowloon City",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288875,
+    "date": "2025-01-12T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4451,
+    "homeName": "Hong Kong FC",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288876,
+    "date": "2025-01-18T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4457,
+    "homeName": "North District",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288877,
+    "date": "2025-01-18T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4453,
+    "homeName": "Eastern",
+    "awayName": "Kitchee",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288878,
+    "date": "2025-01-19T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4207,
+    "homeName": "Rangers",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288879,
+    "date": "2025-01-19T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 20392,
+    "homeName": "Hong Kong FC",
+    "awayName": "Kowloon City",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288880,
+    "date": "2025-01-25T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 20392,
+    "homeName": "Southern District",
+    "awayName": "Kowloon City",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288881,
+    "date": "2025-01-25T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 6401,
+    "homeName": "Warriors",
+    "awayName": "North District",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288882,
+    "date": "2025-01-26T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4453,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Kitchee",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288883,
+    "date": "2025-01-26T10:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4462,
+    "homeName": "Rangers",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288843,
+    "date": "2025-02-02T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4451,
+    "homeName": "Kitchee",
+    "awayName": "Eastern",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288884,
+    "date": "2025-02-08T07:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 20392,
+    "homeName": "Warriors",
+    "awayName": "Kowloon City",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288885,
+    "date": "2025-02-08T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4456,
+    "homeName": "Eastern",
+    "awayName": "Southern District",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288886,
+    "date": "2025-02-09T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4453,
+    "homeName": "Rangers",
+    "awayName": "Kitchee",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288887,
+    "date": "2025-02-09T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4457,
+    "homeName": "Hong Kong FC",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1288888,
+    "date": "2025-02-15T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 6401,
+    "homeName": "Southern District",
+    "awayName": "North District",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288889,
+    "date": "2025-02-15T10:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 20392,
+    "homeName": "Rangers",
+    "awayName": "Kowloon City",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288890,
+    "date": "2025-02-16T07:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4207,
+    "homeName": "Eastern",
+    "awayName": "Warriors",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": 1288891,
+    "date": "2025-02-16T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4453,
+    "homeName": "Hong Kong FC",
+    "awayName": "Kitchee",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288892,
+    "date": "2025-02-22T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4456,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Southern District",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288893,
+    "date": "2025-02-22T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4462,
+    "homeName": "Warriors",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288894,
+    "date": "2025-02-23T07:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 4451,
+    "homeName": "Kowloon City",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 1288895,
+    "date": "2025-02-23T10:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 6401,
+    "homeName": "Rangers",
+    "awayName": "North District",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288871,
+    "date": "2025-02-26T12:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 20392,
+    "homeName": "Kitchee",
+    "awayName": "Kowloon City",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288861,
+    "date": "2025-03-05T12:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4456,
+    "homeName": "Eastern",
+    "awayName": "Southern District",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288896,
+    "date": "2025-03-08T07:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 6401,
+    "homeName": "Kitchee",
+    "awayName": "North District",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288897,
+    "date": "2025-03-08T10:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4451,
+    "homeName": "Rangers",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288898,
+    "date": "2025-03-09T07:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 4457,
+    "homeName": "Kowloon City",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "id": 1288899,
+    "date": "2025-03-09T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4456,
+    "homeName": "Warriors",
+    "awayName": "Southern District",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288901,
+    "date": "2025-03-15T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4462,
+    "homeName": "North District",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288903,
+    "date": "2025-03-15T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4207,
+    "homeName": "Kitchee",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288900,
+    "date": "2025-03-16T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4459,
+    "homeName": "Southern District",
+    "awayName": "Rangers",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288902,
+    "date": "2025-03-16T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4451,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Eastern",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288904,
+    "date": "2025-03-29T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4453,
+    "homeName": "Southern District",
+    "awayName": "Kitchee",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288905,
+    "date": "2025-03-29T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4462,
+    "homeName": "Eastern",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288906,
+    "date": "2025-03-30T07:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 6401,
+    "homeName": "Kowloon City",
+    "awayName": "North District",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": 1288907,
+    "date": "2025-03-30T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4457,
+    "homeName": "Warriors",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 3,
+    "awayGoals": 7
+  },
+  {
+    "id": 1288908,
+    "date": "2025-04-05T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4207,
+    "homeName": "Southern District",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288909,
+    "date": "2025-04-05T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 6401,
+    "homeName": "Kitchee",
+    "awayName": "North District",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288910,
+    "date": "2025-04-06T07:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 4457,
+    "homeName": "Kowloon City",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288911,
+    "date": "2025-04-06T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4459,
+    "homeName": "Hong Kong FC",
+    "awayName": "Rangers",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288912,
+    "date": "2025-04-12T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4459,
+    "homeName": "Southern District",
+    "awayName": "Rangers",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288913,
+    "date": "2025-04-12T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4453,
+    "homeName": "Warriors",
+    "awayName": "Kitchee",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288914,
+    "date": "2025-04-13T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4462,
+    "homeName": "North District",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288915,
+    "date": "2025-04-13T10:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4457,
+    "homeName": "Eastern",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288916,
+    "date": "2025-04-26T07:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4462,
+    "homeName": "Kitchee",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288917,
+    "date": "2025-04-26T10:00:00.000Z",
+    "homeId": 4207,
+    "awayId": 4451,
+    "homeName": "Warriors",
+    "awayName": "Eastern",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288918,
+    "date": "2025-04-27T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4456,
+    "homeName": "North District",
+    "awayName": "Southern District",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288919,
+    "date": "2025-04-27T07:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 4459,
+    "homeName": "Kowloon City",
+    "awayName": "Rangers",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 1288921,
+    "date": "2025-05-04T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4453,
+    "homeName": "Rangers",
+    "awayName": "Kitchee",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288922,
+    "date": "2025-05-04T08:30:00.000Z",
+    "homeId": 4462,
+    "awayId": 4207,
+    "homeName": "Hong Kong FC",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1288923,
+    "date": "2025-05-05T07:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 20392,
+    "homeName": "Eastern",
+    "awayName": "Kowloon City",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288920,
+    "date": "2025-05-05T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 4456,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "Southern District",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288924,
+    "date": "2025-05-10T07:00:00.000Z",
+    "homeId": 4456,
+    "awayId": 4462,
+    "homeName": "Southern District",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288925,
+    "date": "2025-05-10T10:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4457,
+    "homeName": "Rangers",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288927,
+    "date": "2025-05-11T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4451,
+    "homeName": "North District",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288926,
+    "date": "2025-05-11T07:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 4207,
+    "homeName": "Kowloon City",
+    "awayName": "Warriors",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288928,
+    "date": "2025-05-17T07:00:00.000Z",
+    "homeId": 6401,
+    "awayId": 4207,
+    "homeName": "North District",
+    "awayName": "Warriors",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1288929,
+    "date": "2025-05-17T10:00:00.000Z",
+    "homeId": 4453,
+    "awayId": 4457,
+    "homeName": "Kitchee",
+    "awayName": "Wofoo Tai Po",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288930,
+    "date": "2025-05-18T07:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 4456,
+    "homeName": "Kowloon City",
+    "awayName": "Southern District",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1288931,
+    "date": "2025-05-18T10:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4451,
+    "homeName": "Rangers",
+    "awayName": "Eastern",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1288935,
+    "date": "2025-05-25T07:00:00.000Z",
+    "homeId": 4451,
+    "awayId": 4453,
+    "homeName": "Eastern",
+    "awayName": "Kitchee",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288933,
+    "date": "2025-05-25T07:00:00.000Z",
+    "homeId": 4457,
+    "awayId": 6401,
+    "homeName": "Wofoo Tai Po",
+    "awayName": "North District",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1288934,
+    "date": "2025-05-25T07:00:00.000Z",
+    "homeId": 4459,
+    "awayId": 4207,
+    "homeName": "Rangers",
+    "awayName": "Warriors",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1288932,
+    "date": "2025-05-25T07:00:00.000Z",
+    "homeId": 20392,
+    "awayId": 4462,
+    "homeName": "Kowloon City",
+    "awayName": "Hong Kong FC",
+    "homeGoals": 5,
+    "awayGoals": 3
+  }
+]

@@ -1,0 +1,7202 @@
+[
+  {
+    "id": "628589",
+    "date": "2022-04-02T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:535",
+    "homeName": "Hammarby IF",
+    "awayName": "Helsingborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628586",
+    "date": "2022-04-02T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:994",
+    "homeName": "BK Häcken",
+    "awayName": "AIK",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "628590",
+    "date": "2022-04-03T13:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:21382",
+    "homeName": "IFK Göteborg",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628588",
+    "date": "2022-04-03T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:3010",
+    "homeName": "IK Sirius",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628593",
+    "date": "2022-04-03T15:30Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:6545",
+    "homeName": "IFK Norrköping",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628591",
+    "date": "2022-04-03T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2720",
+    "homeName": "Kalmar FF",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628592",
+    "date": "2022-04-04T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:20301",
+    "homeName": "IF Elfsborg",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628587",
+    "date": "2022-04-04T17:10Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:20856",
+    "homeName": "Djurgården",
+    "awayName": "Degerfors IF",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628580",
+    "date": "2022-04-09T13:00Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:2495",
+    "homeName": "GIF Sundsvall",
+    "awayName": "Hammarby IF",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": "628578",
+    "date": "2022-04-09T15:30Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:7834",
+    "homeName": "Degerfors IF",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628582",
+    "date": "2022-04-10T13:00Z",
+    "homeId": "espn:535",
+    "awayId": "espn:2556",
+    "homeName": "Helsingborg",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628585",
+    "date": "2022-04-10T13:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:3052",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Kalmar FF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "628583",
+    "date": "2022-04-10T15:30Z",
+    "homeId": "espn:994",
+    "awayId": "espn:8544",
+    "homeName": "AIK",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628579",
+    "date": "2022-04-10T15:30Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2339",
+    "homeName": "Mjällby AIF",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628584",
+    "date": "2022-04-11T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:8547",
+    "homeName": "IFK Värnamo",
+    "awayName": "IK Sirius",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628581",
+    "date": "2022-04-11T17:10Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:529",
+    "homeName": "Malmö FF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628577",
+    "date": "2022-04-15T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:20301",
+    "homeName": "Hammarby IF",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628575",
+    "date": "2022-04-16T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:8544",
+    "homeName": "Djurgården",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628572",
+    "date": "2022-04-16T13:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:3010",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628571",
+    "date": "2022-04-17T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:20856",
+    "homeName": "Kalmar FF",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628570",
+    "date": "2022-04-17T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:994",
+    "homeName": "Malmö FF",
+    "awayName": "AIK",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628574",
+    "date": "2022-04-17T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2556",
+    "homeName": "BK Häcken",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628576",
+    "date": "2022-04-17T15:30Z",
+    "homeId": "espn:529",
+    "awayId": "espn:21382",
+    "homeName": "IF Elfsborg",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "628573",
+    "date": "2022-04-17T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:535",
+    "homeName": "IK Sirius",
+    "awayName": "Helsingborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628569",
+    "date": "2022-04-20T17:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:6545",
+    "homeName": "AIK",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628567",
+    "date": "2022-04-20T17:00Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:3052",
+    "homeName": "GIF Sundsvall",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628563",
+    "date": "2022-04-20T17:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:2339",
+    "homeName": "IFK Göteborg",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628562",
+    "date": "2022-04-20T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:7834",
+    "homeName": "IFK Norrköping",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628566",
+    "date": "2022-04-20T17:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:8547",
+    "homeName": "Mjällby AIF",
+    "awayName": "IK Sirius",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628564",
+    "date": "2022-04-21T17:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:2495",
+    "homeName": "Degerfors IF",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628565",
+    "date": "2022-04-21T17:00Z",
+    "homeId": "espn:535",
+    "awayId": "espn:529",
+    "homeName": "Helsingborg",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628568",
+    "date": "2022-04-21T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2720",
+    "homeName": "IFK Värnamo",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628556",
+    "date": "2022-04-24T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2339",
+    "homeName": "AIK",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628561",
+    "date": "2022-04-24T13:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:20301",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628554",
+    "date": "2022-04-24T15:30Z",
+    "homeId": "espn:535",
+    "awayId": "espn:7834",
+    "homeName": "Helsingborg",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628557",
+    "date": "2022-04-25T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:3010",
+    "homeName": "IF Elfsborg",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628555",
+    "date": "2022-04-25T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:20856",
+    "homeName": "IFK Värnamo",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628558",
+    "date": "2022-04-25T17:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2495",
+    "homeName": "IK Sirius",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "628559",
+    "date": "2022-04-25T17:10Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:2556",
+    "homeName": "Malmö FF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628560",
+    "date": "2022-04-26T17:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:8544",
+    "homeName": "Kalmar FF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628550",
+    "date": "2022-04-30T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:8547",
+    "homeName": "Djurgården",
+    "awayName": "IK Sirius",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628548",
+    "date": "2022-05-01T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:529",
+    "homeName": "Degerfors IF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "id": "628547",
+    "date": "2022-05-01T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:535",
+    "homeName": "Mjällby AIF",
+    "awayName": "Helsingborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628553",
+    "date": "2022-05-01T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:6545",
+    "homeName": "BK Häcken",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628546",
+    "date": "2022-05-01T15:30Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:994",
+    "homeName": "GIF Sundsvall",
+    "awayName": "AIK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628551",
+    "date": "2022-05-02T17:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:3052",
+    "homeName": "IFK Göteborg",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628549",
+    "date": "2022-05-02T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:21382",
+    "homeName": "IFK Norrköping",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628552",
+    "date": "2022-05-02T17:10Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:2720",
+    "homeName": "Hammarby IF",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628467",
+    "date": "2022-05-05T17:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:535",
+    "homeName": "Djurgården",
+    "awayName": "Helsingborg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628542",
+    "date": "2022-05-07T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2556",
+    "homeName": "AIK",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628545",
+    "date": "2022-05-07T15:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:20301",
+    "homeName": "Malmö FF",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628541",
+    "date": "2022-05-08T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2495",
+    "homeName": "Kalmar FF",
+    "awayName": "Hammarby IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628544",
+    "date": "2022-05-08T15:30Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:8547",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "IK Sirius",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628539",
+    "date": "2022-05-09T17:00Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:20856",
+    "homeName": "GIF Sundsvall",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "628543",
+    "date": "2022-05-09T17:00Z",
+    "homeId": "espn:535",
+    "awayId": "espn:8544",
+    "homeName": "Helsingborg",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628538",
+    "date": "2022-05-09T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:7834",
+    "homeName": "IFK Värnamo",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628540",
+    "date": "2022-05-09T17:10Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2339",
+    "homeName": "IF Elfsborg",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628471",
+    "date": "2022-05-11T17:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2720",
+    "homeName": "AIK",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628534",
+    "date": "2022-05-14T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:21382",
+    "homeName": "Mjällby AIF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628533",
+    "date": "2022-05-14T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:529",
+    "homeName": "IK Sirius",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628535",
+    "date": "2022-05-15T13:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:3052",
+    "homeName": "BK Häcken",
+    "awayName": "Kalmar FF",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628530",
+    "date": "2022-05-15T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:994",
+    "homeName": "Hammarby IF",
+    "awayName": "AIK",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "628532",
+    "date": "2022-05-15T15:30Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:535",
+    "homeName": "Degerfors IF",
+    "awayName": "Helsingborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628537",
+    "date": "2022-05-15T15:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:6545",
+    "homeName": "IFK Göteborg",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628531",
+    "date": "2022-05-15T15:30Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:3010",
+    "homeName": "IFK Norrköping",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "628536",
+    "date": "2022-05-16T17:10Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:2720",
+    "homeName": "Djurgården",
+    "awayName": "Malmö FF",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628528",
+    "date": "2022-05-21T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:8547",
+    "homeName": "AIK",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628527",
+    "date": "2022-05-21T15:30Z",
+    "homeId": "espn:535",
+    "awayId": "espn:21382",
+    "homeName": "Helsingborg",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "628526",
+    "date": "2022-05-22T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:8544",
+    "homeName": "Hammarby IF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628525",
+    "date": "2022-05-22T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2556",
+    "homeName": "IF Elfsborg",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628523",
+    "date": "2022-05-22T13:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:20856",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628524",
+    "date": "2022-05-22T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2339",
+    "homeName": "Kalmar FF",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628522",
+    "date": "2022-05-22T15:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:7834",
+    "homeName": "Malmö FF",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628529",
+    "date": "2022-05-23T17:00Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:20301",
+    "homeName": "GIF Sundsvall",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628515",
+    "date": "2022-05-28T13:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:3010",
+    "homeName": "IFK Göteborg",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628519",
+    "date": "2022-05-28T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:3052",
+    "homeName": "Mjällby AIF",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628518",
+    "date": "2022-05-28T15:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:8547",
+    "homeName": "BK Häcken",
+    "awayName": "IK Sirius",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "628520",
+    "date": "2022-05-29T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:2720",
+    "homeName": "Degerfors IF",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628521",
+    "date": "2022-05-29T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:6545",
+    "homeName": "Djurgården",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628517",
+    "date": "2022-05-29T13:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:529",
+    "homeName": "IFK Norrköping",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628514",
+    "date": "2022-05-29T15:30Z",
+    "homeId": "espn:535",
+    "awayId": "espn:994",
+    "homeName": "Helsingborg",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628516",
+    "date": "2022-05-29T15:30Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2495",
+    "homeName": "IFK Värnamo",
+    "awayName": "Hammarby IF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628506",
+    "date": "2022-06-26T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:994",
+    "homeName": "Degerfors IF",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628507",
+    "date": "2022-06-26T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:7834",
+    "homeName": "Hammarby IF",
+    "awayName": "BK Häcken",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628511",
+    "date": "2022-06-26T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:8544",
+    "homeName": "Mjällby AIF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628508",
+    "date": "2022-06-26T15:30Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:2339",
+    "homeName": "GIF Sundsvall",
+    "awayName": "Djurgården",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "id": "628513",
+    "date": "2022-06-27T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:6545",
+    "homeName": "IF Elfsborg",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "628510",
+    "date": "2022-06-27T17:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2556",
+    "homeName": "IK Sirius",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628512",
+    "date": "2022-06-27T17:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:21382",
+    "homeName": "Kalmar FF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628509",
+    "date": "2022-06-27T17:10Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:535",
+    "homeName": "Malmö FF",
+    "awayName": "Helsingborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628504",
+    "date": "2022-07-01T17:00Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:2720",
+    "homeName": "GIF Sundsvall",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628505",
+    "date": "2022-07-02T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:20301",
+    "homeName": "AIK",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628503",
+    "date": "2022-07-02T15:30Z",
+    "homeId": "espn:535",
+    "awayId": "espn:3052",
+    "homeName": "Helsingborg",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628499",
+    "date": "2022-07-03T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:2495",
+    "homeName": "Djurgården",
+    "awayName": "Hammarby IF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628501",
+    "date": "2022-07-03T13:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:21382",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628500",
+    "date": "2022-07-03T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:529",
+    "homeName": "BK Häcken",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628502",
+    "date": "2022-07-03T15:30Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:8547",
+    "homeName": "IFK Norrköping",
+    "awayName": "IK Sirius",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628498",
+    "date": "2022-07-04T17:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:20856",
+    "homeName": "IFK Göteborg",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628497",
+    "date": "2022-07-09T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:6545",
+    "homeName": "Malmö FF",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628495",
+    "date": "2022-07-09T15:30Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:8544",
+    "homeName": "Degerfors IF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628490",
+    "date": "2022-07-10T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:994",
+    "homeName": "IF Elfsborg",
+    "awayName": "AIK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628491",
+    "date": "2022-07-10T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:7834",
+    "homeName": "Mjällby AIF",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628496",
+    "date": "2022-07-10T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:8547",
+    "homeName": "Kalmar FF",
+    "awayName": "IK Sirius",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628494",
+    "date": "2022-07-11T17:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:2556",
+    "homeName": "Hammarby IF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628492",
+    "date": "2022-07-11T17:00Z",
+    "homeId": "espn:535",
+    "awayId": "espn:2339",
+    "homeName": "Helsingborg",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628493",
+    "date": "2022-07-11T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:3010",
+    "homeName": "IFK Värnamo",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628488",
+    "date": "2022-07-16T13:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2720",
+    "homeName": "IFK Norrköping",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628486",
+    "date": "2022-07-16T15:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:21382",
+    "homeName": "Djurgården",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "628487",
+    "date": "2022-07-17T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:3052",
+    "homeName": "AIK",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628485",
+    "date": "2022-07-17T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:529",
+    "homeName": "Hammarby IF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628489",
+    "date": "2022-07-17T13:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:20301",
+    "homeName": "IFK Göteborg",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628483",
+    "date": "2022-07-17T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:20856",
+    "homeName": "IK Sirius",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628482",
+    "date": "2022-07-18T17:00Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:7834",
+    "homeName": "GIF Sundsvall",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": "628484",
+    "date": "2022-07-18T17:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:535",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Helsingborg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628481",
+    "date": "2022-07-23T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:8547",
+    "homeName": "Malmö FF",
+    "awayName": "IK Sirius",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628475",
+    "date": "2022-07-23T15:30Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:20856",
+    "homeName": "Mjällby AIF",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628477",
+    "date": "2022-07-24T13:00Z",
+    "homeId": "espn:535",
+    "awayId": "espn:3010",
+    "homeName": "Helsingborg",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628474",
+    "date": "2022-07-24T13:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:994",
+    "homeName": "IFK Värnamo",
+    "awayName": "AIK",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "628476",
+    "date": "2022-07-24T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2339",
+    "homeName": "BK Häcken",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628479",
+    "date": "2022-07-24T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:529",
+    "homeName": "Kalmar FF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628480",
+    "date": "2022-07-25T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2556",
+    "homeName": "IFK Norrköping",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628478",
+    "date": "2022-07-25T17:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:2495",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "628470",
+    "date": "2022-07-30T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:3052",
+    "homeName": "Degerfors IF",
+    "awayName": "Kalmar FF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628473",
+    "date": "2022-07-30T15:30Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:6545",
+    "homeName": "GIF Sundsvall",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628469",
+    "date": "2022-07-31T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:21382",
+    "homeName": "Hammarby IF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628466",
+    "date": "2022-07-31T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:7834",
+    "homeName": "IF Elfsborg",
+    "awayName": "BK Häcken",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "id": "628472",
+    "date": "2022-07-31T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:20301",
+    "homeName": "IK Sirius",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628468",
+    "date": "2022-08-01T17:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:8544",
+    "homeName": "IFK Göteborg",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628459",
+    "date": "2022-08-06T13:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:20856",
+    "homeName": "IFK Norrköping",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628461",
+    "date": "2022-08-07T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:3010",
+    "homeName": "Hammarby IF",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628465",
+    "date": "2022-08-07T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2720",
+    "homeName": "IK Sirius",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628458",
+    "date": "2022-08-07T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:994",
+    "homeName": "Kalmar FF",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628460",
+    "date": "2022-08-07T15:30Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2339",
+    "homeName": "IFK Värnamo",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628463",
+    "date": "2022-08-07T15:30Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:529",
+    "homeName": "Mjällby AIF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628462",
+    "date": "2022-08-08T17:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:535",
+    "homeName": "BK Häcken",
+    "awayName": "Helsingborg",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "628464",
+    "date": "2022-08-08T17:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:2556",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "628454",
+    "date": "2022-08-13T15:30Z",
+    "homeId": "espn:535",
+    "awayId": "espn:8547",
+    "homeName": "Helsingborg",
+    "awayName": "IK Sirius",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628453",
+    "date": "2022-08-14T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:21382",
+    "homeName": "AIK",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628455",
+    "date": "2022-08-14T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:3052",
+    "homeName": "Djurgården",
+    "awayName": "Kalmar FF",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628450",
+    "date": "2022-08-14T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:3010",
+    "homeName": "Malmö FF",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628457",
+    "date": "2022-08-14T15:30Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:6545",
+    "homeName": "Degerfors IF",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628452",
+    "date": "2022-08-14T15:30Z",
+    "homeId": "espn:529",
+    "awayId": "espn:8544",
+    "homeName": "IF Elfsborg",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628456",
+    "date": "2022-08-15T17:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:20301",
+    "homeName": "BK Häcken",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628451",
+    "date": "2022-08-15T17:10Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:2495",
+    "homeName": "IFK Göteborg",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628445",
+    "date": "2022-08-20T13:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:2339",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Djurgården",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628447",
+    "date": "2022-08-21T13:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:529",
+    "homeName": "IFK Värnamo",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628449",
+    "date": "2022-08-21T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2720",
+    "homeName": "Mjällby AIF",
+    "awayName": "Malmö FF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628446",
+    "date": "2022-08-21T15:30Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:535",
+    "homeName": "GIF Sundsvall",
+    "awayName": "Helsingborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628442",
+    "date": "2022-08-21T15:30Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:994",
+    "homeName": "IFK Norrköping",
+    "awayName": "AIK",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": "628443",
+    "date": "2022-08-22T17:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:7834",
+    "homeName": "IK Sirius",
+    "awayName": "BK Häcken",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628448",
+    "date": "2022-08-22T17:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2556",
+    "homeName": "Kalmar FF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628444",
+    "date": "2022-08-22T17:10Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:20856",
+    "homeName": "Hammarby IF",
+    "awayName": "Degerfors IF",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "628438",
+    "date": "2022-08-27T13:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:21382",
+    "homeName": "BK Häcken",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "628434",
+    "date": "2022-08-27T15:30Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:3010",
+    "homeName": "Degerfors IF",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628435",
+    "date": "2022-08-28T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2495",
+    "homeName": "AIK",
+    "awayName": "Hammarby IF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628439",
+    "date": "2022-08-28T13:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:8547",
+    "homeName": "IFK Göteborg",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628437",
+    "date": "2022-08-28T13:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:8544",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628441",
+    "date": "2022-08-28T15:30Z",
+    "homeId": "espn:535",
+    "awayId": "espn:20301",
+    "homeName": "Helsingborg",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628440",
+    "date": "2022-08-28T15:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:3052",
+    "homeName": "Malmö FF",
+    "awayName": "Kalmar FF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628436",
+    "date": "2022-08-29T17:10Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:529",
+    "homeName": "Djurgården",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628426",
+    "date": "2022-09-04T13:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:20856",
+    "homeName": "BK Häcken",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628427",
+    "date": "2022-09-04T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2339",
+    "homeName": "IK Sirius",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628428",
+    "date": "2022-09-04T15:30Z",
+    "homeId": "espn:994",
+    "awayId": "espn:3010",
+    "homeName": "AIK",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628432",
+    "date": "2022-09-04T15:30Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2720",
+    "homeName": "IF Elfsborg",
+    "awayName": "Malmö FF",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628430",
+    "date": "2022-09-05T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:535",
+    "homeName": "IFK Värnamo",
+    "awayName": "Helsingborg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628433",
+    "date": "2022-09-05T17:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:6545",
+    "homeName": "Kalmar FF",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628431",
+    "date": "2022-09-05T17:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2556",
+    "homeName": "Mjällby AIF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "628429",
+    "date": "2022-09-05T17:10Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2495",
+    "homeName": "IFK Norrköping",
+    "awayName": "Hammarby IF",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "628424",
+    "date": "2022-09-10T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:21382",
+    "homeName": "IK Sirius",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "628425",
+    "date": "2022-09-10T15:30Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:20301",
+    "homeName": "Degerfors IF",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628422",
+    "date": "2022-09-11T13:00Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:529",
+    "homeName": "GIF Sundsvall",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628420",
+    "date": "2022-09-11T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:2339",
+    "homeName": "Hammarby IF",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628423",
+    "date": "2022-09-11T15:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:8544",
+    "homeName": "Malmö FF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628418",
+    "date": "2022-09-11T15:30Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:994",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "AIK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628419",
+    "date": "2022-09-12T17:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:7834",
+    "homeName": "Kalmar FF",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628421",
+    "date": "2022-09-12T17:10Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:535",
+    "homeName": "IFK Göteborg",
+    "awayName": "Helsingborg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628412",
+    "date": "2022-09-17T13:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2495",
+    "homeName": "BK Häcken",
+    "awayName": "Hammarby IF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628415",
+    "date": "2022-09-17T13:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:3052",
+    "homeName": "IFK Norrköping",
+    "awayName": "Kalmar FF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628417",
+    "date": "2022-09-17T15:30Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:6545",
+    "homeName": "IFK Värnamo",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628416",
+    "date": "2022-09-18T13:00Z",
+    "homeId": "espn:535",
+    "awayId": "espn:2720",
+    "homeName": "Helsingborg",
+    "awayName": "Malmö FF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628414",
+    "date": "2022-09-18T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:8547",
+    "homeName": "IF Elfsborg",
+    "awayName": "IK Sirius",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628411",
+    "date": "2022-09-18T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:3010",
+    "homeName": "Mjällby AIF",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628410",
+    "date": "2022-09-18T15:30Z",
+    "homeId": "espn:994",
+    "awayId": "espn:20856",
+    "homeName": "AIK",
+    "awayName": "Degerfors IF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628413",
+    "date": "2022-09-18T15:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:2556",
+    "homeName": "Djurgården",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628405",
+    "date": "2022-10-01T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:2495",
+    "homeName": "Malmö FF",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628404",
+    "date": "2022-10-01T15:30Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:2339",
+    "homeName": "Degerfors IF",
+    "awayName": "Djurgården",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628408",
+    "date": "2022-10-02T13:00Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:8544",
+    "homeName": "GIF Sundsvall",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628403",
+    "date": "2022-10-02T13:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:7834",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628402",
+    "date": "2022-10-02T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:994",
+    "homeName": "IK Sirius",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628406",
+    "date": "2022-10-02T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:535",
+    "homeName": "Kalmar FF",
+    "awayName": "Helsingborg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628409",
+    "date": "2022-10-03T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:20301",
+    "homeName": "IFK Värnamo",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628407",
+    "date": "2022-10-03T17:10Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:529",
+    "homeName": "IFK Göteborg",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628398",
+    "date": "2022-10-08T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:8547",
+    "homeName": "Degerfors IF",
+    "awayName": "IK Sirius",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628396",
+    "date": "2022-10-09T13:00Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:2556",
+    "homeName": "GIF Sundsvall",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628399",
+    "date": "2022-10-09T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:3052",
+    "homeName": "IF Elfsborg",
+    "awayName": "Kalmar FF",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628397",
+    "date": "2022-10-09T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:21382",
+    "homeName": "Malmö FF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628395",
+    "date": "2022-10-09T15:30Z",
+    "homeId": "espn:994",
+    "awayId": "espn:535",
+    "homeName": "AIK",
+    "awayName": "Helsingborg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628394",
+    "date": "2022-10-09T15:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:7834",
+    "homeName": "Djurgården",
+    "awayName": "BK Häcken",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628400",
+    "date": "2022-10-10T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:20301",
+    "homeName": "IFK Norrköping",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628401",
+    "date": "2022-10-10T17:10Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:6545",
+    "homeName": "Hammarby IF",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "628387",
+    "date": "2022-10-14T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:20856",
+    "homeName": "IF Elfsborg",
+    "awayName": "Degerfors IF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628388",
+    "date": "2022-10-15T13:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:3010",
+    "homeName": "BK Häcken",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "628393",
+    "date": "2022-10-15T13:00Z",
+    "homeId": "espn:535",
+    "awayId": "espn:6545",
+    "homeName": "Helsingborg",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628391",
+    "date": "2022-10-15T15:30Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:3052",
+    "homeName": "IFK Värnamo",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628390",
+    "date": "2022-10-15T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:8544",
+    "homeName": "IK Sirius",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628386",
+    "date": "2022-10-16T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:994",
+    "homeName": "Djurgården",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628389",
+    "date": "2022-10-16T15:30Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2495",
+    "homeName": "Mjällby AIF",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "628392",
+    "date": "2022-10-17T17:10Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:2720",
+    "homeName": "IFK Göteborg",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628378",
+    "date": "2022-10-19T17:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:7834",
+    "homeName": "AIK",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628383",
+    "date": "2022-10-19T17:00Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:21382",
+    "homeName": "GIF Sundsvall",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628380",
+    "date": "2022-10-19T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:535",
+    "homeName": "IFK Norrköping",
+    "awayName": "Helsingborg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628381",
+    "date": "2022-10-19T17:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:529",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "628382",
+    "date": "2022-10-20T17:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:2556",
+    "homeName": "Degerfors IF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628384",
+    "date": "2022-10-20T17:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:8547",
+    "homeName": "Hammarby IF",
+    "awayName": "IK Sirius",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628385",
+    "date": "2022-10-20T17:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:20301",
+    "homeName": "Kalmar FF",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628379",
+    "date": "2022-10-20T17:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:2339",
+    "homeName": "Malmö FF",
+    "awayName": "Djurgården",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "628371",
+    "date": "2022-10-23T13:00Z",
+    "homeId": "espn:535",
+    "awayId": "espn:20856",
+    "homeName": "Helsingborg",
+    "awayName": "Degerfors IF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628373",
+    "date": "2022-10-23T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2495",
+    "homeName": "IF Elfsborg",
+    "awayName": "Hammarby IF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628376",
+    "date": "2022-10-23T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2720",
+    "homeName": "BK Häcken",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628372",
+    "date": "2022-10-24T17:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:3010",
+    "homeName": "Djurgården",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628374",
+    "date": "2022-10-24T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:8544",
+    "homeName": "IFK Värnamo",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628375",
+    "date": "2022-10-24T17:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:3052",
+    "homeName": "IK Sirius",
+    "awayName": "Kalmar FF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628377",
+    "date": "2022-10-24T17:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:6545",
+    "homeName": "Mjällby AIF",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "628370",
+    "date": "2022-10-24T17:10Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:994",
+    "homeName": "IFK Göteborg",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628366",
+    "date": "2022-10-29T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:21382",
+    "homeName": "Degerfors IF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628367",
+    "date": "2022-10-30T14:00Z",
+    "homeId": "espn:3010",
+    "awayId": "espn:8547",
+    "homeName": "GIF Sundsvall",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "628363",
+    "date": "2022-10-30T14:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:7834",
+    "homeName": "IFK Göteborg",
+    "awayName": "BK Häcken",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "628362",
+    "date": "2022-10-30T14:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:994",
+    "homeName": "Mjällby AIF",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628368",
+    "date": "2022-10-30T16:30Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:3052",
+    "homeName": "Hammarby IF",
+    "awayName": "Kalmar FF",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "628369",
+    "date": "2022-10-30T16:30Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:2720",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "id": "628365",
+    "date": "2022-10-31T18:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:535",
+    "homeName": "IF Elfsborg",
+    "awayName": "Helsingborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628364",
+    "date": "2022-10-31T18:10Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2339",
+    "homeName": "IFK Norrköping",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628357",
+    "date": "2022-11-06T14:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:529",
+    "homeName": "AIK",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628359",
+    "date": "2022-11-06T14:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:8544",
+    "homeName": "BK Häcken",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "628360",
+    "date": "2022-11-06T14:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:20301",
+    "homeName": "Djurgården",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628356",
+    "date": "2022-11-06T14:00Z",
+    "homeId": "espn:535",
+    "awayId": "espn:2495",
+    "homeName": "Helsingborg",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628358",
+    "date": "2022-11-06T14:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2556",
+    "homeName": "IFK Värnamo",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "628361",
+    "date": "2022-11-06T14:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:6545",
+    "homeName": "IK Sirius",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "628355",
+    "date": "2022-11-06T14:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:3010",
+    "homeName": "Kalmar FF",
+    "awayName": "GIF Sundsvall",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628354",
+    "date": "2022-11-06T14:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:20856",
+    "homeName": "Malmö FF",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658389",
+    "date": "2023-04-01T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:3052",
+    "homeName": "Malmö FF",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658393",
+    "date": "2023-04-01T15:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:8221",
+    "homeName": "Djurgården",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658394",
+    "date": "2023-04-02T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:20856",
+    "homeName": "Hammarby IF",
+    "awayName": "Degerfors IF",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658390",
+    "date": "2023-04-02T13:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:8547",
+    "homeName": "IFK Norrköping",
+    "awayName": "IK Sirius",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658395",
+    "date": "2023-04-02T15:30Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:994",
+    "homeName": "Halmstads BK",
+    "awayName": "AIK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658391",
+    "date": "2023-04-02T15:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:21382",
+    "homeName": "IFK Göteborg",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658388",
+    "date": "2023-04-03T17:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:6545",
+    "homeName": "Mjällby AIF",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658392",
+    "date": "2023-04-03T17:10Z",
+    "homeId": "espn:529",
+    "awayId": "espn:7834",
+    "homeName": "IF Elfsborg",
+    "awayName": "BK Häcken",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658401",
+    "date": "2023-04-08T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:3017",
+    "homeName": "Degerfors IF",
+    "awayName": "Halmstads BK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658400",
+    "date": "2023-04-08T13:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:2720",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Malmö FF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658402",
+    "date": "2023-04-09T13:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2495",
+    "homeName": "BK Häcken",
+    "awayName": "Hammarby IF",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658398",
+    "date": "2023-04-09T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2339",
+    "homeName": "IK Sirius",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658397",
+    "date": "2023-04-09T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2556",
+    "homeName": "Kalmar FF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658399",
+    "date": "2023-04-10T11:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:20301",
+    "homeName": "IFK Värnamo",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658396",
+    "date": "2023-04-10T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:8544",
+    "homeName": "AIK",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "658403",
+    "date": "2023-04-10T13:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:529",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658408",
+    "date": "2023-04-15T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:8221",
+    "homeName": "IF Elfsborg",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "658410",
+    "date": "2023-04-15T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:3052",
+    "homeName": "BK Häcken",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658409",
+    "date": "2023-04-16T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2495",
+    "homeName": "AIK",
+    "awayName": "Hammarby IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658406",
+    "date": "2023-04-16T13:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:21382",
+    "homeName": "IFK Norrköping",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658411",
+    "date": "2023-04-16T15:30Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:2339",
+    "homeName": "Halmstads BK",
+    "awayName": "Djurgården",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658405",
+    "date": "2023-04-16T15:30Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:20856",
+    "homeName": "Mjällby AIF",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658407",
+    "date": "2023-04-17T17:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:8547",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "IK Sirius",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658404",
+    "date": "2023-04-17T17:10Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:2720",
+    "homeName": "IFK Göteborg",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658412",
+    "date": "2023-04-22T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:6545",
+    "homeName": "Hammarby IF",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658413",
+    "date": "2023-04-22T15:30Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:529",
+    "homeName": "Degerfors IF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658414",
+    "date": "2023-04-23T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:2556",
+    "homeName": "Djurgården",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658416",
+    "date": "2023-04-23T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:3017",
+    "homeName": "Kalmar FF",
+    "awayName": "Halmstads BK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658417",
+    "date": "2023-04-23T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:7834",
+    "homeName": "IK Sirius",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "658419",
+    "date": "2023-04-24T17:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:20301",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658418",
+    "date": "2023-04-24T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:994",
+    "homeName": "IFK Värnamo",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658415",
+    "date": "2023-04-24T17:10Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:8544",
+    "homeName": "Malmö FF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658427",
+    "date": "2023-04-29T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:8547",
+    "homeName": "AIK",
+    "awayName": "IK Sirius",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658421",
+    "date": "2023-04-29T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:529",
+    "homeName": "Mjällby AIF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658425",
+    "date": "2023-04-29T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:21382",
+    "homeName": "BK Häcken",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658424",
+    "date": "2023-04-29T15:30Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:8221",
+    "homeName": "Halmstads BK",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658422",
+    "date": "2023-04-30T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:2495",
+    "homeName": "Malmö FF",
+    "awayName": "Hammarby IF",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "658426",
+    "date": "2023-04-30T13:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:3052",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Kalmar FF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658420",
+    "date": "2023-04-30T15:30Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:2339",
+    "homeName": "Degerfors IF",
+    "awayName": "Djurgården",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658423",
+    "date": "2023-05-01T13:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:8544",
+    "homeName": "IFK Göteborg",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658430",
+    "date": "2023-05-03T17:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2339",
+    "homeName": "BK Häcken",
+    "awayName": "Djurgården",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "658429",
+    "date": "2023-05-03T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:3017",
+    "homeName": "IF Elfsborg",
+    "awayName": "Halmstads BK",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "id": "658433",
+    "date": "2023-05-03T17:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:8547",
+    "homeName": "Kalmar FF",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658434",
+    "date": "2023-05-03T17:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:994",
+    "homeName": "Mjällby AIF",
+    "awayName": "AIK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658435",
+    "date": "2023-05-04T17:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:20856",
+    "homeName": "IFK Göteborg",
+    "awayName": "Degerfors IF",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "id": "658431",
+    "date": "2023-05-04T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2495",
+    "homeName": "IFK Norrköping",
+    "awayName": "Hammarby IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658432",
+    "date": "2023-05-04T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:8221",
+    "homeName": "IFK Värnamo",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658428",
+    "date": "2023-05-04T17:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:2720",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "id": "658443",
+    "date": "2023-05-07T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:994",
+    "homeName": "Malmö FF",
+    "awayName": "AIK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658438",
+    "date": "2023-05-07T15:30Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:7834",
+    "homeName": "Halmstads BK",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658436",
+    "date": "2023-05-08T17:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:8544",
+    "homeName": "Degerfors IF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658440",
+    "date": "2023-05-08T17:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:2556",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658442",
+    "date": "2023-05-08T17:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:529",
+    "homeName": "IK Sirius",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": "658437",
+    "date": "2023-05-08T17:10Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:3052",
+    "homeName": "Djurgården",
+    "awayName": "Kalmar FF",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658439",
+    "date": "2023-05-09T17:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:20301",
+    "homeName": "Hammarby IF",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658441",
+    "date": "2023-05-09T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:6545",
+    "homeName": "IFK Värnamo",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658445",
+    "date": "2023-05-13T13:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:20856",
+    "homeName": "BK Häcken",
+    "awayName": "Degerfors IF",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "id": "658451",
+    "date": "2023-05-13T15:30Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:8544",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658447",
+    "date": "2023-05-14T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:2339",
+    "homeName": "Hammarby IF",
+    "awayName": "Djurgården",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "658448",
+    "date": "2023-05-14T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:21382",
+    "homeName": "IF Elfsborg",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658450",
+    "date": "2023-05-14T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:8547",
+    "homeName": "Mjällby AIF",
+    "awayName": "IK Sirius",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658446",
+    "date": "2023-05-14T15:30Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:2720",
+    "homeName": "Halmstads BK",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658449",
+    "date": "2023-05-14T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:8221",
+    "homeName": "Kalmar FF",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658444",
+    "date": "2023-05-15T17:10Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2556",
+    "homeName": "AIK",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658452",
+    "date": "2023-05-20T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:994",
+    "homeName": "Degerfors IF",
+    "awayName": "AIK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658453",
+    "date": "2023-05-21T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:20301",
+    "homeName": "Djurgården",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658454",
+    "date": "2023-05-21T13:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:6545",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658459",
+    "date": "2023-05-21T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:7834",
+    "homeName": "Malmö FF",
+    "awayName": "BK Häcken",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658455",
+    "date": "2023-05-21T15:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:2495",
+    "homeName": "IFK Göteborg",
+    "awayName": "Hammarby IF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658458",
+    "date": "2023-05-21T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:3017",
+    "homeName": "IK Sirius",
+    "awayName": "Halmstads BK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658457",
+    "date": "2023-05-22T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:3052",
+    "homeName": "IFK Värnamo",
+    "awayName": "Kalmar FF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658456",
+    "date": "2023-05-22T17:10Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:529",
+    "homeName": "IFK Norrköping",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658525",
+    "date": "2023-05-24T17:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:7834",
+    "homeName": "Djurgården",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658524",
+    "date": "2023-05-25T17:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:2495",
+    "homeName": "Degerfors IF",
+    "awayName": "Hammarby IF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658467",
+    "date": "2023-05-27T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:3017",
+    "homeName": "Mjällby AIF",
+    "awayName": "Halmstads BK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658465",
+    "date": "2023-05-27T15:30Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:8547",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "IK Sirius",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658463",
+    "date": "2023-05-28T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:994",
+    "homeName": "Djurgården",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658462",
+    "date": "2023-05-28T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:8544",
+    "homeName": "Kalmar FF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658461",
+    "date": "2023-05-28T15:30Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2720",
+    "homeName": "IF Elfsborg",
+    "awayName": "Malmö FF",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658464",
+    "date": "2023-05-29T17:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:6545",
+    "homeName": "Degerfors IF",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658466",
+    "date": "2023-05-29T17:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:21382",
+    "homeName": "Hammarby IF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658460",
+    "date": "2023-05-29T17:10Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2556",
+    "homeName": "BK Häcken",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "658474",
+    "date": "2023-06-03T13:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:20301",
+    "homeName": "IFK Göteborg",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658473",
+    "date": "2023-06-03T15:30Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:8221",
+    "homeName": "IFK Norrköping",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658468",
+    "date": "2023-06-04T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:3052",
+    "homeName": "AIK",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658469",
+    "date": "2023-06-04T13:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:2495",
+    "homeName": "Halmstads BK",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658475",
+    "date": "2023-06-04T15:30Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2339",
+    "homeName": "IF Elfsborg",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658472",
+    "date": "2023-06-04T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:21382",
+    "homeName": "IK Sirius",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658470",
+    "date": "2023-06-05T17:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:7834",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "BK Häcken",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658471",
+    "date": "2023-06-05T17:10Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:20856",
+    "homeName": "Malmö FF",
+    "awayName": "Degerfors IF",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "658480",
+    "date": "2023-06-09T17:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:8221",
+    "homeName": "Hammarby IF",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658483",
+    "date": "2023-06-10T13:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2720",
+    "homeName": "IFK Värnamo",
+    "awayName": "Malmö FF",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658477",
+    "date": "2023-06-10T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:20856",
+    "homeName": "Kalmar FF",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658479",
+    "date": "2023-06-10T15:30Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:3017",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Halmstads BK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658476",
+    "date": "2023-06-11T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:529",
+    "homeName": "AIK",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658478",
+    "date": "2023-06-11T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2556",
+    "homeName": "IK Sirius",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658482",
+    "date": "2023-06-11T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:20301",
+    "homeName": "BK Häcken",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658481",
+    "date": "2023-06-11T15:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:8544",
+    "homeName": "Djurgården",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658484",
+    "date": "2023-07-01T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:21382",
+    "homeName": "Degerfors IF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658490",
+    "date": "2023-07-01T13:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:994",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "AIK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658487",
+    "date": "2023-07-01T15:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:8547",
+    "homeName": "Malmö FF",
+    "awayName": "IK Sirius",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658491",
+    "date": "2023-07-02T13:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:2556",
+    "homeName": "Halmstads BK",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658488",
+    "date": "2023-07-02T13:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:7834",
+    "homeName": "IFK Norrköping",
+    "awayName": "BK Häcken",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658485",
+    "date": "2023-07-02T15:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:6545",
+    "homeName": "Djurgården",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658489",
+    "date": "2023-07-03T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2495",
+    "homeName": "IF Elfsborg",
+    "awayName": "Hammarby IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658486",
+    "date": "2023-07-03T17:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:3052",
+    "homeName": "Mjällby AIF",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658497",
+    "date": "2023-07-08T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:7834",
+    "homeName": "AIK",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658499",
+    "date": "2023-07-08T13:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2339",
+    "homeName": "IFK Värnamo",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658498",
+    "date": "2023-07-08T15:30Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:20856",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Degerfors IF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658493",
+    "date": "2023-07-09T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2495",
+    "homeName": "IK Sirius",
+    "awayName": "Hammarby IF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658495",
+    "date": "2023-07-09T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:20301",
+    "homeName": "Malmö FF",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658494",
+    "date": "2023-07-09T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:529",
+    "homeName": "Kalmar FF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "658492",
+    "date": "2023-07-10T17:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:6545",
+    "homeName": "IFK Göteborg",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658496",
+    "date": "2023-07-10T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:3017",
+    "homeName": "IFK Norrköping",
+    "awayName": "Halmstads BK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658505",
+    "date": "2023-07-15T13:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:21382",
+    "homeName": "Halmstads BK",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658502",
+    "date": "2023-07-15T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:8221",
+    "homeName": "BK Häcken",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "658501",
+    "date": "2023-07-15T15:30Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:8547",
+    "homeName": "Degerfors IF",
+    "awayName": "IK Sirius",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "658506",
+    "date": "2023-07-16T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:3052",
+    "homeName": "Hammarby IF",
+    "awayName": "Kalmar FF",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658507",
+    "date": "2023-07-16T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2556",
+    "homeName": "IF Elfsborg",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658503",
+    "date": "2023-07-16T15:30Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:8544",
+    "homeName": "Mjällby AIF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658500",
+    "date": "2023-07-17T17:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:2720",
+    "homeName": "Djurgården",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658504",
+    "date": "2023-07-17T17:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:994",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658515",
+    "date": "2023-07-21T17:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:2495",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Hammarby IF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658509",
+    "date": "2023-07-22T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:529",
+    "homeName": "Djurgården",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "658512",
+    "date": "2023-07-22T15:30Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:7834",
+    "homeName": "IFK Värnamo",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658508",
+    "date": "2023-07-23T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2720",
+    "homeName": "AIK",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658513",
+    "date": "2023-07-23T13:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:20856",
+    "homeName": "IFK Norrköping",
+    "awayName": "Degerfors IF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658514",
+    "date": "2023-07-23T15:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:3017",
+    "homeName": "IFK Göteborg",
+    "awayName": "Halmstads BK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658510",
+    "date": "2023-07-23T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:6545",
+    "homeName": "Kalmar FF",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658511",
+    "date": "2023-07-24T17:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:20301",
+    "homeName": "IK Sirius",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "658516",
+    "date": "2023-07-29T13:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:529",
+    "homeName": "BK Häcken",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658522",
+    "date": "2023-07-29T15:30Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:8221",
+    "homeName": "Degerfors IF",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658521",
+    "date": "2023-07-29T18:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:6545",
+    "homeName": "Halmstads BK",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": "658523",
+    "date": "2023-07-30T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:8544",
+    "homeName": "Hammarby IF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658517",
+    "date": "2023-07-30T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2339",
+    "homeName": "Mjällby AIF",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658518",
+    "date": "2023-07-30T15:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:3052",
+    "homeName": "IFK Göteborg",
+    "awayName": "Kalmar FF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658519",
+    "date": "2023-07-31T17:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:994",
+    "homeName": "IK Sirius",
+    "awayName": "AIK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658520",
+    "date": "2023-07-31T17:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:21382",
+    "homeName": "Malmö FF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658526",
+    "date": "2023-08-05T13:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:21382",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658527",
+    "date": "2023-08-06T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:8547",
+    "homeName": "IF Elfsborg",
+    "awayName": "IK Sirius",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658529",
+    "date": "2023-08-06T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:994",
+    "homeName": "Kalmar FF",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658528",
+    "date": "2023-08-07T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2556",
+    "homeName": "IFK Norrköping",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658530",
+    "date": "2023-08-07T17:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:3017",
+    "homeName": "Malmö FF",
+    "awayName": "Halmstads BK",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658531",
+    "date": "2023-08-07T17:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:20301",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "658532",
+    "date": "2023-08-12T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:8221",
+    "homeName": "AIK",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658536",
+    "date": "2023-08-13T13:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:2339",
+    "homeName": "IFK Göteborg",
+    "awayName": "Djurgården",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658538",
+    "date": "2023-08-13T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:3052",
+    "homeName": "IK Sirius",
+    "awayName": "Kalmar FF",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658533",
+    "date": "2023-08-13T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:6545",
+    "homeName": "BK Häcken",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658534",
+    "date": "2023-08-13T15:30Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:8544",
+    "homeName": "Halmstads BK",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658535",
+    "date": "2023-08-13T15:30Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:529",
+    "homeName": "Hammarby IF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658537",
+    "date": "2023-08-14T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:20856",
+    "homeName": "IFK Värnamo",
+    "awayName": "Degerfors IF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658539",
+    "date": "2023-08-14T17:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2720",
+    "homeName": "Mjällby AIF",
+    "awayName": "Malmö FF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658541",
+    "date": "2023-08-19T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:2556",
+    "homeName": "Degerfors IF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658542",
+    "date": "2023-08-19T13:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:3017",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Halmstads BK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658547",
+    "date": "2023-08-19T15:30Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:21382",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "658540",
+    "date": "2023-08-20T13:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:8547",
+    "homeName": "BK Häcken",
+    "awayName": "IK Sirius",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658546",
+    "date": "2023-08-20T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:2339",
+    "homeName": "Malmö FF",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658543",
+    "date": "2023-08-20T15:30Z",
+    "homeId": "espn:529",
+    "awayId": "espn:20301",
+    "homeName": "IF Elfsborg",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658545",
+    "date": "2023-08-20T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2495",
+    "homeName": "Kalmar FF",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658544",
+    "date": "2023-08-21T17:10Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:994",
+    "homeName": "IFK Norrköping",
+    "awayName": "AIK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658550",
+    "date": "2023-08-27T13:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:3052",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Kalmar FF",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "658553",
+    "date": "2023-08-27T13:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:3017",
+    "homeName": "IFK Värnamo",
+    "awayName": "Halmstads BK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658555",
+    "date": "2023-08-27T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2495",
+    "homeName": "Mjällby AIF",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "658549",
+    "date": "2023-08-27T15:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:20856",
+    "homeName": "Djurgården",
+    "awayName": "Degerfors IF",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "658552",
+    "date": "2023-08-27T15:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:7834",
+    "homeName": "IFK Göteborg",
+    "awayName": "BK Häcken",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "658548",
+    "date": "2023-08-28T17:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:6545",
+    "homeName": "AIK",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658551",
+    "date": "2023-08-28T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:8544",
+    "homeName": "IF Elfsborg",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658554",
+    "date": "2023-08-28T17:10Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2720",
+    "homeName": "IK Sirius",
+    "awayName": "Malmö FF",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658557",
+    "date": "2023-09-02T13:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:8547",
+    "homeName": "Halmstads BK",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658560",
+    "date": "2023-09-02T15:30Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:529",
+    "homeName": "IFK Värnamo",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658556",
+    "date": "2023-09-03T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:7834",
+    "homeName": "Degerfors IF",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658558",
+    "date": "2023-09-03T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:994",
+    "homeName": "Hammarby IF",
+    "awayName": "AIK",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "658561",
+    "date": "2023-09-03T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:20301",
+    "homeName": "Kalmar FF",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658559",
+    "date": "2023-09-03T15:30Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2339",
+    "homeName": "IFK Norrköping",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658562",
+    "date": "2023-09-03T15:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:2556",
+    "homeName": "Malmö FF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658563",
+    "date": "2023-09-03T15:30Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:8221",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "658569",
+    "date": "2023-09-16T13:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:8221",
+    "homeName": "IFK Göteborg",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658571",
+    "date": "2023-09-16T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:6545",
+    "homeName": "IK Sirius",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "id": "658566",
+    "date": "2023-09-16T15:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:21382",
+    "homeName": "Djurgården",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658567",
+    "date": "2023-09-17T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:2720",
+    "homeName": "Hammarby IF",
+    "awayName": "Malmö FF",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658565",
+    "date": "2023-09-17T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:3017",
+    "homeName": "BK Häcken",
+    "awayName": "Halmstads BK",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658568",
+    "date": "2023-09-17T15:30Z",
+    "homeId": "espn:529",
+    "awayId": "espn:3052",
+    "homeName": "IF Elfsborg",
+    "awayName": "Kalmar FF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "658570",
+    "date": "2023-09-18T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:20301",
+    "homeName": "IFK Norrköping",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658564",
+    "date": "2023-09-18T17:10Z",
+    "homeId": "espn:994",
+    "awayId": "espn:20856",
+    "homeName": "AIK",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658573",
+    "date": "2023-09-23T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:2720",
+    "homeName": "Degerfors IF",
+    "awayName": "Malmö FF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658575",
+    "date": "2023-09-23T15:30Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:8544",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658572",
+    "date": "2023-09-24T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2339",
+    "homeName": "AIK",
+    "awayName": "Djurgården",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658578",
+    "date": "2023-09-24T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2556",
+    "homeName": "Mjällby AIF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658577",
+    "date": "2023-09-24T15:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:7834",
+    "homeName": "Kalmar FF",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658579",
+    "date": "2023-09-24T15:30Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:2495",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658574",
+    "date": "2023-09-25T17:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:529",
+    "homeName": "Halmstads BK",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658576",
+    "date": "2023-09-25T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:8547",
+    "homeName": "IFK Värnamo",
+    "awayName": "IK Sirius",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658581",
+    "date": "2023-09-30T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:3017",
+    "homeName": "Djurgården",
+    "awayName": "Halmstads BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658584",
+    "date": "2023-09-30T15:30Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:3052",
+    "homeName": "IFK Norrköping",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658580",
+    "date": "2023-10-01T13:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:994",
+    "homeName": "BK Häcken",
+    "awayName": "AIK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658585",
+    "date": "2023-10-01T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:20856",
+    "homeName": "IK Sirius",
+    "awayName": "Degerfors IF",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658582",
+    "date": "2023-10-01T15:30Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:2556",
+    "homeName": "Hammarby IF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658587",
+    "date": "2023-10-01T15:30Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:21382",
+    "homeName": "Mjällby AIF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "658583",
+    "date": "2023-10-02T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:6545",
+    "homeName": "IF Elfsborg",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658586",
+    "date": "2023-10-02T17:10Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:8221",
+    "homeName": "Malmö FF",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658588",
+    "date": "2023-10-07T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:20301",
+    "homeName": "AIK",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658589",
+    "date": "2023-10-07T13:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:20856",
+    "homeName": "Halmstads BK",
+    "awayName": "Degerfors IF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658592",
+    "date": "2023-10-07T15:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:8547",
+    "homeName": "IFK Göteborg",
+    "awayName": "IK Sirius",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658591",
+    "date": "2023-10-08T13:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:529",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "658593",
+    "date": "2023-10-08T13:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:8544",
+    "homeName": "IFK Värnamo",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658594",
+    "date": "2023-10-08T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2720",
+    "homeName": "Kalmar FF",
+    "awayName": "Malmö FF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658590",
+    "date": "2023-10-08T15:30Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:7834",
+    "homeName": "Hammarby IF",
+    "awayName": "BK Häcken",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658595",
+    "date": "2023-10-08T15:30Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:2339",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658597",
+    "date": "2023-10-21T13:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:3052",
+    "homeName": "Degerfors IF",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658602",
+    "date": "2023-10-21T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:8221",
+    "homeName": "IK Sirius",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658598",
+    "date": "2023-10-22T13:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:2495",
+    "homeName": "Djurgården",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658599",
+    "date": "2023-10-22T13:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:20301",
+    "homeName": "Halmstads BK",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658596",
+    "date": "2023-10-22T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:8544",
+    "homeName": "BK Häcken",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "658603",
+    "date": "2023-10-22T15:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:6545",
+    "homeName": "Malmö FF",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "658601",
+    "date": "2023-10-23T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2556",
+    "homeName": "IFK Värnamo",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658600",
+    "date": "2023-10-23T17:10Z",
+    "homeId": "espn:529",
+    "awayId": "espn:994",
+    "homeName": "IF Elfsborg",
+    "awayName": "AIK",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658606",
+    "date": "2023-10-28T13:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:2339",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658611",
+    "date": "2023-10-28T15:30Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:20856",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "Degerfors IF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658608",
+    "date": "2023-10-29T14:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2720",
+    "homeName": "IFK Norrköping",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658609",
+    "date": "2023-10-29T14:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:21382",
+    "homeName": "Kalmar FF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658610",
+    "date": "2023-10-29T14:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:7834",
+    "homeName": "Mjällby AIF",
+    "awayName": "BK Häcken",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658604",
+    "date": "2023-10-29T16:30Z",
+    "homeId": "espn:994",
+    "awayId": "espn:3017",
+    "homeName": "AIK",
+    "awayName": "Halmstads BK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658605",
+    "date": "2023-10-30T18:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:8547",
+    "homeName": "Hammarby IF",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658607",
+    "date": "2023-10-30T18:10Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:529",
+    "homeName": "IFK Göteborg",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658618",
+    "date": "2023-11-04T14:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2495",
+    "homeName": "IFK Värnamo",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658613",
+    "date": "2023-11-04T16:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:8547",
+    "homeName": "Djurgården",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": "658612",
+    "date": "2023-11-05T14:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2720",
+    "homeName": "BK Häcken",
+    "awayName": "Malmö FF",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "658614",
+    "date": "2023-11-05T14:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:3052",
+    "homeName": "Halmstads BK",
+    "awayName": "Kalmar FF",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658615",
+    "date": "2023-11-05T16:30Z",
+    "homeId": "espn:529",
+    "awayId": "espn:20856",
+    "homeName": "IF Elfsborg",
+    "awayName": "Degerfors IF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658619",
+    "date": "2023-11-05T16:30Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:8221",
+    "homeName": "Mjällby AIF",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658617",
+    "date": "2023-11-06T18:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:6545",
+    "homeName": "IFK Norrköping",
+    "awayName": "Varbergs BoIS FC",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "658616",
+    "date": "2023-11-06T18:10Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:994",
+    "homeName": "IFK Göteborg",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658620",
+    "date": "2023-11-12T14:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:21382",
+    "homeName": "AIK",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658621",
+    "date": "2023-11-12T14:00Z",
+    "homeId": "espn:20856",
+    "awayId": "espn:20301",
+    "homeName": "Degerfors IF",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658622",
+    "date": "2023-11-12T14:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:3017",
+    "homeName": "Hammarby IF",
+    "awayName": "Halmstads BK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658623",
+    "date": "2023-11-12T14:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:7834",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "BK Häcken",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658624",
+    "date": "2023-11-12T14:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:8544",
+    "homeName": "IK Sirius",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658625",
+    "date": "2023-11-12T14:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2339",
+    "homeName": "Kalmar FF",
+    "awayName": "Djurgården",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658626",
+    "date": "2023-11-12T14:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:529",
+    "homeName": "Malmö FF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658627",
+    "date": "2023-11-12T14:00Z",
+    "homeId": "espn:6545",
+    "awayId": "espn:2556",
+    "homeName": "Varbergs BoIS FC",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691547",
+    "date": "2024-03-30T14:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2720",
+    "homeName": "IFK Norrköping",
+    "awayName": "Malmö FF",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": "691546",
+    "date": "2024-03-31T12:00Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:8221",
+    "homeName": "GAIS",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "691548",
+    "date": "2024-03-31T12:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:3052",
+    "homeName": "Hammarby IF",
+    "awayName": "Kalmar FF",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691545",
+    "date": "2024-03-31T14:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:20301",
+    "homeName": "BK Häcken",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691550",
+    "date": "2024-04-01T12:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:2339",
+    "homeName": "IFK Göteborg",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "691544",
+    "date": "2024-04-01T12:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:3017",
+    "homeName": "IK Sirius",
+    "awayName": "Halmstads BK",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "691549",
+    "date": "2024-04-01T14:30Z",
+    "homeId": "espn:994",
+    "awayId": "espn:22163",
+    "homeName": "AIK",
+    "awayName": "Västerås SK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691543",
+    "date": "2024-04-01T14:30Z",
+    "homeId": "espn:529",
+    "awayId": "espn:21382",
+    "homeName": "IF Elfsborg",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "691558",
+    "date": "2024-04-06T13:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:994",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "AIK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "691555",
+    "date": "2024-04-06T15:30Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:8544",
+    "homeName": "Mjällby AIF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "691557",
+    "date": "2024-04-07T12:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:2556",
+    "homeName": "Halmstads BK",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691554",
+    "date": "2024-04-07T12:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:2495",
+    "homeName": "Malmö FF",
+    "awayName": "Hammarby IF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691551",
+    "date": "2024-04-07T14:30Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:529",
+    "homeName": "Västerås SK",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691553",
+    "date": "2024-04-08T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:8222",
+    "homeName": "IFK Värnamo",
+    "awayName": "GAIS",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691552",
+    "date": "2024-04-08T17:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:8547",
+    "homeName": "Kalmar FF",
+    "awayName": "IK Sirius",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691556",
+    "date": "2024-04-08T17:10Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:7834",
+    "homeName": "Djurgården",
+    "awayName": "BK Häcken",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "691559",
+    "date": "2024-04-13T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:994",
+    "homeName": "Mjällby AIF",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691564",
+    "date": "2024-04-13T15:30Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:3017",
+    "homeName": "Västerås SK",
+    "awayName": "Halmstads BK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691560",
+    "date": "2024-04-14T12:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:8222",
+    "homeName": "IFK Norrköping",
+    "awayName": "GAIS",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691563",
+    "date": "2024-04-14T12:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2556",
+    "homeName": "Kalmar FF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691565",
+    "date": "2024-04-14T14:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:8547",
+    "homeName": "Djurgården",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691561",
+    "date": "2024-04-15T17:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:8221",
+    "homeName": "BK Häcken",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "691566",
+    "date": "2024-04-15T17:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2720",
+    "homeName": "IFK Värnamo",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "691562",
+    "date": "2024-04-15T17:10Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:529",
+    "homeName": "Hammarby IF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "691567",
+    "date": "2024-04-20T13:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:8544",
+    "homeName": "IFK Göteborg",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691571",
+    "date": "2024-04-20T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:21382",
+    "homeName": "IK Sirius",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691569",
+    "date": "2024-04-20T15:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:22163",
+    "homeName": "Malmö FF",
+    "awayName": "Västerås SK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691573",
+    "date": "2024-04-21T12:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2339",
+    "homeName": "AIK",
+    "awayName": "Djurgården",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691570",
+    "date": "2024-04-21T12:00Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:20301",
+    "homeName": "GAIS",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691568",
+    "date": "2024-04-21T14:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2495",
+    "homeName": "BK Häcken",
+    "awayName": "Hammarby IF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691572",
+    "date": "2024-04-21T14:30Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:8221",
+    "homeName": "Halmstads BK",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "691574",
+    "date": "2024-04-22T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:3052",
+    "homeName": "IF Elfsborg",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691579",
+    "date": "2024-04-24T17:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:21382",
+    "homeName": "AIK",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691580",
+    "date": "2024-04-24T17:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:8547",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "IK Sirius",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691577",
+    "date": "2024-04-24T17:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:7834",
+    "homeName": "IFK Göteborg",
+    "awayName": "BK Häcken",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691575",
+    "date": "2024-04-25T17:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:2720",
+    "homeName": "Djurgården",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691576",
+    "date": "2024-04-25T17:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:2495",
+    "homeName": "Halmstads BK",
+    "awayName": "Hammarby IF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691578",
+    "date": "2024-04-25T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:529",
+    "homeName": "IFK Norrköping",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "691581",
+    "date": "2024-04-25T17:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:8222",
+    "homeName": "Kalmar FF",
+    "awayName": "GAIS",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "691582",
+    "date": "2024-04-25T17:00Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:20301",
+    "homeName": "Västerås SK",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691590",
+    "date": "2024-04-28T12:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:3017",
+    "homeName": "IFK Värnamo",
+    "awayName": "Halmstads BK",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "691583",
+    "date": "2024-04-28T12:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:994",
+    "homeName": "Malmö FF",
+    "awayName": "AIK",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "691584",
+    "date": "2024-04-28T14:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:8544",
+    "homeName": "BK Häcken",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691586",
+    "date": "2024-04-28T14:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:8222",
+    "homeName": "Djurgården",
+    "awayName": "GAIS",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691585",
+    "date": "2024-04-29T17:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:2556",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "691589",
+    "date": "2024-04-29T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:8547",
+    "homeName": "IF Elfsborg",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691588",
+    "date": "2024-04-29T17:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:3052",
+    "homeName": "Mjällby AIF",
+    "awayName": "Kalmar FF",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "691587",
+    "date": "2024-04-29T17:10Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:22163",
+    "homeName": "Hammarby IF",
+    "awayName": "Västerås SK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691592",
+    "date": "2024-05-04T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:3017",
+    "homeName": "Kalmar FF",
+    "awayName": "Halmstads BK",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "id": "691594",
+    "date": "2024-05-04T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:8221",
+    "homeName": "Mjällby AIF",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691595",
+    "date": "2024-05-04T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:7834",
+    "homeName": "IK Sirius",
+    "awayName": "BK Häcken",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "691596",
+    "date": "2024-05-05T12:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2720",
+    "homeName": "IF Elfsborg",
+    "awayName": "Malmö FF",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691593",
+    "date": "2024-05-05T12:00Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:2339",
+    "homeName": "Västerås SK",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "691597",
+    "date": "2024-05-05T14:30Z",
+    "homeId": "espn:994",
+    "awayId": "espn:8544",
+    "homeName": "AIK",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 6,
+    "awayGoals": 2
+  },
+  {
+    "id": "691598",
+    "date": "2024-05-05T14:30Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:21382",
+    "homeName": "Hammarby IF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691591",
+    "date": "2024-05-06T17:10Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:2556",
+    "homeName": "GAIS",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691602",
+    "date": "2024-05-11T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:8547",
+    "homeName": "AIK",
+    "awayName": "IK Sirius",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "691605",
+    "date": "2024-05-11T13:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:20301",
+    "homeName": "Halmstads BK",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "691606",
+    "date": "2024-05-11T15:30Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:22163",
+    "homeName": "GAIS",
+    "awayName": "Västerås SK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691599",
+    "date": "2024-05-12T12:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:3052",
+    "homeName": "BK Häcken",
+    "awayName": "Kalmar FF",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691603",
+    "date": "2024-05-12T12:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2495",
+    "homeName": "IFK Norrköping",
+    "awayName": "Hammarby IF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691604",
+    "date": "2024-05-12T14:30Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:529",
+    "homeName": "Djurgården",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691601",
+    "date": "2024-05-12T14:30Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:8221",
+    "homeName": "IFK Värnamo",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691600",
+    "date": "2024-05-13T17:10Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:2720",
+    "homeName": "IFK Göteborg",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "691613",
+    "date": "2024-05-15T17:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:7834",
+    "homeName": "Halmstads BK",
+    "awayName": "BK Häcken",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "691612",
+    "date": "2024-05-15T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:994",
+    "homeName": "IF Elfsborg",
+    "awayName": "AIK",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "id": "691608",
+    "date": "2024-05-15T17:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2495",
+    "homeName": "Mjällby AIF",
+    "awayName": "Hammarby IF",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "691607",
+    "date": "2024-05-15T17:00Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:21382",
+    "homeName": "Västerås SK",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "691614",
+    "date": "2024-05-16T17:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:2339",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": "691610",
+    "date": "2024-05-16T17:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2556",
+    "homeName": "IK Sirius",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "691611",
+    "date": "2024-05-16T17:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:8544",
+    "homeName": "Kalmar FF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691609",
+    "date": "2024-05-16T17:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:8222",
+    "homeName": "Malmö FF",
+    "awayName": "GAIS",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691615",
+    "date": "2024-05-19T12:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:994",
+    "homeName": "Hammarby IF",
+    "awayName": "AIK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691620",
+    "date": "2024-05-19T12:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:8544",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691621",
+    "date": "2024-05-19T14:30Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:529",
+    "homeName": "GAIS",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691618",
+    "date": "2024-05-19T14:30Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:3052",
+    "homeName": "IFK Värnamo",
+    "awayName": "Kalmar FF",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "691619",
+    "date": "2024-05-20T17:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:3017",
+    "homeName": "Djurgården",
+    "awayName": "Halmstads BK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691622",
+    "date": "2024-05-20T17:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:22163",
+    "homeName": "IK Sirius",
+    "awayName": "Västerås SK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "691616",
+    "date": "2024-05-20T17:10Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2720",
+    "homeName": "BK Häcken",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "691617",
+    "date": "2024-05-21T17:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:20301",
+    "homeName": "IFK Göteborg",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691629",
+    "date": "2024-05-24T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:3017",
+    "homeName": "IF Elfsborg",
+    "awayName": "Halmstads BK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691623",
+    "date": "2024-05-24T17:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:3052",
+    "homeName": "Malmö FF",
+    "awayName": "Kalmar FF",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "691627",
+    "date": "2024-05-25T14:00Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:7834",
+    "homeName": "GAIS",
+    "awayName": "BK Häcken",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "691628",
+    "date": "2024-05-25T15:30Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2339",
+    "homeName": "Mjällby AIF",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "691624",
+    "date": "2024-05-26T12:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:8547",
+    "homeName": "Hammarby IF",
+    "awayName": "IK Sirius",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "691626",
+    "date": "2024-05-26T14:30Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:8221",
+    "homeName": "Västerås SK",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691630",
+    "date": "2024-05-27T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:21382",
+    "homeName": "IFK Norrköping",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "691625",
+    "date": "2024-05-27T17:10Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2556",
+    "homeName": "AIK",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "id": "691674",
+    "date": "2024-05-28T17:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:529",
+    "homeName": "Malmö FF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691675",
+    "date": "2024-05-29T17:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:7834",
+    "homeName": "Mjällby AIF",
+    "awayName": "BK Häcken",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691631",
+    "date": "2024-06-01T13:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:2720",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "691638",
+    "date": "2024-06-01T13:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:529",
+    "homeName": "IFK Göteborg",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691637",
+    "date": "2024-06-01T15:30Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:8222",
+    "homeName": "Halmstads BK",
+    "awayName": "GAIS",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "691635",
+    "date": "2024-06-01T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:8544",
+    "homeName": "IK Sirius",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "691632",
+    "date": "2024-06-02T12:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:2495",
+    "homeName": "Djurgården",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "691634",
+    "date": "2024-06-02T12:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:22163",
+    "homeName": "Kalmar FF",
+    "awayName": "Västerås SK",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "691636",
+    "date": "2024-06-02T14:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:994",
+    "homeName": "BK Häcken",
+    "awayName": "AIK",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "691633",
+    "date": "2024-06-02T14:30Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:20301",
+    "homeName": "IFK Värnamo",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691643",
+    "date": "2024-07-06T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:8221",
+    "homeName": "IF Elfsborg",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "691645",
+    "date": "2024-07-06T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:8547",
+    "homeName": "Mjällby AIF",
+    "awayName": "IK Sirius",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "691642",
+    "date": "2024-07-07T12:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:3052",
+    "homeName": "AIK",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691644",
+    "date": "2024-07-07T12:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2556",
+    "homeName": "IFK Värnamo",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691639",
+    "date": "2024-07-07T14:30Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:2495",
+    "homeName": "GAIS",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "691641",
+    "date": "2024-07-07T14:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:3017",
+    "homeName": "Malmö FF",
+    "awayName": "Halmstads BK",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "691646",
+    "date": "2024-07-08T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2339",
+    "homeName": "IFK Norrköping",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "691640",
+    "date": "2024-07-08T17:00Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:7834",
+    "homeName": "Västerås SK",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691651",
+    "date": "2024-07-13T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2720",
+    "homeName": "Mjällby AIF",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691654",
+    "date": "2024-07-13T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:8222",
+    "homeName": "IK Sirius",
+    "awayName": "GAIS",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691647",
+    "date": "2024-07-14T12:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:21382",
+    "homeName": "Djurgården",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691652",
+    "date": "2024-07-14T14:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:529",
+    "homeName": "BK Häcken",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 3,
+    "awayGoals": 5
+  },
+  {
+    "id": "691650",
+    "date": "2024-07-14T14:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:8221",
+    "homeName": "Kalmar FF",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691653",
+    "date": "2024-07-14T14:30Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:8544",
+    "homeName": "Västerås SK",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691648",
+    "date": "2024-07-15T17:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:994",
+    "homeName": "Halmstads BK",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691649",
+    "date": "2024-07-15T17:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:2556",
+    "homeName": "Hammarby IF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691657",
+    "date": "2024-07-19T17:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2720",
+    "homeName": "IK Sirius",
+    "awayName": "Malmö FF",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": "691655",
+    "date": "2024-07-20T13:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:7834",
+    "homeName": "IFK Värnamo",
+    "awayName": "BK Häcken",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "691656",
+    "date": "2024-07-20T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2339",
+    "homeName": "Kalmar FF",
+    "awayName": "Djurgården",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691659",
+    "date": "2024-07-20T15:30Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:2495",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "691660",
+    "date": "2024-07-21T12:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:3017",
+    "homeName": "IFK Norrköping",
+    "awayName": "Halmstads BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691658",
+    "date": "2024-07-21T14:30Z",
+    "homeId": "espn:529",
+    "awayId": "espn:20301",
+    "homeName": "IF Elfsborg",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691661",
+    "date": "2024-07-21T14:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:22163",
+    "homeName": "IFK Göteborg",
+    "awayName": "Västerås SK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691662",
+    "date": "2024-07-22T17:00Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:994",
+    "homeName": "GAIS",
+    "awayName": "AIK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691668",
+    "date": "2024-07-27T13:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:3052",
+    "homeName": "IFK Norrköping",
+    "awayName": "Kalmar FF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691670",
+    "date": "2024-07-27T15:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:8221",
+    "homeName": "IFK Göteborg",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": "691669",
+    "date": "2024-07-27T15:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:8547",
+    "homeName": "Malmö FF",
+    "awayName": "IK Sirius",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691664",
+    "date": "2024-07-27T18:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:21382",
+    "homeName": "Halmstads BK",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691666",
+    "date": "2024-07-28T14:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:22163",
+    "homeName": "BK Häcken",
+    "awayName": "Västerås SK",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "691663",
+    "date": "2024-07-28T14:30Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:20301",
+    "homeName": "Hammarby IF",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "691665",
+    "date": "2024-07-28T14:30Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2339",
+    "homeName": "IF Elfsborg",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691667",
+    "date": "2024-07-29T17:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:8222",
+    "homeName": "AIK",
+    "awayName": "GAIS",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691671",
+    "date": "2024-08-03T13:00Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:8544",
+    "homeName": "GAIS",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691672",
+    "date": "2024-08-03T13:00Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:994",
+    "homeName": "Västerås SK",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691676",
+    "date": "2024-08-03T15:30Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:3017",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Halmstads BK",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "691677",
+    "date": "2024-08-04T12:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:2556",
+    "homeName": "Djurgården",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691678",
+    "date": "2024-08-04T12:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:8547",
+    "homeName": "IFK Värnamo",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": "691673",
+    "date": "2024-08-04T14:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2495",
+    "homeName": "Kalmar FF",
+    "awayName": "Hammarby IF",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "691679",
+    "date": "2024-08-10T13:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:2720",
+    "homeName": "Halmstads BK",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691686",
+    "date": "2024-08-10T13:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:22163",
+    "homeName": "IFK Norrköping",
+    "awayName": "Västerås SK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691682",
+    "date": "2024-08-10T15:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:21382",
+    "homeName": "IFK Göteborg",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "691683",
+    "date": "2024-08-11T14:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:20301",
+    "homeName": "AIK",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691685",
+    "date": "2024-08-11T14:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:8222",
+    "homeName": "IF Elfsborg",
+    "awayName": "GAIS",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691684",
+    "date": "2024-08-11T14:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:3052",
+    "homeName": "IK Sirius",
+    "awayName": "Kalmar FF",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691680",
+    "date": "2024-08-12T17:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:8221",
+    "homeName": "Hammarby IF",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "691693",
+    "date": "2024-08-17T13:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:8547",
+    "homeName": "IFK Göteborg",
+    "awayName": "IK Sirius",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691692",
+    "date": "2024-08-17T13:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2495",
+    "homeName": "IFK Värnamo",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "691688",
+    "date": "2024-08-17T13:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:8544",
+    "homeName": "Malmö FF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691690",
+    "date": "2024-08-17T15:30Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:3052",
+    "homeName": "Västerås SK",
+    "awayName": "Kalmar FF",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691689",
+    "date": "2024-08-18T12:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:994",
+    "homeName": "Djurgården",
+    "awayName": "AIK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "691694",
+    "date": "2024-08-18T12:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:7834",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "691687",
+    "date": "2024-08-18T12:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:529",
+    "homeName": "Mjällby AIF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691691",
+    "date": "2024-08-18T14:30Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:3017",
+    "homeName": "GAIS",
+    "awayName": "Halmstads BK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691699",
+    "date": "2024-08-24T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:2720",
+    "homeName": "Kalmar FF",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "691696",
+    "date": "2024-08-25T12:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2556",
+    "homeName": "IF Elfsborg",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691697",
+    "date": "2024-08-25T12:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2339",
+    "homeName": "IK Sirius",
+    "awayName": "Djurgården",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691695",
+    "date": "2024-08-25T14:30Z",
+    "homeId": "espn:994",
+    "awayId": "espn:8221",
+    "homeName": "AIK",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691700",
+    "date": "2024-08-25T14:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:21382",
+    "homeName": "BK Häcken",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691702",
+    "date": "2024-08-26T17:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:22163",
+    "homeName": "Halmstads BK",
+    "awayName": "Västerås SK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691701",
+    "date": "2024-08-26T17:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:8222",
+    "homeName": "Hammarby IF",
+    "awayName": "GAIS",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "691698",
+    "date": "2024-08-26T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:20301",
+    "homeName": "IFK Norrköping",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691709",
+    "date": "2024-08-31T13:00Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:3052",
+    "homeName": "GAIS",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691707",
+    "date": "2024-08-31T13:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:994",
+    "homeName": "IFK Värnamo",
+    "awayName": "AIK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691705",
+    "date": "2024-08-31T15:30Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:3017",
+    "homeName": "Mjällby AIF",
+    "awayName": "Halmstads BK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691706",
+    "date": "2024-08-31T15:30Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:8547",
+    "homeName": "Västerås SK",
+    "awayName": "IK Sirius",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691703",
+    "date": "2024-09-01T12:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:529",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "691704",
+    "date": "2024-09-01T12:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:2339",
+    "homeName": "Malmö FF",
+    "awayName": "Djurgården",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "691708",
+    "date": "2024-09-01T14:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:2495",
+    "homeName": "IFK Göteborg",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691710",
+    "date": "2024-09-01T14:30Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:7834",
+    "homeName": "IFK Norrköping",
+    "awayName": "BK Häcken",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "691718",
+    "date": "2024-09-14T13:00Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:8222",
+    "homeName": "Västerås SK",
+    "awayName": "GAIS",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "691713",
+    "date": "2024-09-15T12:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2720",
+    "homeName": "AIK",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "691714",
+    "date": "2024-09-15T12:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:20301",
+    "homeName": "Djurgården",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691712",
+    "date": "2024-09-15T12:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:8221",
+    "homeName": "IK Sirius",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "691715",
+    "date": "2024-09-15T14:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2556",
+    "homeName": "BK Häcken",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "691717",
+    "date": "2024-09-15T14:30Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:529",
+    "homeName": "Halmstads BK",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691711",
+    "date": "2024-09-15T14:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:21382",
+    "homeName": "Kalmar FF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691716",
+    "date": "2024-09-16T17:10Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:8544",
+    "homeName": "Hammarby IF",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691733",
+    "date": "2024-09-18T17:00Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:2720",
+    "homeName": "GAIS",
+    "awayName": "Malmö FF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "691681",
+    "date": "2024-09-19T17:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:2339",
+    "homeName": "BK Häcken",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691730",
+    "date": "2024-09-19T17:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:8544",
+    "homeName": "IF Elfsborg",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "691722",
+    "date": "2024-09-21T13:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:994",
+    "homeName": "Kalmar FF",
+    "awayName": "AIK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691719",
+    "date": "2024-09-21T15:30Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:20301",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "691726",
+    "date": "2024-09-22T12:00Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:2339",
+    "homeName": "GAIS",
+    "awayName": "Djurgården",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "691720",
+    "date": "2024-09-22T12:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:2495",
+    "homeName": "IF Elfsborg",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "691725",
+    "date": "2024-09-22T12:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:22163",
+    "homeName": "IFK Värnamo",
+    "awayName": "Västerås SK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691723",
+    "date": "2024-09-22T14:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:7834",
+    "homeName": "Malmö FF",
+    "awayName": "BK Häcken",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "691721",
+    "date": "2024-09-23T17:00Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:3017",
+    "homeName": "IFK Göteborg",
+    "awayName": "Halmstads BK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691731",
+    "date": "2024-09-25T17:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:8221",
+    "homeName": "Djurgården",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691732",
+    "date": "2024-09-25T17:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:994",
+    "homeName": "IK Sirius",
+    "awayName": "AIK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691729",
+    "date": "2024-09-25T17:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:21382",
+    "homeName": "Mjällby AIF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691727",
+    "date": "2024-09-26T17:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:3052",
+    "homeName": "Halmstads BK",
+    "awayName": "Kalmar FF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "691728",
+    "date": "2024-09-26T17:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:7834",
+    "homeName": "Hammarby IF",
+    "awayName": "BK Häcken",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691734",
+    "date": "2024-09-26T17:00Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:2556",
+    "homeName": "Västerås SK",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691737",
+    "date": "2024-09-29T12:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:2495",
+    "homeName": "AIK",
+    "awayName": "Hammarby IF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691740",
+    "date": "2024-09-29T12:00Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:8544",
+    "homeName": "Halmstads BK",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "691735",
+    "date": "2024-09-29T12:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:2339",
+    "homeName": "IFK Värnamo",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691741",
+    "date": "2024-09-29T14:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:8547",
+    "homeName": "BK Häcken",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691742",
+    "date": "2024-09-29T14:30Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:529",
+    "homeName": "Kalmar FF",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "691736",
+    "date": "2024-09-29T14:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:20301",
+    "homeName": "Malmö FF",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691738",
+    "date": "2024-09-30T17:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:22163",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Västerås SK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691739",
+    "date": "2024-09-30T17:10Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:8222",
+    "homeName": "IFK Göteborg",
+    "awayName": "GAIS",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691724",
+    "date": "2024-10-03T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:8547",
+    "homeName": "IFK Norrköping",
+    "awayName": "IK Sirius",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "691747",
+    "date": "2024-10-05T13:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:3017",
+    "homeName": "Hammarby IF",
+    "awayName": "Halmstads BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691744",
+    "date": "2024-10-05T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:22163",
+    "homeName": "Mjällby AIF",
+    "awayName": "Västerås SK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691743",
+    "date": "2024-10-05T15:30Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:8222",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "GAIS",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691750",
+    "date": "2024-10-06T12:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:7834",
+    "homeName": "AIK",
+    "awayName": "BK Häcken",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "691749",
+    "date": "2024-10-06T12:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:3052",
+    "homeName": "Djurgården",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691745",
+    "date": "2024-10-06T14:30Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:2556",
+    "homeName": "IFK Norrköping",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "691748",
+    "date": "2024-10-06T14:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:529",
+    "homeName": "IK Sirius",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "691746",
+    "date": "2024-10-06T14:30Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:21382",
+    "homeName": "Malmö FF",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691754",
+    "date": "2024-10-19T13:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:7834",
+    "homeName": "IF Elfsborg",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "691757",
+    "date": "2024-10-19T13:00Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:2720",
+    "homeName": "Västerås SK",
+    "awayName": "Malmö FF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691755",
+    "date": "2024-10-19T15:30Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:8547",
+    "homeName": "Halmstads BK",
+    "awayName": "IK Sirius",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691751",
+    "date": "2024-10-20T12:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:20301",
+    "homeName": "Kalmar FF",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "691758",
+    "date": "2024-10-20T14:30Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:21382",
+    "homeName": "GAIS",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "691753",
+    "date": "2024-10-21T12:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:2339",
+    "homeName": "Hammarby IF",
+    "awayName": "Djurgården",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "691752",
+    "date": "2024-10-21T17:00Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:8221",
+    "homeName": "IFK Norrköping",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691756",
+    "date": "2024-10-21T17:10Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:994",
+    "homeName": "IFK Göteborg",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691765",
+    "date": "2024-10-26T13:00Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:2495",
+    "homeName": "IK Sirius",
+    "awayName": "Hammarby IF",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "691762",
+    "date": "2024-10-26T13:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:8222",
+    "homeName": "Mjällby AIF",
+    "awayName": "GAIS",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691766",
+    "date": "2024-10-26T15:30Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:3052",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691761",
+    "date": "2024-10-27T13:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:529",
+    "homeName": "AIK",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691760",
+    "date": "2024-10-27T13:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:8544",
+    "homeName": "IFK Värnamo",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691759",
+    "date": "2024-10-27T15:30Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:3017",
+    "homeName": "BK Häcken",
+    "awayName": "Halmstads BK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691763",
+    "date": "2024-10-28T18:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:22163",
+    "homeName": "Djurgården",
+    "awayName": "Västerås SK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691764",
+    "date": "2024-10-28T18:10Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:2556",
+    "homeName": "Malmö FF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691771",
+    "date": "2024-11-02T14:00Z",
+    "homeId": "espn:2495",
+    "awayId": "espn:2720",
+    "homeName": "Hammarby IF",
+    "awayName": "Malmö FF",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "691769",
+    "date": "2024-11-02T14:00Z",
+    "homeId": "espn:529",
+    "awayId": "espn:22163",
+    "homeName": "IF Elfsborg",
+    "awayName": "Västerås SK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691772",
+    "date": "2024-11-02T16:30Z",
+    "homeId": "espn:2556",
+    "awayId": "espn:3052",
+    "homeName": "IFK Göteborg",
+    "awayName": "Kalmar FF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691768",
+    "date": "2024-11-03T13:00Z",
+    "homeId": "espn:7834",
+    "awayId": "espn:8222",
+    "homeName": "BK Häcken",
+    "awayName": "GAIS",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "691767",
+    "date": "2024-11-03T13:00Z",
+    "homeId": "espn:8221",
+    "awayId": "espn:21382",
+    "homeName": "IF Brommapojkarna",
+    "awayName": "IFK Värnamo",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "691770",
+    "date": "2024-11-03T15:30Z",
+    "homeId": "espn:3017",
+    "awayId": "espn:2339",
+    "homeName": "Halmstads BK",
+    "awayName": "Djurgården",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691774",
+    "date": "2024-11-03T15:30Z",
+    "homeId": "espn:8547",
+    "awayId": "espn:20301",
+    "homeName": "IK Sirius",
+    "awayName": "Mjällby AIF",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "691773",
+    "date": "2024-11-04T18:10Z",
+    "homeId": "espn:8544",
+    "awayId": "espn:994",
+    "homeName": "IFK Norrköping",
+    "awayName": "AIK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691781",
+    "date": "2024-11-10T14:00Z",
+    "homeId": "espn:994",
+    "awayId": "espn:3017",
+    "homeName": "AIK",
+    "awayName": "Halmstads BK",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "691776",
+    "date": "2024-11-10T14:00Z",
+    "homeId": "espn:2339",
+    "awayId": "espn:8544",
+    "homeName": "Djurgården",
+    "awayName": "IFK Norrköping",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "691775",
+    "date": "2024-11-10T14:00Z",
+    "homeId": "espn:8222",
+    "awayId": "espn:8547",
+    "homeName": "GAIS",
+    "awayName": "IK Sirius",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691782",
+    "date": "2024-11-10T14:00Z",
+    "homeId": "espn:21382",
+    "awayId": "espn:529",
+    "homeName": "IFK Värnamo",
+    "awayName": "IF Elfsborg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "691777",
+    "date": "2024-11-10T14:00Z",
+    "homeId": "espn:3052",
+    "awayId": "espn:7834",
+    "homeName": "Kalmar FF",
+    "awayName": "BK Häcken",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691778",
+    "date": "2024-11-10T14:00Z",
+    "homeId": "espn:2720",
+    "awayId": "espn:8221",
+    "homeName": "Malmö FF",
+    "awayName": "IF Brommapojkarna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "691779",
+    "date": "2024-11-10T14:00Z",
+    "homeId": "espn:20301",
+    "awayId": "espn:2556",
+    "homeName": "Mjällby AIF",
+    "awayName": "IFK Göteborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "691780",
+    "date": "2024-11-10T14:00Z",
+    "homeId": "espn:22163",
+    "awayId": "espn:2495",
+    "homeName": "Västerås SK",
+    "awayName": "Hammarby IF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  }
+]

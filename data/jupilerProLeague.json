@@ -1,0 +1,8615 @@
+[
+  {
+    "date": "2022-07-22T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 631,
+    "homeName": "Standard Liege",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-23T14:00:00+00:00",
+    "homeId": 736,
+    "awayId": 739,
+    "homeName": "Charleroi",
+    "awayName": "AS Eupen",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-23T16:15:00+00:00",
+    "homeId": 600,
+    "awayId": 10244,
+    "homeName": "Zulte Waregem",
+    "awayName": "Seraing United",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-23T16:15:00+00:00",
+    "homeId": 734,
+    "awayId": 260,
+    "homeName": "Kortrijk",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-23T18:45:00+00:00",
+    "homeId": 735,
+    "awayId": 1393,
+    "homeName": "St. Truiden",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-24T11:30:00+00:00",
+    "homeId": 569,
+    "awayId": 742,
+    "homeName": "Club Brugge KV",
+    "awayName": "Genk",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-24T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 740,
+    "homeName": "KV Mechelen",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-24T16:30:00+00:00",
+    "homeId": 554,
+    "awayId": 624,
+    "homeName": "Anderlecht",
+    "awayName": "Oostende",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-24T19:00:00+00:00",
+    "homeId": 261,
+    "awayId": 741,
+    "homeName": "KVC Westerlo",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-29T18:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 736,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-30T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 554,
+    "homeName": "Cercle Brugge",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-30T16:15:00+00:00",
+    "homeId": 260,
+    "awayId": 261,
+    "homeName": "OH Leuven",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-30T16:15:00+00:00",
+    "homeId": 624,
+    "awayId": 266,
+    "homeName": "Oostende",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-30T18:45:00+00:00",
+    "homeId": 631,
+    "awayId": 735,
+    "homeName": "Gent",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-31T11:30:00+00:00",
+    "homeId": 742,
+    "awayId": 733,
+    "homeName": "Genk",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-31T14:00:00+00:00",
+    "homeId": 739,
+    "awayId": 569,
+    "homeName": "AS Eupen",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-31T16:30:00+00:00",
+    "homeId": 10244,
+    "awayId": 734,
+    "homeName": "Seraing United",
+    "awayName": "Kortrijk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-31T19:00:00+00:00",
+    "homeId": 740,
+    "awayId": 600,
+    "homeName": "Antwerp",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-05T18:45:00+00:00",
+    "homeId": 569,
+    "awayId": 600,
+    "homeName": "Club Brugge KV",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-06T14:00:00+00:00",
+    "homeId": 742,
+    "awayId": 739,
+    "homeName": "Genk",
+    "awayName": "AS Eupen",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-06T16:15:00+00:00",
+    "homeId": 734,
+    "awayId": 735,
+    "homeName": "Kortrijk",
+    "awayName": "St. Truiden",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-06T16:15:00+00:00",
+    "homeId": 736,
+    "awayId": 624,
+    "homeName": "Charleroi",
+    "awayName": "Oostende",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-06T18:45:00+00:00",
+    "homeId": 266,
+    "awayId": 1393,
+    "homeName": "KV Mechelen",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-07T11:30:00+00:00",
+    "homeId": 733,
+    "awayId": 741,
+    "homeName": "Standard Liege",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-07T14:00:00+00:00",
+    "homeId": 631,
+    "awayId": 261,
+    "homeName": "Gent",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-07T16:30:00+00:00",
+    "homeId": 554,
+    "awayId": 10244,
+    "homeName": "Anderlecht",
+    "awayName": "Seraing United",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-07T19:00:00+00:00",
+    "homeId": 740,
+    "awayId": 260,
+    "homeName": "Antwerp",
+    "awayName": "OH Leuven",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-12T18:45:00+00:00",
+    "homeId": 624,
+    "awayId": 631,
+    "homeName": "Oostende",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-13T14:00:00+00:00",
+    "homeId": 261,
+    "awayId": 733,
+    "homeName": "KVC Westerlo",
+    "awayName": "Standard Liege",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-13T16:15:00+00:00",
+    "homeId": 741,
+    "awayId": 266,
+    "homeName": "Cercle Brugge",
+    "awayName": "KV Mechelen",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-13T16:15:00+00:00",
+    "homeId": 10244,
+    "awayId": 736,
+    "homeName": "Seraing United",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-13T18:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 734,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Kortrijk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-14T11:30:00+00:00",
+    "homeId": 735,
+    "awayId": 554,
+    "homeName": "St. Truiden",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-14T14:00:00+00:00",
+    "homeId": 739,
+    "awayId": 740,
+    "homeName": "AS Eupen",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-14T16:30:00+00:00",
+    "homeId": 260,
+    "awayId": 569,
+    "homeName": "OH Leuven",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-14T19:00:00+00:00",
+    "homeId": 600,
+    "awayId": 742,
+    "homeName": "Zulte Waregem",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-08-19T18:45:00+00:00",
+    "homeId": 739,
+    "awayId": 10244,
+    "homeName": "AS Eupen",
+    "awayName": "Seraing United",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-20T14:00:00+00:00",
+    "homeId": 624,
+    "awayId": 735,
+    "homeName": "Oostende",
+    "awayName": "St. Truiden",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-20T16:15:00+00:00",
+    "homeId": 742,
+    "awayId": 741,
+    "homeName": "Genk",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-21T11:30:00+00:00",
+    "homeId": 569,
+    "awayId": 734,
+    "homeName": "Club Brugge KV",
+    "awayName": "Kortrijk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-21T14:00:00+00:00",
+    "homeId": 600,
+    "awayId": 736,
+    "homeName": "Zulte Waregem",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-21T16:30:00+00:00",
+    "homeId": 733,
+    "awayId": 260,
+    "homeName": "Standard Liege",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-21T19:00:00+00:00",
+    "homeId": 266,
+    "awayId": 261,
+    "homeName": "KV Mechelen",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 5,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-08-26T18:45:00+00:00",
+    "homeId": 736,
+    "awayId": 569,
+    "homeName": "Charleroi",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-27T14:00:00+00:00",
+    "homeId": 10244,
+    "awayId": 742,
+    "homeName": "Seraing United",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-08-27T16:15:00+00:00",
+    "homeId": 260,
+    "awayId": 624,
+    "homeName": "OH Leuven",
+    "awayName": "Oostende",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-27T16:15:00+00:00",
+    "homeId": 741,
+    "awayId": 600,
+    "homeName": "Cercle Brugge",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-27T18:45:00+00:00",
+    "homeId": 735,
+    "awayId": 266,
+    "homeName": "St. Truiden",
+    "awayName": "KV Mechelen",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-28T11:30:00+00:00",
+    "homeId": 631,
+    "awayId": 740,
+    "homeName": "Gent",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-28T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 733,
+    "homeName": "Kortrijk",
+    "awayName": "Standard Liege",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-28T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 554,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-28T19:00:00+00:00",
+    "homeId": 261,
+    "awayId": 739,
+    "homeName": "KVC Westerlo",
+    "awayName": "AS Eupen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-31T18:30:00+00:00",
+    "homeId": 740,
+    "awayId": 1393,
+    "homeName": "Antwerp",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-01T18:30:00+00:00",
+    "homeId": 554,
+    "awayId": 631,
+    "homeName": "Anderlecht",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-02T18:45:00+00:00",
+    "homeId": 569,
+    "awayId": 741,
+    "homeName": "Club Brugge KV",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-03T14:00:00+00:00",
+    "homeId": 742,
+    "awayId": 735,
+    "homeName": "Genk",
+    "awayName": "St. Truiden",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-03T16:15:00+00:00",
+    "homeId": 266,
+    "awayId": 10244,
+    "homeName": "KV Mechelen",
+    "awayName": "Seraing United",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-09-03T16:15:00+00:00",
+    "homeId": 739,
+    "awayId": 734,
+    "homeName": "AS Eupen",
+    "awayName": "Kortrijk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-03T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 624,
+    "homeName": "Standard Liege",
+    "awayName": "Oostende",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-04T11:30:00+00:00",
+    "homeId": 554,
+    "awayId": 260,
+    "homeName": "Anderlecht",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-04T14:00:00+00:00",
+    "homeId": 740,
+    "awayId": 261,
+    "homeName": "Antwerp",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-04T16:30:00+00:00",
+    "homeId": 736,
+    "awayId": 631,
+    "homeName": "Charleroi",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-04T19:00:00+00:00",
+    "homeId": 600,
+    "awayId": 1393,
+    "homeName": "Zulte Waregem",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-09-09T18:45:00+00:00",
+    "homeId": 735,
+    "awayId": 733,
+    "homeName": "St. Truiden",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-10T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 266,
+    "homeName": "Kortrijk",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-09-10T16:15:00+00:00",
+    "homeId": 624,
+    "awayId": 739,
+    "homeName": "Oostende",
+    "awayName": "AS Eupen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-10T16:15:00+00:00",
+    "homeId": 10244,
+    "awayId": 569,
+    "homeName": "Seraing United",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-10T18:45:00+00:00",
+    "homeId": 260,
+    "awayId": 736,
+    "homeName": "OH Leuven",
+    "awayName": "Charleroi",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-11T11:30:00+00:00",
+    "homeId": 261,
+    "awayId": 554,
+    "homeName": "KVC Westerlo",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-11T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 740,
+    "homeName": "Cercle Brugge",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-11T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 742,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-11T19:00:00+00:00",
+    "homeId": 631,
+    "awayId": 600,
+    "homeName": "Gent",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-16T18:45:00+00:00",
+    "homeId": 740,
+    "awayId": 10244,
+    "homeName": "Antwerp",
+    "awayName": "Seraing United",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-17T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 260,
+    "homeName": "KV Mechelen",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-17T16:15:00+00:00",
+    "homeId": 600,
+    "awayId": 735,
+    "homeName": "Zulte Waregem",
+    "awayName": "St. Truiden",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-09-17T16:15:00+00:00",
+    "homeId": 741,
+    "awayId": 624,
+    "homeName": "Cercle Brugge",
+    "awayName": "Oostende",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-17T18:45:00+00:00",
+    "homeId": 736,
+    "awayId": 261,
+    "homeName": "Charleroi",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-09-18T11:30:00+00:00",
+    "homeId": 742,
+    "awayId": 631,
+    "homeName": "Genk",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-18T14:00:00+00:00",
+    "homeId": 739,
+    "awayId": 1393,
+    "homeName": "AS Eupen",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-18T16:30:00+00:00",
+    "homeId": 733,
+    "awayId": 569,
+    "homeName": "Standard Liege",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-18T19:00:00+00:00",
+    "homeId": 554,
+    "awayId": 734,
+    "homeName": "Anderlecht",
+    "awayName": "Kortrijk",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-30T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 10244,
+    "homeName": "Standard Liege",
+    "awayName": "Seraing United",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-01T14:00:00+00:00",
+    "homeId": 260,
+    "awayId": 1393,
+    "homeName": "OH Leuven",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-01T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 600,
+    "homeName": "KVC Westerlo",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-01T16:15:00+00:00",
+    "homeId": 624,
+    "awayId": 742,
+    "homeName": "Oostende",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-01T18:45:00+00:00",
+    "homeId": 569,
+    "awayId": 266,
+    "homeName": "Club Brugge KV",
+    "awayName": "KV Mechelen",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-02T11:30:00+00:00",
+    "homeId": 554,
+    "awayId": 736,
+    "homeName": "Anderlecht",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-02T14:00:00+00:00",
+    "homeId": 631,
+    "awayId": 741,
+    "homeName": "Gent",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-10-02T16:30:00+00:00",
+    "homeId": 734,
+    "awayId": 740,
+    "homeName": "Kortrijk",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-02T19:00:00+00:00",
+    "homeId": 735,
+    "awayId": 739,
+    "homeName": "St. Truiden",
+    "awayName": "AS Eupen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-07T18:45:00+00:00",
+    "homeId": 740,
+    "awayId": 735,
+    "homeName": "Antwerp",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-08T14:00:00+00:00",
+    "homeId": 742,
+    "awayId": 734,
+    "homeName": "Genk",
+    "awayName": "Kortrijk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-08T16:15:00+00:00",
+    "homeId": 600,
+    "awayId": 260,
+    "homeName": "Zulte Waregem",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "date": "2022-10-08T16:15:00+00:00",
+    "homeId": 10244,
+    "awayId": 624,
+    "homeName": "Seraing United",
+    "awayName": "Oostende",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-08T18:45:00+00:00",
+    "homeId": 569,
+    "awayId": 261,
+    "homeName": "Club Brugge KV",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-09T11:30:00+00:00",
+    "homeId": 266,
+    "awayId": 554,
+    "homeName": "KV Mechelen",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-09T14:00:00+00:00",
+    "homeId": 739,
+    "awayId": 631,
+    "homeName": "AS Eupen",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-10-09T16:30:00+00:00",
+    "homeId": 736,
+    "awayId": 733,
+    "homeName": "Charleroi",
+    "awayName": "Standard Liege",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-09T19:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 741,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-14T18:45:00+00:00",
+    "homeId": 261,
+    "awayId": 10244,
+    "homeName": "KVC Westerlo",
+    "awayName": "Seraing United",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-15T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 600,
+    "homeName": "Kortrijk",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-15T16:15:00+00:00",
+    "homeId": 735,
+    "awayId": 736,
+    "homeName": "St. Truiden",
+    "awayName": "Charleroi",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-15T16:15:00+00:00",
+    "homeId": 741,
+    "awayId": 739,
+    "homeName": "Cercle Brugge",
+    "awayName": "AS Eupen",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-15T18:45:00+00:00",
+    "homeId": 260,
+    "awayId": 742,
+    "homeName": "OH Leuven",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-16T11:30:00+00:00",
+    "homeId": 733,
+    "awayId": 740,
+    "homeName": "Standard Liege",
+    "awayName": "Antwerp",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-16T14:00:00+00:00",
+    "homeId": 631,
+    "awayId": 266,
+    "homeName": "Gent",
+    "awayName": "KV Mechelen",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-16T16:30:00+00:00",
+    "homeId": 554,
+    "awayId": 569,
+    "homeName": "Anderlecht",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-16T19:00:00+00:00",
+    "homeId": 624,
+    "awayId": 1393,
+    "homeName": "Oostende",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "date": "2022-10-18T16:30:00+00:00",
+    "homeId": 736,
+    "awayId": 734,
+    "homeName": "Charleroi",
+    "awayName": "Kortrijk",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-18T16:30:00+00:00",
+    "homeId": 739,
+    "awayId": 260,
+    "homeName": "AS Eupen",
+    "awayName": "OH Leuven",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-18T18:45:00+00:00",
+    "homeId": 742,
+    "awayId": 261,
+    "homeName": "Genk",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-18T18:45:00+00:00",
+    "homeId": 10244,
+    "awayId": 741,
+    "homeName": "Seraing United",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-19T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 631,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-19T18:45:00+00:00",
+    "homeId": 266,
+    "awayId": 733,
+    "homeName": "KV Mechelen",
+    "awayName": "Standard Liege",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-19T18:45:00+00:00",
+    "homeId": 569,
+    "awayId": 735,
+    "homeName": "Club Brugge KV",
+    "awayName": "St. Truiden",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-20T16:30:00+00:00",
+    "homeId": 740,
+    "awayId": 624,
+    "homeName": "Antwerp",
+    "awayName": "Oostende",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-20T18:45:00+00:00",
+    "homeId": 600,
+    "awayId": 554,
+    "homeName": "Zulte Waregem",
+    "awayName": "Anderlecht",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-21T18:45:00+00:00",
+    "homeId": 741,
+    "awayId": 736,
+    "homeName": "Cercle Brugge",
+    "awayName": "Charleroi",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-22T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 261,
+    "homeName": "Kortrijk",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-22T16:15:00+00:00",
+    "homeId": 266,
+    "awayId": 739,
+    "homeName": "KV Mechelen",
+    "awayName": "AS Eupen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-22T16:15:00+00:00",
+    "homeId": 735,
+    "awayId": 260,
+    "homeName": "St. Truiden",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-22T18:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 569,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-23T11:30:00+00:00",
+    "homeId": 740,
+    "awayId": 742,
+    "homeName": "Antwerp",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-23T14:00:00+00:00",
+    "homeId": 631,
+    "awayId": 10244,
+    "homeName": "Gent",
+    "awayName": "Seraing United",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-23T19:00:00+00:00",
+    "homeId": 624,
+    "awayId": 600,
+    "homeName": "Oostende",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-28T18:45:00+00:00",
+    "homeId": 742,
+    "awayId": 266,
+    "homeName": "Genk",
+    "awayName": "KV Mechelen",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-29T14:00:00+00:00",
+    "homeId": 600,
+    "awayId": 733,
+    "homeName": "Zulte Waregem",
+    "awayName": "Standard Liege",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-29T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 735,
+    "homeName": "KVC Westerlo",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-29T16:15:00+00:00",
+    "homeId": 734,
+    "awayId": 741,
+    "homeName": "Kortrijk",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-29T18:45:00+00:00",
+    "homeId": 569,
+    "awayId": 624,
+    "homeName": "Club Brugge KV",
+    "awayName": "Oostende",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-30T12:30:00+00:00",
+    "homeId": 554,
+    "awayId": 739,
+    "homeName": "Anderlecht",
+    "awayName": "AS Eupen",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-30T15:00:00+00:00",
+    "homeId": 10244,
+    "awayId": 1393,
+    "homeName": "Seraing United",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-30T17:30:00+00:00",
+    "homeId": 260,
+    "awayId": 631,
+    "homeName": "OH Leuven",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-30T20:00:00+00:00",
+    "homeId": 736,
+    "awayId": 740,
+    "homeName": "Charleroi",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-04T19:45:00+00:00",
+    "homeId": 742,
+    "awayId": 736,
+    "homeName": "Genk",
+    "awayName": "Charleroi",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-05T15:00:00+00:00",
+    "homeId": 266,
+    "awayId": 600,
+    "homeName": "KV Mechelen",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-05T17:15:00+00:00",
+    "homeId": 741,
+    "awayId": 260,
+    "homeName": "Cercle Brugge",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-05T17:15:00+00:00",
+    "homeId": 10244,
+    "awayId": 735,
+    "homeName": "Seraing United",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-05T19:45:00+00:00",
+    "homeId": 739,
+    "awayId": 733,
+    "homeName": "AS Eupen",
+    "awayName": "Standard Liege",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-06T12:30:00+00:00",
+    "homeId": 631,
+    "awayId": 569,
+    "homeName": "Gent",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-06T15:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 261,
+    "homeName": "Union St. Gilloise",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-06T17:30:00+00:00",
+    "homeId": 740,
+    "awayId": 554,
+    "homeName": "Antwerp",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-06T20:00:00+00:00",
+    "homeId": 624,
+    "awayId": 734,
+    "homeName": "Oostende",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-11T19:45:00+00:00",
+    "homeId": 260,
+    "awayId": 10244,
+    "homeName": "OH Leuven",
+    "awayName": "Seraing United",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-12T15:00:00+00:00",
+    "homeId": 261,
+    "awayId": 624,
+    "homeName": "KVC Westerlo",
+    "awayName": "Oostende",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-12T17:15:00+00:00",
+    "homeId": 600,
+    "awayId": 739,
+    "homeName": "Zulte Waregem",
+    "awayName": "AS Eupen",
+    "homeGoals": 5,
+    "awayGoals": 5
+  },
+  {
+    "date": "2022-11-12T17:15:00+00:00",
+    "homeId": 735,
+    "awayId": 741,
+    "homeName": "St. Truiden",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-13T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 740,
+    "homeName": "Club Brugge KV",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-13T15:00:00+00:00",
+    "homeId": 733,
+    "awayId": 1393,
+    "homeName": "Standard Liege",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-11-13T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 742,
+    "homeName": "Anderlecht",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-13T20:00:00+00:00",
+    "homeId": 734,
+    "awayId": 631,
+    "homeName": "Kortrijk",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-12-23T17:30:00+00:00",
+    "homeId": 10244,
+    "awayId": 739,
+    "homeName": "Seraing United",
+    "awayName": "AS Eupen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-23T19:30:00+00:00",
+    "homeId": 266,
+    "awayId": 741,
+    "homeName": "KV Mechelen",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-23T19:30:00+00:00",
+    "homeId": 631,
+    "awayId": 733,
+    "homeName": "Gent",
+    "awayName": "Standard Liege",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-26T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 260,
+    "homeName": "Club Brugge KV",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-26T15:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 624,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Oostende",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-26T17:15:00+00:00",
+    "homeId": 734,
+    "awayId": 742,
+    "homeName": "Kortrijk",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-26T19:45:00+00:00",
+    "homeId": 736,
+    "awayId": 554,
+    "homeName": "Charleroi",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-27T19:00:00+00:00",
+    "homeId": 261,
+    "awayId": 740,
+    "homeName": "KVC Westerlo",
+    "awayName": "Antwerp",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-12-27T19:00:00+00:00",
+    "homeId": 735,
+    "awayId": 600,
+    "homeName": "St. Truiden",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-06T19:45:00+00:00",
+    "homeId": 733,
+    "awayId": 735,
+    "homeName": "Standard Liege",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-07T15:00:00+00:00",
+    "homeId": 739,
+    "awayId": 736,
+    "homeName": "AS Eupen",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-07T17:15:00+00:00",
+    "homeId": 624,
+    "awayId": 10244,
+    "homeName": "Oostende",
+    "awayName": "Seraing United",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-07T17:15:00+00:00",
+    "homeId": 741,
+    "awayId": 261,
+    "homeName": "Cercle Brugge",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-07T19:45:00+00:00",
+    "homeId": 740,
+    "awayId": 631,
+    "homeName": "Antwerp",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-08T12:30:00+00:00",
+    "homeId": 742,
+    "awayId": 569,
+    "homeName": "Genk",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-08T15:00:00+00:00",
+    "homeId": 600,
+    "awayId": 266,
+    "homeName": "Zulte Waregem",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-08T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 1393,
+    "homeName": "Anderlecht",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-01-08T20:00:00+00:00",
+    "homeId": 260,
+    "awayId": 734,
+    "homeName": "OH Leuven",
+    "awayName": "Kortrijk",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-01-13T19:45:00+00:00",
+    "homeId": 261,
+    "awayId": 260,
+    "homeName": "KVC Westerlo",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-14T15:00:00+00:00",
+    "homeId": 10244,
+    "awayId": 733,
+    "homeName": "Seraing United",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-14T17:15:00+00:00",
+    "homeId": 266,
+    "awayId": 624,
+    "homeName": "KV Mechelen",
+    "awayName": "Oostende",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-14T17:15:00+00:00",
+    "homeId": 739,
+    "awayId": 735,
+    "homeName": "AS Eupen",
+    "awayName": "St. Truiden",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-14T19:45:00+00:00",
+    "homeId": 742,
+    "awayId": 600,
+    "homeName": "Genk",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-15T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 554,
+    "homeName": "Club Brugge KV",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-15T15:00:00+00:00",
+    "homeId": 631,
+    "awayId": 734,
+    "homeName": "Gent",
+    "awayName": "Kortrijk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-15T17:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 740,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-15T20:00:00+00:00",
+    "homeId": 736,
+    "awayId": 741,
+    "homeName": "Charleroi",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-17T17:30:00+00:00",
+    "homeId": 260,
+    "awayId": 739,
+    "homeName": "OH Leuven",
+    "awayName": "AS Eupen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-17T19:45:00+00:00",
+    "homeId": 261,
+    "awayId": 742,
+    "homeName": "KVC Westerlo",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-01-17T19:45:00+00:00",
+    "homeId": 733,
+    "awayId": 266,
+    "homeName": "Standard Liege",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-18T17:30:00+00:00",
+    "homeId": 624,
+    "awayId": 740,
+    "homeName": "Oostende",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-01-18T17:30:00+00:00",
+    "homeId": 741,
+    "awayId": 1393,
+    "homeName": "Cercle Brugge",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-18T19:45:00+00:00",
+    "homeId": 554,
+    "awayId": 600,
+    "homeName": "Anderlecht",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-01-18T19:45:00+00:00",
+    "homeId": 734,
+    "awayId": 10244,
+    "homeName": "Kortrijk",
+    "awayName": "Seraing United",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-19T17:30:00+00:00",
+    "homeId": 631,
+    "awayId": 736,
+    "homeName": "Gent",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-19T19:45:00+00:00",
+    "homeId": 735,
+    "awayId": 569,
+    "homeName": "St. Truiden",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-21T15:00:00+00:00",
+    "homeId": 600,
+    "awayId": 261,
+    "homeName": "Zulte Waregem",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-21T17:15:00+00:00",
+    "homeId": 266,
+    "awayId": 734,
+    "homeName": "KV Mechelen",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-21T17:15:00+00:00",
+    "homeId": 624,
+    "awayId": 741,
+    "homeName": "Oostende",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-21T19:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 260,
+    "homeName": "Union St. Gilloise",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-22T12:30:00+00:00",
+    "homeId": 740,
+    "awayId": 733,
+    "homeName": "Antwerp",
+    "awayName": "Standard Liege",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-22T15:00:00+00:00",
+    "homeId": 10244,
+    "awayId": 554,
+    "homeName": "Seraing United",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-22T17:30:00+00:00",
+    "homeId": 569,
+    "awayId": 736,
+    "homeName": "Club Brugge KV",
+    "awayName": "Charleroi",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-22T20:00:00+00:00",
+    "homeId": 735,
+    "awayId": 631,
+    "homeName": "St. Truiden",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-01-27T19:45:00+00:00",
+    "homeId": 733,
+    "awayId": 739,
+    "homeName": "Standard Liege",
+    "awayName": "AS Eupen",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-28T15:00:00+00:00",
+    "homeId": 261,
+    "awayId": 266,
+    "homeName": "KVC Westerlo",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-28T17:15:00+00:00",
+    "homeId": 260,
+    "awayId": 735,
+    "homeName": "OH Leuven",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-28T17:15:00+00:00",
+    "homeId": 734,
+    "awayId": 624,
+    "homeName": "Kortrijk",
+    "awayName": "Oostende",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-28T19:45:00+00:00",
+    "homeId": 736,
+    "awayId": 1393,
+    "homeName": "Charleroi",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-29T12:30:00+00:00",
+    "homeId": 554,
+    "awayId": 740,
+    "homeName": "Anderlecht",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-29T15:00:00+00:00",
+    "homeId": 741,
+    "awayId": 631,
+    "homeName": "Cercle Brugge",
+    "awayName": "Gent",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-29T17:30:00+00:00",
+    "homeId": 600,
+    "awayId": 569,
+    "homeName": "Zulte Waregem",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-29T20:00:00+00:00",
+    "homeId": 742,
+    "awayId": 10244,
+    "homeName": "Genk",
+    "awayName": "Seraing United",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-01T17:45:00+00:00",
+    "homeId": 739,
+    "awayId": 742,
+    "homeName": "AS Eupen",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-03T19:45:00+00:00",
+    "homeId": 624,
+    "awayId": 554,
+    "homeName": "Oostende",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-04T15:00:00+00:00",
+    "homeId": 741,
+    "awayId": 733,
+    "homeName": "Cercle Brugge",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-04T17:15:00+00:00",
+    "homeId": 739,
+    "awayId": 261,
+    "homeName": "AS Eupen",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-04T17:15:00+00:00",
+    "homeId": 10244,
+    "awayId": 260,
+    "homeName": "Seraing United",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-04T19:45:00+00:00",
+    "homeId": 735,
+    "awayId": 734,
+    "homeName": "St. Truiden",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-05T12:30:00+00:00",
+    "homeId": 740,
+    "awayId": 569,
+    "homeName": "Antwerp",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-05T15:00:00+00:00",
+    "homeId": 266,
+    "awayId": 736,
+    "homeName": "KV Mechelen",
+    "awayName": "Charleroi",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-05T17:30:00+00:00",
+    "homeId": 631,
+    "awayId": 742,
+    "homeName": "Gent",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-05T18:15:00+00:00",
+    "homeId": 1393,
+    "awayId": 600,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-10T19:00:00+00:00",
+    "homeId": 260,
+    "awayId": 741,
+    "homeName": "OH Leuven",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-10T19:45:00+00:00",
+    "homeId": 569,
+    "awayId": 1393,
+    "homeName": "Club Brugge KV",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-10T19:45:00+00:00",
+    "homeId": 739,
+    "awayId": 266,
+    "homeName": "AS Eupen",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-11T15:00:00+00:00",
+    "homeId": 261,
+    "awayId": 631,
+    "homeName": "KVC Westerlo",
+    "awayName": "Gent",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-11T17:15:00+00:00",
+    "homeId": 736,
+    "awayId": 10244,
+    "homeName": "Charleroi",
+    "awayName": "Seraing United",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-12T12:30:00+00:00",
+    "homeId": 742,
+    "awayId": 740,
+    "homeName": "Genk",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-12T15:00:00+00:00",
+    "homeId": 554,
+    "awayId": 735,
+    "homeName": "Anderlecht",
+    "awayName": "St. Truiden",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-12T17:30:00+00:00",
+    "homeId": 733,
+    "awayId": 734,
+    "homeName": "Standard Liege",
+    "awayName": "Kortrijk",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-12T18:15:00+00:00",
+    "homeId": 600,
+    "awayId": 624,
+    "homeName": "Zulte Waregem",
+    "awayName": "Oostende",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-17T19:45:00+00:00",
+    "homeId": 266,
+    "awayId": 742,
+    "homeName": "KV Mechelen",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-18T15:00:00+00:00",
+    "homeId": 740,
+    "awayId": 739,
+    "homeName": "Antwerp",
+    "awayName": "AS Eupen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-18T17:15:00+00:00",
+    "homeId": 624,
+    "awayId": 736,
+    "homeName": "Oostende",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-18T17:15:00+00:00",
+    "homeId": 10244,
+    "awayId": 600,
+    "homeName": "Seraing United",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-18T19:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 733,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Standard Liege",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-02-19T12:30:00+00:00",
+    "homeId": 741,
+    "awayId": 569,
+    "homeName": "Cercle Brugge",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-19T15:00:00+00:00",
+    "homeId": 631,
+    "awayId": 260,
+    "homeName": "Gent",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-19T17:30:00+00:00",
+    "homeId": 734,
+    "awayId": 554,
+    "homeName": "Kortrijk",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-19T18:15:00+00:00",
+    "homeId": 735,
+    "awayId": 261,
+    "homeName": "St. Truiden",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-24T19:45:00+00:00",
+    "homeId": 600,
+    "awayId": 734,
+    "homeName": "Zulte Waregem",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-25T15:00:00+00:00",
+    "homeId": 10244,
+    "awayId": 266,
+    "homeName": "Seraing United",
+    "awayName": "KV Mechelen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-25T17:15:00+00:00",
+    "homeId": 739,
+    "awayId": 741,
+    "homeName": "AS Eupen",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-25T17:15:00+00:00",
+    "homeId": 742,
+    "awayId": 624,
+    "homeName": "Genk",
+    "awayName": "Oostende",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-25T19:45:00+00:00",
+    "homeId": 261,
+    "awayId": 1393,
+    "homeName": "KVC Westerlo",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-26T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 631,
+    "homeName": "Club Brugge KV",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-26T15:00:00+00:00",
+    "homeId": 260,
+    "awayId": 740,
+    "homeName": "OH Leuven",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-26T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 733,
+    "homeName": "Anderlecht",
+    "awayName": "Standard Liege",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-26T18:15:00+00:00",
+    "homeId": 736,
+    "awayId": 735,
+    "homeName": "Charleroi",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-03T19:45:00+00:00",
+    "homeId": 624,
+    "awayId": 569,
+    "homeName": "Oostende",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-04T15:00:00+00:00",
+    "homeId": 734,
+    "awayId": 736,
+    "homeName": "Kortrijk",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-04T17:15:00+00:00",
+    "homeId": 260,
+    "awayId": 600,
+    "homeName": "OH Leuven",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-04T17:15:00+00:00",
+    "homeId": 741,
+    "awayId": 10244,
+    "homeName": "Cercle Brugge",
+    "awayName": "Seraing United",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-04T19:45:00+00:00",
+    "homeId": 733,
+    "awayId": 261,
+    "homeName": "Standard Liege",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-05T12:30:00+00:00",
+    "homeId": 735,
+    "awayId": 742,
+    "homeName": "St. Truiden",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-05T15:00:00+00:00",
+    "homeId": 740,
+    "awayId": 266,
+    "homeName": "Antwerp",
+    "awayName": "KV Mechelen",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-05T17:30:00+00:00",
+    "homeId": 631,
+    "awayId": 554,
+    "homeName": "Gent",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-05T18:15:00+00:00",
+    "homeId": 1393,
+    "awayId": 739,
+    "homeName": "Union St. Gilloise",
+    "awayName": "AS Eupen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-10T19:45:00+00:00",
+    "homeId": 736,
+    "awayId": 260,
+    "homeName": "Charleroi",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-11T15:00:00+00:00",
+    "homeId": 266,
+    "awayId": 735,
+    "homeName": "KV Mechelen",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-11T17:15:00+00:00",
+    "homeId": 261,
+    "awayId": 734,
+    "homeName": "KVC Westerlo",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-11T17:15:00+00:00",
+    "homeId": 739,
+    "awayId": 624,
+    "homeName": "AS Eupen",
+    "awayName": "Oostende",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-03-11T19:45:00+00:00",
+    "homeId": 10244,
+    "awayId": 740,
+    "homeName": "Seraing United",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-12T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 733,
+    "homeName": "Club Brugge KV",
+    "awayName": "Standard Liege",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-12T15:00:00+00:00",
+    "homeId": 600,
+    "awayId": 631,
+    "homeName": "Zulte Waregem",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 6
+  },
+  {
+    "date": "2023-03-12T17:30:00+00:00",
+    "homeId": 742,
+    "awayId": 1393,
+    "homeName": "Genk",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-12T18:15:00+00:00",
+    "homeId": 554,
+    "awayId": 741,
+    "homeName": "Anderlecht",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-17T19:45:00+00:00",
+    "homeId": 741,
+    "awayId": 742,
+    "homeName": "Cercle Brugge",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-18T15:00:00+00:00",
+    "homeId": 734,
+    "awayId": 569,
+    "homeName": "Kortrijk",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-18T17:15:00+00:00",
+    "homeId": 624,
+    "awayId": 261,
+    "homeName": "Oostende",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-18T17:15:00+00:00",
+    "homeId": 735,
+    "awayId": 10244,
+    "homeName": "St. Truiden",
+    "awayName": "Seraing United",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-18T19:45:00+00:00",
+    "homeId": 733,
+    "awayId": 600,
+    "homeName": "Standard Liege",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-19T12:30:00+00:00",
+    "homeId": 740,
+    "awayId": 736,
+    "homeName": "Antwerp",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-19T15:00:00+00:00",
+    "homeId": 260,
+    "awayId": 554,
+    "homeName": "OH Leuven",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-19T17:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 266,
+    "homeName": "Union St. Gilloise",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-19T18:15:00+00:00",
+    "homeId": 631,
+    "awayId": 739,
+    "homeName": "Gent",
+    "awayName": "AS Eupen",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-31T18:45:00+00:00",
+    "homeId": 600,
+    "awayId": 740,
+    "homeName": "Zulte Waregem",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-01T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 734,
+    "homeName": "Cercle Brugge",
+    "awayName": "Kortrijk",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-01T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 736,
+    "homeName": "KVC Westerlo",
+    "awayName": "Charleroi",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-01T16:15:00+00:00",
+    "homeId": 10244,
+    "awayId": 631,
+    "homeName": "Seraing United",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-04-01T18:45:00+00:00",
+    "homeId": 624,
+    "awayId": 733,
+    "homeName": "Oostende",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-02T11:30:00+00:00",
+    "homeId": 742,
+    "awayId": 260,
+    "homeName": "Genk",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-02T14:00:00+00:00",
+    "homeId": 739,
+    "awayId": 554,
+    "homeName": "AS Eupen",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-02T16:30:00+00:00",
+    "homeId": 266,
+    "awayId": 569,
+    "homeName": "KV Mechelen",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-02T17:15:00+00:00",
+    "homeId": 1393,
+    "awayId": 735,
+    "homeName": "Union St. Gilloise",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-07T18:45:00+00:00",
+    "homeId": 569,
+    "awayId": 10244,
+    "homeName": "Club Brugge KV",
+    "awayName": "Seraing United",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-08T14:00:00+00:00",
+    "homeId": 260,
+    "awayId": 266,
+    "homeName": "OH Leuven",
+    "awayName": "KV Mechelen",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-08T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 739,
+    "homeName": "Kortrijk",
+    "awayName": "AS Eupen",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-08T16:15:00+00:00",
+    "homeId": 736,
+    "awayId": 600,
+    "homeName": "Charleroi",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-08T18:45:00+00:00",
+    "homeId": 631,
+    "awayId": 1393,
+    "homeName": "Gent",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-09T11:30:00+00:00",
+    "homeId": 554,
+    "awayId": 261,
+    "homeName": "Anderlecht",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-09T14:00:00+00:00",
+    "homeId": 740,
+    "awayId": 741,
+    "homeName": "Antwerp",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-09T16:30:00+00:00",
+    "homeId": 733,
+    "awayId": 742,
+    "homeName": "Standard Liege",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-09T17:15:00+00:00",
+    "homeId": 735,
+    "awayId": 624,
+    "homeName": "St. Truiden",
+    "awayName": "Oostende",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-14T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 736,
+    "homeName": "Standard Liege",
+    "awayName": "Charleroi",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-15T14:00:00+00:00",
+    "homeId": 739,
+    "awayId": 600,
+    "homeName": "AS Eupen",
+    "awayName": "Zulte Waregem",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-04-15T16:15:00+00:00",
+    "homeId": 624,
+    "awayId": 260,
+    "homeName": "Oostende",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-04-15T16:15:00+00:00",
+    "homeId": 741,
+    "awayId": 735,
+    "homeName": "Cercle Brugge",
+    "awayName": "St. Truiden",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-15T18:45:00+00:00",
+    "homeId": 261,
+    "awayId": 569,
+    "homeName": "KVC Westerlo",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-16T11:30:00+00:00",
+    "homeId": 742,
+    "awayId": 554,
+    "homeName": "Genk",
+    "awayName": "Anderlecht",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-16T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 631,
+    "homeName": "KV Mechelen",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-16T16:30:00+00:00",
+    "homeId": 740,
+    "awayId": 734,
+    "homeName": "Antwerp",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-16T17:15:00+00:00",
+    "homeId": 1393,
+    "awayId": 10244,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Seraing United",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-22T16:15:00+00:00",
+    "homeId": 10244,
+    "awayId": 261,
+    "homeName": "Seraing United",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-23T11:30:00+00:00",
+    "homeId": 735,
+    "awayId": 740,
+    "homeName": "St. Truiden",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-23T16:30:00+00:00",
+    "homeId": 260,
+    "awayId": 733,
+    "homeName": "OH Leuven",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-23T16:30:00+00:00",
+    "homeId": 554,
+    "awayId": 266,
+    "homeName": "Anderlecht",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-23T16:30:00+00:00",
+    "homeId": 569,
+    "awayId": 739,
+    "homeName": "Club Brugge KV",
+    "awayName": "AS Eupen",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-23T16:30:00+00:00",
+    "homeId": 600,
+    "awayId": 741,
+    "homeName": "Zulte Waregem",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-23T16:30:00+00:00",
+    "homeId": 631,
+    "awayId": 624,
+    "homeName": "Gent",
+    "awayName": "Oostende",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-23T16:30:00+00:00",
+    "homeId": 734,
+    "awayId": 1393,
+    "homeName": "Kortrijk",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-04-23T16:30:00+00:00",
+    "homeId": 736,
+    "awayId": 742,
+    "homeName": "Charleroi",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-28T18:45:00+00:00",
+    "homeId": 631,
+    "awayId": 261,
+    "homeName": "Gent",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-29T16:15:00+00:00",
+    "homeId": 741,
+    "awayId": 733,
+    "homeName": "Cercle Brugge",
+    "awayName": "Standard Liege",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-30T16:30:00+00:00",
+    "homeId": 742,
+    "awayId": 569,
+    "homeName": "Genk",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-03T18:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 740,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-06T16:15:00+00:00",
+    "homeId": 569,
+    "awayId": 1393,
+    "homeName": "Club Brugge KV",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-06T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 631,
+    "homeName": "Standard Liege",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-07T11:30:00+00:00",
+    "homeId": 261,
+    "awayId": 741,
+    "homeName": "KVC Westerlo",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 3,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-05-07T16:30:00+00:00",
+    "homeId": 740,
+    "awayId": 742,
+    "homeName": "Antwerp",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-13T16:15:00+00:00",
+    "homeId": 741,
+    "awayId": 631,
+    "homeName": "Cercle Brugge",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-05-13T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 261,
+    "homeName": "Standard Liege",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-14T11:30:00+00:00",
+    "homeId": 740,
+    "awayId": 569,
+    "homeName": "Antwerp",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-14T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 742,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Genk",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-20T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 733,
+    "homeName": "KVC Westerlo",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-20T18:45:00+00:00",
+    "homeId": 631,
+    "awayId": 741,
+    "homeName": "Gent",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-21T11:30:00+00:00",
+    "homeId": 569,
+    "awayId": 740,
+    "homeName": "Club Brugge KV",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-21T16:30:00+00:00",
+    "homeId": 742,
+    "awayId": 1393,
+    "homeName": "Genk",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-27T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 631,
+    "homeName": "KVC Westerlo",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-05-27T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 741,
+    "homeName": "Standard Liege",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-05-28T11:30:00+00:00",
+    "homeId": 740,
+    "awayId": 1393,
+    "homeName": "Antwerp",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-28T16:30:00+00:00",
+    "homeId": 569,
+    "awayId": 742,
+    "homeName": "Club Brugge KV",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-06-03T18:30:00+00:00",
+    "homeId": 631,
+    "awayId": 733,
+    "homeName": "Gent",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-06-03T18:30:00+00:00",
+    "homeId": 741,
+    "awayId": 261,
+    "homeName": "Cercle Brugge",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-06-04T16:30:00+00:00",
+    "homeId": 742,
+    "awayId": 740,
+    "homeName": "Genk",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-06-04T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 569,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-07-28T18:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 554,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-29T14:00:00+00:00",
+    "homeId": 739,
+    "awayId": 261,
+    "homeName": "AS Eupen",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-29T16:15:00+00:00",
+    "homeId": 736,
+    "awayId": 260,
+    "homeName": "Charleroi",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-29T18:45:00+00:00",
+    "homeId": 6224,
+    "awayId": 742,
+    "homeName": "RWDM",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-07-30T11:30:00+00:00",
+    "homeId": 740,
+    "awayId": 741,
+    "homeName": "Antwerp",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-30T14:00:00+00:00",
+    "homeId": 631,
+    "awayId": 734,
+    "homeName": "Gent",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-30T16:30:00+00:00",
+    "homeId": 569,
+    "awayId": 266,
+    "homeName": "Club Brugge KV",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-30T17:15:00+00:00",
+    "homeId": 735,
+    "awayId": 733,
+    "homeName": "St. Truiden",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-04T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 1393,
+    "homeName": "Standard Liege",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-05T14:00:00+00:00",
+    "homeId": 742,
+    "awayId": 739,
+    "homeName": "Genk",
+    "awayName": "AS Eupen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-05T16:15:00+00:00",
+    "homeId": 741,
+    "awayId": 736,
+    "homeName": "Cercle Brugge",
+    "awayName": "Charleroi",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-05T18:45:00+00:00",
+    "homeId": 260,
+    "awayId": 6224,
+    "homeName": "OH Leuven",
+    "awayName": "RWDM",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-06T11:30:00+00:00",
+    "homeId": 554,
+    "awayId": 740,
+    "homeName": "Anderlecht",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-06T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 631,
+    "homeName": "KV Mechelen",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-06T16:30:00+00:00",
+    "homeId": 261,
+    "awayId": 569,
+    "homeName": "KVC Westerlo",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-06T17:15:00+00:00",
+    "homeId": 734,
+    "awayId": 735,
+    "homeName": "Kortrijk",
+    "awayName": "St. Truiden",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-11T18:45:00+00:00",
+    "homeId": 740,
+    "awayId": 734,
+    "homeName": "Antwerp",
+    "awayName": "Kortrijk",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-12T14:00:00+00:00",
+    "homeId": 6224,
+    "awayId": 266,
+    "homeName": "RWDM",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-12T16:15:00+00:00",
+    "homeId": 1393,
+    "awayId": 260,
+    "homeName": "Union St. Gilloise",
+    "awayName": "OH Leuven",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-13T11:30:00+00:00",
+    "homeId": 735,
+    "awayId": 554,
+    "homeName": "St. Truiden",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-13T14:00:00+00:00",
+    "homeId": 739,
+    "awayId": 569,
+    "homeName": "AS Eupen",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-08-13T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 742,
+    "homeName": "Cercle Brugge",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-13T16:30:00+00:00",
+    "homeId": 736,
+    "awayId": 733,
+    "homeName": "Charleroi",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-13T17:15:00+00:00",
+    "homeId": 261,
+    "awayId": 631,
+    "homeName": "KVC Westerlo",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-18T18:45:00+00:00",
+    "homeId": 260,
+    "awayId": 740,
+    "homeName": "OH Leuven",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-19T14:00:00+00:00",
+    "homeId": 733,
+    "awayId": 741,
+    "homeName": "Standard Liege",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-19T18:45:00+00:00",
+    "homeId": 266,
+    "awayId": 1393,
+    "homeName": "KV Mechelen",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-20T11:30:00+00:00",
+    "homeId": 554,
+    "awayId": 261,
+    "homeName": "Anderlecht",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-20T14:00:00+00:00",
+    "homeId": 631,
+    "awayId": 735,
+    "homeName": "Gent",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-20T14:00:00+00:00",
+    "homeId": 742,
+    "awayId": 736,
+    "homeName": "Genk",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-20T16:30:00+00:00",
+    "homeId": 569,
+    "awayId": 6224,
+    "homeName": "Club Brugge KV",
+    "awayName": "RWDM",
+    "homeGoals": 7,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-20T17:15:00+00:00",
+    "homeId": 734,
+    "awayId": 739,
+    "homeName": "Kortrijk",
+    "awayName": "AS Eupen",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-26T14:00:00+00:00",
+    "homeId": 261,
+    "awayId": 266,
+    "homeName": "KVC Westerlo",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-26T16:15:00+00:00",
+    "homeId": 739,
+    "awayId": 260,
+    "homeName": "AS Eupen",
+    "awayName": "OH Leuven",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-26T18:45:00+00:00",
+    "homeId": 734,
+    "awayId": 733,
+    "homeName": "Kortrijk",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-27T14:00:00+00:00",
+    "homeId": 735,
+    "awayId": 741,
+    "homeName": "St. Truiden",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-27T16:30:00+00:00",
+    "homeId": 554,
+    "awayId": 736,
+    "homeName": "Anderlecht",
+    "awayName": "Charleroi",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-01T18:45:00+00:00",
+    "homeId": 260,
+    "awayId": 734,
+    "homeName": "OH Leuven",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-02T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 261,
+    "homeName": "Cercle Brugge",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-02T16:15:00+00:00",
+    "homeId": 266,
+    "awayId": 739,
+    "homeName": "KV Mechelen",
+    "awayName": "AS Eupen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-02T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 6224,
+    "homeName": "Standard Liege",
+    "awayName": "RWDM",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-03T11:30:00+00:00",
+    "homeId": 631,
+    "awayId": 569,
+    "homeName": "Gent",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-03T14:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 740,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-03T16:30:00+00:00",
+    "homeId": 742,
+    "awayId": 554,
+    "homeName": "Genk",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-03T17:15:00+00:00",
+    "homeId": 736,
+    "awayId": 735,
+    "homeName": "Charleroi",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-15T18:45:00+00:00",
+    "homeId": 261,
+    "awayId": 740,
+    "homeName": "KVC Westerlo",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-16T14:00:00+00:00",
+    "homeId": 6224,
+    "awayId": 741,
+    "homeName": "RWDM",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-16T16:15:00+00:00",
+    "homeId": 1393,
+    "awayId": 742,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-16T18:45:00+00:00",
+    "homeId": 569,
+    "awayId": 736,
+    "homeName": "Club Brugge KV",
+    "awayName": "Charleroi",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-17T11:30:00+00:00",
+    "homeId": 739,
+    "awayId": 733,
+    "homeName": "AS Eupen",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-17T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 554,
+    "homeName": "Kortrijk",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-17T16:30:00+00:00",
+    "homeId": 260,
+    "awayId": 631,
+    "homeName": "OH Leuven",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-17T17:15:00+00:00",
+    "homeId": 735,
+    "awayId": 266,
+    "homeName": "St. Truiden",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-22T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 261,
+    "homeName": "Standard Liege",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-23T14:00:00+00:00",
+    "homeId": 736,
+    "awayId": 734,
+    "homeName": "Charleroi",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-23T16:15:00+00:00",
+    "homeId": 266,
+    "awayId": 260,
+    "homeName": "KV Mechelen",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-23T18:45:00+00:00",
+    "homeId": 740,
+    "awayId": 6224,
+    "homeName": "Antwerp",
+    "awayName": "RWDM",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-24T11:30:00+00:00",
+    "homeId": 742,
+    "awayId": 735,
+    "homeName": "Genk",
+    "awayName": "St. Truiden",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-24T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 1393,
+    "homeName": "Cercle Brugge",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-24T16:30:00+00:00",
+    "homeId": 554,
+    "awayId": 569,
+    "homeName": "Anderlecht",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-24T17:15:00+00:00",
+    "homeId": 631,
+    "awayId": 739,
+    "homeName": "Gent",
+    "awayName": "AS Eupen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-27T18:45:00+00:00",
+    "homeId": 740,
+    "awayId": 631,
+    "homeName": "Antwerp",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-28T16:30:00+00:00",
+    "homeId": 6224,
+    "awayId": 1393,
+    "homeName": "RWDM",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-28T18:45:00+00:00",
+    "homeId": 569,
+    "awayId": 742,
+    "homeName": "Club Brugge KV",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-29T18:45:00+00:00",
+    "homeId": 734,
+    "awayId": 741,
+    "homeName": "Kortrijk",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-30T14:00:00+00:00",
+    "homeId": 739,
+    "awayId": 554,
+    "homeName": "AS Eupen",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-30T16:15:00+00:00",
+    "homeId": 260,
+    "awayId": 733,
+    "homeName": "OH Leuven",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-30T18:45:00+00:00",
+    "homeId": 266,
+    "awayId": 740,
+    "homeName": "KV Mechelen",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-01T11:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 736,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Charleroi",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-01T14:00:00+00:00",
+    "homeId": 742,
+    "awayId": 261,
+    "homeName": "Genk",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-01T16:30:00+00:00",
+    "homeId": 569,
+    "awayId": 735,
+    "homeName": "Club Brugge KV",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-01T17:15:00+00:00",
+    "homeId": 6224,
+    "awayId": 631,
+    "homeName": "RWDM",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-06T18:45:00+00:00",
+    "homeId": 736,
+    "awayId": 6224,
+    "homeName": "Charleroi",
+    "awayName": "RWDM",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-07T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 260,
+    "homeName": "Cercle Brugge",
+    "awayName": "OH Leuven",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-07T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 734,
+    "homeName": "KVC Westerlo",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-07T18:45:00+00:00",
+    "homeId": 554,
+    "awayId": 266,
+    "homeName": "Anderlecht",
+    "awayName": "KV Mechelen",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-08T11:30:00+00:00",
+    "homeId": 733,
+    "awayId": 569,
+    "homeName": "Standard Liege",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-08T14:00:00+00:00",
+    "homeId": 740,
+    "awayId": 739,
+    "homeName": "Antwerp",
+    "awayName": "AS Eupen",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-08T16:30:00+00:00",
+    "homeId": 631,
+    "awayId": 742,
+    "homeName": "Gent",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-08T17:15:00+00:00",
+    "homeId": 735,
+    "awayId": 1393,
+    "homeName": "St. Truiden",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-10-20T18:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 739,
+    "homeName": "Union St. Gilloise",
+    "awayName": "AS Eupen",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-21T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 569,
+    "homeName": "Kortrijk",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-21T16:15:00+00:00",
+    "homeId": 6224,
+    "awayId": 261,
+    "homeName": "RWDM",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-21T18:45:00+00:00",
+    "homeId": 736,
+    "awayId": 740,
+    "homeName": "Charleroi",
+    "awayName": "Antwerp",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-22T11:30:00+00:00",
+    "homeId": 742,
+    "awayId": 266,
+    "homeName": "Genk",
+    "awayName": "KV Mechelen",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-22T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 631,
+    "homeName": "Cercle Brugge",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-22T16:30:00+00:00",
+    "homeId": 733,
+    "awayId": 554,
+    "homeName": "Standard Liege",
+    "awayName": "Anderlecht",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-22T17:15:00+00:00",
+    "homeId": 260,
+    "awayId": 735,
+    "homeName": "OH Leuven",
+    "awayName": "St. Truiden",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-27T18:45:00+00:00",
+    "homeId": 735,
+    "awayId": 6224,
+    "homeName": "St. Truiden",
+    "awayName": "RWDM",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-28T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 741,
+    "homeName": "KV Mechelen",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-28T16:15:00+00:00",
+    "homeId": 739,
+    "awayId": 736,
+    "homeName": "AS Eupen",
+    "awayName": "Charleroi",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-28T18:45:00+00:00",
+    "homeId": 554,
+    "awayId": 260,
+    "homeName": "Anderlecht",
+    "awayName": "OH Leuven",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-29T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 740,
+    "homeName": "Club Brugge KV",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-29T15:00:00+00:00",
+    "homeId": 261,
+    "awayId": 1393,
+    "homeName": "KVC Westerlo",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-29T17:30:00+00:00",
+    "homeId": 631,
+    "awayId": 733,
+    "homeName": "Gent",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-29T18:15:00+00:00",
+    "homeId": 734,
+    "awayId": 742,
+    "homeName": "Kortrijk",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-03T19:45:00+00:00",
+    "homeId": 735,
+    "awayId": 739,
+    "homeName": "St. Truiden",
+    "awayName": "AS Eupen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-04T15:00:00+00:00",
+    "homeId": 6224,
+    "awayId": 734,
+    "homeName": "RWDM",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-04T17:15:00+00:00",
+    "homeId": 260,
+    "awayId": 261,
+    "homeName": "OH Leuven",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-04T19:45:00+00:00",
+    "homeId": 740,
+    "awayId": 742,
+    "homeName": "Antwerp",
+    "awayName": "Genk",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-05T12:30:00+00:00",
+    "homeId": 741,
+    "awayId": 554,
+    "homeName": "Cercle Brugge",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-05T15:00:00+00:00",
+    "homeId": 733,
+    "awayId": 266,
+    "homeName": "Standard Liege",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-05T17:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 569,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-05T18:15:00+00:00",
+    "homeId": 736,
+    "awayId": 631,
+    "homeName": "Charleroi",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-10T19:45:00+00:00",
+    "homeId": 261,
+    "awayId": 735,
+    "homeName": "KVC Westerlo",
+    "awayName": "St. Truiden",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-11T15:00:00+00:00",
+    "homeId": 740,
+    "awayId": 733,
+    "homeName": "Antwerp",
+    "awayName": "Standard Liege",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-11T17:15:00+00:00",
+    "homeId": 739,
+    "awayId": 6224,
+    "homeName": "AS Eupen",
+    "awayName": "RWDM",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-11T19:45:00+00:00",
+    "homeId": 266,
+    "awayId": 736,
+    "homeName": "KV Mechelen",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-12T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 741,
+    "homeName": "Club Brugge KV",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-12T15:00:00+00:00",
+    "homeId": 742,
+    "awayId": 260,
+    "homeName": "Genk",
+    "awayName": "OH Leuven",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-12T17:30:00+00:00",
+    "homeId": 631,
+    "awayId": 554,
+    "homeName": "Gent",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-12T18:15:00+00:00",
+    "homeId": 1393,
+    "awayId": 734,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-24T19:45:00+00:00",
+    "homeId": 735,
+    "awayId": 740,
+    "homeName": "St. Truiden",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-25T15:00:00+00:00",
+    "homeId": 741,
+    "awayId": 739,
+    "homeName": "Cercle Brugge",
+    "awayName": "AS Eupen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-25T17:15:00+00:00",
+    "homeId": 736,
+    "awayId": 261,
+    "homeName": "Charleroi",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-25T19:45:00+00:00",
+    "homeId": 733,
+    "awayId": 742,
+    "homeName": "Standard Liege",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-26T12:30:00+00:00",
+    "homeId": 631,
+    "awayId": 1393,
+    "homeName": "Gent",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-26T15:00:00+00:00",
+    "homeId": 260,
+    "awayId": 569,
+    "homeName": "OH Leuven",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-26T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 6224,
+    "homeName": "Anderlecht",
+    "awayName": "RWDM",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-26T18:15:00+00:00",
+    "homeId": 734,
+    "awayId": 266,
+    "homeName": "Kortrijk",
+    "awayName": "KV Mechelen",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-01T19:45:00+00:00",
+    "homeId": 261,
+    "awayId": 554,
+    "homeName": "KVC Westerlo",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-02T15:00:00+00:00",
+    "homeId": 6224,
+    "awayId": 736,
+    "homeName": "RWDM",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-02T17:15:00+00:00",
+    "homeId": 739,
+    "awayId": 734,
+    "homeName": "AS Eupen",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-02T19:45:00+00:00",
+    "homeId": 740,
+    "awayId": 260,
+    "homeName": "Antwerp",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-03T12:30:00+00:00",
+    "homeId": 742,
+    "awayId": 631,
+    "homeName": "Genk",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-03T15:00:00+00:00",
+    "homeId": 266,
+    "awayId": 735,
+    "homeName": "KV Mechelen",
+    "awayName": "St. Truiden",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-03T17:30:00+00:00",
+    "homeId": 569,
+    "awayId": 733,
+    "homeName": "Club Brugge KV",
+    "awayName": "Standard Liege",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-03T18:15:00+00:00",
+    "homeId": 1393,
+    "awayId": 741,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-08T19:45:00+00:00",
+    "homeId": 734,
+    "awayId": 261,
+    "homeName": "Kortrijk",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-09T15:00:00+00:00",
+    "homeId": 741,
+    "awayId": 740,
+    "homeName": "Cercle Brugge",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-09T17:15:00+00:00",
+    "homeId": 735,
+    "awayId": 260,
+    "homeName": "St. Truiden",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-09T19:45:00+00:00",
+    "homeId": 631,
+    "awayId": 6224,
+    "homeName": "Gent",
+    "awayName": "RWDM",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-10T12:30:00+00:00",
+    "homeId": 266,
+    "awayId": 569,
+    "homeName": "KV Mechelen",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-10T15:00:00+00:00",
+    "homeId": 739,
+    "awayId": 742,
+    "homeName": "AS Eupen",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-10T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 733,
+    "homeName": "Anderlecht",
+    "awayName": "Standard Liege",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-10T18:15:00+00:00",
+    "homeId": 736,
+    "awayId": 1393,
+    "homeName": "Charleroi",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-15T19:45:00+00:00",
+    "homeId": 261,
+    "awayId": 739,
+    "homeName": "KVC Westerlo",
+    "awayName": "AS Eupen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-16T15:00:00+00:00",
+    "homeId": 260,
+    "awayId": 741,
+    "homeName": "OH Leuven",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-16T17:15:00+00:00",
+    "homeId": 6224,
+    "awayId": 735,
+    "homeName": "RWDM",
+    "awayName": "St. Truiden",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-16T19:45:00+00:00",
+    "homeId": 733,
+    "awayId": 736,
+    "homeName": "Standard Liege",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-17T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 631,
+    "homeName": "Club Brugge KV",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-17T15:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 266,
+    "homeName": "Union St. Gilloise",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-17T17:30:00+00:00",
+    "homeId": 740,
+    "awayId": 554,
+    "homeName": "Antwerp",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-17T18:15:00+00:00",
+    "homeId": 742,
+    "awayId": 734,
+    "homeName": "Genk",
+    "awayName": "Kortrijk",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-20T17:30:00+00:00",
+    "homeId": 741,
+    "awayId": 734,
+    "homeName": "Cercle Brugge",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-20T19:45:00+00:00",
+    "homeId": 266,
+    "awayId": 733,
+    "homeName": "KV Mechelen",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-21T19:45:00+00:00",
+    "homeId": 631,
+    "awayId": 260,
+    "homeName": "Gent",
+    "awayName": "OH Leuven",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-22T19:45:00+00:00",
+    "homeId": 6224,
+    "awayId": 569,
+    "homeName": "RWDM",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "date": "2023-12-23T15:00:00+00:00",
+    "homeId": 739,
+    "awayId": 1393,
+    "homeName": "AS Eupen",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-23T17:15:00+00:00",
+    "homeId": 735,
+    "awayId": 736,
+    "homeName": "St. Truiden",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-23T17:15:00+00:00",
+    "homeId": 740,
+    "awayId": 261,
+    "homeName": "Antwerp",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-23T19:45:00+00:00",
+    "homeId": 554,
+    "awayId": 742,
+    "homeName": "Anderlecht",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-26T12:30:00+00:00",
+    "homeId": 742,
+    "awayId": 740,
+    "homeName": "Genk",
+    "awayName": "Antwerp",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-26T15:00:00+00:00",
+    "homeId": 260,
+    "awayId": 739,
+    "homeName": "OH Leuven",
+    "awayName": "AS Eupen",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-26T15:00:00+00:00",
+    "homeId": 734,
+    "awayId": 631,
+    "homeName": "Kortrijk",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-26T17:30:00+00:00",
+    "homeId": 261,
+    "awayId": 6224,
+    "homeName": "KVC Westerlo",
+    "awayName": "RWDM",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-26T19:45:00+00:00",
+    "homeId": 569,
+    "awayId": 1393,
+    "homeName": "Club Brugge KV",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-27T17:30:00+00:00",
+    "homeId": 733,
+    "awayId": 735,
+    "homeName": "Standard Liege",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-27T19:45:00+00:00",
+    "homeId": 554,
+    "awayId": 741,
+    "homeName": "Anderlecht",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-27T19:45:00+00:00",
+    "homeId": 736,
+    "awayId": 266,
+    "homeName": "Charleroi",
+    "awayName": "KV Mechelen",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-19T19:45:00+00:00",
+    "homeId": 631,
+    "awayId": 266,
+    "homeName": "Gent",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-20T15:00:00+00:00",
+    "homeId": 742,
+    "awayId": 741,
+    "homeName": "Genk",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-20T17:15:00+00:00",
+    "homeId": 733,
+    "awayId": 734,
+    "homeName": "Standard Liege",
+    "awayName": "Kortrijk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-20T19:45:00+00:00",
+    "homeId": 569,
+    "awayId": 261,
+    "homeName": "Club Brugge KV",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-21T12:30:00+00:00",
+    "homeId": 740,
+    "awayId": 736,
+    "homeName": "Antwerp",
+    "awayName": "Charleroi",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-21T15:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 735,
+    "homeName": "Union St. Gilloise",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-21T17:30:00+00:00",
+    "homeId": 260,
+    "awayId": 554,
+    "homeName": "OH Leuven",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-24T18:15:00+00:00",
+    "homeId": 6224,
+    "awayId": 739,
+    "homeName": "RWDM",
+    "awayName": "AS Eupen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-26T19:45:00+00:00",
+    "homeId": 741,
+    "awayId": 733,
+    "homeName": "Cercle Brugge",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-27T15:00:00+00:00",
+    "homeId": 734,
+    "awayId": 260,
+    "homeName": "Kortrijk",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-27T19:45:00+00:00",
+    "homeId": 631,
+    "awayId": 261,
+    "homeName": "Gent",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-27T19:45:00+00:00",
+    "homeId": 736,
+    "awayId": 569,
+    "homeName": "Charleroi",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-01-28T12:30:00+00:00",
+    "homeId": 735,
+    "awayId": 742,
+    "homeName": "St. Truiden",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-28T15:00:00+00:00",
+    "homeId": 739,
+    "awayId": 740,
+    "homeName": "AS Eupen",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-28T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 1393,
+    "homeName": "Anderlecht",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-28T18:15:00+00:00",
+    "homeId": 266,
+    "awayId": 6224,
+    "homeName": "KV Mechelen",
+    "awayName": "RWDM",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-30T19:30:00+00:00",
+    "homeId": 261,
+    "awayId": 741,
+    "homeName": "KVC Westerlo",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-30T19:30:00+00:00",
+    "homeId": 569,
+    "awayId": 734,
+    "homeName": "Club Brugge KV",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-01-31T17:45:00+00:00",
+    "homeId": 260,
+    "awayId": 742,
+    "homeName": "OH Leuven",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-31T17:45:00+00:00",
+    "homeId": 736,
+    "awayId": 739,
+    "homeName": "Charleroi",
+    "awayName": "AS Eupen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-31T20:00:00+00:00",
+    "homeId": 733,
+    "awayId": 740,
+    "homeName": "Standard Liege",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-31T20:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 6224,
+    "homeName": "Union St. Gilloise",
+    "awayName": "RWDM",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-01T19:30:00+00:00",
+    "homeId": 266,
+    "awayId": 554,
+    "homeName": "KV Mechelen",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-01T19:30:00+00:00",
+    "homeId": 735,
+    "awayId": 631,
+    "homeName": "St. Truiden",
+    "awayName": "Gent",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-03T15:00:00+00:00",
+    "homeId": 6224,
+    "awayId": 733,
+    "homeName": "RWDM",
+    "awayName": "Standard Liege",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-03T17:15:00+00:00",
+    "homeId": 261,
+    "awayId": 260,
+    "homeName": "KVC Westerlo",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-03T17:15:00+00:00",
+    "homeId": 734,
+    "awayId": 736,
+    "homeName": "Kortrijk",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-03T19:45:00+00:00",
+    "homeId": 742,
+    "awayId": 1393,
+    "homeName": "Genk",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-04T12:30:00+00:00",
+    "homeId": 740,
+    "awayId": 569,
+    "homeName": "Antwerp",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-04T15:00:00+00:00",
+    "homeId": 739,
+    "awayId": 266,
+    "homeName": "AS Eupen",
+    "awayName": "KV Mechelen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-04T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 631,
+    "homeName": "Anderlecht",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-04T18:15:00+00:00",
+    "homeId": 741,
+    "awayId": 735,
+    "homeName": "Cercle Brugge",
+    "awayName": "St. Truiden",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-09T19:45:00+00:00",
+    "homeId": 735,
+    "awayId": 734,
+    "homeName": "St. Truiden",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-10T15:00:00+00:00",
+    "homeId": 733,
+    "awayId": 260,
+    "homeName": "Standard Liege",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-10T17:15:00+00:00",
+    "homeId": 1393,
+    "awayId": 261,
+    "homeName": "Union St. Gilloise",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-10T19:45:00+00:00",
+    "homeId": 569,
+    "awayId": 739,
+    "homeName": "Club Brugge KV",
+    "awayName": "AS Eupen",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-11T12:30:00+00:00",
+    "homeId": 6224,
+    "awayId": 740,
+    "homeName": "RWDM",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-02-11T15:00:00+00:00",
+    "homeId": 266,
+    "awayId": 742,
+    "homeName": "KV Mechelen",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-11T17:30:00+00:00",
+    "homeId": 736,
+    "awayId": 554,
+    "homeName": "Charleroi",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-11T18:15:00+00:00",
+    "homeId": 631,
+    "awayId": 741,
+    "homeName": "Gent",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-16T19:45:00+00:00",
+    "homeId": 261,
+    "awayId": 733,
+    "homeName": "KVC Westerlo",
+    "awayName": "Standard Liege",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-17T15:00:00+00:00",
+    "homeId": 742,
+    "awayId": 6224,
+    "homeName": "Genk",
+    "awayName": "RWDM",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-17T17:15:00+00:00",
+    "homeId": 260,
+    "awayId": 736,
+    "homeName": "OH Leuven",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-17T19:45:00+00:00",
+    "homeId": 740,
+    "awayId": 266,
+    "homeName": "Antwerp",
+    "awayName": "KV Mechelen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-18T12:30:00+00:00",
+    "homeId": 741,
+    "awayId": 569,
+    "homeName": "Cercle Brugge",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-18T15:00:00+00:00",
+    "homeId": 734,
+    "awayId": 1393,
+    "homeName": "Kortrijk",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-18T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 735,
+    "homeName": "Anderlecht",
+    "awayName": "St. Truiden",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-18T18:15:00+00:00",
+    "homeId": 739,
+    "awayId": 631,
+    "homeName": "AS Eupen",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-23T19:45:00+00:00",
+    "homeId": 736,
+    "awayId": 742,
+    "homeName": "Charleroi",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-24T15:00:00+00:00",
+    "homeId": 6224,
+    "awayId": 260,
+    "homeName": "RWDM",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-24T17:15:00+00:00",
+    "homeId": 735,
+    "awayId": 261,
+    "homeName": "St. Truiden",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-24T19:45:00+00:00",
+    "homeId": 266,
+    "awayId": 734,
+    "homeName": "KV Mechelen",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-25T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 554,
+    "homeName": "Club Brugge KV",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-25T15:00:00+00:00",
+    "homeId": 631,
+    "awayId": 740,
+    "homeName": "Gent",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-25T17:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 733,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Standard Liege",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-25T18:15:00+00:00",
+    "homeId": 739,
+    "awayId": 741,
+    "homeName": "AS Eupen",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-01T19:45:00+00:00",
+    "homeId": 261,
+    "awayId": 736,
+    "homeName": "KVC Westerlo",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-02T15:00:00+00:00",
+    "homeId": 741,
+    "awayId": 266,
+    "homeName": "Cercle Brugge",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-02T17:15:00+00:00",
+    "homeId": 260,
+    "awayId": 1393,
+    "homeName": "OH Leuven",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-02T19:45:00+00:00",
+    "homeId": 733,
+    "awayId": 631,
+    "homeName": "Standard Liege",
+    "awayName": "Gent",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-03T12:30:00+00:00",
+    "homeId": 742,
+    "awayId": 569,
+    "homeName": "Genk",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-03T15:00:00+00:00",
+    "homeId": 740,
+    "awayId": 735,
+    "homeName": "Antwerp",
+    "awayName": "St. Truiden",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-03T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 739,
+    "homeName": "Anderlecht",
+    "awayName": "AS Eupen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-03T18:15:00+00:00",
+    "homeId": 734,
+    "awayId": 6224,
+    "homeName": "Kortrijk",
+    "awayName": "RWDM",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-08T19:45:00+00:00",
+    "homeId": 266,
+    "awayId": 261,
+    "homeName": "KV Mechelen",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-09T15:00:00+00:00",
+    "homeId": 734,
+    "awayId": 740,
+    "homeName": "Kortrijk",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-09T17:15:00+00:00",
+    "homeId": 736,
+    "awayId": 741,
+    "homeName": "Charleroi",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-09T19:45:00+00:00",
+    "homeId": 6224,
+    "awayId": 554,
+    "homeName": "RWDM",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-10T12:30:00+00:00",
+    "homeId": 742,
+    "awayId": 733,
+    "homeName": "Genk",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-10T15:00:00+00:00",
+    "homeId": 569,
+    "awayId": 260,
+    "homeName": "Club Brugge KV",
+    "awayName": "OH Leuven",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-10T17:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 631,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-10T18:15:00+00:00",
+    "homeId": 739,
+    "awayId": 735,
+    "homeName": "AS Eupen",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-16T17:15:00+00:00",
+    "homeId": 733,
+    "awayId": 739,
+    "homeName": "Standard Liege",
+    "awayName": "AS Eupen",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-16T19:45:00+00:00",
+    "homeId": 554,
+    "awayId": 734,
+    "homeName": "Anderlecht",
+    "awayName": "Kortrijk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-17T12:30:00+00:00",
+    "homeId": 735,
+    "awayId": 569,
+    "homeName": "St. Truiden",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-17T15:00:00+00:00",
+    "homeId": 740,
+    "awayId": 1393,
+    "homeName": "Antwerp",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-17T17:30:00+00:00",
+    "homeId": 260,
+    "awayId": 266,
+    "homeName": "OH Leuven",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-17T17:30:00+00:00",
+    "homeId": 261,
+    "awayId": 742,
+    "homeName": "KVC Westerlo",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-17T17:30:00+00:00",
+    "homeId": 631,
+    "awayId": 736,
+    "homeName": "Gent",
+    "awayName": "Charleroi",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-17T17:30:00+00:00",
+    "homeId": 741,
+    "awayId": 6224,
+    "homeName": "Cercle Brugge",
+    "awayName": "RWDM",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-29T19:45:00+00:00",
+    "homeId": 631,
+    "awayId": 733,
+    "homeName": "Gent",
+    "awayName": "Standard Liege",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-30T17:15:00+00:00",
+    "homeId": 260,
+    "awayId": 266,
+    "homeName": "OH Leuven",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-30T19:45:00+00:00",
+    "homeId": 554,
+    "awayId": 740,
+    "homeName": "Anderlecht",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-31T16:30:00+00:00",
+    "homeId": 735,
+    "awayId": 261,
+    "homeName": "St. Truiden",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-01T11:30:00+00:00",
+    "homeId": 741,
+    "awayId": 569,
+    "homeName": "Cercle Brugge",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-01T16:30:00+00:00",
+    "homeId": 742,
+    "awayId": 1393,
+    "homeName": "Genk",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-05T18:45:00+00:00",
+    "homeId": 266,
+    "awayId": 735,
+    "homeName": "KV Mechelen",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-06T14:00:00+00:00",
+    "homeId": 736,
+    "awayId": 6224,
+    "homeName": "Charleroi",
+    "awayName": "RWDM",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-06T16:15:00+00:00",
+    "homeId": 733,
+    "awayId": 260,
+    "homeName": "Standard Liege",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-06T18:45:00+00:00",
+    "homeId": 740,
+    "awayId": 742,
+    "homeName": "Antwerp",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-07T11:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 741,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-07T14:00:00+00:00",
+    "homeId": 739,
+    "awayId": 734,
+    "homeName": "AS Eupen",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-07T16:30:00+00:00",
+    "homeId": 569,
+    "awayId": 554,
+    "homeName": "Club Brugge KV",
+    "awayName": "Anderlecht",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-07T17:15:00+00:00",
+    "homeId": 261,
+    "awayId": 631,
+    "homeName": "KVC Westerlo",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-12T18:45:00+00:00",
+    "homeId": 735,
+    "awayId": 733,
+    "homeName": "St. Truiden",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-13T14:00:00+00:00",
+    "homeId": 6224,
+    "awayId": 739,
+    "homeName": "RWDM",
+    "awayName": "AS Eupen",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-13T16:15:00+00:00",
+    "homeId": 266,
+    "awayId": 261,
+    "homeName": "KV Mechelen",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-13T18:45:00+00:00",
+    "homeId": 742,
+    "awayId": 741,
+    "homeName": "Genk",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-14T11:30:00+00:00",
+    "homeId": 569,
+    "awayId": 740,
+    "homeName": "Club Brugge KV",
+    "awayName": "Antwerp",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-14T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 736,
+    "homeName": "Kortrijk",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-14T16:30:00+00:00",
+    "homeId": 554,
+    "awayId": 1393,
+    "homeName": "Anderlecht",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-14T17:15:00+00:00",
+    "homeId": 260,
+    "awayId": 631,
+    "homeName": "OH Leuven",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-20T14:00:00+00:00",
+    "homeId": 260,
+    "awayId": 735,
+    "homeName": "OH Leuven",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-20T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 733,
+    "homeName": "KVC Westerlo",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-20T18:00:00+00:00",
+    "homeId": 631,
+    "awayId": 266,
+    "homeName": "Gent",
+    "awayName": "KV Mechelen",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-20T18:45:00+00:00",
+    "homeId": 742,
+    "awayId": 554,
+    "homeName": "Genk",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-21T11:30:00+00:00",
+    "homeId": 741,
+    "awayId": 740,
+    "homeName": "Cercle Brugge",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-21T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 6224,
+    "homeName": "Kortrijk",
+    "awayName": "RWDM",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-04-21T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 569,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-21T17:15:00+00:00",
+    "homeId": 736,
+    "awayId": 739,
+    "homeName": "Charleroi",
+    "awayName": "AS Eupen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-23T18:30:00+00:00",
+    "homeId": 261,
+    "awayId": 260,
+    "homeName": "KVC Westerlo",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-23T18:30:00+00:00",
+    "homeId": 733,
+    "awayId": 266,
+    "homeName": "Standard Liege",
+    "awayName": "KV Mechelen",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-23T18:30:00+00:00",
+    "homeId": 735,
+    "awayId": 631,
+    "homeName": "St. Truiden",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-24T18:30:00+00:00",
+    "homeId": 554,
+    "awayId": 741,
+    "homeName": "Anderlecht",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-24T18:30:00+00:00",
+    "homeId": 569,
+    "awayId": 742,
+    "homeName": "Club Brugge KV",
+    "awayName": "Genk",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-25T18:30:00+00:00",
+    "homeId": 740,
+    "awayId": 1393,
+    "homeName": "Antwerp",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-26T18:45:00+00:00",
+    "homeId": 739,
+    "awayId": 736,
+    "homeName": "AS Eupen",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-27T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 260,
+    "homeName": "KV Mechelen",
+    "awayName": "OH Leuven",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-27T16:15:00+00:00",
+    "homeId": 733,
+    "awayId": 735,
+    "homeName": "Standard Liege",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-27T18:45:00+00:00",
+    "homeId": 631,
+    "awayId": 261,
+    "homeName": "Gent",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-28T11:30:00+00:00",
+    "homeId": 742,
+    "awayId": 569,
+    "homeName": "Genk",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-28T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 554,
+    "homeName": "Cercle Brugge",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-28T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 740,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Antwerp",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-28T17:15:00+00:00",
+    "homeId": 6224,
+    "awayId": 734,
+    "homeName": "RWDM",
+    "awayName": "Kortrijk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-03T18:45:00+00:00",
+    "homeId": 261,
+    "awayId": 735,
+    "homeName": "KVC Westerlo",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-04T14:00:00+00:00",
+    "homeId": 6224,
+    "awayId": 736,
+    "homeName": "RWDM",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-05-04T16:15:00+00:00",
+    "homeId": 266,
+    "awayId": 631,
+    "homeName": "KV Mechelen",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-05-04T18:45:00+00:00",
+    "homeId": 741,
+    "awayId": 742,
+    "homeName": "Cercle Brugge",
+    "awayName": "Genk",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-05T11:30:00+00:00",
+    "homeId": 740,
+    "awayId": 569,
+    "homeName": "Antwerp",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-05T14:00:00+00:00",
+    "homeId": 260,
+    "awayId": 733,
+    "homeName": "OH Leuven",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-05T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 554,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-05T17:15:00+00:00",
+    "homeId": 734,
+    "awayId": 739,
+    "homeName": "Kortrijk",
+    "awayName": "AS Eupen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-10T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 261,
+    "homeName": "Standard Liege",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-05-11T16:15:00+00:00",
+    "homeId": 736,
+    "awayId": 734,
+    "homeName": "Charleroi",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-11T16:15:00+00:00",
+    "homeId": 739,
+    "awayId": 6224,
+    "homeName": "AS Eupen",
+    "awayName": "RWDM",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-11T18:45:00+00:00",
+    "homeId": 554,
+    "awayId": 742,
+    "homeName": "Anderlecht",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-12T11:30:00+00:00",
+    "homeId": 631,
+    "awayId": 260,
+    "homeName": "Gent",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-12T14:00:00+00:00",
+    "homeId": 735,
+    "awayId": 266,
+    "homeName": "St. Truiden",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-12T16:30:00+00:00",
+    "homeId": 740,
+    "awayId": 741,
+    "homeName": "Antwerp",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-13T18:30:00+00:00",
+    "homeId": 569,
+    "awayId": 1393,
+    "homeName": "Club Brugge KV",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-17T18:45:00+00:00",
+    "homeId": 735,
+    "awayId": 260,
+    "homeName": "St. Truiden",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-18T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 266,
+    "homeName": "KVC Westerlo",
+    "awayName": "KV Mechelen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-18T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 631,
+    "homeName": "Standard Liege",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-05-19T11:30:00+00:00",
+    "homeId": 741,
+    "awayId": 1393,
+    "homeName": "Cercle Brugge",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-19T16:30:00+00:00",
+    "homeId": 554,
+    "awayId": 569,
+    "homeName": "Anderlecht",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-19T17:15:00+00:00",
+    "homeId": 259,
+    "awayId": 734,
+    "homeName": "Lommel United",
+    "awayName": "Kortrijk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-20T16:30:00+00:00",
+    "homeId": 742,
+    "awayId": 740,
+    "homeName": "Genk",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-25T18:30:00+00:00",
+    "homeId": 260,
+    "awayId": 261,
+    "homeName": "OH Leuven",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-25T18:30:00+00:00",
+    "homeId": 266,
+    "awayId": 733,
+    "homeName": "KV Mechelen",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-25T18:30:00+00:00",
+    "homeId": 631,
+    "awayId": 735,
+    "homeName": "Gent",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-26T16:30:00+00:00",
+    "homeId": 569,
+    "awayId": 741,
+    "homeName": "Club Brugge KV",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-26T16:30:00+00:00",
+    "homeId": 740,
+    "awayId": 554,
+    "homeName": "Antwerp",
+    "awayName": "Anderlecht",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-26T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 742,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-06-02T11:30:00+00:00",
+    "homeId": 742,
+    "awayId": 631,
+    "homeName": "Genk",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-26T18:45:00+00:00",
+    "homeId": 569,
+    "awayId": 266,
+    "homeName": "Club Brugge KV",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-27T14:00:00+00:00",
+    "homeId": 6215,
+    "awayId": 1393,
+    "homeName": "Dender",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-27T16:15:00+00:00",
+    "homeId": 263,
+    "awayId": 260,
+    "homeName": "Beerschot VA",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-27T18:45:00+00:00",
+    "homeId": 554,
+    "awayId": 735,
+    "homeName": "Anderlecht",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-28T11:30:00+00:00",
+    "homeId": 742,
+    "awayId": 733,
+    "homeName": "Genk",
+    "awayName": "Standard Liege",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-28T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 631,
+    "homeName": "Kortrijk",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-28T16:30:00+00:00",
+    "homeId": 736,
+    "awayId": 740,
+    "homeName": "Charleroi",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-28T17:15:00+00:00",
+    "homeId": 261,
+    "awayId": 741,
+    "homeName": "KVC Westerlo",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-02T18:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 263,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Beerschot VA",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-03T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 261,
+    "homeName": "KV Mechelen",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-08-03T16:15:00+00:00",
+    "homeId": 260,
+    "awayId": 742,
+    "homeName": "OH Leuven",
+    "awayName": "Genk",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-03T18:45:00+00:00",
+    "homeId": 735,
+    "awayId": 736,
+    "homeName": "St. Truiden",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-08-04T11:30:00+00:00",
+    "homeId": 740,
+    "awayId": 554,
+    "homeName": "Antwerp",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-04T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 734,
+    "homeName": "Cercle Brugge",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-04T16:30:00+00:00",
+    "homeId": 733,
+    "awayId": 569,
+    "homeName": "Standard Liege",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-04T17:15:00+00:00",
+    "homeId": 631,
+    "awayId": 6215,
+    "homeName": "Gent",
+    "awayName": "Dender",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-09T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 266,
+    "homeName": "Standard Liege",
+    "awayName": "KV Mechelen",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-10T14:00:00+00:00",
+    "homeId": 6215,
+    "awayId": 734,
+    "homeName": "Dender",
+    "awayName": "Kortrijk",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-10T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 1393,
+    "homeName": "KVC Westerlo",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-10T18:45:00+00:00",
+    "homeId": 554,
+    "awayId": 260,
+    "homeName": "Anderlecht",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-11T11:30:00+00:00",
+    "homeId": 742,
+    "awayId": 569,
+    "homeName": "Genk",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-11T14:00:00+00:00",
+    "homeId": 740,
+    "awayId": 735,
+    "homeName": "Antwerp",
+    "awayName": "St. Truiden",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-11T16:30:00+00:00",
+    "homeId": 736,
+    "awayId": 631,
+    "homeName": "Charleroi",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-11T17:15:00+00:00",
+    "homeId": 741,
+    "awayId": 263,
+    "homeName": "Cercle Brugge",
+    "awayName": "Beerschot VA",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-16T18:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 736,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-17T14:00:00+00:00",
+    "homeId": 263,
+    "awayId": 742,
+    "homeName": "Beerschot VA",
+    "awayName": "Genk",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-08-17T16:15:00+00:00",
+    "homeId": 735,
+    "awayId": 6215,
+    "homeName": "St. Truiden",
+    "awayName": "Dender",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-17T18:45:00+00:00",
+    "homeId": 266,
+    "awayId": 554,
+    "homeName": "KV Mechelen",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-18T11:30:00+00:00",
+    "homeId": 569,
+    "awayId": 740,
+    "homeName": "Club Brugge KV",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-18T14:00:00+00:00",
+    "homeId": 260,
+    "awayId": 741,
+    "homeName": "OH Leuven",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-18T16:30:00+00:00",
+    "homeId": 734,
+    "awayId": 733,
+    "homeName": "Kortrijk",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-18T17:15:00+00:00",
+    "homeId": 631,
+    "awayId": 261,
+    "homeName": "Gent",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-24T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 260,
+    "homeName": "KVC Westerlo",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-24T18:45:00+00:00",
+    "homeId": 740,
+    "awayId": 266,
+    "homeName": "Antwerp",
+    "awayName": "KV Mechelen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-25T11:30:00+00:00",
+    "homeId": 6215,
+    "awayId": 569,
+    "homeName": "Dender",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-25T14:00:00+00:00",
+    "homeId": 735,
+    "awayId": 1393,
+    "homeName": "St. Truiden",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-25T16:30:00+00:00",
+    "homeId": 733,
+    "awayId": 263,
+    "homeName": "Standard Liege",
+    "awayName": "Beerschot VA",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-25T17:15:00+00:00",
+    "homeId": 736,
+    "awayId": 734,
+    "homeName": "Charleroi",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-30T18:45:00+00:00",
+    "homeId": 742,
+    "awayId": 261,
+    "homeName": "Genk",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-31T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 736,
+    "homeName": "KV Mechelen",
+    "awayName": "Charleroi",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-31T16:15:00+00:00",
+    "homeId": 263,
+    "awayId": 6215,
+    "homeName": "Beerschot VA",
+    "awayName": "Dender",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-31T18:45:00+00:00",
+    "homeId": 260,
+    "awayId": 733,
+    "homeName": "OH Leuven",
+    "awayName": "Standard Liege",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-01T11:30:00+00:00",
+    "homeId": 569,
+    "awayId": 741,
+    "homeName": "Club Brugge KV",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-01T14:00:00+00:00",
+    "homeId": 631,
+    "awayId": 740,
+    "homeName": "Gent",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-01T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 554,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-01T17:15:00+00:00",
+    "homeId": 734,
+    "awayId": 735,
+    "homeName": "Kortrijk",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-13T18:45:00+00:00",
+    "homeId": 6215,
+    "awayId": 733,
+    "homeName": "Dender",
+    "awayName": "Standard Liege",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-14T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 742,
+    "homeName": "Cercle Brugge",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-14T16:15:00+00:00",
+    "homeId": 734,
+    "awayId": 569,
+    "homeName": "Kortrijk",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-14T18:45:00+00:00",
+    "homeId": 554,
+    "awayId": 261,
+    "homeName": "Anderlecht",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-15T11:30:00+00:00",
+    "homeId": 740,
+    "awayId": 1393,
+    "homeName": "Antwerp",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-15T14:00:00+00:00",
+    "homeId": 735,
+    "awayId": 260,
+    "homeName": "St. Truiden",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-15T16:30:00+00:00",
+    "homeId": 736,
+    "awayId": 263,
+    "homeName": "Charleroi",
+    "awayName": "Beerschot VA",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-15T17:15:00+00:00",
+    "homeId": 631,
+    "awayId": 266,
+    "homeName": "Gent",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-17T18:00:00+00:00",
+    "homeId": 554,
+    "awayId": 742,
+    "homeName": "Anderlecht",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-20T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 1393,
+    "homeName": "Standard Liege",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-21T14:00:00+00:00",
+    "homeId": 263,
+    "awayId": 735,
+    "homeName": "Beerschot VA",
+    "awayName": "St. Truiden",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-21T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 740,
+    "homeName": "KVC Westerlo",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-21T18:45:00+00:00",
+    "homeId": 554,
+    "awayId": 736,
+    "homeName": "Anderlecht",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-22T11:30:00+00:00",
+    "homeId": 569,
+    "awayId": 631,
+    "homeName": "Club Brugge KV",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-09-22T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 741,
+    "homeName": "KV Mechelen",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-22T16:30:00+00:00",
+    "homeId": 742,
+    "awayId": 6215,
+    "homeName": "Genk",
+    "awayName": "Dender",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-22T17:15:00+00:00",
+    "homeId": 260,
+    "awayId": 734,
+    "homeName": "OH Leuven",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-26T18:45:00+00:00",
+    "homeId": 741,
+    "awayId": 631,
+    "homeName": "Cercle Brugge",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-27T18:45:00+00:00",
+    "homeId": 736,
+    "awayId": 569,
+    "homeName": "Charleroi",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-28T14:00:00+00:00",
+    "homeId": 742,
+    "awayId": 266,
+    "homeName": "Genk",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-28T16:15:00+00:00",
+    "homeId": 733,
+    "awayId": 261,
+    "homeName": "Standard Liege",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-28T18:45:00+00:00",
+    "homeId": 6215,
+    "awayId": 554,
+    "homeName": "Dender",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-29T11:30:00+00:00",
+    "homeId": 740,
+    "awayId": 263,
+    "homeName": "Antwerp",
+    "awayName": "Beerschot VA",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-29T14:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 734,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-29T16:30:00+00:00",
+    "homeId": 631,
+    "awayId": 260,
+    "homeName": "Gent",
+    "awayName": "OH Leuven",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-29T17:15:00+00:00",
+    "homeId": 741,
+    "awayId": 735,
+    "homeName": "Cercle Brugge",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-04T18:45:00+00:00",
+    "homeId": 261,
+    "awayId": 263,
+    "homeName": "KVC Westerlo",
+    "awayName": "Beerschot VA",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-05T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 260,
+    "homeName": "KV Mechelen",
+    "awayName": "OH Leuven",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-05T16:15:00+00:00",
+    "homeId": 734,
+    "awayId": 742,
+    "homeName": "Kortrijk",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-05T18:45:00+00:00",
+    "homeId": 6215,
+    "awayId": 736,
+    "homeName": "Dender",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-06T11:30:00+00:00",
+    "homeId": 554,
+    "awayId": 733,
+    "homeName": "Anderlecht",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-06T14:00:00+00:00",
+    "homeId": 740,
+    "awayId": 741,
+    "homeName": "Antwerp",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-06T16:30:00+00:00",
+    "homeId": 569,
+    "awayId": 1393,
+    "homeName": "Club Brugge KV",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-06T17:15:00+00:00",
+    "homeId": 735,
+    "awayId": 631,
+    "homeName": "St. Truiden",
+    "awayName": "Gent",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-18T18:45:00+00:00",
+    "homeId": 263,
+    "awayId": 554,
+    "homeName": "Beerschot VA",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-19T14:00:00+00:00",
+    "homeId": 261,
+    "awayId": 569,
+    "homeName": "KVC Westerlo",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-19T16:15:00+00:00",
+    "homeId": 741,
+    "awayId": 6215,
+    "homeName": "Cercle Brugge",
+    "awayName": "Dender",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-19T18:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 631,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-20T11:30:00+00:00",
+    "homeId": 742,
+    "awayId": 735,
+    "homeName": "Genk",
+    "awayName": "St. Truiden",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-20T14:00:00+00:00",
+    "homeId": 260,
+    "awayId": 740,
+    "homeName": "OH Leuven",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-20T16:30:00+00:00",
+    "homeId": 733,
+    "awayId": 736,
+    "homeName": "Standard Liege",
+    "awayName": "Charleroi",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-20T17:15:00+00:00",
+    "homeId": 266,
+    "awayId": 734,
+    "homeName": "KV Mechelen",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-25T18:45:00+00:00",
+    "homeId": 734,
+    "awayId": 263,
+    "homeName": "Kortrijk",
+    "awayName": "Beerschot VA",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-26T14:00:00+00:00",
+    "homeId": 736,
+    "awayId": 260,
+    "homeName": "Charleroi",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-26T16:15:00+00:00",
+    "homeId": 6215,
+    "awayId": 266,
+    "homeName": "Dender",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-10-26T18:45:00+00:00",
+    "homeId": 735,
+    "awayId": 261,
+    "homeName": "St. Truiden",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-27T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 554,
+    "homeName": "Club Brugge KV",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-27T15:00:00+00:00",
+    "homeId": 740,
+    "awayId": 733,
+    "homeName": "Antwerp",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-27T17:30:00+00:00",
+    "homeId": 631,
+    "awayId": 742,
+    "homeName": "Gent",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-27T18:15:00+00:00",
+    "homeId": 1393,
+    "awayId": 741,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-01T19:45:00+00:00",
+    "homeId": 261,
+    "awayId": 6215,
+    "homeName": "KVC Westerlo",
+    "awayName": "Dender",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-02T15:00:00+00:00",
+    "homeId": 733,
+    "awayId": 735,
+    "homeName": "Standard Liege",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-02T17:15:00+00:00",
+    "homeId": 260,
+    "awayId": 569,
+    "homeName": "OH Leuven",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-02T19:45:00+00:00",
+    "homeId": 266,
+    "awayId": 1393,
+    "homeName": "KV Mechelen",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-03T12:30:00+00:00",
+    "homeId": 742,
+    "awayId": 740,
+    "homeName": "Genk",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-03T15:00:00+00:00",
+    "homeId": 741,
+    "awayId": 736,
+    "homeName": "Cercle Brugge",
+    "awayName": "Charleroi",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-03T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 734,
+    "homeName": "Anderlecht",
+    "awayName": "Kortrijk",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-03T18:15:00+00:00",
+    "homeId": 263,
+    "awayId": 631,
+    "homeName": "Beerschot VA",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-08T19:45:00+00:00",
+    "homeId": 735,
+    "awayId": 266,
+    "homeName": "St. Truiden",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-09T15:00:00+00:00",
+    "homeId": 734,
+    "awayId": 740,
+    "homeName": "Kortrijk",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-09T17:15:00+00:00",
+    "homeId": 6215,
+    "awayId": 260,
+    "homeName": "Dender",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-09T19:45:00+00:00",
+    "homeId": 736,
+    "awayId": 261,
+    "homeName": "Charleroi",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-10T12:30:00+00:00",
+    "homeId": 741,
+    "awayId": 554,
+    "homeName": "Cercle Brugge",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-11-10T15:00:00+00:00",
+    "homeId": 631,
+    "awayId": 733,
+    "homeName": "Gent",
+    "awayName": "Standard Liege",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-10T17:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 742,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Genk",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-10T18:15:00+00:00",
+    "homeId": 263,
+    "awayId": 569,
+    "homeName": "Beerschot VA",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-22T19:45:00+00:00",
+    "homeId": 740,
+    "awayId": 6215,
+    "homeName": "Antwerp",
+    "awayName": "Dender",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-23T15:00:00+00:00",
+    "homeId": 569,
+    "awayId": 735,
+    "homeName": "Club Brugge KV",
+    "awayName": "St. Truiden",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-23T17:15:00+00:00",
+    "homeId": 733,
+    "awayId": 741,
+    "homeName": "Standard Liege",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-23T19:45:00+00:00",
+    "homeId": 742,
+    "awayId": 736,
+    "homeName": "Genk",
+    "awayName": "Charleroi",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-24T12:30:00+00:00",
+    "homeId": 266,
+    "awayId": 263,
+    "homeName": "KV Mechelen",
+    "awayName": "Beerschot VA",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-24T15:00:00+00:00",
+    "homeId": 260,
+    "awayId": 1393,
+    "homeName": "OH Leuven",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-24T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 631,
+    "homeName": "Anderlecht",
+    "awayName": "Gent",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-24T18:15:00+00:00",
+    "homeId": 261,
+    "awayId": 734,
+    "homeName": "KVC Westerlo",
+    "awayName": "Kortrijk",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-29T19:45:00+00:00",
+    "homeId": 734,
+    "awayId": 266,
+    "homeName": "Kortrijk",
+    "awayName": "KV Mechelen",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-30T17:15:00+00:00",
+    "homeId": 569,
+    "awayId": 6215,
+    "homeName": "Club Brugge KV",
+    "awayName": "Dender",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-30T19:45:00+00:00",
+    "homeId": 736,
+    "awayId": 733,
+    "homeName": "Charleroi",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-01T12:30:00+00:00",
+    "homeId": 735,
+    "awayId": 742,
+    "homeName": "St. Truiden",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-01T15:00:00+00:00",
+    "homeId": 260,
+    "awayId": 554,
+    "homeName": "OH Leuven",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-01T15:00:00+00:00",
+    "homeId": 263,
+    "awayId": 741,
+    "homeName": "Beerschot VA",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-01T17:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 740,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-01T18:15:00+00:00",
+    "homeId": 261,
+    "awayId": 631,
+    "homeName": "KVC Westerlo",
+    "awayName": "Gent",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-07T15:00:00+00:00",
+    "homeId": 742,
+    "awayId": 734,
+    "homeName": "Genk",
+    "awayName": "Kortrijk",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-07T17:15:00+00:00",
+    "homeId": 266,
+    "awayId": 569,
+    "homeName": "KV Mechelen",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-07T17:15:00+00:00",
+    "homeId": 733,
+    "awayId": 260,
+    "homeName": "Standard Liege",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-07T19:45:00+00:00",
+    "homeId": 631,
+    "awayId": 735,
+    "homeName": "Gent",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-08T12:30:00+00:00",
+    "homeId": 740,
+    "awayId": 736,
+    "homeName": "Antwerp",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-08T15:00:00+00:00",
+    "homeId": 741,
+    "awayId": 1393,
+    "homeName": "Cercle Brugge",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-08T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 263,
+    "homeName": "Anderlecht",
+    "awayName": "Beerschot VA",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-08T18:15:00+00:00",
+    "homeId": 6215,
+    "awayId": 261,
+    "homeName": "Dender",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-13T19:45:00+00:00",
+    "homeId": 266,
+    "awayId": 740,
+    "homeName": "KV Mechelen",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-14T15:00:00+00:00",
+    "homeId": 263,
+    "awayId": 733,
+    "homeName": "Beerschot VA",
+    "awayName": "Standard Liege",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-14T17:15:00+00:00",
+    "homeId": 260,
+    "awayId": 736,
+    "homeName": "OH Leuven",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-14T19:45:00+00:00",
+    "homeId": 734,
+    "awayId": 6215,
+    "homeName": "Kortrijk",
+    "awayName": "Dender",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-15T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 742,
+    "homeName": "Club Brugge KV",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-15T15:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 261,
+    "homeName": "Union St. Gilloise",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-15T17:30:00+00:00",
+    "homeId": 735,
+    "awayId": 554,
+    "homeName": "St. Truiden",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-15T18:15:00+00:00",
+    "homeId": 631,
+    "awayId": 741,
+    "homeName": "Gent",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-20T19:45:00+00:00",
+    "homeId": 261,
+    "awayId": 266,
+    "homeName": "KVC Westerlo",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-21T15:00:00+00:00",
+    "homeId": 736,
+    "awayId": 735,
+    "homeName": "Charleroi",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-21T17:15:00+00:00",
+    "homeId": 6215,
+    "awayId": 740,
+    "homeName": "Dender",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-21T19:45:00+00:00",
+    "homeId": 263,
+    "awayId": 734,
+    "homeName": "Beerschot VA",
+    "awayName": "Kortrijk",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-22T12:30:00+00:00",
+    "homeId": 742,
+    "awayId": 554,
+    "homeName": "Genk",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-22T15:00:00+00:00",
+    "homeId": 733,
+    "awayId": 631,
+    "homeName": "Standard Liege",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-22T17:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 569,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-22T18:15:00+00:00",
+    "homeId": 741,
+    "awayId": 260,
+    "homeName": "Cercle Brugge",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-26T12:30:00+00:00",
+    "homeId": 740,
+    "awayId": 742,
+    "homeName": "Antwerp",
+    "awayName": "Genk",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-26T15:00:00+00:00",
+    "homeId": 569,
+    "awayId": 261,
+    "homeName": "Club Brugge KV",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-26T15:00:00+00:00",
+    "homeId": 734,
+    "awayId": 736,
+    "homeName": "Kortrijk",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-26T17:30:00+00:00",
+    "homeId": 266,
+    "awayId": 733,
+    "homeName": "KV Mechelen",
+    "awayName": "Standard Liege",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-26T19:45:00+00:00",
+    "homeId": 631,
+    "awayId": 1393,
+    "homeName": "Gent",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-27T17:30:00+00:00",
+    "homeId": 260,
+    "awayId": 263,
+    "homeName": "OH Leuven",
+    "awayName": "Beerschot VA",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-27T19:45:00+00:00",
+    "homeId": 554,
+    "awayId": 6215,
+    "homeName": "Anderlecht",
+    "awayName": "Dender",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-27T19:45:00+00:00",
+    "homeId": 735,
+    "awayId": 741,
+    "homeName": "St. Truiden",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-10T19:45:00+00:00",
+    "homeId": 733,
+    "awayId": 734,
+    "homeName": "Standard Liege",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-11T15:00:00+00:00",
+    "homeId": 261,
+    "awayId": 735,
+    "homeName": "KVC Westerlo",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-11T17:15:00+00:00",
+    "homeId": 742,
+    "awayId": 260,
+    "homeName": "Genk",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-11T19:45:00+00:00",
+    "homeId": 736,
+    "awayId": 1393,
+    "homeName": "Charleroi",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-12T12:30:00+00:00",
+    "homeId": 263,
+    "awayId": 740,
+    "homeName": "Beerschot VA",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-12T15:00:00+00:00",
+    "homeId": 6215,
+    "awayId": 631,
+    "homeName": "Dender",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-12T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 569,
+    "homeName": "Anderlecht",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-12T18:15:00+00:00",
+    "homeId": 741,
+    "awayId": 266,
+    "homeName": "Cercle Brugge",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-17T19:45:00+00:00",
+    "homeId": 631,
+    "awayId": 736,
+    "homeName": "Gent",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-18T15:00:00+00:00",
+    "homeId": 6215,
+    "awayId": 741,
+    "homeName": "Dender",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-18T17:15:00+00:00",
+    "homeId": 266,
+    "awayId": 742,
+    "homeName": "KV Mechelen",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-18T19:45:00+00:00",
+    "homeId": 569,
+    "awayId": 263,
+    "homeName": "Club Brugge KV",
+    "awayName": "Beerschot VA",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-19T12:30:00+00:00",
+    "homeId": 734,
+    "awayId": 554,
+    "homeName": "Kortrijk",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-19T15:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 260,
+    "homeName": "Union St. Gilloise",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-19T17:30:00+00:00",
+    "homeId": 735,
+    "awayId": 733,
+    "homeName": "St. Truiden",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-19T18:15:00+00:00",
+    "homeId": 740,
+    "awayId": 261,
+    "homeName": "Antwerp",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-24T19:45:00+00:00",
+    "homeId": 735,
+    "awayId": 740,
+    "homeName": "St. Truiden",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-25T15:00:00+00:00",
+    "homeId": 261,
+    "awayId": 742,
+    "homeName": "KVC Westerlo",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-25T17:15:00+00:00",
+    "homeId": 736,
+    "awayId": 741,
+    "homeName": "Charleroi",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-25T19:45:00+00:00",
+    "homeId": 569,
+    "awayId": 734,
+    "homeName": "Club Brugge KV",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-26T12:30:00+00:00",
+    "homeId": 733,
+    "awayId": 6215,
+    "homeName": "Standard Liege",
+    "awayName": "Dender",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-26T15:00:00+00:00",
+    "homeId": 263,
+    "awayId": 1393,
+    "homeName": "Beerschot VA",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-01-26T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 266,
+    "homeName": "Anderlecht",
+    "awayName": "KV Mechelen",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-26T18:15:00+00:00",
+    "homeId": 260,
+    "awayId": 631,
+    "homeName": "OH Leuven",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-31T19:45:00+00:00",
+    "homeId": 260,
+    "awayId": 266,
+    "homeName": "OH Leuven",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-01T15:00:00+00:00",
+    "homeId": 736,
+    "awayId": 6215,
+    "homeName": "Charleroi",
+    "awayName": "Dender",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-01T17:15:00+00:00",
+    "homeId": 741,
+    "awayId": 733,
+    "homeName": "Cercle Brugge",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-01T19:45:00+00:00",
+    "homeId": 742,
+    "awayId": 263,
+    "homeName": "Genk",
+    "awayName": "Beerschot VA",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-02T12:30:00+00:00",
+    "homeId": 740,
+    "awayId": 569,
+    "homeName": "Antwerp",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-02T15:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 735,
+    "homeName": "Union St. Gilloise",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-02T17:30:00+00:00",
+    "homeId": 631,
+    "awayId": 554,
+    "homeName": "Gent",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-02T18:15:00+00:00",
+    "homeId": 734,
+    "awayId": 261,
+    "homeName": "Kortrijk",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-07T19:45:00+00:00",
+    "homeId": 266,
+    "awayId": 631,
+    "homeName": "KV Mechelen",
+    "awayName": "Gent",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-08T15:00:00+00:00",
+    "homeId": 569,
+    "awayId": 260,
+    "homeName": "Club Brugge KV",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-08T17:15:00+00:00",
+    "homeId": 6215,
+    "awayId": 735,
+    "homeName": "Dender",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-08T19:45:00+00:00",
+    "homeId": 742,
+    "awayId": 741,
+    "homeName": "Genk",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-09T12:30:00+00:00",
+    "homeId": 554,
+    "awayId": 740,
+    "homeName": "Anderlecht",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-09T15:00:00+00:00",
+    "homeId": 734,
+    "awayId": 1393,
+    "homeName": "Kortrijk",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-09T17:30:00+00:00",
+    "homeId": 261,
+    "awayId": 733,
+    "homeName": "KVC Westerlo",
+    "awayName": "Standard Liege",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-09T18:15:00+00:00",
+    "homeId": 263,
+    "awayId": 736,
+    "homeName": "Beerschot VA",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-14T19:45:00+00:00",
+    "homeId": 733,
+    "awayId": 742,
+    "homeName": "Standard Liege",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-15T15:00:00+00:00",
+    "homeId": 260,
+    "awayId": 6215,
+    "homeName": "OH Leuven",
+    "awayName": "Dender",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-15T17:15:00+00:00",
+    "homeId": 740,
+    "awayId": 734,
+    "homeName": "Antwerp",
+    "awayName": "Kortrijk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-15T19:45:00+00:00",
+    "homeId": 735,
+    "awayId": 569,
+    "homeName": "St. Truiden",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-16T12:30:00+00:00",
+    "homeId": 631,
+    "awayId": 263,
+    "homeName": "Gent",
+    "awayName": "Beerschot VA",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-16T15:00:00+00:00",
+    "homeId": 1393,
+    "awayId": 266,
+    "homeName": "Union St. Gilloise",
+    "awayName": "KV Mechelen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-16T17:30:00+00:00",
+    "homeId": 736,
+    "awayId": 554,
+    "homeName": "Charleroi",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-16T18:15:00+00:00",
+    "homeId": 741,
+    "awayId": 261,
+    "homeName": "Cercle Brugge",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-21T19:45:00+00:00",
+    "homeId": 266,
+    "awayId": 735,
+    "homeName": "KV Mechelen",
+    "awayName": "St. Truiden",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-22T15:00:00+00:00",
+    "homeId": 6215,
+    "awayId": 263,
+    "homeName": "Dender",
+    "awayName": "Beerschot VA",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-22T17:15:00+00:00",
+    "homeId": 261,
+    "awayId": 736,
+    "homeName": "KVC Westerlo",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-22T19:45:00+00:00",
+    "homeId": 740,
+    "awayId": 260,
+    "homeName": "Antwerp",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-23T12:30:00+00:00",
+    "homeId": 569,
+    "awayId": 733,
+    "homeName": "Club Brugge KV",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-23T15:00:00+00:00",
+    "homeId": 742,
+    "awayId": 631,
+    "homeName": "Genk",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-23T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 1393,
+    "homeName": "Anderlecht",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-23T18:15:00+00:00",
+    "homeId": 734,
+    "awayId": 741,
+    "homeName": "Kortrijk",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-28T19:45:00+00:00",
+    "homeId": 736,
+    "awayId": 742,
+    "homeName": "Charleroi",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-01T15:00:00+00:00",
+    "homeId": 631,
+    "awayId": 569,
+    "homeName": "Gent",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-01T15:00:00+00:00",
+    "homeId": 741,
+    "awayId": 740,
+    "homeName": "Cercle Brugge",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-01T17:15:00+00:00",
+    "homeId": 735,
+    "awayId": 734,
+    "homeName": "St. Truiden",
+    "awayName": "Kortrijk",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-01T19:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 6215,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Dender",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-02T15:00:00+00:00",
+    "homeId": 263,
+    "awayId": 266,
+    "homeName": "Beerschot VA",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-02T17:30:00+00:00",
+    "homeId": 733,
+    "awayId": 554,
+    "homeName": "Standard Liege",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-02T18:15:00+00:00",
+    "homeId": 260,
+    "awayId": 261,
+    "homeName": "OH Leuven",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-07T19:45:00+00:00",
+    "homeId": 735,
+    "awayId": 263,
+    "homeName": "St. Truiden",
+    "awayName": "Beerschot VA",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-08T15:00:00+00:00",
+    "homeId": 734,
+    "awayId": 260,
+    "homeName": "Kortrijk",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-08T17:15:00+00:00",
+    "homeId": 736,
+    "awayId": 266,
+    "homeName": "Charleroi",
+    "awayName": "KV Mechelen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-08T19:45:00+00:00",
+    "homeId": 6215,
+    "awayId": 742,
+    "homeName": "Dender",
+    "awayName": "Genk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-09T12:30:00+00:00",
+    "homeId": 741,
+    "awayId": 569,
+    "homeName": "Cercle Brugge",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-09T15:00:00+00:00",
+    "homeId": 261,
+    "awayId": 554,
+    "homeName": "KVC Westerlo",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-09T17:30:00+00:00",
+    "homeId": 740,
+    "awayId": 631,
+    "homeName": "Antwerp",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-09T18:15:00+00:00",
+    "homeId": 1393,
+    "awayId": 733,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Standard Liege",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-15T19:45:00+00:00",
+    "homeId": 742,
+    "awayId": 1393,
+    "homeName": "Genk",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-16T12:30:00+00:00",
+    "homeId": 733,
+    "awayId": 740,
+    "homeName": "Standard Liege",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-16T17:30:00+00:00",
+    "homeId": 260,
+    "awayId": 735,
+    "homeName": "OH Leuven",
+    "awayName": "St. Truiden",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-16T17:30:00+00:00",
+    "homeId": 263,
+    "awayId": 261,
+    "homeName": "Beerschot VA",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-16T17:30:00+00:00",
+    "homeId": 266,
+    "awayId": 6215,
+    "homeName": "KV Mechelen",
+    "awayName": "Dender",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-16T17:30:00+00:00",
+    "homeId": 554,
+    "awayId": 741,
+    "homeName": "Anderlecht",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-16T17:30:00+00:00",
+    "homeId": 569,
+    "awayId": 736,
+    "homeName": "Club Brugge KV",
+    "awayName": "Charleroi",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-16T17:30:00+00:00",
+    "homeId": 631,
+    "awayId": 734,
+    "homeName": "Gent",
+    "awayName": "Kortrijk",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-28T19:45:00+00:00",
+    "homeId": 260,
+    "awayId": 736,
+    "homeName": "OH Leuven",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-29T15:00:00+00:00",
+    "homeId": 263,
+    "awayId": 735,
+    "homeName": "Beerschot VA",
+    "awayName": "St. Truiden",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-29T17:15:00+00:00",
+    "homeId": 733,
+    "awayId": 266,
+    "homeName": "Standard Liege",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-29T19:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 740,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Antwerp",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-30T11:30:00+00:00",
+    "homeId": 569,
+    "awayId": 554,
+    "homeName": "Club Brugge KV",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-30T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 741,
+    "homeName": "Kortrijk",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-30T16:30:00+00:00",
+    "homeId": 742,
+    "awayId": 631,
+    "homeName": "Genk",
+    "awayName": "Gent",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-30T17:15:00+00:00",
+    "homeId": 6215,
+    "awayId": 261,
+    "homeName": "Dender",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-04T18:45:00+00:00",
+    "homeId": 266,
+    "awayId": 6215,
+    "homeName": "KV Mechelen",
+    "awayName": "Dender",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-05T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 263,
+    "homeName": "Cercle Brugge",
+    "awayName": "Beerschot VA",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-05T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 260,
+    "homeName": "KVC Westerlo",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-05T18:45:00+00:00",
+    "homeId": 631,
+    "awayId": 1393,
+    "homeName": "Gent",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-06T11:30:00+00:00",
+    "homeId": 740,
+    "awayId": 569,
+    "homeName": "Antwerp",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-06T14:00:00+00:00",
+    "homeId": 735,
+    "awayId": 734,
+    "homeName": "St. Truiden",
+    "awayName": "Kortrijk",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-06T16:30:00+00:00",
+    "homeId": 554,
+    "awayId": 742,
+    "homeName": "Anderlecht",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-06T17:15:00+00:00",
+    "homeId": 736,
+    "awayId": 733,
+    "homeName": "Charleroi",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-11T18:45:00+00:00",
+    "homeId": 261,
+    "awayId": 736,
+    "homeName": "KVC Westerlo",
+    "awayName": "Charleroi",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-12T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 263,
+    "homeName": "Kortrijk",
+    "awayName": "Beerschot VA",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-12T16:15:00+00:00",
+    "homeId": 735,
+    "awayId": 741,
+    "homeName": "St. Truiden",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-12T18:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 554,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-13T11:30:00+00:00",
+    "homeId": 740,
+    "awayId": 631,
+    "homeName": "Antwerp",
+    "awayName": "Gent",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-13T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 260,
+    "homeName": "KV Mechelen",
+    "awayName": "OH Leuven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-13T16:30:00+00:00",
+    "homeId": 569,
+    "awayId": 742,
+    "homeName": "Club Brugge KV",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-13T17:15:00+00:00",
+    "homeId": 6215,
+    "awayId": 733,
+    "homeName": "Dender",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-19T14:00:00+00:00",
+    "homeId": 260,
+    "awayId": 6215,
+    "homeName": "OH Leuven",
+    "awayName": "Dender",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-04-19T16:15:00+00:00",
+    "homeId": 736,
+    "awayId": 266,
+    "homeName": "Charleroi",
+    "awayName": "KV Mechelen",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-19T18:45:00+00:00",
+    "homeId": 733,
+    "awayId": 261,
+    "homeName": "Standard Liege",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-20T11:30:00+00:00",
+    "homeId": 554,
+    "awayId": 740,
+    "homeName": "Anderlecht",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-20T14:00:00+00:00",
+    "homeId": 742,
+    "awayId": 1393,
+    "homeName": "Genk",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-20T16:30:00+00:00",
+    "homeId": 631,
+    "awayId": 569,
+    "homeName": "Gent",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2025-04-22T18:30:00+00:00",
+    "homeId": 266,
+    "awayId": 261,
+    "homeName": "KV Mechelen",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-22T18:30:00+00:00",
+    "homeId": 733,
+    "awayId": 260,
+    "homeName": "Standard Liege",
+    "awayName": "OH Leuven",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-22T18:30:00+00:00",
+    "homeId": 6215,
+    "awayId": 736,
+    "homeName": "Dender",
+    "awayName": "Charleroi",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-23T18:30:00+00:00",
+    "homeId": 554,
+    "awayId": 631,
+    "homeName": "Anderlecht",
+    "awayName": "Gent",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-23T18:30:00+00:00",
+    "homeId": 740,
+    "awayId": 742,
+    "homeName": "Antwerp",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-24T18:30:00+00:00",
+    "homeId": 569,
+    "awayId": 1393,
+    "homeName": "Club Brugge KV",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-25T19:00:00+00:00",
+    "homeId": 263,
+    "awayId": 734,
+    "homeName": "Beerschot VA",
+    "awayName": "Kortrijk",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-26T14:00:00+00:00",
+    "homeId": 260,
+    "awayId": 733,
+    "homeName": "OH Leuven",
+    "awayName": "Standard Liege",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-26T16:15:00+00:00",
+    "homeId": 261,
+    "awayId": 266,
+    "homeName": "KVC Westerlo",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-26T18:45:00+00:00",
+    "homeId": 736,
+    "awayId": 6215,
+    "homeName": "Charleroi",
+    "awayName": "Dender",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-26T18:45:00+00:00",
+    "homeId": 741,
+    "awayId": 735,
+    "homeName": "Cercle Brugge",
+    "awayName": "St. Truiden",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-27T11:30:00+00:00",
+    "homeId": 631,
+    "awayId": 554,
+    "homeName": "Gent",
+    "awayName": "Anderlecht",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-27T14:00:00+00:00",
+    "homeId": 742,
+    "awayId": 740,
+    "homeName": "Genk",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-27T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 569,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-01T11:30:00+00:00",
+    "homeId": 740,
+    "awayId": 554,
+    "homeName": "Antwerp",
+    "awayName": "Anderlecht",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-01T14:15:00+00:00",
+    "homeId": 569,
+    "awayId": 631,
+    "homeName": "Club Brugge KV",
+    "awayName": "Gent",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-02T18:45:00+00:00",
+    "homeId": 261,
+    "awayId": 6215,
+    "homeName": "KVC Westerlo",
+    "awayName": "Dender",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-03T14:00:00+00:00",
+    "homeId": 741,
+    "awayId": 734,
+    "homeName": "Cercle Brugge",
+    "awayName": "Kortrijk",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-03T16:15:00+00:00",
+    "homeId": 260,
+    "awayId": 266,
+    "homeName": "OH Leuven",
+    "awayName": "KV Mechelen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-03T18:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 742,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-04T11:30:00+00:00",
+    "homeId": 733,
+    "awayId": 736,
+    "homeName": "Standard Liege",
+    "awayName": "Charleroi",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-04T14:00:00+00:00",
+    "homeId": 735,
+    "awayId": 263,
+    "homeName": "St. Truiden",
+    "awayName": "Beerschot VA",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-09T18:45:00+00:00",
+    "homeId": 736,
+    "awayId": 261,
+    "homeName": "Charleroi",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-10T14:00:00+00:00",
+    "homeId": 263,
+    "awayId": 741,
+    "homeName": "Beerschot VA",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-10T14:00:00+00:00",
+    "homeId": 734,
+    "awayId": 735,
+    "homeName": "Kortrijk",
+    "awayName": "St. Truiden",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-10T16:15:00+00:00",
+    "homeId": 266,
+    "awayId": 733,
+    "homeName": "KV Mechelen",
+    "awayName": "Standard Liege",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-10T18:45:00+00:00",
+    "homeId": 554,
+    "awayId": 1393,
+    "homeName": "Anderlecht",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-11T11:30:00+00:00",
+    "homeId": 631,
+    "awayId": 740,
+    "homeName": "Gent",
+    "awayName": "Antwerp",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-11T16:30:00+00:00",
+    "homeId": 742,
+    "awayId": 569,
+    "homeName": "Genk",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-11T17:15:00+00:00",
+    "homeId": 6215,
+    "awayId": 260,
+    "homeName": "Dender",
+    "awayName": "OH Leuven",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-16T18:45:00+00:00",
+    "homeId": 260,
+    "awayId": 261,
+    "homeName": "OH Leuven",
+    "awayName": "KVC Westerlo",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-17T16:15:00+00:00",
+    "homeId": 733,
+    "awayId": 6215,
+    "homeName": "Standard Liege",
+    "awayName": "Dender",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-17T18:45:00+00:00",
+    "homeId": 740,
+    "awayId": 1393,
+    "homeName": "Antwerp",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-05-18T11:30:00+00:00",
+    "homeId": 554,
+    "awayId": 569,
+    "homeName": "Anderlecht",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-18T14:00:00+00:00",
+    "homeId": 266,
+    "awayId": 736,
+    "homeName": "KV Mechelen",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-18T16:30:00+00:00",
+    "homeId": 631,
+    "awayId": 742,
+    "homeName": "Gent",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-05-18T17:15:00+00:00",
+    "homeId": 6222,
+    "awayId": 741,
+    "homeName": "Patro Eisden",
+    "awayName": "Cercle Brugge",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2025-05-23T18:45:00+00:00",
+    "homeId": 741,
+    "awayId": 6222,
+    "homeName": "Cercle Brugge",
+    "awayName": "Patro Eisden",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-24T18:00:00+00:00",
+    "homeId": 261,
+    "awayId": 733,
+    "homeName": "KVC Westerlo",
+    "awayName": "Standard Liege",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-24T18:00:00+00:00",
+    "homeId": 736,
+    "awayId": 260,
+    "homeName": "Charleroi",
+    "awayName": "OH Leuven",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-24T18:00:00+00:00",
+    "homeId": 6215,
+    "awayId": 266,
+    "homeName": "Dender",
+    "awayName": "KV Mechelen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-25T16:30:00+00:00",
+    "homeId": 569,
+    "awayId": 740,
+    "homeName": "Club Brugge KV",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-25T16:30:00+00:00",
+    "homeId": 742,
+    "awayId": 554,
+    "homeName": "Genk",
+    "awayName": "Anderlecht",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-25T16:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 631,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Gent",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-29T16:30:00+00:00",
+    "homeId": 740,
+    "awayId": 736,
+    "homeName": "Antwerp",
+    "awayName": "Charleroi",
+    "homeGoals": 1,
+    "awayGoals": 2
+  }
+]

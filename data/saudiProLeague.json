@@ -1,0 +1,7670 @@
+[
+  {
+    "date": "2022-08-25T16:05:00+00:00",
+    "homeId": 2944,
+    "awayId": 2956,
+    "homeName": "Al-Fayha",
+    "awayName": "Dhamk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-25T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2932,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-26T15:45:00+00:00",
+    "homeId": 2934,
+    "awayId": 2942,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Taee",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-26T15:45:00+00:00",
+    "homeId": 2950,
+    "awayId": 2938,
+    "homeName": "Al-Adalah",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-26T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2926,
+    "homeName": "Al Shabab",
+    "awayName": "Al Baten",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-27T15:45:00+00:00",
+    "homeId": 2931,
+    "awayId": 2936,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-27T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2937,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-27T18:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2935,
+    "homeName": "Abha",
+    "awayName": "Al-Raed",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-31T15:55:00+00:00",
+    "homeId": 2926,
+    "awayId": 2931,
+    "homeName": "Al Baten",
+    "awayName": "Al-Fateh",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2022-08-31T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2944,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-01T16:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2937,
+    "homeName": "Al-Raed",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-01T18:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2940,
+    "homeName": "Abha",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-09-02T16:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2950,
+    "homeName": "Al Taee",
+    "awayName": "Al-Adalah",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-02T18:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2928,
+    "homeName": "Dhamk",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-03T16:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2939,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-03T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2934,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-04T15:35:00+00:00",
+    "homeId": 2931,
+    "awayId": 2932,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-08T15:30:00+00:00",
+    "homeId": 2928,
+    "awayId": 2950,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Adalah",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-08T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2951,
+    "homeName": "Al Wehda Club",
+    "awayName": "Abha",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-08T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2942,
+    "homeName": "Al Shabab",
+    "awayName": "Al Taee",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-09T15:30:00+00:00",
+    "homeId": 2934,
+    "awayId": 2926,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Baten",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-09T18:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2938,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-10T15:45:00+00:00",
+    "homeId": 2944,
+    "awayId": 2936,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-10T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2956,
+    "homeName": "Al-Nassr",
+    "awayName": "Dhamk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-14T15:55:00+00:00",
+    "homeId": 2942,
+    "awayId": 2931,
+    "homeName": "Al Taee",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-14T18:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2940,
+    "homeName": "Al-Adalah",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-15T15:40:00+00:00",
+    "homeId": 2926,
+    "awayId": 2939,
+    "homeName": "Al Baten",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-09-15T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2935,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-15T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2928,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-16T15:50:00+00:00",
+    "homeId": 2936,
+    "awayId": 2956,
+    "homeName": "Al Taawon",
+    "awayName": "Dhamk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-16T15:50:00+00:00",
+    "homeId": 2951,
+    "awayId": 2944,
+    "homeName": "Abha",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-16T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2937,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-01T15:30:00+00:00",
+    "homeId": 2935,
+    "awayId": 2950,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Adalah",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-01T15:30:00+00:00",
+    "homeId": 2956,
+    "awayId": 2942,
+    "homeName": "Dhamk",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-01T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2926,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Baten",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-01T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2934,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-02T15:20:00+00:00",
+    "homeId": 2932,
+    "awayId": 2936,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-02T15:20:00+00:00",
+    "homeId": 2944,
+    "awayId": 2940,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-02T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2951,
+    "homeName": "Al-Fateh",
+    "awayName": "Abha",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-02T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2938,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-06T15:30:00+00:00",
+    "homeId": 2936,
+    "awayId": 2937,
+    "homeName": "Al Taawon",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-06T15:30:00+00:00",
+    "homeId": 2942,
+    "awayId": 2928,
+    "homeName": "Al Taee",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-06T18:00:00+00:00",
+    "homeId": 2926,
+    "awayId": 2956,
+    "homeName": "Al Baten",
+    "awayName": "Dhamk",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-06T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2932,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-06T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2935,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-07T15:30:00+00:00",
+    "homeId": 2951,
+    "awayId": 2939,
+    "homeName": "Abha",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-07T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2931,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Fateh",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-07T18:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2944,
+    "homeName": "Al-Adalah",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-10T15:15:00+00:00",
+    "homeId": 2935,
+    "awayId": 2942,
+    "homeName": "Al-Raed",
+    "awayName": "Al Taee",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-10T17:30:00+00:00",
+    "homeId": 2932,
+    "awayId": 2940,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-10T17:30:00+00:00",
+    "homeId": 2937,
+    "awayId": 2926,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Baten",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-11T15:15:00+00:00",
+    "homeId": 2936,
+    "awayId": 2951,
+    "homeName": "Al Taawon",
+    "awayName": "Abha",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-11T15:15:00+00:00",
+    "homeId": 2956,
+    "awayId": 2938,
+    "homeName": "Dhamk",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-11T17:30:00+00:00",
+    "homeId": 2928,
+    "awayId": 2931,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-11T17:30:00+00:00",
+    "homeId": 2939,
+    "awayId": 2950,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Adalah",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-11T17:30:00+00:00",
+    "homeId": 2944,
+    "awayId": 2934,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-15T15:30:00+00:00",
+    "homeId": 2942,
+    "awayId": 2932,
+    "homeName": "Al Taee",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-15T17:45:00+00:00",
+    "homeId": 2931,
+    "awayId": 2935,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-15T17:45:00+00:00",
+    "homeId": 2940,
+    "awayId": 2928,
+    "homeName": "Al Shabab",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-16T14:45:00+00:00",
+    "homeId": 2926,
+    "awayId": 2951,
+    "homeName": "Al Baten",
+    "awayName": "Abha",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-16T14:45:00+00:00",
+    "homeId": 2939,
+    "awayId": 2944,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Fayha",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-16T17:30:00+00:00",
+    "homeId": 2934,
+    "awayId": 2936,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-16T17:30:00+00:00",
+    "homeId": 2938,
+    "awayId": 2937,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-16T17:30:00+00:00",
+    "homeId": 2950,
+    "awayId": 2956,
+    "homeName": "Al-Adalah",
+    "awayName": "Dhamk",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-12-15T11:30:00+00:00",
+    "homeId": 2928,
+    "awayId": 2944,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-12-15T11:30:00+00:00",
+    "homeId": 2956,
+    "awayId": 2934,
+    "homeName": "Dhamk",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-15T14:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2950,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Adalah",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-16T11:30:00+00:00",
+    "homeId": 2951,
+    "awayId": 2942,
+    "homeName": "Abha",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-16T14:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2939,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-12-16T16:30:00+00:00",
+    "homeId": 2932,
+    "awayId": 2926,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Baten",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-25T11:30:00+00:00",
+    "homeId": 2956,
+    "awayId": 2937,
+    "homeName": "Dhamk",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-25T14:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2951,
+    "homeName": "Al-Adalah",
+    "awayName": "Abha",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-12-25T16:30:00+00:00",
+    "homeId": 2934,
+    "awayId": 2928,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-26T11:30:00+00:00",
+    "homeId": 2926,
+    "awayId": 2935,
+    "homeName": "Al Baten",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-12-26T11:30:00+00:00",
+    "homeId": 2931,
+    "awayId": 2940,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Shabab",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-26T14:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2936,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Taawon",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-26T14:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2942,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-26T16:30:00+00:00",
+    "homeId": 2939,
+    "awayId": 2932,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-12-30T11:30:00+00:00",
+    "homeId": 2931,
+    "awayId": 2944,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Fayha",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-12-30T14:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2950,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Adalah",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-30T16:30:00+00:00",
+    "homeId": 2940,
+    "awayId": 2934,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-31T11:30:00+00:00",
+    "homeId": 2942,
+    "awayId": 2926,
+    "homeName": "Al Taee",
+    "awayName": "Al Baten",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-31T11:30:00+00:00",
+    "homeId": 2951,
+    "awayId": 2938,
+    "homeName": "Abha",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-12-31T14:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2936,
+    "homeName": "Al-Raed",
+    "awayName": "Al Taawon",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-12-31T16:30:00+00:00",
+    "homeId": 2928,
+    "awayId": 2939,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-31T16:30:00+00:00",
+    "homeId": 2932,
+    "awayId": 2956,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Dhamk",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-05T11:30:00+00:00",
+    "homeId": 2956,
+    "awayId": 2935,
+    "homeName": "Dhamk",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-05T16:30:00+00:00",
+    "homeId": 2937,
+    "awayId": 2940,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-05T16:30:00+00:00",
+    "homeId": 2938,
+    "awayId": 2932,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-06T14:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2928,
+    "homeName": "Al Taawon",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-06T14:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2942,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-06T14:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2931,
+    "homeName": "Al-Adalah",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-07T11:30:00+00:00",
+    "homeId": 2944,
+    "awayId": 2926,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Baten",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-07T14:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2951,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Abha",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-09T17:15:00+00:00",
+    "homeId": 2940,
+    "awayId": 2938,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-10T16:30:00+00:00",
+    "homeId": 2935,
+    "awayId": 2932,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-12T11:30:00+00:00",
+    "homeId": 2931,
+    "awayId": 2934,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-12T11:30:00+00:00",
+    "homeId": 2942,
+    "awayId": 2936,
+    "homeName": "Al Taee",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-01-13T11:30:00+00:00",
+    "homeId": 2951,
+    "awayId": 2956,
+    "homeName": "Abha",
+    "awayName": "Dhamk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-13T14:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2937,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-14T11:30:00+00:00",
+    "homeId": 2926,
+    "awayId": 2938,
+    "homeName": "Al Baten",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-14T14:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2944,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-01-14T16:30:00+00:00",
+    "homeId": 2940,
+    "awayId": 2939,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-15T14:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2950,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Adalah",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-19T11:30:00+00:00",
+    "homeId": 2950,
+    "awayId": 2926,
+    "homeName": "Al-Adalah",
+    "awayName": "Al Baten",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-19T14:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2944,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Fayha",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-20T11:30:00+00:00",
+    "homeId": 2928,
+    "awayId": 2935,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Raed",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-20T14:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2931,
+    "homeName": "Dhamk",
+    "awayName": "Al-Fateh",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-20T16:30:00+00:00",
+    "homeId": 2936,
+    "awayId": 2940,
+    "homeName": "Al Taawon",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-21T14:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2942,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Taee",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-22T14:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2951,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Abha",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-22T16:30:00+00:00",
+    "homeId": 2939,
+    "awayId": 2934,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-27T14:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2940,
+    "homeName": "Al Taee",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-27T16:30:00+00:00",
+    "homeId": 2937,
+    "awayId": 2931,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Fateh",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-02T12:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2928,
+    "homeName": "Abha",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-02T14:00:00+00:00",
+    "homeId": 2926,
+    "awayId": 2936,
+    "homeName": "Al Baten",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-02T14:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2956,
+    "homeName": "Al Shabab",
+    "awayName": "Dhamk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-03T14:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2939,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-03T16:30:00+00:00",
+    "homeId": 2934,
+    "awayId": 2950,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Adalah",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-04T12:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2938,
+    "homeName": "Al Taee",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-04T14:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2937,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-09T12:00:00+00:00",
+    "homeId": 2926,
+    "awayId": 2940,
+    "homeName": "Al Baten",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-02-09T14:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2931,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-09T16:30:00+00:00",
+    "homeId": 2937,
+    "awayId": 2939,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-02-10T12:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2951,
+    "homeName": "Al-Raed",
+    "awayName": "Abha",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-10T12:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2934,
+    "homeName": "Al Taee",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-10T12:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2944,
+    "homeName": "Dhamk",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-10T16:30:00+00:00",
+    "homeId": 2938,
+    "awayId": 2950,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Adalah",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-14T14:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2951,
+    "homeName": "Al Shabab",
+    "awayName": "Abha",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-16T14:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2942,
+    "homeName": "Al-Adalah",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-16T16:30:00+00:00",
+    "homeId": 2934,
+    "awayId": 2938,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-17T14:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2936,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Taawon",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-17T16:30:00+00:00",
+    "homeId": 2937,
+    "awayId": 2935,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Raed",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-18T12:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2926,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Baten",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-18T14:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2956,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Dhamk",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-23T12:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2944,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-23T16:30:00+00:00",
+    "homeId": 2938,
+    "awayId": 2935,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Raed",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-24T12:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2937,
+    "homeName": "Abha",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-24T14:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2928,
+    "homeName": "Al-Adalah",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-25T12:00:00+00:00",
+    "homeId": 2926,
+    "awayId": 2934,
+    "homeName": "Al Baten",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-25T14:30:00+00:00",
+    "homeId": 2956,
+    "awayId": 2939,
+    "homeName": "Dhamk",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-02T13:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2942,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-02T13:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2951,
+    "homeName": "Al-Fayha",
+    "awayName": "Abha",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-02T17:30:00+00:00",
+    "homeId": 2937,
+    "awayId": 2932,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-03T13:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2938,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-03T13:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2934,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-03T17:30:00+00:00",
+    "homeId": 2939,
+    "awayId": 2926,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Baten",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-04T13:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2936,
+    "homeName": "Dhamk",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-04T17:30:00+00:00",
+    "homeId": 2940,
+    "awayId": 2950,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Adalah",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-06T17:30:00+00:00",
+    "homeId": 2932,
+    "awayId": 2931,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-09T13:00:00+00:00",
+    "homeId": 2926,
+    "awayId": 2928,
+    "homeName": "Al Baten",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-09T13:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2937,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-09T17:30:00+00:00",
+    "homeId": 2938,
+    "awayId": 2939,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-09T17:30:00+00:00",
+    "homeId": 2940,
+    "awayId": 2944,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Fayha",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-10T13:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2931,
+    "homeName": "Abha",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-10T17:30:00+00:00",
+    "homeId": 2936,
+    "awayId": 2932,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-03-11T13:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2956,
+    "homeName": "Al Taee",
+    "awayName": "Dhamk",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-11T15:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2935,
+    "homeName": "Al-Adalah",
+    "awayName": "Al-Raed",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-16T13:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2942,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-17T13:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2950,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Adalah",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-17T13:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2926,
+    "homeName": "Dhamk",
+    "awayName": "Al Baten",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-17T17:30:00+00:00",
+    "homeId": 2937,
+    "awayId": 2936,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-18T13:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2938,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-03-18T17:30:00+00:00",
+    "homeId": 2932,
+    "awayId": 2934,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-18T17:30:00+00:00",
+    "homeId": 2935,
+    "awayId": 2940,
+    "homeName": "Al-Raed",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-18T17:30:00+00:00",
+    "homeId": 2939,
+    "awayId": 2951,
+    "homeName": "Al-Nassr",
+    "awayName": "Abha",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-01T19:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2928,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-04T19:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2956,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Dhamk",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-04T19:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2932,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-04T19:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2939,
+    "homeName": "Al-Adalah",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-04-05T19:00:00+00:00",
+    "homeId": 2926,
+    "awayId": 2937,
+    "homeName": "Al Baten",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-05T19:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2935,
+    "homeName": "Al Taee",
+    "awayName": "Al-Raed",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-05T19:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2936,
+    "homeName": "Abha",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-06T19:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2928,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-07T19:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2932,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-09T19:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2934,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-09T19:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2939,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-09T19:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2926,
+    "homeName": "Abha",
+    "awayName": "Al Baten",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-09T20:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2938,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-10T19:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2942,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-10T19:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2931,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Fateh",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-10T19:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2950,
+    "homeName": "Dhamk",
+    "awayName": "Al-Adalah",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-11T19:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2940,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-14T19:00:00+00:00",
+    "homeId": 2926,
+    "awayId": 2932,
+    "homeName": "Al Baten",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-14T19:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2944,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-18T19:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2939,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-27T16:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2951,
+    "homeName": "Al Taee",
+    "awayName": "Abha",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-27T16:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2936,
+    "homeName": "Al-Adalah",
+    "awayName": "Al Taawon",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-27T18:30:00+00:00",
+    "homeId": 2938,
+    "awayId": 2940,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-28T16:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2937,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-28T16:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2956,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Dhamk",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-28T18:30:00+00:00",
+    "homeId": 2939,
+    "awayId": 2935,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Raed",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-28T18:30:00+00:00",
+    "homeId": 2944,
+    "awayId": 2928,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-05-02T16:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2926,
+    "homeName": "Al-Raed",
+    "awayName": "Al Baten",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-02T16:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2950,
+    "homeName": "Abha",
+    "awayName": "Al-Adalah",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-02T18:30:00+00:00",
+    "homeId": 2928,
+    "awayId": 2934,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-02T18:30:00+00:00",
+    "homeId": 2942,
+    "awayId": 2944,
+    "homeName": "Al Taee",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-03T16:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2938,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-03T18:30:00+00:00",
+    "homeId": 2937,
+    "awayId": 2956,
+    "homeName": "Al Wehda Club",
+    "awayName": "Dhamk",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-03T18:30:00+00:00",
+    "homeId": 2940,
+    "awayId": 2931,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-08T16:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2928,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-08T16:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2937,
+    "homeName": "Al-Adalah",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-08T18:30:00+00:00",
+    "homeId": 2938,
+    "awayId": 2951,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Abha",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-09T16:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2935,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Raed",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-09T16:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2931,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Fateh",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-10T16:00:00+00:00",
+    "homeId": 2926,
+    "awayId": 2942,
+    "homeName": "Al Baten",
+    "awayName": "Al Taee",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-05-14T16:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2940,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-15T16:00:00+00:00",
+    "homeId": 2926,
+    "awayId": 2944,
+    "homeName": "Al Baten",
+    "awayName": "Al-Fayha",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-15T16:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2936,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-15T16:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2956,
+    "homeName": "Al-Raed",
+    "awayName": "Dhamk",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-15T18:30:00+00:00",
+    "homeId": 2931,
+    "awayId": 2950,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Adalah",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-05-16T18:30:00+00:00",
+    "homeId": 2932,
+    "awayId": 2938,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-16T18:30:00+00:00",
+    "homeId": 2942,
+    "awayId": 2939,
+    "homeName": "Al Taee",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-18T16:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2937,
+    "homeName": "Al Shabab",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-18T16:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2934,
+    "homeName": "Abha",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-19T18:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2932,
+    "homeName": "Dhamk",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-22T16:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2931,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Fateh",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-05-22T16:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2935,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-22T16:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2951,
+    "homeName": "Dhamk",
+    "awayName": "Abha",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-22T18:30:00+00:00",
+    "homeId": 2936,
+    "awayId": 2942,
+    "homeName": "Al Taawon",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-22T18:30:00+00:00",
+    "homeId": 2937,
+    "awayId": 2928,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-05-23T16:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2932,
+    "homeName": "Al-Adalah",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-23T18:30:00+00:00",
+    "homeId": 2938,
+    "awayId": 2926,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Baten",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-23T18:30:00+00:00",
+    "homeId": 2939,
+    "awayId": 2940,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Shabab",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-27T18:00:00+00:00",
+    "homeId": 2926,
+    "awayId": 2950,
+    "homeName": "Al Baten",
+    "awayName": "Al-Adalah",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-27T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2956,
+    "homeName": "Al-Fateh",
+    "awayName": "Dhamk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-27T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2939,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-27T18:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2928,
+    "homeName": "Al-Raed",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-27T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2936,
+    "homeName": "Al Shabab",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-05-27T18:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2937,
+    "homeName": "Al Taee",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-27T18:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2938,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-05-27T18:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2932,
+    "homeName": "Abha",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-05-31T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2951,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Abha",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-31T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2935,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Raed",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-31T18:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2926,
+    "homeName": "Al Taawon",
+    "awayName": "Al Baten",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-31T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2944,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Fayha",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-31T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2942,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-31T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2931,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Fateh",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-31T18:00:00+00:00",
+    "homeId": 2950,
+    "awayId": 2934,
+    "homeName": "Al-Adalah",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-31T18:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2940,
+    "homeName": "Dhamk",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-08-11T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2945,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Hazm",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-12T15:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2956,
+    "homeName": "Al Taee",
+    "awayName": "Damac",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-12T18:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2928,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-13T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2936,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-13T18:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2937,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-14T15:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2938,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-14T15:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2932,
+    "homeName": "Abha",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-14T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2939,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-14T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2977,
+    "homeName": "Al Shabab",
+    "awayName": "Al Okhdood",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-17T15:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 10511,
+    "homeName": "Damac",
+    "awayName": "Al Riyadh",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-17T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2929,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-18T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2931,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-18T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2940,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Shabab",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-18T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2936,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-18T18:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2934,
+    "homeName": "Al-Hazm",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-19T15:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2935,
+    "homeName": "Abha",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-19T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2944,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-19T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2942,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-24T15:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2937,
+    "homeName": "Al Taee",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-24T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2977,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Okhdood",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-24T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2928,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-24T18:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2932,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-08-24T18:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2938,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-08-25T15:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2945,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Hazm",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-25T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2939,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-08-25T18:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2951,
+    "homeName": "Al Taawon",
+    "awayName": "Abha",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-25T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2956,
+    "homeName": "Al Shabab",
+    "awayName": "Damac",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-28T15:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2944,
+    "homeName": "Abha",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-28T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2934,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-28T18:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 10511,
+    "homeName": "Al-Raed",
+    "awayName": "Al Riyadh",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-28T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2938,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-29T15:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2931,
+    "homeName": "Damac",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-29T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2936,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-29T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2945,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Hazm",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-29T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2942,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-29T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2940,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Shabab",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-01T15:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2951,
+    "homeName": "Al Taee",
+    "awayName": "Abha",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-01T15:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2935,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Raed",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-01T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2932,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-09-01T18:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2977,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Okhdood",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-02T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2929,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-02T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2956,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Damac",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-02T18:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2937,
+    "homeName": "Al Taawon",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-02T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2928,
+    "homeName": "Al Shabab",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-02T18:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2939,
+    "homeName": "Al-Hazm",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-09-14T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2938,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-14T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2956,
+    "homeName": "Al Wehda Club",
+    "awayName": "Damac",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-15T15:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2940,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-15T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2931,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-15T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 10511,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Riyadh",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-16T12:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2934,
+    "homeName": "Abha",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-16T15:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2939,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-16T15:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2942,
+    "homeName": "Al-Hazm",
+    "awayName": "Al Taee",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-16T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2936,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Taawon",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-21T15:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2942,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Taee",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-21T15:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2935,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Raed",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-21T15:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2932,
+    "homeName": "Damac",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-21T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2931,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-21T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2945,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Hazm",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-22T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2928,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-22T15:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2944,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-22T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2951,
+    "homeName": "Al Wehda Club",
+    "awayName": "Abha",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-22T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2929,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-29T15:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2939,
+    "homeName": "Al Taee",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-29T15:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2938,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-29T15:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2936,
+    "homeName": "Al-Hazm",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-29T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2940,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-30T12:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 10511,
+    "homeName": "Abha",
+    "awayName": "Al Riyadh",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-30T15:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2937,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-30T15:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2977,
+    "homeName": "Al-Raed",
+    "awayName": "Al Okhdood",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-30T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2956,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Damac",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-30T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2934,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-05T12:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2945,
+    "homeName": "Damac",
+    "awayName": "Al-Hazm",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-05T15:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2942,
+    "homeName": "Al Taawon",
+    "awayName": "Al Taee",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-05T15:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2940,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-05T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2931,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-06T15:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2951,
+    "homeName": "Al-Nassr",
+    "awayName": "Abha",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-06T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2929,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-07T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2932,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-07T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2935,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Raed",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-07T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2944,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-20T15:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2938,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-20T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2944,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-20T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2951,
+    "homeName": "Al-Fateh",
+    "awayName": "Abha",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-20T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2928,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-21T15:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2956,
+    "homeName": "Al-Nassr",
+    "awayName": "Damac",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-21T15:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2935,
+    "homeName": "Al-Hazm",
+    "awayName": "Al-Raed",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-21T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2937,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-21T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2942,
+    "homeName": "Al Shabab",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-22T15:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2934,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-26T15:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2936,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-26T15:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2977,
+    "homeName": "Damac",
+    "awayName": "Al Okhdood",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-26T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2945,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Hazm",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-27T15:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2931,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-27T15:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 10511,
+    "homeName": "Al Taee",
+    "awayName": "Al Riyadh",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-27T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2929,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-28T15:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2939,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-28T15:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2940,
+    "homeName": "Abha",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-28T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2934,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-03T15:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2932,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-03T15:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2944,
+    "homeName": "Al Taee",
+    "awayName": "Al-Fayha",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-03T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2938,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-04T15:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2977,
+    "homeName": "Abha",
+    "awayName": "Al Okhdood",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-04T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2935,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Raed",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-04T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2928,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-05T15:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2956,
+    "homeName": "Al Taawon",
+    "awayName": "Damac",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-05T15:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2937,
+    "homeName": "Al-Hazm",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-05T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 10511,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Riyadh",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-09T15:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2942,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Taee",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-09T15:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2940,
+    "homeName": "Al-Raed",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-09T18:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2929,
+    "homeName": "Damac",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-09T18:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2931,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-10T15:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2936,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Taawon",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-10T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2951,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Abha",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-11T15:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2934,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-11T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2945,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Hazm",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-11T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2939,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-24T15:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2938,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-24T15:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 10511,
+    "homeName": "Al Taawon",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-24T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2977,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Okhdood",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-24T18:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2935,
+    "homeName": "Al Taee",
+    "awayName": "Al-Raed",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-25T15:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2932,
+    "homeName": "Al-Hazm",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 9
+  },
+  {
+    "date": "2023-11-25T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2940,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-25T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2944,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Fayha",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-25T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2928,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-25T18:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2951,
+    "homeName": "Damac",
+    "awayName": "Abha",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-30T15:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2929,
+    "homeName": "Abha",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "date": "2023-11-30T15:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2945,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Hazm",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-30T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2928,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-01T15:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2956,
+    "homeName": "Al-Fayha",
+    "awayName": "Damac",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-12-01T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2939,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Nassr",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-02T15:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2942,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Taee",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-02T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2934,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-02T18:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2937,
+    "homeName": "Al-Raed",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-02T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2936,
+    "homeName": "Al Shabab",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-07T15:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2931,
+    "homeName": "Al-Hazm",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-07T15:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2938,
+    "homeName": "Damac",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-07T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2934,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-08T15:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2951,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Abha",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-08T15:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2944,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Fayha",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-08T15:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2932,
+    "homeName": "Al Taee",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-08T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 10511,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Riyadh",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-09T15:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2935,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Raed",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-09T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2977,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Okhdood",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-14T15:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2945,
+    "homeName": "Abha",
+    "awayName": "Al-Hazm",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-14T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2942,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Taee",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-14T18:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2929,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-12-15T15:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2940,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-15T15:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2937,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-15T15:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2956,
+    "homeName": "Al-Raed",
+    "awayName": "Damac",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-16T15:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2928,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-16T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2936,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-21T15:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2944,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Fayha",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-21T15:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2942,
+    "homeName": "Damac",
+    "awayName": "Al Taee",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-21T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2951,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Abha",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-22T15:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2934,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-22T15:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2929,
+    "homeName": "Al-Hazm",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-12-22T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2940,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-23T15:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2931,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-23T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2935,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-24T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 10511,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Riyadh",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-26T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2939,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-12-28T15:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2945,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Hazm",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-28T15:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2956,
+    "homeName": "Al Riyadh",
+    "awayName": "Damac",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-29T15:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2951,
+    "homeName": "Al-Raed",
+    "awayName": "Abha",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-29T15:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2932,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-29T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2928,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-30T15:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2977,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Okhdood",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-30T18:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2939,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-12-30T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2937,
+    "homeName": "Al Shabab",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-07T18:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2938,
+    "homeName": "Al Taee",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-15T14:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2936,
+    "homeName": "Abha",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-15T17:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2934,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-16T14:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2940,
+    "homeName": "Damac",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-16T17:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2942,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Taee",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-16T17:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2929,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-17T14:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2944,
+    "homeName": "Al-Hazm",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-17T17:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2931,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-18T14:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2935,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Raed",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-18T17:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 10511,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Riyadh",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-23T14:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2977,
+    "homeName": "Al Taawon",
+    "awayName": "Al Okhdood",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-23T14:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2935,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-23T17:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2956,
+    "homeName": "Al-Fateh",
+    "awayName": "Damac",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-24T14:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2929,
+    "homeName": "Al Taee",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-02-24T17:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2928,
+    "homeName": "Al-Hazm",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-25T14:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2951,
+    "homeName": "Al-Fayha",
+    "awayName": "Abha",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-25T17:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2939,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-26T14:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2932,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-26T17:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2937,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-29T14:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2944,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-29T14:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2936,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Taawon",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-29T17:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2945,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Hazm",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-03-01T14:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2942,
+    "homeName": "Abha",
+    "awayName": "Al Taee",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-01T14:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 10511,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-01T17:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2938,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-02T14:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2940,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-02T14:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2934,
+    "homeName": "Damac",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-02T17:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2931,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-07T14:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2944,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-07T14:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2937,
+    "homeName": "Damac",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-07T17:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2935,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-08T14:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2945,
+    "homeName": "Al Taee",
+    "awayName": "Al-Hazm",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-08T14:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2932,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-08T17:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2977,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Okhdood",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-09T14:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2928,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-09T14:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2951,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Abha",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-09T17:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2929,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-14T19:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2977,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Okhdood",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-14T19:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2940,
+    "homeName": "Al-Hazm",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-14T19:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2937,
+    "homeName": "Abha",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-15T19:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2939,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-15T19:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2934,
+    "homeName": "Al Taee",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-15T19:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 10511,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-16T19:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2938,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-03-16T19:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2956,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Damac",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-16T19:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2936,
+    "homeName": "Al-Raed",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-29T19:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2929,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-29T19:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2945,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Hazm",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-29T19:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2944,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Fayha",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-29T19:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2928,
+    "homeName": "Damac",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-29T19:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2935,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-30T19:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2931,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-30T19:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2942,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Taee",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-30T19:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2932,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-03-30T19:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2951,
+    "homeName": "Al Riyadh",
+    "awayName": "Abha",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-01T19:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2938,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-01T19:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2928,
+    "homeName": "Al-Raed",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-01T19:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2956,
+    "homeName": "Al-Hazm",
+    "awayName": "Damac",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-02T19:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2977,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Okhdood",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-02T19:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2936,
+    "homeName": "Al Taee",
+    "awayName": "Al Taawon",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-02T19:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2937,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-02T19:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2939,
+    "homeName": "Abha",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 8
+  },
+  {
+    "date": "2024-04-03T19:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2934,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-03T19:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 10511,
+    "homeName": "Al Shabab",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-05T19:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2932,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-04-05T19:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2929,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-05T19:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2936,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-05T19:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2939,
+    "homeName": "Damac",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-06T19:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 10511,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-06T19:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2940,
+    "homeName": "Al Taee",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-07T19:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2945,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Hazm",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-07T19:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2977,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Okhdood",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-07T19:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2931,
+    "homeName": "Abha",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-18T15:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2928,
+    "homeName": "Al Taawon",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-18T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2935,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Raed",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-18T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2951,
+    "homeName": "Al Shabab",
+    "awayName": "Abha",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-19T15:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2944,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Fayha",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-19T15:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2942,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Taee",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-20T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2956,
+    "homeName": "Al Okhdood",
+    "awayName": "Damac",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-20T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2937,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-20T18:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2938,
+    "homeName": "Al-Hazm",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-25T15:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2942,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Taee",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-25T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2945,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Hazm",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-25T18:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2929,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-26T15:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2931,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Fateh",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-26T15:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2936,
+    "homeName": "Damac",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-26T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2940,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-27T15:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2934,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-27T15:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2951,
+    "homeName": "Al Okhdood",
+    "awayName": "Abha",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-27T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2939,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-02T15:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2977,
+    "homeName": "Al-Hazm",
+    "awayName": "Al Okhdood",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-02T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2956,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Damac",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-02T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 10511,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Riyadh",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-03T15:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2932,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-05-03T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2944,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-03T18:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2938,
+    "homeName": "Abha",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-04T15:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2935,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Raed",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-04T15:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2928,
+    "homeName": "Al Taee",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-04T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2937,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-06T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2932,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-09T15:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2931,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-09T15:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2936,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-09T18:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2939,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-05-10T15:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2956,
+    "homeName": "Abha",
+    "awayName": "Damac",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-10T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2937,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-10T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2934,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-05-11T15:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2945,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Hazm",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-11T15:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2942,
+    "homeName": "Al-Raed",
+    "awayName": "Al Taee",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-11T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2929,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-16T15:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2931,
+    "homeName": "Al Taee",
+    "awayName": "Al-Fateh",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-16T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2938,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-16T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2935,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Raed",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-17T16:15:00+00:00",
+    "homeId": 2956,
+    "awayId": 2944,
+    "homeName": "Damac",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-17T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2977,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Okhdood",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-17T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2932,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-18T16:20:00+00:00",
+    "homeId": 2936,
+    "awayId": 2940,
+    "homeName": "Al Taawon",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-18T16:20:00+00:00",
+    "homeId": 2945,
+    "awayId": 10511,
+    "homeName": "Al-Hazm",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-18T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2951,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Abha",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-23T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2945,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Hazm",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-23T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2942,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Taee",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-23T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2940,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-23T18:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2929,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-23T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2956,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Damac",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-23T18:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2936,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-23T18:00:00+00:00",
+    "homeId": 2951,
+    "awayId": 2928,
+    "homeName": "Abha",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-23T18:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2937,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-23T18:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2939,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-27T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 10511,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-27T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2944,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-27T18:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2934,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-27T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2932,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-27T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2938,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-27T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2931,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Fateh",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-27T18:00:00+00:00",
+    "homeId": 2942,
+    "awayId": 2977,
+    "homeName": "Al Taee",
+    "awayName": "Al Okhdood",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-27T18:00:00+00:00",
+    "homeId": 2945,
+    "awayId": 2951,
+    "homeName": "Al-Hazm",
+    "awayName": "Abha",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-27T18:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2935,
+    "homeName": "Damac",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-22T16:10:00+00:00",
+    "homeId": 2936,
+    "awayId": 2944,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-22T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 10511,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Riyadh",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-22T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2935,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-23T16:10:00+00:00",
+    "homeId": 2956,
+    "awayId": 2928,
+    "homeName": "Damac",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-23T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2961,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Orubah",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-23T18:00:00+00:00",
+    "homeId": 2933,
+    "awayId": 2931,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al-Fateh",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-24T16:10:00+00:00",
+    "homeId": 10509,
+    "awayId": 2938,
+    "homeName": "Al Kholood",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-24T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2934,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-24T18:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2932,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-27T15:45:00+00:00",
+    "homeId": 2931,
+    "awayId": 2929,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-27T18:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2933,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-27T18:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2939,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-08-28T15:45:00+00:00",
+    "homeId": 2934,
+    "awayId": 2977,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Okhdood",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-28T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2956,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Damac",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-28T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2961,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Orubah",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-29T15:55:00+00:00",
+    "homeId": 10511,
+    "awayId": 10509,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Kholood",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-29T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2940,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-29T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2936,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Taawon",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-13T15:45:00+00:00",
+    "homeId": 2936,
+    "awayId": 2928,
+    "homeName": "Al Taawon",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-13T15:50:00+00:00",
+    "homeId": 2956,
+    "awayId": 2977,
+    "homeName": "Damac",
+    "awayName": "Al Okhdood",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-13T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2929,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-14T15:20:00+00:00",
+    "homeId": 2931,
+    "awayId": 2934,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-14T15:45:00+00:00",
+    "homeId": 2944,
+    "awayId": 2935,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Raed",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-09-14T18:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2932,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-15T15:20:00+00:00",
+    "homeId": 2933,
+    "awayId": 2940,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-15T15:50:00+00:00",
+    "homeId": 10509,
+    "awayId": 2961,
+    "homeName": "Al Kholood",
+    "awayName": "Al Orubah",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-15T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2937,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 7,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-19T15:40:00+00:00",
+    "homeId": 2977,
+    "awayId": 2933,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-19T15:55:00+00:00",
+    "homeId": 2961,
+    "awayId": 2931,
+    "homeName": "Al Orubah",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-19T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 10509,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Kholood",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-20T15:15:00+00:00",
+    "homeId": 2928,
+    "awayId": 2944,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Fayha",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-20T15:55:00+00:00",
+    "homeId": 2929,
+    "awayId": 2956,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Damac",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-20T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2939,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-21T15:30:00+00:00",
+    "homeId": 2940,
+    "awayId": 2936,
+    "homeName": "Al Shabab",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-21T15:35:00+00:00",
+    "homeId": 2935,
+    "awayId": 10511,
+    "homeName": "Al-Raed",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-21T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2938,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-27T15:20:00+00:00",
+    "homeId": 2939,
+    "awayId": 2937,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-27T18:00:00+00:00",
+    "homeId": 2933,
+    "awayId": 2929,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-27T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2928,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-28T15:10:00+00:00",
+    "homeId": 2931,
+    "awayId": 2977,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Okhdood",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-09-28T15:45:00+00:00",
+    "homeId": 2961,
+    "awayId": 2956,
+    "homeName": "Al Orubah",
+    "awayName": "Damac",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-28T18:00:00+00:00",
+    "homeId": 10509,
+    "awayId": 2932,
+    "homeName": "Al Kholood",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-09-29T15:25:00+00:00",
+    "homeId": 2944,
+    "awayId": 10511,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Riyadh",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-29T18:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2934,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-29T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2935,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Raed",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-03T15:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2935,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Raed",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-03T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2944,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-03T18:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2938,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-04T15:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 10509,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Kholood",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-04T15:15:00+00:00",
+    "homeId": 10511,
+    "awayId": 2933,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-04T18:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2940,
+    "homeName": "Damac",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-05T15:15:00+00:00",
+    "homeId": 2939,
+    "awayId": 2961,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Orubah",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-05T15:25:00+00:00",
+    "homeId": 2936,
+    "awayId": 2931,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-05T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2932,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-18T14:45:00+00:00",
+    "homeId": 2928,
+    "awayId": 2929,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-18T15:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2944,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Fayha",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-18T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2939,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-19T15:05:00+00:00",
+    "homeId": 2935,
+    "awayId": 2937,
+    "homeName": "Al-Raed",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-19T15:20:00+00:00",
+    "homeId": 2956,
+    "awayId": 2936,
+    "homeName": "Damac",
+    "awayName": "Al Taawon",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-19T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2933,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-20T14:45:00+00:00",
+    "homeId": 2931,
+    "awayId": 10509,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Kholood",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-20T15:20:00+00:00",
+    "homeId": 2977,
+    "awayId": 10511,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Riyadh",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-20T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2961,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Orubah",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-24T15:15:00+00:00",
+    "homeId": 2961,
+    "awayId": 2940,
+    "homeName": "Al Orubah",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-24T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2928,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-24T18:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2938,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-25T14:40:00+00:00",
+    "homeId": 2933,
+    "awayId": 2956,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Damac",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-25T15:05:00+00:00",
+    "homeId": 10509,
+    "awayId": 2939,
+    "homeName": "Al Kholood",
+    "awayName": "Al-Nassr",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-25T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2977,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Okhdood",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-26T15:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2934,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-26T15:05:00+00:00",
+    "homeId": 2935,
+    "awayId": 2931,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-26T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2936,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Taawon",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-31T14:50:00+00:00",
+    "homeId": 2940,
+    "awayId": 2937,
+    "homeName": "Al Shabab",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-31T15:10:00+00:00",
+    "homeId": 2977,
+    "awayId": 2961,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Orubah",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-31T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2929,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-01T14:35:00+00:00",
+    "homeId": 2928,
+    "awayId": 2935,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Raed",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-01T15:15:00+00:00",
+    "homeId": 2956,
+    "awayId": 10511,
+    "homeName": "Damac",
+    "awayName": "Al Riyadh",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-01T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2932,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-02T14:35:00+00:00",
+    "homeId": 2931,
+    "awayId": 2944,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-02T14:55:00+00:00",
+    "homeId": 2936,
+    "awayId": 10509,
+    "homeName": "Al Taawon",
+    "awayName": "Al Kholood",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-02T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2933,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-07T14:30:00+00:00",
+    "homeId": 2933,
+    "awayId": 2944,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-07T15:00:00+00:00",
+    "homeId": 10509,
+    "awayId": 2940,
+    "homeName": "Al Kholood",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-07T17:00:00+00:00",
+    "homeId": 2961,
+    "awayId": 2938,
+    "homeName": "Al Orubah",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-08T14:45:00+00:00",
+    "homeId": 2932,
+    "awayId": 2934,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-08T15:20:00+00:00",
+    "homeId": 2929,
+    "awayId": 2935,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Raed",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-08T17:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2939,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-09T14:30:00+00:00",
+    "homeId": 2931,
+    "awayId": 2928,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-09T15:15:00+00:00",
+    "homeId": 2937,
+    "awayId": 2956,
+    "homeName": "Al Wehda Club",
+    "awayName": "Damac",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-09T17:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2977,
+    "homeName": "Al Taawon",
+    "awayName": "Al Okhdood",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-22T14:50:00+00:00",
+    "homeId": 2944,
+    "awayId": 2929,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-22T15:05:00+00:00",
+    "homeId": 2977,
+    "awayId": 2940,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-22T17:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2933,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-23T13:20:00+00:00",
+    "homeId": 2935,
+    "awayId": 2961,
+    "homeName": "Al-Raed",
+    "awayName": "Al Orubah",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-23T15:15:00+00:00",
+    "homeId": 2937,
+    "awayId": 2936,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-23T17:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2932,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-24T13:40:00+00:00",
+    "homeId": 2956,
+    "awayId": 10509,
+    "homeName": "Damac",
+    "awayName": "Al Kholood",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-24T14:40:00+00:00",
+    "homeId": 10511,
+    "awayId": 2934,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-24T17:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2931,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-28T14:45:00+00:00",
+    "homeId": 2944,
+    "awayId": 2961,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Orubah",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-28T15:05:00+00:00",
+    "homeId": 2977,
+    "awayId": 10509,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Kholood",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-28T17:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 10511,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-29T14:25:00+00:00",
+    "homeId": 2933,
+    "awayId": 2928,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-29T14:40:00+00:00",
+    "homeId": 2939,
+    "awayId": 2956,
+    "homeName": "Al-Nassr",
+    "awayName": "Damac",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-29T17:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2937,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-30T13:20:00+00:00",
+    "homeId": 2935,
+    "awayId": 2936,
+    "homeName": "Al-Raed",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-30T14:25:00+00:00",
+    "homeId": 2934,
+    "awayId": 2938,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-11-30T17:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2932,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-05T15:10:00+00:00",
+    "homeId": 2956,
+    "awayId": 2944,
+    "homeName": "Damac",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-05T15:15:00+00:00",
+    "homeId": 2937,
+    "awayId": 2977,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Okhdood",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-05T17:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2931,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-06T14:50:00+00:00",
+    "homeId": 10509,
+    "awayId": 2933,
+    "homeName": "Al Kholood",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-06T14:55:00+00:00",
+    "homeId": 2961,
+    "awayId": 10511,
+    "homeName": "Al Orubah",
+    "awayName": "Al Riyadh",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-06T17:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2939,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-07T12:55:00+00:00",
+    "homeId": 2928,
+    "awayId": 2934,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-07T17:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2935,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Raed",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-07T17:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2929,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-01-09T14:45:00+00:00",
+    "homeId": 2931,
+    "awayId": 2937,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-09T15:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2928,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-09T17:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2977,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Okhdood",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-10T14:40:00+00:00",
+    "homeId": 2934,
+    "awayId": 10509,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Kholood",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-10T15:05:00+00:00",
+    "homeId": 2935,
+    "awayId": 2956,
+    "homeName": "Al-Raed",
+    "awayName": "Damac",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-10T17:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2940,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Shabab",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-11T13:45:00+00:00",
+    "homeId": 2961,
+    "awayId": 2932,
+    "homeName": "Al Orubah",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2025-01-11T14:40:00+00:00",
+    "homeId": 2933,
+    "awayId": 2936,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-11T17:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2938,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-15T15:05:00+00:00",
+    "homeId": 2940,
+    "awayId": 10511,
+    "homeName": "Al Shabab",
+    "awayName": "Al Riyadh",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-15T15:30:00+00:00",
+    "homeId": 2956,
+    "awayId": 2934,
+    "homeName": "Damac",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-15T17:00:00+00:00",
+    "homeId": 10509,
+    "awayId": 2929,
+    "homeName": "Al Kholood",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-16T13:55:00+00:00",
+    "homeId": 2977,
+    "awayId": 2944,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Fayha",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-16T15:05:00+00:00",
+    "homeId": 2932,
+    "awayId": 2931,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Fateh",
+    "homeGoals": 9,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-16T17:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2935,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Raed",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-17T13:15:00+00:00",
+    "homeId": 2928,
+    "awayId": 2961,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Orubah",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-17T15:40:00+00:00",
+    "homeId": 2937,
+    "awayId": 2933,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-17T17:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2939,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-20T15:10:00+00:00",
+    "homeId": 2944,
+    "awayId": 10509,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Kholood",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-20T15:15:00+00:00",
+    "homeId": 2935,
+    "awayId": 2977,
+    "homeName": "Al-Raed",
+    "awayName": "Al Okhdood",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-20T17:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2929,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-21T14:50:00+00:00",
+    "homeId": 2928,
+    "awayId": 2939,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-21T15:10:00+00:00",
+    "homeId": 10511,
+    "awayId": 2936,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-21T17:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2937,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-22T14:00:00+00:00",
+    "homeId": 2961,
+    "awayId": 2933,
+    "homeName": "Al Orubah",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-22T14:55:00+00:00",
+    "homeId": 2931,
+    "awayId": 2956,
+    "homeName": "Al-Fateh",
+    "awayName": "Damac",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-22T17:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2940,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-25T13:50:00+00:00",
+    "homeId": 10509,
+    "awayId": 2935,
+    "homeName": "Al Kholood",
+    "awayName": "Al-Raed",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-25T17:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2934,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-26T15:20:00+00:00",
+    "homeId": 2936,
+    "awayId": 2961,
+    "homeName": "Al Taawon",
+    "awayName": "Al Orubah",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-26T15:30:00+00:00",
+    "homeId": 2977,
+    "awayId": 2928,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-26T15:45:00+00:00",
+    "homeId": 2929,
+    "awayId": 10511,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Riyadh",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-26T17:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2931,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Fateh",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-27T14:05:00+00:00",
+    "homeId": 2956,
+    "awayId": 2938,
+    "homeName": "Damac",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-27T15:10:00+00:00",
+    "homeId": 2940,
+    "awayId": 2944,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-27T17:00:00+00:00",
+    "homeId": 2933,
+    "awayId": 2932,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-30T14:00:00+00:00",
+    "homeId": 2961,
+    "awayId": 2929,
+    "homeName": "Al Orubah",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-30T15:15:00+00:00",
+    "homeId": 10511,
+    "awayId": 2937,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-30T17:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2939,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-31T13:45:00+00:00",
+    "homeId": 2944,
+    "awayId": 2936,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-31T15:15:00+00:00",
+    "homeId": 2932,
+    "awayId": 2977,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Okhdood",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-31T17:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2940,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Shabab",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-01T13:25:00+00:00",
+    "homeId": 2928,
+    "awayId": 2956,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Damac",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-01T15:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2933,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-01T17:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 10509,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Kholood",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-06T15:05:00+00:00",
+    "homeId": 2933,
+    "awayId": 2935,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al-Raed",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-06T15:20:00+00:00",
+    "homeId": 2940,
+    "awayId": 2928,
+    "homeName": "Al Shabab",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-06T17:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2938,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-07T13:05:00+00:00",
+    "homeId": 2961,
+    "awayId": 2937,
+    "homeName": "Al Orubah",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-07T15:20:00+00:00",
+    "homeId": 2939,
+    "awayId": 2944,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Fayha",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-07T17:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2931,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-08T13:55:00+00:00",
+    "homeId": 10509,
+    "awayId": 10511,
+    "homeName": "Al Kholood",
+    "awayName": "Al Riyadh",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-08T15:40:00+00:00",
+    "homeId": 2977,
+    "awayId": 2934,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-08T17:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2932,
+    "homeName": "Damac",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-13T14:10:00+00:00",
+    "homeId": 2977,
+    "awayId": 2956,
+    "homeName": "Al Okhdood",
+    "awayName": "Damac",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-13T15:25:00+00:00",
+    "homeId": 2940,
+    "awayId": 2933,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-13T17:30:00+00:00",
+    "homeId": 2929,
+    "awayId": 2939,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-14T14:10:00+00:00",
+    "homeId": 2961,
+    "awayId": 10509,
+    "homeName": "Al Orubah",
+    "awayName": "Al Kholood",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-14T15:05:00+00:00",
+    "homeId": 2934,
+    "awayId": 2931,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-14T17:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 10511,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-15T13:35:00+00:00",
+    "homeId": 2928,
+    "awayId": 2936,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-15T15:30:00+00:00",
+    "homeId": 2935,
+    "awayId": 2944,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Fayha",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-15T17:30:00+00:00",
+    "homeId": 2937,
+    "awayId": 2938,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-02-20T15:15:00+00:00",
+    "homeId": 2931,
+    "awayId": 2961,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Orubah",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-20T15:30:00+00:00",
+    "homeId": 2944,
+    "awayId": 2928,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-20T17:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2935,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-21T14:20:00+00:00",
+    "homeId": 2956,
+    "awayId": 2929,
+    "homeName": "Damac",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-21T15:10:00+00:00",
+    "homeId": 2933,
+    "awayId": 2977,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al Okhdood",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-21T17:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2934,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-22T13:00:00+00:00",
+    "homeId": 10509,
+    "awayId": 2937,
+    "homeName": "Al Kholood",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-22T14:05:00+00:00",
+    "homeId": 2936,
+    "awayId": 2940,
+    "homeName": "Al Taawon",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-22T18:15:00+00:00",
+    "homeId": 2938,
+    "awayId": 2932,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-24T14:15:00+00:00",
+    "homeId": 2977,
+    "awayId": 2931,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-24T15:50:00+00:00",
+    "homeId": 2956,
+    "awayId": 2961,
+    "homeName": "Damac",
+    "awayName": "Al Orubah",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-25T14:10:00+00:00",
+    "homeId": 2935,
+    "awayId": 2940,
+    "homeName": "Al-Raed",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-25T15:30:00+00:00",
+    "homeId": 2932,
+    "awayId": 10509,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Kholood",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-25T16:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2939,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-25T17:30:00+00:00",
+    "homeId": 2929,
+    "awayId": 2933,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-26T15:15:00+00:00",
+    "homeId": 2934,
+    "awayId": 2936,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-26T15:30:00+00:00",
+    "homeId": 10511,
+    "awayId": 2944,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Fayha",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-26T17:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2938,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-28T19:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2929,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-28T19:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2956,
+    "homeName": "Al Shabab",
+    "awayName": "Damac",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-28T19:00:00+00:00",
+    "homeId": 2961,
+    "awayId": 2939,
+    "homeName": "Al Orubah",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-01T19:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2936,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-01T19:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2937,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-01T19:00:00+00:00",
+    "homeId": 10509,
+    "awayId": 2928,
+    "homeName": "Al Kholood",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-02T19:00:00+00:00",
+    "homeId": 2933,
+    "awayId": 10511,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-02T19:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2934,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-02T19:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2977,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Okhdood",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-06T19:00:00+00:00",
+    "homeId": 2933,
+    "awayId": 2938,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-06T19:00:00+00:00",
+    "homeId": 10509,
+    "awayId": 2931,
+    "homeName": "Al Kholood",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-06T20:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2935,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Raed",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-07T19:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2928,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-07T19:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2940,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-07T19:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2932,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-08T19:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2956,
+    "homeName": "Al Taawon",
+    "awayName": "Damac",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-08T19:00:00+00:00",
+    "homeId": 2961,
+    "awayId": 2934,
+    "homeName": "Al Orubah",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-08T19:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2977,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Okhdood",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-13T19:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2935,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Raed",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-13T19:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 10511,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Riyadh",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-13T19:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2961,
+    "homeName": "Al Shabab",
+    "awayName": "Al Orubah",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-14T19:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2937,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-14T19:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 10509,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Kholood",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-14T19:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2933,
+    "homeName": "Damac",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-15T19:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2944,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Fayha",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-15T19:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2932,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-15T19:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2929,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-04T14:30:00+00:00",
+    "homeId": 10509,
+    "awayId": 2936,
+    "homeName": "Al Kholood",
+    "awayName": "Al Taawon",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-04T14:45:00+00:00",
+    "homeId": 2961,
+    "awayId": 2977,
+    "homeName": "Al Orubah",
+    "awayName": "Al Okhdood",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-04T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2939,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Nassr",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-05T14:05:00+00:00",
+    "homeId": 2933,
+    "awayId": 2934,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-05T14:15:00+00:00",
+    "homeId": 10511,
+    "awayId": 2956,
+    "homeName": "Al Riyadh",
+    "awayName": "Damac",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-05T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2938,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-06T14:25:00+00:00",
+    "homeId": 2944,
+    "awayId": 2931,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-06T16:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2928,
+    "homeName": "Al-Raed",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-06T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2940,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-10T15:50:00+00:00",
+    "homeId": 2940,
+    "awayId": 10509,
+    "homeName": "Al Shabab",
+    "awayName": "Al Kholood",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-10T16:00:00+00:00",
+    "homeId": 2956,
+    "awayId": 2937,
+    "homeName": "Damac",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-10T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2961,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al Orubah",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-11T15:55:00+00:00",
+    "homeId": 2977,
+    "awayId": 2936,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-11T16:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2929,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-11T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2932,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-12T15:35:00+00:00",
+    "homeId": 2928,
+    "awayId": 2931,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2025-04-12T16:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2933,
+    "homeName": "Al-Fayha",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-12T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 10511,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Riyadh",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-17T15:40:00+00:00",
+    "homeId": 2934,
+    "awayId": 10511,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-17T15:50:00+00:00",
+    "homeId": 2932,
+    "awayId": 2928,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-17T15:50:00+00:00",
+    "homeId": 2940,
+    "awayId": 2977,
+    "homeName": "Al Shabab",
+    "awayName": "Al Okhdood",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-17T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2938,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-18T16:05:00+00:00",
+    "homeId": 10509,
+    "awayId": 2956,
+    "homeName": "Al Kholood",
+    "awayName": "Damac",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-18T16:20:00+00:00",
+    "homeId": 2929,
+    "awayId": 2944,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Fayha",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-18T18:00:00+00:00",
+    "homeId": 2933,
+    "awayId": 2939,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-19T16:25:00+00:00",
+    "homeId": 2961,
+    "awayId": 2935,
+    "homeName": "Al Orubah",
+    "awayName": "Al-Raed",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-04-19T18:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2937,
+    "homeName": "Al Taawon",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-21T15:55:00+00:00",
+    "homeId": 2932,
+    "awayId": 2940,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Shabab",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-21T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2934,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-22T16:05:00+00:00",
+    "homeId": 2956,
+    "awayId": 2939,
+    "homeName": "Damac",
+    "awayName": "Al-Nassr",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-22T16:20:00+00:00",
+    "homeId": 2937,
+    "awayId": 2929,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-23T15:55:00+00:00",
+    "homeId": 10511,
+    "awayId": 2931,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Fateh",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-23T16:10:00+00:00",
+    "homeId": 10509,
+    "awayId": 2977,
+    "homeName": "Al Kholood",
+    "awayName": "Al Okhdood",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-23T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2933,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-24T16:30:00+00:00",
+    "homeId": 2961,
+    "awayId": 2944,
+    "homeName": "Al Orubah",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-24T18:00:00+00:00",
+    "homeId": 2936,
+    "awayId": 2935,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Raed",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-01T16:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2937,
+    "homeName": "Al Okhdood",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-01T16:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2961,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Orubah",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-05-01T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2940,
+    "homeName": "Al-Fateh",
+    "awayName": "Al Shabab",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-02T15:50:00+00:00",
+    "homeId": 2934,
+    "awayId": 2928,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-02T16:05:00+00:00",
+    "homeId": 2944,
+    "awayId": 2956,
+    "homeName": "Al-Fayha",
+    "awayName": "Damac",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-02T18:00:00+00:00",
+    "homeId": 2933,
+    "awayId": 10509,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al Kholood",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-07T16:15:00+00:00",
+    "homeId": 2935,
+    "awayId": 2932,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 3,
+    "awayGoals": 5
+  },
+  {
+    "date": "2025-05-07T16:25:00+00:00",
+    "homeId": 2929,
+    "awayId": 2936,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Taawon",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-07T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2938,
+    "homeName": "Al-Nassr",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-10T16:20:00+00:00",
+    "homeId": 10509,
+    "awayId": 2934,
+    "homeName": "Al Kholood",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-10T16:25:00+00:00",
+    "homeId": 2937,
+    "awayId": 2931,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Fateh",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-10T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 10511,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Riyadh",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-11T16:05:00+00:00",
+    "homeId": 2940,
+    "awayId": 2929,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-11T16:10:00+00:00",
+    "homeId": 2956,
+    "awayId": 2935,
+    "homeName": "Damac",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-11T16:15:00+00:00",
+    "homeId": 2936,
+    "awayId": 2933,
+    "homeName": "Al Taawon",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-11T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2944,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Al-Fayha",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-12T16:05:00+00:00",
+    "homeId": 2932,
+    "awayId": 2961,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al Orubah",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-12T18:00:00+00:00",
+    "homeId": 2977,
+    "awayId": 2939,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Nassr",
+    "homeGoals": 0,
+    "awayGoals": 9
+  },
+  {
+    "date": "2025-05-15T15:55:00+00:00",
+    "homeId": 2933,
+    "awayId": 2937,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-15T16:05:00+00:00",
+    "homeId": 10511,
+    "awayId": 2940,
+    "homeName": "Al Riyadh",
+    "awayName": "Al Shabab",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-15T18:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 2938,
+    "homeName": "Al-Raed",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-16T15:55:00+00:00",
+    "homeId": 2931,
+    "awayId": 2932,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-05-16T16:40:00+00:00",
+    "homeId": 2961,
+    "awayId": 2928,
+    "homeName": "Al Orubah",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-16T18:00:00+00:00",
+    "homeId": 2939,
+    "awayId": 2936,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Taawon",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-17T15:55:00+00:00",
+    "homeId": 2934,
+    "awayId": 2956,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Damac",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-17T16:15:00+00:00",
+    "homeId": 2944,
+    "awayId": 2977,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Okhdood",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-17T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 10509,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al Kholood",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-20T16:00:00+00:00",
+    "homeId": 2933,
+    "awayId": 2961,
+    "homeName": "Al-Qadisiyah FC",
+    "awayName": "Al Orubah",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-20T16:20:00+00:00",
+    "homeId": 2936,
+    "awayId": 10511,
+    "homeName": "Al Taawon",
+    "awayName": "Al Riyadh",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-20T18:00:00+00:00",
+    "homeId": 2940,
+    "awayId": 2938,
+    "homeName": "Al Shabab",
+    "awayName": "Al-Ittihad FC",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-21T16:10:00+00:00",
+    "homeId": 2939,
+    "awayId": 2928,
+    "homeName": "Al-Nassr",
+    "awayName": "Al Khaleej Saihat",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-21T16:25:00+00:00",
+    "homeId": 10509,
+    "awayId": 2944,
+    "homeName": "Al Kholood",
+    "awayName": "Al-Fayha",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-21T18:00:00+00:00",
+    "homeId": 2937,
+    "awayId": 2932,
+    "homeName": "Al Wehda Club",
+    "awayName": "Al-Hilal Saudi FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-22T16:05:00+00:00",
+    "homeId": 2977,
+    "awayId": 2935,
+    "homeName": "Al Okhdood",
+    "awayName": "Al-Raed",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-22T16:15:00+00:00",
+    "homeId": 2956,
+    "awayId": 2931,
+    "homeName": "Damac",
+    "awayName": "Al-Fateh",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-22T18:00:00+00:00",
+    "homeId": 2929,
+    "awayId": 2934,
+    "homeName": "Al-Ahli Jeddah",
+    "awayName": "Al-Ettifaq",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-26T18:00:00+00:00",
+    "homeId": 2928,
+    "awayId": 2977,
+    "homeName": "Al Khaleej Saihat",
+    "awayName": "Al Okhdood",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-26T18:00:00+00:00",
+    "homeId": 2931,
+    "awayId": 2939,
+    "homeName": "Al-Fateh",
+    "awayName": "Al-Nassr",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-26T18:00:00+00:00",
+    "homeId": 2932,
+    "awayId": 2933,
+    "homeName": "Al-Hilal Saudi FC",
+    "awayName": "Al-Qadisiyah FC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-26T18:00:00+00:00",
+    "homeId": 2934,
+    "awayId": 2937,
+    "homeName": "Al-Ettifaq",
+    "awayName": "Al Wehda Club",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-26T18:00:00+00:00",
+    "homeId": 2935,
+    "awayId": 10509,
+    "homeName": "Al-Raed",
+    "awayName": "Al Kholood",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-26T18:00:00+00:00",
+    "homeId": 2938,
+    "awayId": 2956,
+    "homeName": "Al-Ittihad FC",
+    "awayName": "Damac",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-26T18:00:00+00:00",
+    "homeId": 2944,
+    "awayId": 2940,
+    "homeName": "Al-Fayha",
+    "awayName": "Al Shabab",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-26T18:00:00+00:00",
+    "homeId": 2961,
+    "awayId": 2936,
+    "homeName": "Al Orubah",
+    "awayName": "Al Taawon",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-26T18:00:00+00:00",
+    "homeId": 10511,
+    "awayId": 2929,
+    "homeName": "Al Riyadh",
+    "awayName": "Al-Ahli Jeddah",
+    "homeGoals": 0,
+    "awayGoals": 1
+  }
+]

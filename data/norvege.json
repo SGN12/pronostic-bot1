@@ -1,0 +1,7042 @@
+[
+  {
+    "id": "628224",
+    "date": "2022-04-02T14:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:987",
+    "homeName": "Hamarkameratene",
+    "awayName": "Lillestrom",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628223",
+    "date": "2022-04-02T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:2791",
+    "homeName": "Molde",
+    "awayName": "Vålerenga",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628218",
+    "date": "2022-04-03T16:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:6672",
+    "homeName": "Aalesund",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628220",
+    "date": "2022-04-03T16:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:9811",
+    "homeName": "FK Jerv",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628219",
+    "date": "2022-04-03T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:3279",
+    "homeName": "Haugesund",
+    "awayName": "Sandefjord",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628221",
+    "date": "2022-04-03T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:5270",
+    "homeName": "Odds BK",
+    "awayName": "Tromso",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628222",
+    "date": "2022-04-03T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:510",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Viking FK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628217",
+    "date": "2022-04-03T18:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:438",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Rosenborg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628216",
+    "date": "2022-04-09T14:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:18125",
+    "homeName": "Lillestrom",
+    "awayName": "FK Jerv",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628214",
+    "date": "2022-04-10T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:5002",
+    "homeName": "Kristiansund BK",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "628213",
+    "date": "2022-04-10T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:602",
+    "homeName": "Rosenborg",
+    "awayName": "Odds BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628215",
+    "date": "2022-04-10T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:2980",
+    "homeName": "Sandefjord",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628212",
+    "date": "2022-04-10T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:2715",
+    "homeName": "Stromsgodset",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628210",
+    "date": "2022-04-10T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:21380",
+    "homeName": "Tromso",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628211",
+    "date": "2022-04-10T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:3327",
+    "homeName": "Vålerenga",
+    "awayName": "Haugesund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628209",
+    "date": "2022-04-10T18:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:3278",
+    "homeName": "Viking FK",
+    "awayName": "Aalesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628207",
+    "date": "2022-04-18T16:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:5270",
+    "homeName": "Aalesund",
+    "awayName": "Tromso",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628202",
+    "date": "2022-04-18T16:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:6672",
+    "homeName": "FK Jerv",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628205",
+    "date": "2022-04-18T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:3279",
+    "homeName": "Hamarkameratene",
+    "awayName": "Sandefjord",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628206",
+    "date": "2022-04-18T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:9811",
+    "homeName": "Haugesund",
+    "awayName": "Stromsgodset",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628203",
+    "date": "2022-04-18T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:987",
+    "homeName": "Molde",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628208",
+    "date": "2022-04-18T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:510",
+    "homeName": "Odds BK",
+    "awayName": "Viking FK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628204",
+    "date": "2022-04-18T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:438",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628201",
+    "date": "2022-04-18T18:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:2791",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Vålerenga",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "628200",
+    "date": "2022-04-23T14:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:3278",
+    "homeName": "Odds BK",
+    "awayName": "Aalesund",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "628199",
+    "date": "2022-04-23T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:3279",
+    "homeName": "Stromsgodset",
+    "awayName": "Sandefjord",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": "628196",
+    "date": "2022-04-24T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:21380",
+    "homeName": "Kristiansund BK",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628197",
+    "date": "2022-04-24T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:3327",
+    "homeName": "Lillestrom",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628198",
+    "date": "2022-04-24T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:5002",
+    "homeName": "Tromso",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "id": "628195",
+    "date": "2022-04-24T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:18125",
+    "homeName": "Vålerenga",
+    "awayName": "FK Jerv",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628194",
+    "date": "2022-04-24T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:2980",
+    "homeName": "Viking FK",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628193",
+    "date": "2022-04-24T18:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:2715",
+    "homeName": "Rosenborg",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628105",
+    "date": "2022-04-28T18:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:3278",
+    "homeName": "Lillestrom",
+    "awayName": "Aalesund",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628097",
+    "date": "2022-04-30T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:3327",
+    "homeName": "Viking FK",
+    "awayName": "Haugesund",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "628192",
+    "date": "2022-05-07T14:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:602",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Odds BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628191",
+    "date": "2022-05-07T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:510",
+    "homeName": "Molde",
+    "awayName": "Viking FK",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": "628187",
+    "date": "2022-05-08T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:987",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628189",
+    "date": "2022-05-08T16:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:5270",
+    "homeName": "FK Jerv",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628186",
+    "date": "2022-05-08T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:6672",
+    "homeName": "Haugesund",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628190",
+    "date": "2022-05-08T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:2791",
+    "homeName": "Sandefjord",
+    "awayName": "Vålerenga",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628188",
+    "date": "2022-05-08T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:438",
+    "homeName": "Stromsgodset",
+    "awayName": "Rosenborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628185",
+    "date": "2022-05-08T18:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:3278",
+    "homeName": "Hamarkameratene",
+    "awayName": "Aalesund",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628085",
+    "date": "2022-05-11T17:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:602",
+    "homeName": "Molde",
+    "awayName": "Odds BK",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628134",
+    "date": "2022-05-12T17:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:2791",
+    "homeName": "Tromso",
+    "awayName": "Vålerenga",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628087",
+    "date": "2022-05-12T17:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:9811",
+    "homeName": "Viking FK",
+    "awayName": "Stromsgodset",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628180",
+    "date": "2022-05-16T16:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:2715",
+    "homeName": "Aalesund",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628184",
+    "date": "2022-05-16T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:5270",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628183",
+    "date": "2022-05-16T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:9811",
+    "homeName": "Kristiansund BK",
+    "awayName": "Stromsgodset",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "628182",
+    "date": "2022-05-16T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:5002",
+    "homeName": "Lillestrom",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628179",
+    "date": "2022-05-16T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:3327",
+    "homeName": "Odds BK",
+    "awayName": "Haugesund",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "628181",
+    "date": "2022-05-16T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:3279",
+    "homeName": "Rosenborg",
+    "awayName": "Sandefjord",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628178",
+    "date": "2022-05-16T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:18125",
+    "homeName": "Viking FK",
+    "awayName": "FK Jerv",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628177",
+    "date": "2022-05-16T18:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:21380",
+    "homeName": "Vålerenga",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628176",
+    "date": "2022-05-21T14:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:987",
+    "homeName": "Sandefjord",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "628175",
+    "date": "2022-05-21T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:6672",
+    "homeName": "Molde",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628172",
+    "date": "2022-05-22T16:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:602",
+    "homeName": "FK Jerv",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628171",
+    "date": "2022-05-22T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:2980",
+    "homeName": "Haugesund",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "628170",
+    "date": "2022-05-22T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:3278",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Aalesund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628174",
+    "date": "2022-05-22T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:2791",
+    "homeName": "Stromsgodset",
+    "awayName": "Vålerenga",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628173",
+    "date": "2022-05-22T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:510",
+    "homeName": "Tromso",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628169",
+    "date": "2022-05-22T18:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:438",
+    "homeName": "Hamarkameratene",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628164",
+    "date": "2022-05-25T16:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:18125",
+    "homeName": "Aalesund",
+    "awayName": "FK Jerv",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628167",
+    "date": "2022-05-25T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:9811",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Stromsgodset",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628166",
+    "date": "2022-05-25T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:3279",
+    "homeName": "Odds BK",
+    "awayName": "Sandefjord",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628165",
+    "date": "2022-05-25T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:21380",
+    "homeName": "Viking FK",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628163",
+    "date": "2022-05-25T18:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:2791",
+    "homeName": "Lillestrom",
+    "awayName": "Vålerenga",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628162",
+    "date": "2022-05-26T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:3327",
+    "homeName": "Rosenborg",
+    "awayName": "Haugesund",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "628161",
+    "date": "2022-05-26T18:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:2715",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628160",
+    "date": "2022-05-28T14:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:602",
+    "homeName": "Hamarkameratene",
+    "awayName": "Odds BK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628159",
+    "date": "2022-05-28T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:510",
+    "homeName": "Stromsgodset",
+    "awayName": "Viking FK",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628158",
+    "date": "2022-05-29T16:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:5002",
+    "homeName": "FK Jerv",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": "628154",
+    "date": "2022-05-29T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:3278",
+    "homeName": "Haugesund",
+    "awayName": "Aalesund",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628155",
+    "date": "2022-05-29T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:2980",
+    "homeName": "Molde",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628157",
+    "date": "2022-05-29T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:987",
+    "homeName": "Tromso",
+    "awayName": "Lillestrom",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628153",
+    "date": "2022-05-29T18:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:438",
+    "homeName": "Vålerenga",
+    "awayName": "Rosenborg",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "628152",
+    "date": "2022-06-18T14:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:9811",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Stromsgodset",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "628151",
+    "date": "2022-06-18T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:2980",
+    "homeName": "Kristiansund BK",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628146",
+    "date": "2022-06-19T16:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:21380",
+    "homeName": "FK Jerv",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628149",
+    "date": "2022-06-19T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:438",
+    "homeName": "Lillestrom",
+    "awayName": "Rosenborg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628148",
+    "date": "2022-06-19T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:2715",
+    "homeName": "Odds BK",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628147",
+    "date": "2022-06-19T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:3327",
+    "homeName": "Tromso",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628150",
+    "date": "2022-06-19T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:3279",
+    "homeName": "Viking FK",
+    "awayName": "Sandefjord",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628145",
+    "date": "2022-06-19T18:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:2791",
+    "homeName": "Aalesund",
+    "awayName": "Vålerenga",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628144",
+    "date": "2022-06-25T14:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:510",
+    "homeName": "Haugesund",
+    "awayName": "Viking FK",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "628143",
+    "date": "2022-06-25T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:6672",
+    "homeName": "Rosenborg",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628138",
+    "date": "2022-06-26T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:3278",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Aalesund",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628141",
+    "date": "2022-06-26T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:5002",
+    "homeName": "Hamarkameratene",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628142",
+    "date": "2022-06-26T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:5270",
+    "homeName": "Sandefjord",
+    "awayName": "Tromso",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628140",
+    "date": "2022-06-26T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:987",
+    "homeName": "Stromsgodset",
+    "awayName": "Lillestrom",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628137",
+    "date": "2022-06-26T18:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:602",
+    "homeName": "Vålerenga",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628136",
+    "date": "2022-07-02T14:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:3327",
+    "homeName": "FK Jerv",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628135",
+    "date": "2022-07-02T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:2980",
+    "homeName": "Odds BK",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628133",
+    "date": "2022-07-03T16:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:9811",
+    "homeName": "Aalesund",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628131",
+    "date": "2022-07-03T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:2715",
+    "homeName": "Hamarkameratene",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628130",
+    "date": "2022-07-03T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:987",
+    "homeName": "Kristiansund BK",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628132",
+    "date": "2022-07-03T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:3279",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Sandefjord",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "628129",
+    "date": "2022-07-03T18:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:438",
+    "homeName": "Viking FK",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628139",
+    "date": "2022-07-06T17:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:18125",
+    "homeName": "Molde",
+    "awayName": "FK Jerv",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628128",
+    "date": "2022-07-09T14:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:5002",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "628125",
+    "date": "2022-07-09T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:602",
+    "homeName": "Stromsgodset",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628127",
+    "date": "2022-07-10T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:510",
+    "homeName": "Lillestrom",
+    "awayName": "Viking FK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628126",
+    "date": "2022-07-10T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:5270",
+    "homeName": "Molde",
+    "awayName": "Tromso",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "628123",
+    "date": "2022-07-10T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:18125",
+    "homeName": "Rosenborg",
+    "awayName": "FK Jerv",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628124",
+    "date": "2022-07-10T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:6672",
+    "homeName": "Vålerenga",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628121",
+    "date": "2022-07-10T18:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:21380",
+    "homeName": "Haugesund",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628122",
+    "date": "2022-07-12T18:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:3278",
+    "homeName": "Sandefjord",
+    "awayName": "Aalesund",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628120",
+    "date": "2022-07-16T14:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:3279",
+    "homeName": "FK Jerv",
+    "awayName": "Sandefjord",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628119",
+    "date": "2022-07-16T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:2980",
+    "homeName": "Hamarkameratene",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628114",
+    "date": "2022-07-17T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:3327",
+    "homeName": "Molde",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628116",
+    "date": "2022-07-17T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:987",
+    "homeName": "Odds BK",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628118",
+    "date": "2022-07-17T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:2791",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Vålerenga",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628115",
+    "date": "2022-07-17T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:6672",
+    "homeName": "Viking FK",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628113",
+    "date": "2022-07-17T18:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:438",
+    "homeName": "Aalesund",
+    "awayName": "Rosenborg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628112",
+    "date": "2022-07-23T14:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:18125",
+    "homeName": "Bodo/Glimt",
+    "awayName": "FK Jerv",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "628110",
+    "date": "2022-07-23T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:5270",
+    "homeName": "Rosenborg",
+    "awayName": "Tromso",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628109",
+    "date": "2022-07-24T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:5002",
+    "homeName": "Haugesund",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628108",
+    "date": "2022-07-24T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:602",
+    "homeName": "Kristiansund BK",
+    "awayName": "Odds BK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628107",
+    "date": "2022-07-24T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:2715",
+    "homeName": "Sandefjord",
+    "awayName": "Molde",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "628111",
+    "date": "2022-07-24T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:510",
+    "homeName": "Vålerenga",
+    "awayName": "Viking FK",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "628106",
+    "date": "2022-07-24T18:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:21380",
+    "homeName": "Stromsgodset",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628156",
+    "date": "2022-07-27T17:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:6672",
+    "homeName": "Sandefjord",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628104",
+    "date": "2022-07-30T14:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:2980",
+    "homeName": "Aalesund",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628098",
+    "date": "2022-07-30T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:6672",
+    "homeName": "Hamarkameratene",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628100",
+    "date": "2022-07-30T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:438",
+    "homeName": "Odds BK",
+    "awayName": "Rosenborg",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "628101",
+    "date": "2022-07-30T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:3279",
+    "homeName": "Tromso",
+    "awayName": "Sandefjord",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628103",
+    "date": "2022-07-30T18:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:2791",
+    "homeName": "FK Jerv",
+    "awayName": "Vålerenga",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "id": "628102",
+    "date": "2022-07-31T13:30Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:9811",
+    "homeName": "Molde",
+    "awayName": "Stromsgodset",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628099",
+    "date": "2022-07-31T13:30Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:987",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Lillestrom",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628168",
+    "date": "2022-08-03T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:5270",
+    "homeName": "Kristiansund BK",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628096",
+    "date": "2022-08-06T14:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:602",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Odds BK",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "id": "628091",
+    "date": "2022-08-06T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:21380",
+    "homeName": "Rosenborg",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628090",
+    "date": "2022-08-07T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:18125",
+    "homeName": "Haugesund",
+    "awayName": "FK Jerv",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628092",
+    "date": "2022-08-07T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:2715",
+    "homeName": "Kristiansund BK",
+    "awayName": "Molde",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "628094",
+    "date": "2022-08-07T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:5270",
+    "homeName": "Lillestrom",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628095",
+    "date": "2022-08-07T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:510",
+    "homeName": "Sandefjord",
+    "awayName": "Viking FK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628093",
+    "date": "2022-08-07T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:5002",
+    "homeName": "Stromsgodset",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628089",
+    "date": "2022-08-07T18:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:3278",
+    "homeName": "Vålerenga",
+    "awayName": "Aalesund",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628086",
+    "date": "2022-08-12T17:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:438",
+    "homeName": "Sandefjord",
+    "awayName": "Rosenborg",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "id": "628081",
+    "date": "2022-08-12T17:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:2980",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "628082",
+    "date": "2022-08-13T14:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:3327",
+    "homeName": "Aalesund",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628084",
+    "date": "2022-08-14T16:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:987",
+    "homeName": "FK Jerv",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628083",
+    "date": "2022-08-14T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:6672",
+    "homeName": "Tromso",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628088",
+    "date": "2022-08-14T18:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:2791",
+    "homeName": "Hamarkameratene",
+    "awayName": "Vålerenga",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628075",
+    "date": "2022-08-20T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:21380",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628078",
+    "date": "2022-08-20T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:5002",
+    "homeName": "Odds BK",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628076",
+    "date": "2022-08-21T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:2715",
+    "homeName": "Haugesund",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628077",
+    "date": "2022-08-21T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:3279",
+    "homeName": "Lillestrom",
+    "awayName": "Sandefjord",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628074",
+    "date": "2022-08-21T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:18125",
+    "homeName": "Stromsgodset",
+    "awayName": "FK Jerv",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "id": "628079",
+    "date": "2022-08-21T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:5270",
+    "homeName": "Vålerenga",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628073",
+    "date": "2022-08-21T18:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:3278",
+    "homeName": "Rosenborg",
+    "awayName": "Aalesund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628065",
+    "date": "2022-08-27T16:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:2980",
+    "homeName": "FK Jerv",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628071",
+    "date": "2022-08-27T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:9811",
+    "homeName": "Sandefjord",
+    "awayName": "Stromsgodset",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628068",
+    "date": "2022-08-28T16:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:602",
+    "homeName": "Aalesund",
+    "awayName": "Odds BK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628066",
+    "date": "2022-08-28T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:3327",
+    "homeName": "Hamarkameratene",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628067",
+    "date": "2022-08-28T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:6672",
+    "homeName": "Lillestrom",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628070",
+    "date": "2022-08-28T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:5002",
+    "homeName": "Molde",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "628072",
+    "date": "2022-08-28T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:2791",
+    "homeName": "Viking FK",
+    "awayName": "Vålerenga",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628069",
+    "date": "2022-08-28T18:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:438",
+    "homeName": "Tromso",
+    "awayName": "Rosenborg",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "628080",
+    "date": "2022-08-31T17:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:510",
+    "homeName": "Kristiansund BK",
+    "awayName": "Viking FK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628117",
+    "date": "2022-08-31T17:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:9811",
+    "homeName": "Tromso",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628061",
+    "date": "2022-09-03T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:2715",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "628063",
+    "date": "2022-09-04T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:5270",
+    "homeName": "Haugesund",
+    "awayName": "Tromso",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628062",
+    "date": "2022-09-04T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:3279",
+    "homeName": "Kristiansund BK",
+    "awayName": "Sandefjord",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628058",
+    "date": "2022-09-04T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:18125",
+    "homeName": "Odds BK",
+    "awayName": "FK Jerv",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628064",
+    "date": "2022-09-04T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:510",
+    "homeName": "Rosenborg",
+    "awayName": "Viking FK",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "628059",
+    "date": "2022-09-04T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:21380",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628057",
+    "date": "2022-09-04T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:3278",
+    "homeName": "Stromsgodset",
+    "awayName": "Aalesund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628060",
+    "date": "2022-09-04T18:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:987",
+    "homeName": "Vålerenga",
+    "awayName": "Lillestrom",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628051",
+    "date": "2022-09-10T14:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:602",
+    "homeName": "Sandefjord",
+    "awayName": "Odds BK",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628054",
+    "date": "2022-09-10T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:9811",
+    "homeName": "Lillestrom",
+    "awayName": "Stromsgodset",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628053",
+    "date": "2022-09-11T16:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:5002",
+    "homeName": "Aalesund",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "628050",
+    "date": "2022-09-11T16:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:2715",
+    "homeName": "FK Jerv",
+    "awayName": "Molde",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": "628055",
+    "date": "2022-09-11T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:510",
+    "homeName": "Hamarkameratene",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628056",
+    "date": "2022-09-11T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:2791",
+    "homeName": "Kristiansund BK",
+    "awayName": "Vålerenga",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628049",
+    "date": "2022-09-11T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:2980",
+    "homeName": "Tromso",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628052",
+    "date": "2022-09-11T18:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:438",
+    "homeName": "Haugesund",
+    "awayName": "Rosenborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628043",
+    "date": "2022-09-17T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:21380",
+    "homeName": "Odds BK",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "628044",
+    "date": "2022-09-18T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:3327",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628046",
+    "date": "2022-09-18T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:987",
+    "homeName": "Rosenborg",
+    "awayName": "Lillestrom",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "628042",
+    "date": "2022-09-18T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:18125",
+    "homeName": "Sarpsborg FK",
+    "awayName": "FK Jerv",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "628045",
+    "date": "2022-09-18T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:6672",
+    "homeName": "Stromsgodset",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "628047",
+    "date": "2022-09-18T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:3279",
+    "homeName": "Vålerenga",
+    "awayName": "Sandefjord",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628048",
+    "date": "2022-09-18T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:5270",
+    "homeName": "Viking FK",
+    "awayName": "Tromso",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628041",
+    "date": "2022-09-18T18:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:3278",
+    "homeName": "Molde",
+    "awayName": "Aalesund",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628035",
+    "date": "2022-10-01T14:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:2715",
+    "homeName": "Tromso",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628033",
+    "date": "2022-10-01T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:2980",
+    "homeName": "Lillestrom",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "628039",
+    "date": "2022-10-01T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:9811",
+    "homeName": "Vålerenga",
+    "awayName": "Stromsgodset",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628040",
+    "date": "2022-10-02T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:510",
+    "homeName": "Aalesund",
+    "awayName": "Viking FK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628034",
+    "date": "2022-10-02T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:18125",
+    "homeName": "Hamarkameratene",
+    "awayName": "FK Jerv",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628036",
+    "date": "2022-10-02T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:602",
+    "homeName": "Haugesund",
+    "awayName": "Odds BK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628038",
+    "date": "2022-10-02T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:5002",
+    "homeName": "Sandefjord",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628037",
+    "date": "2022-10-02T17:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:438",
+    "homeName": "Kristiansund BK",
+    "awayName": "Rosenborg",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "id": "628027",
+    "date": "2022-10-08T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:3327",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Haugesund",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628030",
+    "date": "2022-10-09T15:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:3279",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Sandefjord",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "628026",
+    "date": "2022-10-09T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:21380",
+    "homeName": "Molde",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "628028",
+    "date": "2022-10-09T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:6672",
+    "homeName": "Odds BK",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628031",
+    "date": "2022-10-09T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:5270",
+    "homeName": "Stromsgodset",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628029",
+    "date": "2022-10-09T15:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:987",
+    "homeName": "Viking FK",
+    "awayName": "Lillestrom",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "628032",
+    "date": "2022-10-09T17:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:2791",
+    "homeName": "Rosenborg",
+    "awayName": "Vålerenga",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628022",
+    "date": "2022-10-15T14:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:602",
+    "homeName": "Tromso",
+    "awayName": "Odds BK",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628024",
+    "date": "2022-10-15T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:9811",
+    "homeName": "Rosenborg",
+    "awayName": "Stromsgodset",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "628019",
+    "date": "2022-10-16T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:21380",
+    "homeName": "Aalesund",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "628020",
+    "date": "2022-10-16T15:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:3327",
+    "homeName": "Kristiansund BK",
+    "awayName": "Haugesund",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628018",
+    "date": "2022-10-16T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:18125",
+    "homeName": "Sandefjord",
+    "awayName": "FK Jerv",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628017",
+    "date": "2022-10-16T15:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:2980",
+    "homeName": "Vålerenga",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "id": "628023",
+    "date": "2022-10-16T15:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:5002",
+    "homeName": "Viking FK",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628021",
+    "date": "2022-10-16T17:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:2715",
+    "homeName": "Lillestrom",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628025",
+    "date": "2022-10-19T16:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:3278",
+    "homeName": "FK Jerv",
+    "awayName": "Aalesund",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628013",
+    "date": "2022-10-22T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:9811",
+    "homeName": "Hamarkameratene",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628016",
+    "date": "2022-10-22T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:2791",
+    "homeName": "Odds BK",
+    "awayName": "Vålerenga",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628012",
+    "date": "2022-10-23T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:3279",
+    "homeName": "Aalesund",
+    "awayName": "Sandefjord",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "628009",
+    "date": "2022-10-23T15:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:6672",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "628015",
+    "date": "2022-10-23T15:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:510",
+    "homeName": "FK Jerv",
+    "awayName": "Viking FK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628010",
+    "date": "2022-10-23T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:987",
+    "homeName": "Haugesund",
+    "awayName": "Lillestrom",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "628014",
+    "date": "2022-10-23T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:5270",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "628011",
+    "date": "2022-10-23T17:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:438",
+    "homeName": "Molde",
+    "awayName": "Rosenborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "628005",
+    "date": "2022-10-29T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:3327",
+    "homeName": "Stromsgodset",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628008",
+    "date": "2022-10-29T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:5002",
+    "homeName": "Vålerenga",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "628001",
+    "date": "2022-10-30T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:3278",
+    "homeName": "Kristiansund BK",
+    "awayName": "Aalesund",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "628007",
+    "date": "2022-10-30T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:602",
+    "homeName": "Lillestrom",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "628002",
+    "date": "2022-10-30T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:2980",
+    "homeName": "Rosenborg",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "628004",
+    "date": "2022-10-30T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:21380",
+    "homeName": "Sandefjord",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628003",
+    "date": "2022-10-30T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:18125",
+    "homeName": "Tromso",
+    "awayName": "FK Jerv",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "628006",
+    "date": "2022-10-30T18:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:2715",
+    "homeName": "Viking FK",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "627994",
+    "date": "2022-11-06T16:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:987",
+    "homeName": "Aalesund",
+    "awayName": "Lillestrom",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "627999",
+    "date": "2022-11-06T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:510",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Viking FK",
+    "homeGoals": 5,
+    "awayGoals": 4
+  },
+  {
+    "id": "627995",
+    "date": "2022-11-06T16:00Z",
+    "homeId": "espn:18125",
+    "awayId": "espn:438",
+    "homeName": "FK Jerv",
+    "awayName": "Rosenborg",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": "627998",
+    "date": "2022-11-06T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:5270",
+    "homeName": "Hamarkameratene",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "628000",
+    "date": "2022-11-06T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:2791",
+    "homeName": "Haugesund",
+    "awayName": "Vålerenga",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "627996",
+    "date": "2022-11-06T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:3279",
+    "homeName": "Molde",
+    "awayName": "Sandefjord",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "627997",
+    "date": "2022-11-06T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:9811",
+    "homeName": "Odds BK",
+    "awayName": "Stromsgodset",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "627993",
+    "date": "2022-11-06T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:6672",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "627987",
+    "date": "2022-11-13T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:18125",
+    "homeName": "Kristiansund BK",
+    "awayName": "FK Jerv",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "627988",
+    "date": "2022-11-13T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:21380",
+    "homeName": "Lillestrom",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "627992",
+    "date": "2022-11-13T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:5002",
+    "homeName": "Rosenborg",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "627989",
+    "date": "2022-11-13T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:3327",
+    "homeName": "Sandefjord",
+    "awayName": "Haugesund",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "627986",
+    "date": "2022-11-13T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:2980",
+    "homeName": "Stromsgodset",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": "627985",
+    "date": "2022-11-13T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:3278",
+    "homeName": "Tromso",
+    "awayName": "Aalesund",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "627990",
+    "date": "2022-11-13T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:2715",
+    "homeName": "Vålerenga",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "627991",
+    "date": "2022-11-13T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:602",
+    "homeName": "Viking FK",
+    "awayName": "Odds BK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658840",
+    "date": "2023-04-10T12:30Z",
+    "homeId": "espn:438",
+    "awayId": "espn:510",
+    "homeName": "Rosenborg",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658841",
+    "date": "2023-04-10T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:2791",
+    "homeName": "Aalesund",
+    "awayName": "Vålerenga",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658843",
+    "date": "2023-04-10T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:3279",
+    "homeName": "Hamarkameratene",
+    "awayName": "Sandefjord",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658845",
+    "date": "2023-04-10T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:2980",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658846",
+    "date": "2023-04-10T15:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:602",
+    "homeName": "Stabaek",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658842",
+    "date": "2023-04-10T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:2715",
+    "homeName": "Tromso",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658847",
+    "date": "2023-04-10T17:15Z",
+    "homeId": "espn:620",
+    "awayId": "espn:3327",
+    "homeName": "SK Brann",
+    "awayName": "Haugesund",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658848",
+    "date": "2023-04-15T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:987",
+    "homeName": "Viking FK",
+    "awayName": "Lillestrom",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658849",
+    "date": "2023-04-16T15:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:2554",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Stabaek",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "658850",
+    "date": "2023-04-16T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:21380",
+    "homeName": "Haugesund",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658851",
+    "date": "2023-04-16T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:438",
+    "homeName": "Molde",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658852",
+    "date": "2023-04-16T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:620",
+    "homeName": "Odds BK",
+    "awayName": "SK Brann",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658853",
+    "date": "2023-04-16T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:5270",
+    "homeName": "Sandefjord",
+    "awayName": "Tromso",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658854",
+    "date": "2023-04-16T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:3278",
+    "homeName": "Stromsgodset",
+    "awayName": "Aalesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658855",
+    "date": "2023-04-16T17:15Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:5002",
+    "homeName": "Vålerenga",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658844",
+    "date": "2023-04-19T16:30Z",
+    "homeId": "espn:987",
+    "awayId": "espn:9811",
+    "homeName": "Lillestrom",
+    "awayName": "Stromsgodset",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "658856",
+    "date": "2023-04-22T16:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:2791",
+    "homeName": "SK Brann",
+    "awayName": "Vålerenga",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658857",
+    "date": "2023-04-23T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:2980",
+    "homeName": "Aalesund",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "658862",
+    "date": "2023-04-23T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:9811",
+    "homeName": "Hamarkameratene",
+    "awayName": "Stromsgodset",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658861",
+    "date": "2023-04-23T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:3279",
+    "homeName": "Rosenborg",
+    "awayName": "Sandefjord",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658860",
+    "date": "2023-04-23T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:602",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658859",
+    "date": "2023-04-23T15:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:3327",
+    "homeName": "Stabaek",
+    "awayName": "Haugesund",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658858",
+    "date": "2023-04-23T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:510",
+    "homeName": "Tromso",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658863",
+    "date": "2023-04-23T17:15Z",
+    "homeId": "espn:987",
+    "awayId": "espn:2715",
+    "homeName": "Lillestrom",
+    "awayName": "Molde",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658864",
+    "date": "2023-04-29T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:620",
+    "homeName": "Bodo/Glimt",
+    "awayName": "SK Brann",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658868",
+    "date": "2023-04-30T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:5002",
+    "homeName": "Haugesund",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658867",
+    "date": "2023-04-30T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:2554",
+    "homeName": "Molde",
+    "awayName": "Stabaek",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "658866",
+    "date": "2023-04-30T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:3278",
+    "homeName": "Sandefjord",
+    "awayName": "Aalesund",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "658865",
+    "date": "2023-04-30T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:5270",
+    "homeName": "Stromsgodset",
+    "awayName": "Tromso",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658869",
+    "date": "2023-04-30T15:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:21380",
+    "homeName": "Viking FK",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 7,
+    "awayGoals": 3
+  },
+  {
+    "id": "658870",
+    "date": "2023-04-30T17:15Z",
+    "homeId": "espn:602",
+    "awayId": "espn:438",
+    "homeName": "Odds BK",
+    "awayName": "Rosenborg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658871",
+    "date": "2023-05-01T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:987",
+    "homeName": "Vålerenga",
+    "awayName": "Lillestrom",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": "658977",
+    "date": "2023-05-03T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:602",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Odds BK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658970",
+    "date": "2023-05-03T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:3278",
+    "homeName": "Molde",
+    "awayName": "Aalesund",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658979",
+    "date": "2023-05-03T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:620",
+    "homeName": "Rosenborg",
+    "awayName": "SK Brann",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658872",
+    "date": "2023-05-06T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:2791",
+    "homeName": "Rosenborg",
+    "awayName": "Vålerenga",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658873",
+    "date": "2023-05-07T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:3327",
+    "homeName": "Aalesund",
+    "awayName": "Haugesund",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658874",
+    "date": "2023-05-07T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:2715",
+    "homeName": "Hamarkameratene",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "658876",
+    "date": "2023-05-07T15:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:5002",
+    "homeName": "Stabaek",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658877",
+    "date": "2023-05-07T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:602",
+    "homeName": "Tromso",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658875",
+    "date": "2023-05-07T15:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:9811",
+    "homeName": "Viking FK",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658878",
+    "date": "2023-05-07T17:15Z",
+    "homeId": "espn:987",
+    "awayId": "espn:2980",
+    "homeName": "Lillestrom",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658879",
+    "date": "2023-05-08T17:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:3279",
+    "homeName": "SK Brann",
+    "awayName": "Sandefjord",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658880",
+    "date": "2023-05-12T17:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:987",
+    "homeName": "Odds BK",
+    "awayName": "Lillestrom",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658881",
+    "date": "2023-05-13T15:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:438",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Rosenborg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658886",
+    "date": "2023-05-13T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:5270",
+    "homeName": "Hamarkameratene",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658885",
+    "date": "2023-05-13T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:9811",
+    "homeName": "Molde",
+    "awayName": "Stromsgodset",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658884",
+    "date": "2023-05-13T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:510",
+    "homeName": "Sandefjord",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658883",
+    "date": "2023-05-13T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:620",
+    "homeName": "Sarpsborg FK",
+    "awayName": "SK Brann",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658882",
+    "date": "2023-05-13T15:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:3278",
+    "homeName": "Stabaek",
+    "awayName": "Aalesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658887",
+    "date": "2023-05-13T17:15Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:2791",
+    "homeName": "Haugesund",
+    "awayName": "Vålerenga",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658888",
+    "date": "2023-05-16T16:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:2715",
+    "homeName": "Aalesund",
+    "awayName": "Molde",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658891",
+    "date": "2023-05-16T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:5002",
+    "homeName": "Lillestrom",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658892",
+    "date": "2023-05-16T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:3327",
+    "homeName": "Rosenborg",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658890",
+    "date": "2023-05-16T16:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:2554",
+    "homeName": "SK Brann",
+    "awayName": "Stabaek",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "658893",
+    "date": "2023-05-16T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:3279",
+    "homeName": "Stromsgodset",
+    "awayName": "Sandefjord",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658894",
+    "date": "2023-05-16T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:2980",
+    "homeName": "Tromso",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "658889",
+    "date": "2023-05-16T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:21380",
+    "homeName": "Vålerenga",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658895",
+    "date": "2023-05-16T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:602",
+    "homeName": "Viking FK",
+    "awayName": "Odds BK",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658898",
+    "date": "2023-05-29T15:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:510",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Viking FK",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "658900",
+    "date": "2023-05-29T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:5270",
+    "homeName": "Haugesund",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658896",
+    "date": "2023-05-29T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:3279",
+    "homeName": "Molde",
+    "awayName": "Sandefjord",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "658902",
+    "date": "2023-05-29T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:9811",
+    "homeName": "Odds BK",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658901",
+    "date": "2023-05-29T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:3278",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Aalesund",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658899",
+    "date": "2023-05-29T15:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:438",
+    "homeName": "SK Brann",
+    "awayName": "Rosenborg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658897",
+    "date": "2023-05-29T15:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:2791",
+    "homeName": "Stabaek",
+    "awayName": "Vålerenga",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658903",
+    "date": "2023-05-29T17:15Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:987",
+    "homeName": "Hamarkameratene",
+    "awayName": "Lillestrom",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658905",
+    "date": "2023-06-04T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:620",
+    "homeName": "Aalesund",
+    "awayName": "SK Brann",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658906",
+    "date": "2023-06-04T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:2554",
+    "homeName": "Lillestrom",
+    "awayName": "Stabaek",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658904",
+    "date": "2023-06-04T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:21380",
+    "homeName": "Rosenborg",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "658907",
+    "date": "2023-06-04T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:602",
+    "homeName": "Sandefjord",
+    "awayName": "Odds BK",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "658908",
+    "date": "2023-06-04T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:3327",
+    "homeName": "Stromsgodset",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658909",
+    "date": "2023-06-04T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:5002",
+    "homeName": "Tromso",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658910",
+    "date": "2023-06-04T15:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:2980",
+    "homeName": "Vålerenga",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658911",
+    "date": "2023-06-04T17:15Z",
+    "homeId": "espn:510",
+    "awayId": "espn:2715",
+    "homeName": "Viking FK",
+    "awayName": "Molde",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": "658913",
+    "date": "2023-06-11T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:5270",
+    "homeName": "Aalesund",
+    "awayName": "Tromso",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "658914",
+    "date": "2023-06-11T15:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:21380",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658912",
+    "date": "2023-06-11T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:3279",
+    "homeName": "Haugesund",
+    "awayName": "Sandefjord",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658916",
+    "date": "2023-06-11T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:2715",
+    "homeName": "Odds BK",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658917",
+    "date": "2023-06-11T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:510",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658918",
+    "date": "2023-06-11T15:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:438",
+    "homeName": "Stabaek",
+    "awayName": "Rosenborg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658915",
+    "date": "2023-06-11T15:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:9811",
+    "homeName": "Vålerenga",
+    "awayName": "Stromsgodset",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658919",
+    "date": "2023-06-11T17:15Z",
+    "homeId": "espn:620",
+    "awayId": "espn:987",
+    "homeName": "SK Brann",
+    "awayName": "Lillestrom",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658920",
+    "date": "2023-06-24T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:620",
+    "homeName": "Viking FK",
+    "awayName": "SK Brann",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658921",
+    "date": "2023-06-25T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:602",
+    "homeName": "Hamarkameratene",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658925",
+    "date": "2023-06-25T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:3327",
+    "homeName": "Molde",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658926",
+    "date": "2023-06-25T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:5002",
+    "homeName": "Rosenborg",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "658924",
+    "date": "2023-06-25T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:2554",
+    "homeName": "Tromso",
+    "awayName": "Stabaek",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658927",
+    "date": "2023-06-25T17:15Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:2980",
+    "homeName": "Stromsgodset",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658928",
+    "date": "2023-07-01T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:510",
+    "homeName": "Vålerenga",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658929",
+    "date": "2023-07-02T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:438",
+    "homeName": "Aalesund",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658930",
+    "date": "2023-07-02T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:602",
+    "homeName": "Haugesund",
+    "awayName": "Odds BK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658932",
+    "date": "2023-07-02T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:5270",
+    "homeName": "Lillestrom",
+    "awayName": "Tromso",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658931",
+    "date": "2023-07-02T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:3279",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Sandefjord",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "id": "658933",
+    "date": "2023-07-02T15:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:21380",
+    "homeName": "SK Brann",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658934",
+    "date": "2023-07-02T17:15Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:2715",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Molde",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658935",
+    "date": "2023-07-03T17:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:9811",
+    "homeName": "Stabaek",
+    "awayName": "Stromsgodset",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658936",
+    "date": "2023-07-07T17:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:3278",
+    "homeName": "Hamarkameratene",
+    "awayName": "Aalesund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658937",
+    "date": "2023-07-08T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:3327",
+    "homeName": "Viking FK",
+    "awayName": "Haugesund",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658942",
+    "date": "2023-07-09T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:2980",
+    "homeName": "Odds BK",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658941",
+    "date": "2023-07-09T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:987",
+    "homeName": "Rosenborg",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658940",
+    "date": "2023-07-09T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:2554",
+    "homeName": "Sandefjord",
+    "awayName": "Stabaek",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658939",
+    "date": "2023-07-09T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:5002",
+    "homeName": "Stromsgodset",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "id": "658938",
+    "date": "2023-07-09T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:2791",
+    "homeName": "Tromso",
+    "awayName": "Vålerenga",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658943",
+    "date": "2023-07-09T17:15Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:620",
+    "homeName": "Molde",
+    "awayName": "SK Brann",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658944",
+    "date": "2023-07-15T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:2715",
+    "homeName": "Vålerenga",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "658946",
+    "date": "2023-07-16T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:602",
+    "homeName": "Aalesund",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "658945",
+    "date": "2023-07-16T15:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:3327",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Haugesund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658950",
+    "date": "2023-07-16T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:3279",
+    "homeName": "Lillestrom",
+    "awayName": "Sandefjord",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "658949",
+    "date": "2023-07-16T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:5270",
+    "homeName": "Rosenborg",
+    "awayName": "Tromso",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658948",
+    "date": "2023-07-16T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:21380",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "658947",
+    "date": "2023-07-16T15:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:510",
+    "homeName": "Stabaek",
+    "awayName": "Viking FK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658951",
+    "date": "2023-07-16T17:15Z",
+    "homeId": "espn:620",
+    "awayId": "espn:9811",
+    "homeName": "SK Brann",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658922",
+    "date": "2023-07-19T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:3278",
+    "homeName": "Lillestrom",
+    "awayName": "Aalesund",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "658952",
+    "date": "2023-07-22T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:5002",
+    "homeName": "Molde",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "658953",
+    "date": "2023-07-23T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:2554",
+    "homeName": "Hamarkameratene",
+    "awayName": "Stabaek",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658954",
+    "date": "2023-07-23T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:987",
+    "homeName": "Haugesund",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658957",
+    "date": "2023-07-23T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:2791",
+    "homeName": "Odds BK",
+    "awayName": "Vålerenga",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658956",
+    "date": "2023-07-23T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:2980",
+    "homeName": "Sandefjord",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "id": "658955",
+    "date": "2023-07-23T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:620",
+    "homeName": "Tromso",
+    "awayName": "SK Brann",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658958",
+    "date": "2023-07-23T17:15Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:438",
+    "homeName": "Stromsgodset",
+    "awayName": "Rosenborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658959",
+    "date": "2023-07-24T17:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:3278",
+    "homeName": "Viking FK",
+    "awayName": "Aalesund",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658967",
+    "date": "2023-07-29T13:30Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:3279",
+    "homeName": "Vålerenga",
+    "awayName": "Sandefjord",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "658966",
+    "date": "2023-07-29T16:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:2715",
+    "homeName": "Stabaek",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658960",
+    "date": "2023-07-30T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:9811",
+    "homeName": "Aalesund",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658963",
+    "date": "2023-07-30T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:21380",
+    "homeName": "Lillestrom",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658964",
+    "date": "2023-07-30T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:602",
+    "homeName": "Rosenborg",
+    "awayName": "Odds BK",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658965",
+    "date": "2023-07-30T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:3327",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Haugesund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658962",
+    "date": "2023-07-30T15:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:510",
+    "homeName": "SK Brann",
+    "awayName": "Viking FK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658961",
+    "date": "2023-07-30T17:15Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:5270",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Tromso",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658973",
+    "date": "2023-08-05T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:2791",
+    "homeName": "Stromsgodset",
+    "awayName": "Vålerenga",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658969",
+    "date": "2023-08-06T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:620",
+    "homeName": "Hamarkameratene",
+    "awayName": "SK Brann",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658968",
+    "date": "2023-08-06T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:438",
+    "homeName": "Haugesund",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658971",
+    "date": "2023-08-06T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:2554",
+    "homeName": "Odds BK",
+    "awayName": "Stabaek",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "658972",
+    "date": "2023-08-06T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:5002",
+    "homeName": "Sandefjord",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "658974",
+    "date": "2023-08-06T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:987",
+    "homeName": "Tromso",
+    "awayName": "Lillestrom",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "658975",
+    "date": "2023-08-06T17:15Z",
+    "homeId": "espn:510",
+    "awayId": "espn:2980",
+    "homeName": "Viking FK",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "658980",
+    "date": "2023-08-12T14:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:2715",
+    "homeName": "Sandefjord",
+    "awayName": "Molde",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658981",
+    "date": "2023-08-12T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:9811",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658976",
+    "date": "2023-08-13T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:21380",
+    "homeName": "Aalesund",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658978",
+    "date": "2023-08-13T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:510",
+    "homeName": "Lillestrom",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658983",
+    "date": "2023-08-13T17:15Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:3327",
+    "homeName": "Vålerenga",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "658987",
+    "date": "2023-08-19T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:2791",
+    "homeName": "Molde",
+    "awayName": "Vålerenga",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658988",
+    "date": "2023-08-19T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:5002",
+    "homeName": "Odds BK",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "658986",
+    "date": "2023-08-20T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:438",
+    "homeName": "Hamarkameratene",
+    "awayName": "Rosenborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "658985",
+    "date": "2023-08-20T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:2980",
+    "homeName": "Haugesund",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "658984",
+    "date": "2023-08-20T15:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:3278",
+    "homeName": "SK Brann",
+    "awayName": "Aalesund",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "658990",
+    "date": "2023-08-20T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:3279",
+    "homeName": "Tromso",
+    "awayName": "Sandefjord",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658991",
+    "date": "2023-08-20T15:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:2554",
+    "homeName": "Viking FK",
+    "awayName": "Stabaek",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "658989",
+    "date": "2023-08-20T17:15Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:987",
+    "homeName": "Stromsgodset",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658997",
+    "date": "2023-08-26T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:5270",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Tromso",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "658996",
+    "date": "2023-08-27T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:3327",
+    "homeName": "Sandefjord",
+    "awayName": "Haugesund",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "658999",
+    "date": "2023-08-27T15:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:602",
+    "homeName": "Vålerenga",
+    "awayName": "Odds BK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "658995",
+    "date": "2023-08-27T17:15Z",
+    "homeId": "espn:438",
+    "awayId": "espn:3278",
+    "homeName": "Rosenborg",
+    "awayName": "Aalesund",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "659007",
+    "date": "2023-09-02T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:2791",
+    "homeName": "Viking FK",
+    "awayName": "Vålerenga",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "659000",
+    "date": "2023-09-03T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:987",
+    "homeName": "Aalesund",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "659002",
+    "date": "2023-09-03T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:2715",
+    "homeName": "Haugesund",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "659004",
+    "date": "2023-09-03T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:3279",
+    "homeName": "Odds BK",
+    "awayName": "Sandefjord",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "659001",
+    "date": "2023-09-03T15:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:5002",
+    "homeName": "SK Brann",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "659005",
+    "date": "2023-09-03T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:2554",
+    "homeName": "Stromsgodset",
+    "awayName": "Stabaek",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "659006",
+    "date": "2023-09-03T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:438",
+    "homeName": "Tromso",
+    "awayName": "Rosenborg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "659003",
+    "date": "2023-09-03T17:15Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:2980",
+    "homeName": "Hamarkameratene",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "id": "659008",
+    "date": "2023-09-16T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:510",
+    "homeName": "Haugesund",
+    "awayName": "Viking FK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "659009",
+    "date": "2023-09-16T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:602",
+    "homeName": "Molde",
+    "awayName": "Odds BK",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "659011",
+    "date": "2023-09-16T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:9811",
+    "homeName": "Sandefjord",
+    "awayName": "Stromsgodset",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "659010",
+    "date": "2023-09-17T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:2980",
+    "homeName": "Rosenborg",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "659012",
+    "date": "2023-09-17T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:987",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Lillestrom",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "659013",
+    "date": "2023-09-17T15:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:620",
+    "homeName": "Stabaek",
+    "awayName": "SK Brann",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "659014",
+    "date": "2023-09-17T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:21380",
+    "homeName": "Tromso",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "659015",
+    "date": "2023-09-17T17:15Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:3278",
+    "homeName": "Vålerenga",
+    "awayName": "Aalesund",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "659016",
+    "date": "2023-09-23T16:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:2554",
+    "homeName": "Aalesund",
+    "awayName": "Stabaek",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "659017",
+    "date": "2023-09-24T15:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:2791",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Vålerenga",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "659019",
+    "date": "2023-09-24T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:5002",
+    "homeName": "Hamarkameratene",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "659020",
+    "date": "2023-09-24T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:438",
+    "homeName": "Lillestrom",
+    "awayName": "Rosenborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "659021",
+    "date": "2023-09-24T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:3327",
+    "homeName": "Odds BK",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "659022",
+    "date": "2023-09-24T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:2715",
+    "homeName": "Stromsgodset",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "659023",
+    "date": "2023-09-24T15:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:3279",
+    "homeName": "Viking FK",
+    "awayName": "Sandefjord",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "659018",
+    "date": "2023-09-24T17:15Z",
+    "homeId": "espn:620",
+    "awayId": "espn:5270",
+    "homeName": "SK Brann",
+    "awayName": "Tromso",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "658982",
+    "date": "2023-09-30T13:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:5270",
+    "homeName": "Stabaek",
+    "awayName": "Tromso",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "658993",
+    "date": "2023-10-01T13:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:620",
+    "homeName": "Lillestrom",
+    "awayName": "SK Brann",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "658994",
+    "date": "2023-10-01T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:510",
+    "homeName": "Molde",
+    "awayName": "Viking FK",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "658923",
+    "date": "2023-10-01T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:2791",
+    "homeName": "Sandefjord",
+    "awayName": "Vålerenga",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "658992",
+    "date": "2023-10-01T17:15Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:9811",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Stromsgodset",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "658998",
+    "date": "2023-10-04T17:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:21380",
+    "homeName": "Stabaek",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "id": "659026",
+    "date": "2023-10-07T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:510",
+    "homeName": "Odds BK",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "659024",
+    "date": "2023-10-08T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:9811",
+    "homeName": "Haugesund",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "659025",
+    "date": "2023-10-08T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:2980",
+    "homeName": "Molde",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "659027",
+    "date": "2023-10-08T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:21380",
+    "homeName": "Sandefjord",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "659028",
+    "date": "2023-10-08T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:438",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Rosenborg",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "id": "659029",
+    "date": "2023-10-08T15:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:987",
+    "homeName": "Stabaek",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "659030",
+    "date": "2023-10-08T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:3278",
+    "homeName": "Tromso",
+    "awayName": "Aalesund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "659031",
+    "date": "2023-10-08T17:15Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:620",
+    "homeName": "Vålerenga",
+    "awayName": "SK Brann",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "659033",
+    "date": "2023-10-21T13:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:3279",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Sandefjord",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "659034",
+    "date": "2023-10-21T16:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:2715",
+    "homeName": "SK Brann",
+    "awayName": "Molde",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "659036",
+    "date": "2023-10-22T12:30Z",
+    "homeId": "espn:987",
+    "awayId": "espn:2791",
+    "homeName": "Lillestrom",
+    "awayName": "Vålerenga",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "659032",
+    "date": "2023-10-22T15:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:5002",
+    "homeName": "Aalesund",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "659035",
+    "date": "2023-10-22T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:3327",
+    "homeName": "Hamarkameratene",
+    "awayName": "Haugesund",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "659037",
+    "date": "2023-10-22T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:2554",
+    "homeName": "Rosenborg",
+    "awayName": "Stabaek",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "659038",
+    "date": "2023-10-22T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:602",
+    "homeName": "Stromsgodset",
+    "awayName": "Odds BK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "659039",
+    "date": "2023-10-22T17:15Z",
+    "homeId": "espn:510",
+    "awayId": "espn:5270",
+    "homeName": "Viking FK",
+    "awayName": "Tromso",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": "659041",
+    "date": "2023-10-28T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:3278",
+    "homeName": "Haugesund",
+    "awayName": "Aalesund",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "id": "659043",
+    "date": "2023-10-29T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:21380",
+    "homeName": "Odds BK",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "659044",
+    "date": "2023-10-29T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:620",
+    "homeName": "Sandefjord",
+    "awayName": "SK Brann",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "659045",
+    "date": "2023-10-29T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:2554",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Stabaek",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "659046",
+    "date": "2023-10-29T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:510",
+    "homeName": "Stromsgodset",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "659047",
+    "date": "2023-10-29T18:13Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:438",
+    "homeName": "Vålerenga",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "659040",
+    "date": "2023-10-30T17:30Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:987",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Lillestrom",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "659042",
+    "date": "2023-10-30T20:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:5270",
+    "homeName": "Molde",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "659055",
+    "date": "2023-11-04T17:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:510",
+    "homeName": "Hamarkameratene",
+    "awayName": "Viking FK",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "659054",
+    "date": "2023-11-05T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:3327",
+    "homeName": "Lillestrom",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "659053",
+    "date": "2023-11-05T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:2715",
+    "homeName": "Rosenborg",
+    "awayName": "Molde",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "659052",
+    "date": "2023-11-05T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:2791",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Vålerenga",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "659050",
+    "date": "2023-11-05T16:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:602",
+    "homeName": "SK Brann",
+    "awayName": "Odds BK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "659051",
+    "date": "2023-11-05T16:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:2980",
+    "homeName": "Stabaek",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "659048",
+    "date": "2023-11-05T18:15Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:9811",
+    "homeName": "Tromso",
+    "awayName": "Stromsgodset",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "659049",
+    "date": "2023-11-06T18:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:3279",
+    "homeName": "Aalesund",
+    "awayName": "Sandefjord",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "659058",
+    "date": "2023-11-11T17:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:620",
+    "homeName": "Haugesund",
+    "awayName": "SK Brann",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "659057",
+    "date": "2023-11-12T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:3278",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Aalesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "659056",
+    "date": "2023-11-12T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:5270",
+    "homeName": "Odds BK",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "659059",
+    "date": "2023-11-12T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:438",
+    "homeName": "Sandefjord",
+    "awayName": "Rosenborg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "659063",
+    "date": "2023-11-12T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:21380",
+    "homeName": "Stromsgodset",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "659061",
+    "date": "2023-11-12T16:00Z",
+    "homeId": "espn:2791",
+    "awayId": "espn:2554",
+    "homeName": "Vålerenga",
+    "awayName": "Stabaek",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "659062",
+    "date": "2023-11-12T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:5002",
+    "homeName": "Viking FK",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "659060",
+    "date": "2023-11-12T18:15Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:987",
+    "homeName": "Molde",
+    "awayName": "Lillestrom",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "659065",
+    "date": "2023-11-26T16:00Z",
+    "homeId": "espn:3278",
+    "awayId": "espn:510",
+    "homeName": "Aalesund",
+    "awayName": "Viking FK",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "659068",
+    "date": "2023-11-26T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:2791",
+    "homeName": "Hamarkameratene",
+    "awayName": "Vålerenga",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "659067",
+    "date": "2023-11-26T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:602",
+    "homeName": "Lillestrom",
+    "awayName": "Odds BK",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "id": "659071",
+    "date": "2023-11-26T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:9811",
+    "homeName": "Rosenborg",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "659069",
+    "date": "2023-11-26T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:2715",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "659064",
+    "date": "2023-11-26T16:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:2980",
+    "homeName": "SK Brann",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "659070",
+    "date": "2023-11-26T16:00Z",
+    "homeId": "espn:2554",
+    "awayId": "espn:3279",
+    "homeName": "Stabaek",
+    "awayName": "Sandefjord",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "659066",
+    "date": "2023-11-26T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:3327",
+    "homeName": "Tromso",
+    "awayName": "Haugesund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693097",
+    "date": "2024-03-31T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:3327",
+    "homeName": "Odds BK",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693098",
+    "date": "2024-04-01T12:30Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:2980",
+    "homeName": "Fredrikstad",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "693101",
+    "date": "2024-04-01T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:6672",
+    "homeName": "Lillestrom",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "693102",
+    "date": "2024-04-01T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:9811",
+    "homeName": "Molde",
+    "awayName": "Stromsgodset",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "693100",
+    "date": "2024-04-01T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:3279",
+    "homeName": "Rosenborg",
+    "awayName": "Sandefjord",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693099",
+    "date": "2024-04-01T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:620",
+    "homeName": "Tromso",
+    "awayName": "SK Brann",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": "693103",
+    "date": "2024-04-01T17:15Z",
+    "homeId": "espn:510",
+    "awayId": "espn:5002",
+    "homeName": "Viking FK",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693104",
+    "date": "2024-04-02T17:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:21380",
+    "homeName": "KFUM Oslo",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693105",
+    "date": "2024-04-06T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:510",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693106",
+    "date": "2024-04-07T12:30Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:22165",
+    "homeName": "Kristiansund BK",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693109",
+    "date": "2024-04-07T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:2715",
+    "homeName": "Hamarkameratene",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693110",
+    "date": "2024-04-07T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:987",
+    "homeName": "Haugesund",
+    "awayName": "Lillestrom",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "693111",
+    "date": "2024-04-07T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:602",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693108",
+    "date": "2024-04-07T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:438",
+    "homeName": "Stromsgodset",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693112",
+    "date": "2024-04-07T17:15Z",
+    "homeId": "espn:620",
+    "awayId": "espn:3039",
+    "homeName": "SK Brann",
+    "awayName": "Fredrikstad",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "693113",
+    "date": "2024-04-13T16:00Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:5002",
+    "homeName": "Fredrikstad",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693114",
+    "date": "2024-04-14T12:30Z",
+    "homeId": "espn:510",
+    "awayId": "espn:620",
+    "homeName": "Viking FK",
+    "awayName": "SK Brann",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693116",
+    "date": "2024-04-14T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:6672",
+    "homeName": "Molde",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693115",
+    "date": "2024-04-14T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:3279",
+    "homeName": "Odds BK",
+    "awayName": "Sandefjord",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693117",
+    "date": "2024-04-14T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:21380",
+    "homeName": "Rosenborg",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693118",
+    "date": "2024-04-14T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:3327",
+    "homeName": "Tromso",
+    "awayName": "Haugesund",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693119",
+    "date": "2024-04-14T17:15Z",
+    "homeId": "espn:987",
+    "awayId": "espn:2980",
+    "homeName": "Lillestrom",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": "693120",
+    "date": "2024-04-16T17:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:9811",
+    "homeName": "KFUM Oslo",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "693229",
+    "date": "2024-04-17T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:602",
+    "homeName": "Molde",
+    "awayName": "Odds BK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693223",
+    "date": "2024-04-17T16:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:21380",
+    "homeName": "SK Brann",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693121",
+    "date": "2024-04-21T12:30Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:9811",
+    "homeName": "Hamarkameratene",
+    "awayName": "Stromsgodset",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693124",
+    "date": "2024-04-21T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:438",
+    "homeName": "Haugesund",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "693125",
+    "date": "2024-04-21T15:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:5270",
+    "homeName": "Kristiansund BK",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693126",
+    "date": "2024-04-21T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:987",
+    "homeName": "Sandefjord",
+    "awayName": "Lillestrom",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693122",
+    "date": "2024-04-21T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:22165",
+    "homeName": "Sarpsborg FK",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "693127",
+    "date": "2024-04-21T15:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:602",
+    "homeName": "SK Brann",
+    "awayName": "Odds BK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693123",
+    "date": "2024-04-21T15:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:3039",
+    "homeName": "Viking FK",
+    "awayName": "Fredrikstad",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693128",
+    "date": "2024-04-21T17:15Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:2715",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693129",
+    "date": "2024-04-27T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:2980",
+    "homeName": "Rosenborg",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "693130",
+    "date": "2024-04-28T15:00Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:3279",
+    "homeName": "Fredrikstad",
+    "awayName": "Sandefjord",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693134",
+    "date": "2024-04-28T15:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:620",
+    "homeName": "KFUM Oslo",
+    "awayName": "SK Brann",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693131",
+    "date": "2024-04-28T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:21380",
+    "homeName": "Lillestrom",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693132",
+    "date": "2024-04-28T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:3327",
+    "homeName": "Molde",
+    "awayName": "Haugesund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693135",
+    "date": "2024-04-28T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:6672",
+    "homeName": "Stromsgodset",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693133",
+    "date": "2024-04-28T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:5002",
+    "homeName": "Tromso",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "693136",
+    "date": "2024-04-28T17:15Z",
+    "homeId": "espn:602",
+    "awayId": "espn:510",
+    "homeName": "Odds BK",
+    "awayName": "Viking FK",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "693137",
+    "date": "2024-05-04T16:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:438",
+    "homeName": "SK Brann",
+    "awayName": "Rosenborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "693143",
+    "date": "2024-05-05T15:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:9811",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693138",
+    "date": "2024-05-05T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:22165",
+    "homeName": "Haugesund",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693141",
+    "date": "2024-05-05T15:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:21380",
+    "homeName": "Kristiansund BK",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693140",
+    "date": "2024-05-05T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:3039",
+    "homeName": "Odds BK",
+    "awayName": "Fredrikstad",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "693142",
+    "date": "2024-05-05T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:2715",
+    "homeName": "Sandefjord",
+    "awayName": "Molde",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "693139",
+    "date": "2024-05-05T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:987",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693144",
+    "date": "2024-05-05T17:15Z",
+    "homeId": "espn:510",
+    "awayId": "espn:5270",
+    "homeName": "Viking FK",
+    "awayName": "Tromso",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693145",
+    "date": "2024-05-11T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:438",
+    "homeName": "Molde",
+    "awayName": "Rosenborg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693146",
+    "date": "2024-05-12T12:30Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:2980",
+    "homeName": "Kristiansund BK",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": "693151",
+    "date": "2024-05-12T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:3327",
+    "homeName": "Hamarkameratene",
+    "awayName": "Haugesund",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693147",
+    "date": "2024-05-12T15:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:3039",
+    "homeName": "KFUM Oslo",
+    "awayName": "Fredrikstad",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "693150",
+    "date": "2024-05-12T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:5002",
+    "homeName": "Sandefjord",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "693149",
+    "date": "2024-05-12T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:510",
+    "homeName": "Stromsgodset",
+    "awayName": "Viking FK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693148",
+    "date": "2024-05-12T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:602",
+    "homeName": "Tromso",
+    "awayName": "Odds BK",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "693152",
+    "date": "2024-05-12T17:15Z",
+    "homeId": "espn:987",
+    "awayId": "espn:620",
+    "homeName": "Lillestrom",
+    "awayName": "SK Brann",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "693157",
+    "date": "2024-05-16T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:5270",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Tromso",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "693160",
+    "date": "2024-05-16T16:00Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:9811",
+    "homeName": "Fredrikstad",
+    "awayName": "Stromsgodset",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "693158",
+    "date": "2024-05-16T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:6672",
+    "homeName": "Haugesund",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693154",
+    "date": "2024-05-16T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:2715",
+    "homeName": "Odds BK",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "693153",
+    "date": "2024-05-16T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:22165",
+    "homeName": "Rosenborg",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "693159",
+    "date": "2024-05-16T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:21380",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 7
+  },
+  {
+    "id": "693156",
+    "date": "2024-05-16T16:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:3279",
+    "homeName": "SK Brann",
+    "awayName": "Sandefjord",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693155",
+    "date": "2024-05-16T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:987",
+    "homeName": "Viking FK",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "693165",
+    "date": "2024-05-20T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:2980",
+    "homeName": "Hamarkameratene",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693163",
+    "date": "2024-05-20T15:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:602",
+    "homeName": "KFUM Oslo",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693166",
+    "date": "2024-05-20T15:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:620",
+    "homeName": "Kristiansund BK",
+    "awayName": "SK Brann",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693167",
+    "date": "2024-05-20T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:3039",
+    "homeName": "Lillestrom",
+    "awayName": "Fredrikstad",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "693164",
+    "date": "2024-05-20T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:5002",
+    "homeName": "Molde",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": "693161",
+    "date": "2024-05-20T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:510",
+    "homeName": "Sandefjord",
+    "awayName": "Viking FK",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "693162",
+    "date": "2024-05-20T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:3327",
+    "homeName": "Stromsgodset",
+    "awayName": "Haugesund",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693168",
+    "date": "2024-05-20T17:15Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:438",
+    "homeName": "Tromso",
+    "awayName": "Rosenborg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "693169",
+    "date": "2024-05-24T17:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:22165",
+    "homeName": "Bodo/Glimt",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693170",
+    "date": "2024-05-25T16:00Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:5270",
+    "homeName": "Fredrikstad",
+    "awayName": "Tromso",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693171",
+    "date": "2024-05-26T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:3279",
+    "homeName": "Haugesund",
+    "awayName": "Sandefjord",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693175",
+    "date": "2024-05-26T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:987",
+    "homeName": "Odds BK",
+    "awayName": "Lillestrom",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693174",
+    "date": "2024-05-26T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:6672",
+    "homeName": "Rosenborg",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693173",
+    "date": "2024-05-26T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:9811",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "693172",
+    "date": "2024-05-26T15:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:21380",
+    "homeName": "Viking FK",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "693176",
+    "date": "2024-05-26T17:15Z",
+    "homeId": "espn:620",
+    "awayId": "espn:2715",
+    "homeName": "SK Brann",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "693247",
+    "date": "2024-05-29T17:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:3279",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Sandefjord",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693234",
+    "date": "2024-05-29T17:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:6672",
+    "homeName": "SK Brann",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693238",
+    "date": "2024-05-29T17:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:3039",
+    "homeName": "Tromso",
+    "awayName": "Fredrikstad",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "693177",
+    "date": "2024-06-01T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:620",
+    "homeName": "Hamarkameratene",
+    "awayName": "SK Brann",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693178",
+    "date": "2024-06-02T12:30Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:510",
+    "homeName": "Molde",
+    "awayName": "Viking FK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693181",
+    "date": "2024-06-02T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:2980",
+    "homeName": "Haugesund",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693183",
+    "date": "2024-06-02T15:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:3279",
+    "homeName": "KFUM Oslo",
+    "awayName": "Sandefjord",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "693182",
+    "date": "2024-06-02T15:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:5002",
+    "homeName": "Kristiansund BK",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "693180",
+    "date": "2024-06-02T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:602",
+    "homeName": "Stromsgodset",
+    "awayName": "Odds BK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693179",
+    "date": "2024-06-02T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:987",
+    "homeName": "Tromso",
+    "awayName": "Lillestrom",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693184",
+    "date": "2024-06-02T17:15Z",
+    "homeId": "espn:438",
+    "awayId": "espn:3039",
+    "homeName": "Rosenborg",
+    "awayName": "Fredrikstad",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693185",
+    "date": "2024-06-27T17:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:21380",
+    "homeName": "Sandefjord",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693186",
+    "date": "2024-06-27T19:15Z",
+    "homeId": "espn:987",
+    "awayId": "espn:22165",
+    "homeName": "Lillestrom",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693189",
+    "date": "2024-06-28T17:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:6672",
+    "homeName": "Odds BK",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693190",
+    "date": "2024-06-28T17:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:2980",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693188",
+    "date": "2024-06-28T17:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:9811",
+    "homeName": "SK Brann",
+    "awayName": "Stromsgodset",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693191",
+    "date": "2024-06-28T19:15Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:2715",
+    "homeName": "Tromso",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "693192",
+    "date": "2024-06-30T13:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:438",
+    "homeName": "Viking FK",
+    "awayName": "Rosenborg",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "693107",
+    "date": "2024-07-03T17:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:5270",
+    "homeName": "Sandefjord",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693193",
+    "date": "2024-07-07T12:30Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:620",
+    "homeName": "Bodo/Glimt",
+    "awayName": "SK Brann",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "693194",
+    "date": "2024-07-07T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:5270",
+    "homeName": "Hamarkameratene",
+    "awayName": "Tromso",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693195",
+    "date": "2024-07-07T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:5002",
+    "homeName": "Haugesund",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693196",
+    "date": "2024-07-07T15:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:510",
+    "homeName": "KFUM Oslo",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693198",
+    "date": "2024-07-07T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:987",
+    "homeName": "Molde",
+    "awayName": "Lillestrom",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "693199",
+    "date": "2024-07-07T17:15Z",
+    "homeId": "espn:438",
+    "awayId": "espn:602",
+    "homeName": "Rosenborg",
+    "awayName": "Odds BK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693197",
+    "date": "2024-07-08T17:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:3039",
+    "homeName": "Kristiansund BK",
+    "awayName": "Fredrikstad",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "693200",
+    "date": "2024-07-08T17:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:3279",
+    "homeName": "Stromsgodset",
+    "awayName": "Sandefjord",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693201",
+    "date": "2024-07-12T17:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:438",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Rosenborg",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "693202",
+    "date": "2024-07-13T15:00Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:2715",
+    "homeName": "Fredrikstad",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693206",
+    "date": "2024-07-13T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:9811",
+    "homeName": "Lillestrom",
+    "awayName": "Stromsgodset",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "693203",
+    "date": "2024-07-13T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:21380",
+    "homeName": "Odds BK",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693204",
+    "date": "2024-07-13T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:2980",
+    "homeName": "Sandefjord",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693205",
+    "date": "2024-07-13T15:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:6672",
+    "homeName": "Viking FK",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693207",
+    "date": "2024-07-13T17:15Z",
+    "homeId": "espn:620",
+    "awayId": "espn:3327",
+    "homeName": "SK Brann",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693208",
+    "date": "2024-07-13T20:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:22165",
+    "homeName": "Tromso",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693209",
+    "date": "2024-07-19T17:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:602",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Odds BK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "693210",
+    "date": "2024-07-20T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:620",
+    "homeName": "Sarpsborg FK",
+    "awayName": "SK Brann",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693212",
+    "date": "2024-07-20T18:15Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:22165",
+    "homeName": "Molde",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "693211",
+    "date": "2024-07-21T12:30Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:5270",
+    "homeName": "Stromsgodset",
+    "awayName": "Tromso",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693215",
+    "date": "2024-07-21T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:3039",
+    "homeName": "Hamarkameratene",
+    "awayName": "Fredrikstad",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693214",
+    "date": "2024-07-21T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:510",
+    "homeName": "Haugesund",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693217",
+    "date": "2024-07-27T14:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:2980",
+    "homeName": "KFUM Oslo",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693222",
+    "date": "2024-07-27T16:00Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:438",
+    "homeName": "Fredrikstad",
+    "awayName": "Rosenborg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693221",
+    "date": "2024-07-28T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:5002",
+    "homeName": "Lillestrom",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693224",
+    "date": "2024-07-28T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:9811",
+    "homeName": "Odds BK",
+    "awayName": "Stromsgodset",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693220",
+    "date": "2024-07-28T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:3327",
+    "homeName": "Sandefjord",
+    "awayName": "Haugesund",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "693219",
+    "date": "2024-07-28T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:6672",
+    "homeName": "Tromso",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693218",
+    "date": "2024-07-28T17:15Z",
+    "homeId": "espn:510",
+    "awayId": "espn:2715",
+    "homeName": "Viking FK",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693226",
+    "date": "2024-08-03T16:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:3327",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Haugesund",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "693232",
+    "date": "2024-08-04T15:00Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:22165",
+    "homeName": "Fredrikstad",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693225",
+    "date": "2024-08-04T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:510",
+    "homeName": "Hamarkameratene",
+    "awayName": "Viking FK",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "693230",
+    "date": "2024-08-04T15:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:987",
+    "homeName": "Kristiansund BK",
+    "awayName": "Lillestrom",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693227",
+    "date": "2024-08-04T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:3279",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Sandefjord",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693231",
+    "date": "2024-08-04T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:620",
+    "homeName": "Stromsgodset",
+    "awayName": "SK Brann",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "693228",
+    "date": "2024-08-04T17:15Z",
+    "homeId": "espn:438",
+    "awayId": "espn:5270",
+    "homeName": "Rosenborg",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693239",
+    "date": "2024-08-09T17:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:9811",
+    "homeName": "Sandefjord",
+    "awayName": "Stromsgodset",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693235",
+    "date": "2024-08-10T14:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:21380",
+    "homeName": "Haugesund",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693233",
+    "date": "2024-08-10T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:2980",
+    "homeName": "Viking FK",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693240",
+    "date": "2024-08-11T15:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:438",
+    "homeName": "KFUM Oslo",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693237",
+    "date": "2024-08-11T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:5002",
+    "homeName": "Odds BK",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693236",
+    "date": "2024-08-11T17:15Z",
+    "homeId": "espn:987",
+    "awayId": "espn:2715",
+    "homeName": "Lillestrom",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693187",
+    "date": "2024-08-14T17:00Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:3327",
+    "homeName": "Fredrikstad",
+    "awayName": "Haugesund",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693245",
+    "date": "2024-08-17T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:987",
+    "homeName": "Stromsgodset",
+    "awayName": "Lillestrom",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "693246",
+    "date": "2024-08-18T12:30Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:620",
+    "homeName": "Fredrikstad",
+    "awayName": "SK Brann",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "693241",
+    "date": "2024-08-18T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:602",
+    "homeName": "Hamarkameratene",
+    "awayName": "Odds BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693248",
+    "date": "2024-08-18T15:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:5270",
+    "homeName": "KFUM Oslo",
+    "awayName": "Tromso",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693244",
+    "date": "2024-08-18T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:3327",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Haugesund",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693243",
+    "date": "2024-08-18T17:15Z",
+    "homeId": "espn:438",
+    "awayId": "espn:510",
+    "homeName": "Rosenborg",
+    "awayName": "Viking FK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693216",
+    "date": "2024-08-21T17:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:987",
+    "homeName": "Rosenborg",
+    "awayName": "Lillestrom",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "693253",
+    "date": "2024-08-24T14:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:5002",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "id": "693250",
+    "date": "2024-08-25T12:30Z",
+    "homeId": "espn:987",
+    "awayId": "espn:5270",
+    "homeName": "Lillestrom",
+    "awayName": "Tromso",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693251",
+    "date": "2024-08-25T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:3039",
+    "homeName": "Haugesund",
+    "awayName": "Fredrikstad",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693249",
+    "date": "2024-08-25T15:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:21380",
+    "homeName": "Molde",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "693256",
+    "date": "2024-08-25T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:6672",
+    "homeName": "Sandefjord",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693252",
+    "date": "2024-08-25T15:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:9811",
+    "homeName": "Viking FK",
+    "awayName": "Stromsgodset",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "id": "693255",
+    "date": "2024-08-25T17:15Z",
+    "homeId": "espn:602",
+    "awayId": "espn:438",
+    "homeName": "Odds BK",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "693264",
+    "date": "2024-08-30T17:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:987",
+    "homeName": "KFUM Oslo",
+    "awayName": "Lillestrom",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693262",
+    "date": "2024-08-31T16:00Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:602",
+    "homeName": "Fredrikstad",
+    "awayName": "Odds BK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693257",
+    "date": "2024-09-01T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:3279",
+    "homeName": "Hamarkameratene",
+    "awayName": "Sandefjord",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693261",
+    "date": "2024-09-01T15:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:3327",
+    "homeName": "Kristiansund BK",
+    "awayName": "Haugesund",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693260",
+    "date": "2024-09-01T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:2715",
+    "homeName": "Rosenborg",
+    "awayName": "Molde",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693259",
+    "date": "2024-09-01T15:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:2980",
+    "homeName": "Stromsgodset",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693263",
+    "date": "2024-09-01T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:510",
+    "homeName": "Tromso",
+    "awayName": "Viking FK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693258",
+    "date": "2024-09-01T17:15Z",
+    "homeId": "espn:620",
+    "awayId": "espn:5002",
+    "homeName": "SK Brann",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "693265",
+    "date": "2024-09-13T17:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:21380",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "693272",
+    "date": "2024-09-14T14:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:22165",
+    "homeName": "Viking FK",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693268",
+    "date": "2024-09-14T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:3039",
+    "homeName": "Molde",
+    "awayName": "Fredrikstad",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "id": "693269",
+    "date": "2024-09-15T12:30Z",
+    "homeId": "espn:602",
+    "awayId": "espn:5270",
+    "homeName": "Odds BK",
+    "awayName": "Tromso",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693266",
+    "date": "2024-09-15T15:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:9811",
+    "homeName": "Haugesund",
+    "awayName": "Stromsgodset",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693271",
+    "date": "2024-09-15T15:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:620",
+    "homeName": "Sandefjord",
+    "awayName": "SK Brann",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693270",
+    "date": "2024-09-15T15:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:6672",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "693267",
+    "date": "2024-09-15T17:15Z",
+    "homeId": "espn:987",
+    "awayId": "espn:438",
+    "homeName": "Lillestrom",
+    "awayName": "Rosenborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693242",
+    "date": "2024-09-18T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:2715",
+    "homeName": "Kristiansund BK",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "693254",
+    "date": "2024-09-18T17:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:22165",
+    "homeName": "SK Brann",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693276",
+    "date": "2024-09-21T14:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:5002",
+    "homeName": "Stromsgodset",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693273",
+    "date": "2024-09-21T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:987",
+    "homeName": "Hamarkameratene",
+    "awayName": "Lillestrom",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "693279",
+    "date": "2024-09-22T12:30Z",
+    "homeId": "espn:620",
+    "awayId": "espn:2980",
+    "homeName": "SK Brann",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "693274",
+    "date": "2024-09-22T15:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:602",
+    "homeName": "Kristiansund BK",
+    "awayName": "Odds BK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693275",
+    "date": "2024-09-22T15:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:3327",
+    "homeName": "Rosenborg",
+    "awayName": "Haugesund",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "693277",
+    "date": "2024-09-22T15:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:3279",
+    "homeName": "Tromso",
+    "awayName": "Sandefjord",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "693278",
+    "date": "2024-09-22T17:15Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:510",
+    "homeName": "Fredrikstad",
+    "awayName": "Viking FK",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "693280",
+    "date": "2024-09-23T17:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:2715",
+    "homeName": "KFUM Oslo",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693282",
+    "date": "2024-09-28T12:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:5270",
+    "homeName": "Molde",
+    "awayName": "Tromso",
+    "homeGoals": 5,
+    "awayGoals": 3
+  },
+  {
+    "id": "693288",
+    "date": "2024-09-28T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:620",
+    "homeName": "Haugesund",
+    "awayName": "SK Brann",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693287",
+    "date": "2024-09-28T18:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:3039",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Fredrikstad",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693284",
+    "date": "2024-09-29T12:30Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:21380",
+    "homeName": "Stromsgodset",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693285",
+    "date": "2024-09-29T15:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:6672",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "693283",
+    "date": "2024-09-29T15:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:510",
+    "homeName": "Lillestrom",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "693286",
+    "date": "2024-09-29T15:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:22165",
+    "homeName": "Odds BK",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "693281",
+    "date": "2024-09-29T17:15Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:438",
+    "homeName": "Sandefjord",
+    "awayName": "Rosenborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693213",
+    "date": "2024-10-05T13:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:3279",
+    "homeName": "Kristiansund BK",
+    "awayName": "Sandefjord",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693296",
+    "date": "2024-10-19T14:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:3279",
+    "homeName": "Molde",
+    "awayName": "Sandefjord",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693294",
+    "date": "2024-10-19T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:2980",
+    "homeName": "Tromso",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693295",
+    "date": "2024-10-20T12:30Z",
+    "homeId": "espn:438",
+    "awayId": "espn:620",
+    "homeName": "Rosenborg",
+    "awayName": "SK Brann",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693289",
+    "date": "2024-10-20T15:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:5002",
+    "homeName": "Hamarkameratene",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "693291",
+    "date": "2024-10-20T15:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:3327",
+    "homeName": "KFUM Oslo",
+    "awayName": "Haugesund",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693290",
+    "date": "2024-10-20T15:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:9811",
+    "homeName": "Kristiansund BK",
+    "awayName": "Stromsgodset",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "693292",
+    "date": "2024-10-20T15:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:602",
+    "homeName": "Viking FK",
+    "awayName": "Odds BK",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "693293",
+    "date": "2024-10-20T17:15Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:987",
+    "homeName": "Fredrikstad",
+    "awayName": "Lillestrom",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693299",
+    "date": "2024-10-26T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:3039",
+    "homeName": "Stromsgodset",
+    "awayName": "Fredrikstad",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693297",
+    "date": "2024-10-27T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:6672",
+    "homeName": "Hamarkameratene",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693302",
+    "date": "2024-10-27T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:2715",
+    "homeName": "Haugesund",
+    "awayName": "Molde",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "693301",
+    "date": "2024-10-27T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:602",
+    "homeName": "Lillestrom",
+    "awayName": "Odds BK",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "693304",
+    "date": "2024-10-27T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:22165",
+    "homeName": "Sandefjord",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693300",
+    "date": "2024-10-27T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:510",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Viking FK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693303",
+    "date": "2024-10-27T18:15Z",
+    "homeId": "espn:620",
+    "awayId": "espn:5270",
+    "homeName": "SK Brann",
+    "awayName": "Tromso",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "693298",
+    "date": "2024-10-28T18:00Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:438",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Rosenborg",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "693311",
+    "date": "2024-11-02T17:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:3279",
+    "homeName": "Viking FK",
+    "awayName": "Sandefjord",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "693310",
+    "date": "2024-11-03T16:00Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:6672",
+    "homeName": "Fredrikstad",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693305",
+    "date": "2024-11-03T16:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:5002",
+    "homeName": "KFUM Oslo",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693312",
+    "date": "2024-11-03T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:3327",
+    "homeName": "Lillestrom",
+    "awayName": "Haugesund",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693309",
+    "date": "2024-11-03T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:2980",
+    "homeName": "Molde",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "693308",
+    "date": "2024-11-03T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:620",
+    "homeName": "Odds BK",
+    "awayName": "SK Brann",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "693306",
+    "date": "2024-11-03T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:21380",
+    "homeName": "Tromso",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "693307",
+    "date": "2024-11-03T18:15Z",
+    "homeId": "espn:438",
+    "awayId": "espn:9811",
+    "homeName": "Rosenborg",
+    "awayName": "Stromsgodset",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693317",
+    "date": "2024-11-09T17:00Z",
+    "homeId": "espn:620",
+    "awayId": "espn:987",
+    "homeName": "SK Brann",
+    "awayName": "Lillestrom",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693318",
+    "date": "2024-11-10T16:00Z",
+    "homeId": "espn:21380",
+    "awayId": "espn:438",
+    "homeName": "Hamarkameratene",
+    "awayName": "Rosenborg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "693315",
+    "date": "2024-11-10T16:00Z",
+    "homeId": "espn:3327",
+    "awayId": "espn:5270",
+    "homeName": "Haugesund",
+    "awayName": "Tromso",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693313",
+    "date": "2024-11-10T16:00Z",
+    "homeId": "espn:6672",
+    "awayId": "espn:510",
+    "homeName": "Kristiansund BK",
+    "awayName": "Viking FK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "693314",
+    "date": "2024-11-10T16:00Z",
+    "homeId": "espn:3279",
+    "awayId": "espn:602",
+    "homeName": "Sandefjord",
+    "awayName": "Odds BK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693319",
+    "date": "2024-11-10T16:00Z",
+    "homeId": "espn:5002",
+    "awayId": "espn:2715",
+    "homeName": "Sarpsborg FK",
+    "awayName": "Molde",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693320",
+    "date": "2024-11-10T16:00Z",
+    "homeId": "espn:9811",
+    "awayId": "espn:22165",
+    "homeName": "Stromsgodset",
+    "awayName": "KFUM Oslo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693316",
+    "date": "2024-11-10T18:15Z",
+    "homeId": "espn:2980",
+    "awayId": "espn:3039",
+    "homeName": "Bodo/Glimt",
+    "awayName": "Fredrikstad",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "693328",
+    "date": "2024-11-23T16:00Z",
+    "homeId": "espn:3039",
+    "awayId": "espn:21380",
+    "homeName": "Fredrikstad",
+    "awayName": "Hamarkameratene",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "693326",
+    "date": "2024-11-23T16:00Z",
+    "homeId": "espn:22165",
+    "awayId": "espn:6672",
+    "homeName": "KFUM Oslo",
+    "awayName": "Kristiansund BK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "693327",
+    "date": "2024-11-23T16:00Z",
+    "homeId": "espn:987",
+    "awayId": "espn:3279",
+    "homeName": "Lillestrom",
+    "awayName": "Sandefjord",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "693324",
+    "date": "2024-11-23T16:00Z",
+    "homeId": "espn:2715",
+    "awayId": "espn:620",
+    "homeName": "Molde",
+    "awayName": "SK Brann",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "693323",
+    "date": "2024-11-23T16:00Z",
+    "homeId": "espn:602",
+    "awayId": "espn:2980",
+    "homeName": "Odds BK",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "693322",
+    "date": "2024-11-23T16:00Z",
+    "homeId": "espn:438",
+    "awayId": "espn:5002",
+    "homeName": "Rosenborg",
+    "awayName": "Sarpsborg FK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "693321",
+    "date": "2024-11-23T16:00Z",
+    "homeId": "espn:5270",
+    "awayId": "espn:9811",
+    "homeName": "Tromso",
+    "awayName": "Stromsgodset",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "693325",
+    "date": "2024-11-23T16:00Z",
+    "homeId": "espn:510",
+    "awayId": "espn:3327",
+    "homeName": "Viking FK",
+    "awayName": "Haugesund",
+    "homeGoals": 5,
+    "awayGoals": 1
+  }
+]

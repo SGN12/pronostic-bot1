@@ -1,0 +1,5042 @@
+[
+  {
+    "id": "645371",
+    "date": "2022-07-15T15:30Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:20706",
+    "homeName": "Hermannstadt",
+    "awayName": "CS Mioveni",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "645373",
+    "date": "2022-07-15T18:30Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:18773",
+    "homeName": "CSU Craiova",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "645367",
+    "date": "2022-07-16T15:30Z",
+    "homeId": "espn:20725",
+    "awayId": "espn:6912",
+    "homeName": "FC Arges",
+    "awayName": "UTA Arad",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "645366",
+    "date": "2022-07-16T18:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:545",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645370",
+    "date": "2022-07-17T15:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:20985",
+    "homeName": "FC Farul Constanta",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645369",
+    "date": "2022-07-17T18:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:8091",
+    "homeName": "FCSB",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645368",
+    "date": "2022-07-18T15:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:19230",
+    "homeName": "FC Botosani",
+    "awayName": "Chindia Targoviste",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "645372",
+    "date": "2022-07-18T18:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:18332",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Voluntari",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645374",
+    "date": "2022-07-22T17:30Z",
+    "homeId": "espn:20706",
+    "awayId": "espn:6731",
+    "homeName": "CS Mioveni",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "645376",
+    "date": "2022-07-23T17:30Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:9682",
+    "homeName": "Voluntari",
+    "awayName": "FC Botosani",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645378",
+    "date": "2022-07-24T09:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:20725",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "FC Arges",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "645379",
+    "date": "2022-07-24T13:00Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:5260",
+    "homeName": "U Craiova 1948",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "645381",
+    "date": "2022-07-24T15:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:8089",
+    "homeName": "Universitatea Cluj",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645377",
+    "date": "2022-07-24T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:484",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "FCSB",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "645375",
+    "date": "2022-07-25T15:30Z",
+    "homeId": "espn:19230",
+    "awayId": "espn:19265",
+    "homeName": "Chindia Targoviste",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645380",
+    "date": "2022-07-25T18:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:12603",
+    "homeName": "UTA Arad",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "645383",
+    "date": "2022-07-29T15:30Z",
+    "homeId": "espn:20725",
+    "awayId": "espn:8091",
+    "homeName": "FC Arges",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "645386",
+    "date": "2022-07-29T18:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:19230",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Chindia Targoviste",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "645384",
+    "date": "2022-07-30T15:30Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:6912",
+    "homeName": "Voluntari",
+    "awayName": "UTA Arad",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "645382",
+    "date": "2022-07-30T18:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:20706",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "CS Mioveni",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "645388",
+    "date": "2022-07-31T15:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:18773",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645389",
+    "date": "2022-07-31T17:15Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:545",
+    "homeName": "CSU Craiova",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645385",
+    "date": "2022-07-31T19:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:20985",
+    "homeName": "FCSB",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645387",
+    "date": "2022-08-01T17:30Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:9682",
+    "homeName": "Hermannstadt",
+    "awayName": "FC Botosani",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645390",
+    "date": "2022-08-05T16:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:12603",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645392",
+    "date": "2022-08-06T16:00Z",
+    "homeId": "espn:20706",
+    "awayId": "espn:484",
+    "homeName": "CS Mioveni",
+    "awayName": "FCSB",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645394",
+    "date": "2022-08-06T18:45Z",
+    "homeId": "espn:545",
+    "awayId": "espn:20725",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "FC Arges",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645395",
+    "date": "2022-08-07T13:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:6912",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "UTA Arad",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "645391",
+    "date": "2022-08-07T15:30Z",
+    "homeId": "espn:19230",
+    "awayId": "espn:5260",
+    "homeName": "Chindia Targoviste",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "645396",
+    "date": "2022-08-07T18:30Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:8089",
+    "homeName": "U Craiova 1948",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "645393",
+    "date": "2022-08-08T15:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:18332",
+    "homeName": "Hermannstadt",
+    "awayName": "Voluntari",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645397",
+    "date": "2022-08-08T18:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:6731",
+    "homeName": "FC Botosani",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645399",
+    "date": "2022-08-12T18:30Z",
+    "homeId": "espn:20725",
+    "awayId": "espn:20985",
+    "homeName": "FC Arges",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "645404",
+    "date": "2022-08-13T16:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:8091",
+    "homeName": "UTA Arad",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645403",
+    "date": "2022-08-13T18:45Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:545",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645405",
+    "date": "2022-08-14T13:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:20706",
+    "homeName": "CSU Craiova",
+    "awayName": "CS Mioveni",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645398",
+    "date": "2022-08-14T15:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:9682",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "FC Botosani",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645401",
+    "date": "2022-08-14T18:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:19230",
+    "homeName": "FCSB",
+    "awayName": "Chindia Targoviste",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "645400",
+    "date": "2022-08-15T14:00Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:18773",
+    "homeName": "Voluntari",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "645402",
+    "date": "2022-08-15T16:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:19265",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Hermannstadt",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "645406",
+    "date": "2022-08-19T15:00Z",
+    "homeId": "espn:20706",
+    "awayId": "espn:20725",
+    "homeName": "CS Mioveni",
+    "awayName": "FC Arges",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645412",
+    "date": "2022-08-19T18:00Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:12603",
+    "homeName": "U Craiova 1948",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645411",
+    "date": "2022-08-20T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:6912",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "UTA Arad",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645413",
+    "date": "2022-08-22T14:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:18773",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645409",
+    "date": "2022-08-22T16:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:18332",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Voluntari",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645416",
+    "date": "2022-08-26T15:45Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:8091",
+    "homeName": "Voluntari",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "645420",
+    "date": "2022-08-26T18:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:20985",
+    "homeName": "UTA Arad",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645418",
+    "date": "2022-08-27T16:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:20706",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "CS Mioveni",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "645419",
+    "date": "2022-08-27T18:45Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:545",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "645415",
+    "date": "2022-08-28T10:30Z",
+    "homeId": "espn:20725",
+    "awayId": "espn:19230",
+    "homeName": "FC Arges",
+    "awayName": "Chindia Targoviste",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645414",
+    "date": "2022-08-28T15:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:6731",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "645417",
+    "date": "2022-08-28T18:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:19265",
+    "homeName": "FCSB",
+    "awayName": "Hermannstadt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "645421",
+    "date": "2022-08-29T18:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:9682",
+    "homeName": "CSU Craiova",
+    "awayName": "FC Botosani",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645426",
+    "date": "2022-08-30T13:30Z",
+    "homeId": "espn:20706",
+    "awayId": "espn:6912",
+    "homeName": "CS Mioveni",
+    "awayName": "UTA Arad",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645429",
+    "date": "2022-08-30T16:15Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:18773",
+    "homeName": "U Craiova 1948",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645424",
+    "date": "2022-08-30T19:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:8091",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645425",
+    "date": "2022-08-31T13:30Z",
+    "homeId": "espn:19230",
+    "awayId": "espn:12603",
+    "homeName": "Chindia Targoviste",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "645422",
+    "date": "2022-08-31T16:15Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:18332",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Voluntari",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "645427",
+    "date": "2022-08-31T19:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:484",
+    "homeName": "FC Farul Constanta",
+    "awayName": "FCSB",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "645428",
+    "date": "2022-09-01T15:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:20725",
+    "homeName": "FC Botosani",
+    "awayName": "FC Arges",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "645423",
+    "date": "2022-09-01T18:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:8089",
+    "homeName": "Hermannstadt",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645432",
+    "date": "2022-09-02T15:45Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:20706",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "CS Mioveni",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645430",
+    "date": "2022-09-02T18:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:20985",
+    "homeName": "Universitatea Cluj",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645431",
+    "date": "2022-09-03T16:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:19230",
+    "homeName": "UTA Arad",
+    "awayName": "Chindia Targoviste",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645435",
+    "date": "2022-09-03T18:45Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:545",
+    "homeName": "Voluntari",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645433",
+    "date": "2022-09-04T18:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:9682",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "FC Botosani",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645434",
+    "date": "2022-09-05T15:45Z",
+    "homeId": "espn:20725",
+    "awayId": "espn:19265",
+    "homeName": "FC Arges",
+    "awayName": "Hermannstadt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645437",
+    "date": "2022-09-05T18:30Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:6731",
+    "homeName": "CSU Craiova",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "645441",
+    "date": "2022-09-09T15:45Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:6912",
+    "homeName": "FC Botosani",
+    "awayName": "UTA Arad",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "645444",
+    "date": "2022-09-10T10:00Z",
+    "homeId": "espn:19230",
+    "awayId": "espn:18773",
+    "homeName": "Chindia Targoviste",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "645439",
+    "date": "2022-09-10T12:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:12603",
+    "homeName": "Hermannstadt",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645440",
+    "date": "2022-09-10T18:30Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:545",
+    "homeName": "U Craiova 1948",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645438",
+    "date": "2022-09-11T15:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:20725",
+    "homeName": "FC Farul Constanta",
+    "awayName": "FC Arges",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "645442",
+    "date": "2022-09-11T18:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:8089",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "CSU Craiova",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "645443",
+    "date": "2022-09-12T15:00Z",
+    "homeId": "espn:20706",
+    "awayId": "espn:8091",
+    "homeName": "CS Mioveni",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645445",
+    "date": "2022-09-12T18:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:18332",
+    "homeName": "FCSB",
+    "awayName": "Voluntari",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645447",
+    "date": "2022-09-16T15:00Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:20985",
+    "homeName": "Voluntari",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645453",
+    "date": "2022-09-16T18:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:6731",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "645451",
+    "date": "2022-09-17T13:45Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:19265",
+    "homeName": "UTA Arad",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "645450",
+    "date": "2022-09-17T16:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:9682",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "FC Botosani",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "id": "645449",
+    "date": "2022-09-17T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:20706",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "CS Mioveni",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645452",
+    "date": "2022-09-18T15:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:19230",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Chindia Targoviste",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645448",
+    "date": "2022-09-18T18:30Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:484",
+    "homeName": "CSU Craiova",
+    "awayName": "FCSB",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645446",
+    "date": "2022-09-19T17:30Z",
+    "homeId": "espn:20725",
+    "awayId": "espn:5260",
+    "homeName": "FC Arges",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645461",
+    "date": "2022-09-30T18:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:18332",
+    "homeName": "CSU Craiova",
+    "awayName": "Voluntari",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645456",
+    "date": "2022-10-01T16:00Z",
+    "homeId": "espn:20706",
+    "awayId": "espn:20985",
+    "homeName": "CS Mioveni",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "645455",
+    "date": "2022-10-01T18:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:12603",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645454",
+    "date": "2022-10-02T10:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:18773",
+    "homeName": "Hermannstadt",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "645460",
+    "date": "2022-10-02T15:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:6912",
+    "homeName": "FC Farul Constanta",
+    "awayName": "UTA Arad",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "645459",
+    "date": "2022-10-02T18:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:20725",
+    "homeName": "FCSB",
+    "awayName": "FC Arges",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "645458",
+    "date": "2022-10-03T15:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:8091",
+    "homeName": "FC Botosani",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645457",
+    "date": "2022-10-03T18:00Z",
+    "homeId": "espn:19230",
+    "awayId": "espn:545",
+    "homeName": "Chindia Targoviste",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645463",
+    "date": "2022-10-07T15:00Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:20706",
+    "homeName": "Voluntari",
+    "awayName": "CS Mioveni",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "645462",
+    "date": "2022-10-07T18:00Z",
+    "homeId": "espn:20725",
+    "awayId": "espn:8089",
+    "homeName": "FC Arges",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645469",
+    "date": "2022-10-08T12:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:19265",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645465",
+    "date": "2022-10-08T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:9682",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "FC Botosani",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645466",
+    "date": "2022-10-09T12:30Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:6731",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645464",
+    "date": "2022-10-09T18:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:484",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "645467",
+    "date": "2022-10-10T14:30Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:19230",
+    "homeName": "U Craiova 1948",
+    "awayName": "Chindia Targoviste",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645468",
+    "date": "2022-10-10T17:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:5260",
+    "homeName": "UTA Arad",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645477",
+    "date": "2022-10-14T15:15Z",
+    "homeId": "espn:20725",
+    "awayId": "espn:18332",
+    "homeName": "FC Arges",
+    "awayName": "Voluntari",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "645473",
+    "date": "2022-10-14T18:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:545",
+    "homeName": "Hermannstadt",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "645470",
+    "date": "2022-10-15T12:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:20985",
+    "homeName": "FC Botosani",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645472",
+    "date": "2022-10-15T15:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:8091",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "645474",
+    "date": "2022-10-15T18:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:12603",
+    "homeName": "CSU Craiova",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645475",
+    "date": "2022-10-16T11:00Z",
+    "homeId": "espn:19230",
+    "awayId": "espn:20706",
+    "homeName": "Chindia Targoviste",
+    "awayName": "CS Mioveni",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645471",
+    "date": "2022-10-16T17:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:6912",
+    "homeName": "FCSB",
+    "awayName": "UTA Arad",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645476",
+    "date": "2022-10-17T18:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:18773",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645483",
+    "date": "2022-10-21T17:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:6731",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645481",
+    "date": "2022-10-22T14:00Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:19230",
+    "homeName": "Voluntari",
+    "awayName": "Chindia Targoviste",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "645485",
+    "date": "2022-10-22T18:45Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:19265",
+    "homeName": "U Craiova 1948",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645478",
+    "date": "2022-10-23T10:30Z",
+    "homeId": "espn:20706",
+    "awayId": "espn:9682",
+    "homeName": "CS Mioveni",
+    "awayName": "FC Botosani",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "645479",
+    "date": "2022-10-23T15:15Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:8089",
+    "homeName": "UTA Arad",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "645480",
+    "date": "2022-10-23T18:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:5260",
+    "homeName": "Universitatea Cluj",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "645482",
+    "date": "2022-10-24T15:15Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:20725",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "FC Arges",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "645484",
+    "date": "2022-10-24T18:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:484",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645492",
+    "date": "2022-10-28T15:00Z",
+    "homeId": "espn:19230",
+    "awayId": "espn:9682",
+    "homeName": "Chindia Targoviste",
+    "awayName": "FC Botosani",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "645488",
+    "date": "2022-10-28T18:00Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:6731",
+    "homeName": "U Craiova 1948",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "645491",
+    "date": "2022-10-29T16:00Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:12603",
+    "homeName": "Voluntari",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645489",
+    "date": "2022-10-29T18:30Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:8089",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "CSU Craiova",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645487",
+    "date": "2022-10-30T16:15Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:20725",
+    "homeName": "UTA Arad",
+    "awayName": "FC Arges",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645490",
+    "date": "2022-10-30T19:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:5260",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645486",
+    "date": "2022-10-31T16:00Z",
+    "homeId": "espn:20706",
+    "awayId": "espn:19265",
+    "homeName": "CS Mioveni",
+    "awayName": "Hermannstadt",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "645493",
+    "date": "2022-10-31T19:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:484",
+    "homeName": "Universitatea Cluj",
+    "awayName": "FCSB",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645494",
+    "date": "2022-11-04T16:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:18332",
+    "homeName": "FC Botosani",
+    "awayName": "Voluntari",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645499",
+    "date": "2022-11-04T19:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:20706",
+    "homeName": "FC Farul Constanta",
+    "awayName": "CS Mioveni",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645495",
+    "date": "2022-11-05T13:00Z",
+    "homeId": "espn:20725",
+    "awayId": "espn:18773",
+    "homeName": "FC Arges",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": "645501",
+    "date": "2022-11-05T16:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:6912",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "UTA Arad",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645496",
+    "date": "2022-11-05T19:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:8091",
+    "homeName": "CSU Craiova",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645498",
+    "date": "2022-11-06T14:15Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:19230",
+    "homeName": "Hermannstadt",
+    "awayName": "Chindia Targoviste",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645500",
+    "date": "2022-11-06T19:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:545",
+    "homeName": "FCSB",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "645497",
+    "date": "2022-11-07T19:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:20985",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "645505",
+    "date": "2022-11-11T19:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:12603",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "645508",
+    "date": "2022-11-12T15:30Z",
+    "homeId": "espn:19230",
+    "awayId": "espn:6731",
+    "homeName": "Chindia Targoviste",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645506",
+    "date": "2022-11-12T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:8089",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "CSU Craiova",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "645503",
+    "date": "2022-11-13T13:45Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:18332",
+    "homeName": "UTA Arad",
+    "awayName": "Voluntari",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645502",
+    "date": "2022-11-13T16:00Z",
+    "homeId": "espn:20706",
+    "awayId": "espn:5260",
+    "homeName": "CS Mioveni",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645504",
+    "date": "2022-11-13T19:00Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:484",
+    "homeName": "U Craiova 1948",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "645509",
+    "date": "2022-11-14T16:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:20725",
+    "homeName": "Universitatea Cluj",
+    "awayName": "FC Arges",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645507",
+    "date": "2022-11-14T19:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:19265",
+    "homeName": "FC Botosani",
+    "awayName": "Hermannstadt",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "645407",
+    "date": "2022-11-29T17:00Z",
+    "homeId": "espn:19230",
+    "awayId": "espn:8089",
+    "homeName": "Chindia Targoviste",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645410",
+    "date": "2022-11-30T17:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:5260",
+    "homeName": "Hermannstadt",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "645408",
+    "date": "2022-12-01T17:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:484",
+    "homeName": "FC Botosani",
+    "awayName": "FCSB",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "645515",
+    "date": "2022-12-02T13:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:18773",
+    "homeName": "UTA Arad",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "645516",
+    "date": "2022-12-02T17:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:8091",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "645512",
+    "date": "2022-12-03T13:30Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:19265",
+    "homeName": "Voluntari",
+    "awayName": "Hermannstadt",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "645514",
+    "date": "2022-12-03T17:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:20985",
+    "homeName": "CSU Craiova",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "645517",
+    "date": "2022-12-04T11:15Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:9682",
+    "homeName": "FC Farul Constanta",
+    "awayName": "FC Botosani",
+    "homeGoals": 8,
+    "awayGoals": 0
+  },
+  {
+    "id": "645510",
+    "date": "2022-12-04T13:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:19230",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Chindia Targoviste",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "645511",
+    "date": "2022-12-04T17:00Z",
+    "homeId": "espn:20725",
+    "awayId": "espn:545",
+    "homeName": "FC Arges",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645513",
+    "date": "2022-12-05T17:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:20706",
+    "homeName": "FCSB",
+    "awayName": "CS Mioveni",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "645525",
+    "date": "2022-12-09T17:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:18332",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Voluntari",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645523",
+    "date": "2022-12-10T17:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:6731",
+    "homeName": "Hermannstadt",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "645518",
+    "date": "2022-12-11T12:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:6912",
+    "homeName": "Universitatea Cluj",
+    "awayName": "UTA Arad",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "645522",
+    "date": "2022-12-11T15:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:5260",
+    "homeName": "FC Botosani",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645519",
+    "date": "2022-12-11T18:30Z",
+    "homeId": "espn:19230",
+    "awayId": "espn:484",
+    "homeName": "Chindia Targoviste",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "645521",
+    "date": "2022-12-12T15:30Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:20725",
+    "homeName": "U Craiova 1948",
+    "awayName": "FC Arges",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645520",
+    "date": "2022-12-12T18:30Z",
+    "homeId": "espn:20706",
+    "awayId": "espn:8089",
+    "homeName": "CS Mioveni",
+    "awayName": "CSU Craiova",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645524",
+    "date": "2022-12-14T17:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:12603",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "645436",
+    "date": "2022-12-15T18:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:5260",
+    "homeName": "FCSB",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "645530",
+    "date": "2022-12-16T18:00Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:6731",
+    "homeName": "Voluntari",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645532",
+    "date": "2022-12-17T13:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:8091",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "645533",
+    "date": "2022-12-17T18:30Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:19230",
+    "homeName": "CSU Craiova",
+    "awayName": "Chindia Targoviste",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "645529",
+    "date": "2022-12-18T10:00Z",
+    "homeId": "espn:20725",
+    "awayId": "espn:20706",
+    "homeName": "FC Arges",
+    "awayName": "CS Mioveni",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "645528",
+    "date": "2022-12-18T12:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:20985",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645531",
+    "date": "2022-12-18T18:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:545",
+    "homeName": "UTA Arad",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "645527",
+    "date": "2022-12-19T18:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:9682",
+    "homeName": "FCSB",
+    "awayName": "FC Botosani",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "645526",
+    "date": "2022-12-20T18:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:19265",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Hermannstadt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "675105",
+    "date": "2023-07-14T15:30Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:6912",
+    "homeName": "Otelul Galati",
+    "awayName": "UTA Arad",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "675107",
+    "date": "2023-07-14T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:18773",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "675104",
+    "date": "2023-07-15T15:30Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:6731",
+    "homeName": "Hermannstadt",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "675102",
+    "date": "2023-07-15T18:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:18320",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "675106",
+    "date": "2023-07-16T15:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:8091",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "675108",
+    "date": "2023-07-16T18:30Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:484",
+    "homeName": "U Craiova 1948",
+    "awayName": "FCSB",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "675109",
+    "date": "2023-07-17T15:30Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:9682",
+    "homeName": "Voluntari",
+    "awayName": "FC Botosani",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "675103",
+    "date": "2023-07-17T18:30Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:8089",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "CSU Craiova",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "676446",
+    "date": "2023-07-21T15:30Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:20985",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676445",
+    "date": "2023-07-21T18:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:5260",
+    "homeName": "UTA Arad",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "676439",
+    "date": "2023-07-22T15:15Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:18332",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Voluntari",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "676440",
+    "date": "2023-07-22T18:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:2496",
+    "homeName": "FCSB",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676442",
+    "date": "2023-07-23T15:30Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:19265",
+    "homeName": "Politehnica Iasi",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "676444",
+    "date": "2023-07-23T18:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:545",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "676441",
+    "date": "2023-07-24T15:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:12603",
+    "homeName": "FC Botosani",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676443",
+    "date": "2023-07-24T18:30Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:2942",
+    "homeName": "CSU Craiova",
+    "awayName": "Otelul Galati",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676454",
+    "date": "2023-07-28T15:30Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:8091",
+    "homeName": "U Craiova 1948",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": "676450",
+    "date": "2023-07-28T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:9682",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "FC Botosani",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676453",
+    "date": "2023-07-29T15:30Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:6912",
+    "homeName": "Hermannstadt",
+    "awayName": "UTA Arad",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676452",
+    "date": "2023-07-29T18:30Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:484",
+    "homeName": "Otelul Galati",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "676449",
+    "date": "2023-07-30T15:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:18320",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "676447",
+    "date": "2023-07-30T18:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:8089",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676451",
+    "date": "2023-07-31T15:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:18332",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Voluntari",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "676448",
+    "date": "2023-07-31T18:30Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:18773",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "676457",
+    "date": "2023-08-04T15:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:18320",
+    "homeName": "UTA Arad",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676455",
+    "date": "2023-08-04T18:30Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:19265",
+    "homeName": "CSU Craiova",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676461",
+    "date": "2023-08-05T15:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:20985",
+    "homeName": "FC Botosani",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "676456",
+    "date": "2023-08-05T18:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:2496",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676459",
+    "date": "2023-08-06T15:15Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:6731",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "676460",
+    "date": "2023-08-06T18:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:5260",
+    "homeName": "FCSB",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676458",
+    "date": "2023-08-07T15:30Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:2942",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Otelul Galati",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676462",
+    "date": "2023-08-07T18:30Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:545",
+    "homeName": "Voluntari",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676470",
+    "date": "2023-08-11T17:30Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:18332",
+    "homeName": "U Craiova 1948",
+    "awayName": "Voluntari",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "676465",
+    "date": "2023-08-12T15:30Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:8091",
+    "homeName": "Otelul Galati",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676464",
+    "date": "2023-08-12T18:30Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:8089",
+    "homeName": "Politehnica Iasi",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "676463",
+    "date": "2023-08-13T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:12603",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "676468",
+    "date": "2023-08-14T17:30Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:9682",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "FC Botosani",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676478",
+    "date": "2023-08-18T15:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:20985",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "676474",
+    "date": "2023-08-18T18:30Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:6912",
+    "homeName": "CSU Craiova",
+    "awayName": "UTA Arad",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "676471",
+    "date": "2023-08-19T14:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:2942",
+    "homeName": "FC Botosani",
+    "awayName": "Otelul Galati",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676473",
+    "date": "2023-08-19T18:45Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:2496",
+    "homeName": "Voluntari",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "676477",
+    "date": "2023-08-20T15:15Z",
+    "homeId": "espn:545",
+    "awayId": "espn:6731",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "676472",
+    "date": "2023-08-20T18:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:18320",
+    "homeName": "FCSB",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676476",
+    "date": "2023-08-21T15:30Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:19265",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676475",
+    "date": "2023-08-21T18:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:5260",
+    "homeName": "Universitatea Cluj",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": "676482",
+    "date": "2023-08-25T15:30Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:18332",
+    "homeName": "Otelul Galati",
+    "awayName": "Voluntari",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676480",
+    "date": "2023-08-25T18:30Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:545",
+    "homeName": "U Craiova 1948",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 3,
+    "awayGoals": 5
+  },
+  {
+    "id": "676479",
+    "date": "2023-08-26T16:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:9682",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "FC Botosani",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "676485",
+    "date": "2023-08-26T18:45Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:12603",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676484",
+    "date": "2023-08-27T18:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:8089",
+    "homeName": "FC Farul Constanta",
+    "awayName": "CSU Craiova",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "676483",
+    "date": "2023-08-28T15:30Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:8091",
+    "homeName": "Hermannstadt",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676486",
+    "date": "2023-08-28T18:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:484",
+    "homeName": "UTA Arad",
+    "awayName": "FCSB",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676491",
+    "date": "2023-09-01T15:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:2942",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Otelul Galati",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676490",
+    "date": "2023-09-01T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:2496",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "676494",
+    "date": "2023-09-02T16:00Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:5260",
+    "homeName": "Voluntari",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "676492",
+    "date": "2023-09-02T18:45Z",
+    "homeId": "espn:484",
+    "awayId": "espn:8089",
+    "homeName": "FCSB",
+    "awayName": "CSU Craiova",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "676488",
+    "date": "2023-09-03T18:30Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:6731",
+    "homeName": "U Craiova 1948",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "676487",
+    "date": "2023-09-04T10:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:18320",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "676493",
+    "date": "2023-09-04T15:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:19265",
+    "homeName": "FC Botosani",
+    "awayName": "Hermannstadt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676489",
+    "date": "2023-09-04T18:30Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:6912",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "UTA Arad",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676495",
+    "date": "2023-09-15T15:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:8091",
+    "homeName": "UTA Arad",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "676500",
+    "date": "2023-09-15T18:30Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:20985",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "676502",
+    "date": "2023-09-16T18:30Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:18773",
+    "homeName": "CSU Craiova",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676498",
+    "date": "2023-09-17T14:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:18332",
+    "homeName": "Hermannstadt",
+    "awayName": "Voluntari",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "676497",
+    "date": "2023-09-17T16:15Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:545",
+    "homeName": "Otelul Galati",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676499",
+    "date": "2023-09-17T18:45Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:484",
+    "homeName": "FC Farul Constanta",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "676496",
+    "date": "2023-09-18T15:30Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:9682",
+    "homeName": "Politehnica Iasi",
+    "awayName": "FC Botosani",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676501",
+    "date": "2023-09-18T18:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:12603",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676466",
+    "date": "2023-09-21T17:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:484",
+    "homeName": "Hermannstadt",
+    "awayName": "FCSB",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676507",
+    "date": "2023-09-22T15:00Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:2942",
+    "homeName": "U Craiova 1948",
+    "awayName": "Otelul Galati",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "676504",
+    "date": "2023-09-22T18:00Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:6731",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "676505",
+    "date": "2023-09-23T11:30Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:18320",
+    "homeName": "Voluntari",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "676503",
+    "date": "2023-09-23T15:45Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:6912",
+    "homeName": "FC Botosani",
+    "awayName": "UTA Arad",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676506",
+    "date": "2023-09-23T18:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:8089",
+    "homeName": "Universitatea Cluj",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676510",
+    "date": "2023-09-24T15:15Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:19265",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Hermannstadt",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676508",
+    "date": "2023-09-24T18:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:484",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "FCSB",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "id": "676509",
+    "date": "2023-09-25T18:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:5260",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "676514",
+    "date": "2023-09-29T18:00Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:2496",
+    "homeName": "Otelul Galati",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676512",
+    "date": "2023-09-30T11:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:18332",
+    "homeName": "UTA Arad",
+    "awayName": "Voluntari",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676516",
+    "date": "2023-09-30T18:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:18773",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676518",
+    "date": "2023-10-01T12:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:9682",
+    "homeName": "CSU Craiova",
+    "awayName": "FC Botosani",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "676515",
+    "date": "2023-10-01T15:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:545",
+    "homeName": "Hermannstadt",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676511",
+    "date": "2023-10-01T18:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:20985",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "676513",
+    "date": "2023-10-02T15:00Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:12603",
+    "homeName": "Politehnica Iasi",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676517",
+    "date": "2023-10-02T18:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:8091",
+    "homeName": "FCSB",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676469",
+    "date": "2023-10-05T17:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:18773",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "676524",
+    "date": "2023-10-06T15:00Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:19265",
+    "homeName": "U Craiova 1948",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676523",
+    "date": "2023-10-06T18:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:18320",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "676522",
+    "date": "2023-10-07T11:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:6912",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "UTA Arad",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676526",
+    "date": "2023-10-07T15:45Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:8089",
+    "homeName": "Voluntari",
+    "awayName": "CSU Craiova",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676521",
+    "date": "2023-10-07T18:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:484",
+    "homeName": "FC Botosani",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "676519",
+    "date": "2023-10-08T13:00Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:6731",
+    "homeName": "Otelul Galati",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "676520",
+    "date": "2023-10-08T18:30Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:5260",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676525",
+    "date": "2023-10-09T18:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:18773",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676481",
+    "date": "2023-10-19T17:00Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:18773",
+    "homeName": "Politehnica Iasi",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676532",
+    "date": "2023-10-20T18:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:545",
+    "homeName": "UTA Arad",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676530",
+    "date": "2023-10-21T14:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:2496",
+    "homeName": "Hermannstadt",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "676527",
+    "date": "2023-10-21T18:45Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:8091",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676534",
+    "date": "2023-10-22T12:30Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:20985",
+    "homeName": "Politehnica Iasi",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676531",
+    "date": "2023-10-22T15:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:12603",
+    "homeName": "CSU Craiova",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "676528",
+    "date": "2023-10-22T18:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:18332",
+    "homeName": "FCSB",
+    "awayName": "Voluntari",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676533",
+    "date": "2023-10-23T15:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:9682",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "FC Botosani",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "id": "676529",
+    "date": "2023-10-23T18:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:2942",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Otelul Galati",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676467",
+    "date": "2023-10-26T17:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:6912",
+    "homeName": "FC Farul Constanta",
+    "awayName": "UTA Arad",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676542",
+    "date": "2023-10-27T14:30Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:18773",
+    "homeName": "Voluntari",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "676537",
+    "date": "2023-10-27T17:30Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:18320",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676541",
+    "date": "2023-10-28T11:00Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:19265",
+    "homeName": "Otelul Galati",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676540",
+    "date": "2023-10-28T17:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:484",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "FCSB",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676538",
+    "date": "2023-10-29T12:00Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:6912",
+    "homeName": "U Craiova 1948",
+    "awayName": "UTA Arad",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "676539",
+    "date": "2023-10-29T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:8089",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "CSU Craiova",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "676535",
+    "date": "2023-10-30T15:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:8091",
+    "homeName": "FC Botosani",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "676536",
+    "date": "2023-10-30T18:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:6731",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "676550",
+    "date": "2023-11-03T16:00Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:2942",
+    "homeName": "Politehnica Iasi",
+    "awayName": "Otelul Galati",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676547",
+    "date": "2023-11-04T14:45Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:12603",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676546",
+    "date": "2023-11-04T19:15Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:20985",
+    "homeName": "CSU Craiova",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676549",
+    "date": "2023-11-05T13:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:18332",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Voluntari",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "676544",
+    "date": "2023-11-05T15:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:9682",
+    "homeName": "FC Farul Constanta",
+    "awayName": "FC Botosani",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676543",
+    "date": "2023-11-05T18:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:545",
+    "homeName": "FCSB",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "676548",
+    "date": "2023-11-06T16:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:2496",
+    "homeName": "UTA Arad",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676545",
+    "date": "2023-11-06T19:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:5260",
+    "homeName": "Hermannstadt",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676555",
+    "date": "2023-11-10T18:30Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:545",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676557",
+    "date": "2023-11-11T12:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:12603",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676554",
+    "date": "2023-11-11T16:45Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:5260",
+    "homeName": "Politehnica Iasi",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "676553",
+    "date": "2023-11-11T19:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:19265",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676551",
+    "date": "2023-11-12T11:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:18332",
+    "homeName": "FC Botosani",
+    "awayName": "Voluntari",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "676558",
+    "date": "2023-11-12T14:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:2496",
+    "homeName": "CSU Craiova",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676552",
+    "date": "2023-11-12T19:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:20985",
+    "homeName": "FCSB",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676556",
+    "date": "2023-11-13T18:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:2942",
+    "homeName": "UTA Arad",
+    "awayName": "Otelul Galati",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": "676559",
+    "date": "2023-11-24T15:30Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:18320",
+    "homeName": "Hermannstadt",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676564",
+    "date": "2023-11-24T18:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:9682",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "FC Botosani",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676561",
+    "date": "2023-11-25T15:30Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:6731",
+    "homeName": "Voluntari",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "676566",
+    "date": "2023-11-25T18:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:6912",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "UTA Arad",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676565",
+    "date": "2023-11-26T16:30Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:8089",
+    "homeName": "Otelul Galati",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "676560",
+    "date": "2023-11-26T18:30Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:484",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "676562",
+    "date": "2023-11-27T15:30Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:18773",
+    "homeName": "U Craiova 1948",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676563",
+    "date": "2023-11-27T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:8091",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "676574",
+    "date": "2023-12-01T15:00Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:12603",
+    "homeName": "Voluntari",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676572",
+    "date": "2023-12-01T18:00Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:6731",
+    "homeName": "Politehnica Iasi",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "676570",
+    "date": "2023-12-02T12:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:19265",
+    "homeName": "UTA Arad",
+    "awayName": "Hermannstadt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "676567",
+    "date": "2023-12-02T15:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:545",
+    "homeName": "FC Botosani",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676568",
+    "date": "2023-12-02T18:30Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:5260",
+    "homeName": "CSU Craiova",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676569",
+    "date": "2023-12-03T14:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:20985",
+    "homeName": "Universitatea Cluj",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676573",
+    "date": "2023-12-03T19:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:2942",
+    "homeName": "FCSB",
+    "awayName": "Otelul Galati",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "676571",
+    "date": "2023-12-04T18:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:2496",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676581",
+    "date": "2023-12-08T17:00Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:6912",
+    "homeName": "Politehnica Iasi",
+    "awayName": "UTA Arad",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "676580",
+    "date": "2023-12-09T18:45Z",
+    "homeId": "espn:545",
+    "awayId": "espn:18332",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Voluntari",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "676578",
+    "date": "2023-12-10T12:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:8089",
+    "homeName": "Hermannstadt",
+    "awayName": "CSU Craiova",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676575",
+    "date": "2023-12-10T15:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:12603",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "676577",
+    "date": "2023-12-10T18:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:484",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "FCSB",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676579",
+    "date": "2023-12-11T15:00Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:9682",
+    "homeName": "U Craiova 1948",
+    "awayName": "FC Botosani",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "676576",
+    "date": "2023-12-11T18:45Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:8091",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "676582",
+    "date": "2023-12-12T15:00Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:18773",
+    "homeName": "Otelul Galati",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "676585",
+    "date": "2023-12-15T15:00Z",
+    "homeId": "espn:18332",
+    "awayId": "espn:20985",
+    "homeName": "Voluntari",
+    "awayName": "U Craiova 1948",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "676590",
+    "date": "2023-12-15T18:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:545",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676588",
+    "date": "2023-12-16T12:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:6731",
+    "homeName": "UTA Arad",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676586",
+    "date": "2023-12-16T15:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:18320",
+    "homeName": "CSU Craiova",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676584",
+    "date": "2023-12-16T18:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:19265",
+    "homeName": "FCSB",
+    "awayName": "Hermannstadt",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "676587",
+    "date": "2023-12-17T13:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:2942",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Otelul Galati",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "676589",
+    "date": "2023-12-17T19:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:5260",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "676583",
+    "date": "2023-12-18T18:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:2496",
+    "homeName": "FC Botosani",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "676595",
+    "date": "2023-12-19T15:30Z",
+    "homeId": "espn:20985",
+    "awayId": "espn:12603",
+    "homeName": "U Craiova 1948",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "676594",
+    "date": "2023-12-19T18:30Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:484",
+    "homeName": "Politehnica Iasi",
+    "awayName": "FCSB",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "676598",
+    "date": "2023-12-20T15:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:8089",
+    "homeName": "UTA Arad",
+    "awayName": "CSU Craiova",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "676596",
+    "date": "2023-12-20T18:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:545",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "676592",
+    "date": "2023-12-21T15:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:18773",
+    "homeName": "Hermannstadt",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "676591",
+    "date": "2023-12-21T17:45Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:8091",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "676593",
+    "date": "2023-12-22T15:30Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:9682",
+    "homeName": "Otelul Galati",
+    "awayName": "FC Botosani",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "676597",
+    "date": "2023-12-22T18:30Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:18332",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "Voluntari",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "710988",
+    "date": "2024-07-12T15:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:22314",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Unirea Slobozia",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "710989",
+    "date": "2024-07-12T18:30Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:8089",
+    "homeName": "Hermannstadt",
+    "awayName": "CSU Craiova",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "710991",
+    "date": "2024-07-13T14:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:18320",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "710992",
+    "date": "2024-07-13T16:15Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:545",
+    "homeName": "UTA Arad",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "710985",
+    "date": "2024-07-13T19:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:8091",
+    "homeName": "FCSB",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "710986",
+    "date": "2024-07-14T16:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:2496",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "710987",
+    "date": "2024-07-15T15:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:2942",
+    "homeName": "FC Botosani",
+    "awayName": "Otelul Galati",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "710990",
+    "date": "2024-07-15T18:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:21925",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Gloria Buzau",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "710996",
+    "date": "2024-07-19T16:00Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:9682",
+    "homeName": "Politehnica Iasi",
+    "awayName": "FC Botosani",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "710999",
+    "date": "2024-07-19T19:00Z",
+    "homeId": "espn:22314",
+    "awayId": "espn:484",
+    "homeName": "Unirea Slobozia",
+    "awayName": "FCSB",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "710997",
+    "date": "2024-07-20T16:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:6912",
+    "homeName": "CSU Craiova",
+    "awayName": "UTA Arad",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": "711000",
+    "date": "2024-07-20T19:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:5260",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "710998",
+    "date": "2024-07-21T16:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:19265",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Hermannstadt",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "710994",
+    "date": "2024-07-21T19:00Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:12603",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "710995",
+    "date": "2024-07-22T16:00Z",
+    "homeId": "espn:21925",
+    "awayId": "espn:18773",
+    "homeName": "Gloria Buzau",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "710993",
+    "date": "2024-07-22T19:00Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:6731",
+    "homeName": "Otelul Galati",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711007",
+    "date": "2024-07-26T16:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:22314",
+    "homeName": "Hermannstadt",
+    "awayName": "Unirea Slobozia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711002",
+    "date": "2024-07-26T19:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:2942",
+    "homeName": "FCSB",
+    "awayName": "Otelul Galati",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "711005",
+    "date": "2024-07-27T16:00Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:21925",
+    "homeName": "Politehnica Iasi",
+    "awayName": "Gloria Buzau",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "711004",
+    "date": "2024-07-27T19:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:2496",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711003",
+    "date": "2024-07-28T16:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:9682",
+    "homeName": "FC Farul Constanta",
+    "awayName": "FC Botosani",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711001",
+    "date": "2024-07-28T19:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:8089",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "CSU Craiova",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "711008",
+    "date": "2024-07-29T16:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:8091",
+    "homeName": "UTA Arad",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711006",
+    "date": "2024-07-29T19:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:545",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711015",
+    "date": "2024-08-02T16:00Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:19265",
+    "homeName": "Otelul Galati",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711010",
+    "date": "2024-08-02T19:00Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:21925",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "Gloria Buzau",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "711009",
+    "date": "2024-08-03T18:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:18320",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711011",
+    "date": "2024-08-04T16:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:12603",
+    "homeName": "CSU Craiova",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711130",
+    "date": "2024-08-04T19:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:8091",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "711013",
+    "date": "2024-08-05T16:00Z",
+    "homeId": "espn:22314",
+    "awayId": "espn:6912",
+    "homeName": "Unirea Slobozia",
+    "awayName": "UTA Arad",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711014",
+    "date": "2024-08-05T19:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:18773",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "711022",
+    "date": "2024-08-09T18:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:6731",
+    "homeName": "FCSB",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "711021",
+    "date": "2024-08-10T14:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:9682",
+    "homeName": "Hermannstadt",
+    "awayName": "FC Botosani",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "711024",
+    "date": "2024-08-10T16:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:2942",
+    "homeName": "UTA Arad",
+    "awayName": "Otelul Galati",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711017",
+    "date": "2024-08-10T19:00Z",
+    "homeId": "espn:21925",
+    "awayId": "espn:545",
+    "homeName": "Gloria Buzau",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711018",
+    "date": "2024-08-11T16:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:8089",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "711023",
+    "date": "2024-08-11T19:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:22314",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Unirea Slobozia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "711020",
+    "date": "2024-08-12T16:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:8091",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711019",
+    "date": "2024-08-12T19:00Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:2496",
+    "homeName": "Politehnica Iasi",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "711031",
+    "date": "2024-08-16T16:00Z",
+    "homeId": "espn:22314",
+    "awayId": "espn:12603",
+    "homeName": "Unirea Slobozia",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "711029",
+    "date": "2024-08-16T19:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:21925",
+    "homeName": "CSU Craiova",
+    "awayName": "Gloria Buzau",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": "711027",
+    "date": "2024-08-17T16:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:6912",
+    "homeName": "FC Botosani",
+    "awayName": "UTA Arad",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711026",
+    "date": "2024-08-17T19:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:18320",
+    "homeName": "FCSB",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711032",
+    "date": "2024-08-18T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:2496",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711030",
+    "date": "2024-08-19T16:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:18773",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "711025",
+    "date": "2024-08-19T19:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:19265",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Hermannstadt",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "711038",
+    "date": "2024-08-23T16:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:2942",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Otelul Galati",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711037",
+    "date": "2024-08-23T19:00Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:545",
+    "homeName": "Politehnica Iasi",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "711036",
+    "date": "2024-08-24T16:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:22314",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Unirea Slobozia",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711040",
+    "date": "2024-08-24T19:00Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:8089",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "CSU Craiova",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "711034",
+    "date": "2024-08-25T16:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:9682",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "FC Botosani",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "711039",
+    "date": "2024-08-25T19:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:484",
+    "homeName": "Hermannstadt",
+    "awayName": "FCSB",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711033",
+    "date": "2024-08-26T16:00Z",
+    "homeId": "espn:21925",
+    "awayId": "espn:8091",
+    "homeName": "Gloria Buzau",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "711035",
+    "date": "2024-08-26T19:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:6731",
+    "homeName": "UTA Arad",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711043",
+    "date": "2024-08-30T18:00Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:18773",
+    "homeName": "Otelul Galati",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711042",
+    "date": "2024-08-31T15:30Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:18320",
+    "homeName": "Hermannstadt",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 6,
+    "awayGoals": 2
+  },
+  {
+    "id": "711048",
+    "date": "2024-08-31T18:30Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:545",
+    "homeName": "CSU Craiova",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711041",
+    "date": "2024-09-01T13:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:12603",
+    "homeName": "FC Botosani",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "711046",
+    "date": "2024-09-01T15:45Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:5260",
+    "homeName": "FC Farul Constanta",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": "711047",
+    "date": "2024-09-01T18:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:6912",
+    "homeName": "FCSB",
+    "awayName": "UTA Arad",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711044",
+    "date": "2024-09-02T16:00Z",
+    "homeId": "espn:22314",
+    "awayId": "espn:21925",
+    "homeName": "Unirea Slobozia",
+    "awayName": "Gloria Buzau",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "711045",
+    "date": "2024-09-02T18:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:2496",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711055",
+    "date": "2024-09-13T15:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:9682",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "FC Botosani",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "711049",
+    "date": "2024-09-13T18:00Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:22314",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "Unirea Slobozia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711051",
+    "date": "2024-09-14T15:45Z",
+    "homeId": "espn:21925",
+    "awayId": "espn:2942",
+    "homeName": "Gloria Buzau",
+    "awayName": "Otelul Galati",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711052",
+    "date": "2024-09-14T18:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:6731",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711053",
+    "date": "2024-09-15T15:15Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:8089",
+    "homeName": "Politehnica Iasi",
+    "awayName": "CSU Craiova",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711050",
+    "date": "2024-09-15T18:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:484",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "FCSB",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "711056",
+    "date": "2024-09-16T15:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:19265",
+    "homeName": "UTA Arad",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711054",
+    "date": "2024-09-16T18:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:8091",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "711059",
+    "date": "2024-09-20T15:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:21925",
+    "homeName": "FC Botosani",
+    "awayName": "Gloria Buzau",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "711064",
+    "date": "2024-09-20T18:00Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:2496",
+    "homeName": "Otelul Galati",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711060",
+    "date": "2024-09-21T15:30Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:5260",
+    "homeName": "Hermannstadt",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711058",
+    "date": "2024-09-21T18:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:12603",
+    "homeName": "FCSB",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711057",
+    "date": "2024-09-22T13:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:18773",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "711061",
+    "date": "2024-09-22T18:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:8089",
+    "homeName": "Universitatea Cluj",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711063",
+    "date": "2024-09-23T15:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:18320",
+    "homeName": "UTA Arad",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711062",
+    "date": "2024-09-23T18:00Z",
+    "homeId": "espn:22314",
+    "awayId": "espn:545",
+    "homeName": "Unirea Slobozia",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "711071",
+    "date": "2024-09-27T15:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:19265",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Hermannstadt",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "711067",
+    "date": "2024-09-27T18:00Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:9682",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "FC Botosani",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "711070",
+    "date": "2024-09-28T13:45Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:8091",
+    "homeName": "Politehnica Iasi",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711066",
+    "date": "2024-09-28T16:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:6912",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "UTA Arad",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": "711069",
+    "date": "2024-09-28T18:30Z",
+    "homeId": "espn:545",
+    "awayId": "espn:2942",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Otelul Galati",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711065",
+    "date": "2024-09-29T13:00Z",
+    "homeId": "espn:21925",
+    "awayId": "espn:6731",
+    "homeName": "Gloria Buzau",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711068",
+    "date": "2024-09-29T18:30Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:484",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711072",
+    "date": "2024-09-30T18:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:22314",
+    "homeName": "CSU Craiova",
+    "awayName": "Unirea Slobozia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "711079",
+    "date": "2024-10-04T15:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:12603",
+    "homeName": "UTA Arad",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "711076",
+    "date": "2024-10-04T18:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:2496",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711080",
+    "date": "2024-10-05T13:45Z",
+    "homeId": "espn:22314",
+    "awayId": "espn:8091",
+    "homeName": "Unirea Slobozia",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "711074",
+    "date": "2024-10-05T16:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:18320",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "711078",
+    "date": "2024-10-05T18:30Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:8089",
+    "homeName": "Otelul Galati",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711077",
+    "date": "2024-10-06T10:30Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:18773",
+    "homeName": "Hermannstadt",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": "711075",
+    "date": "2024-10-06T15:15Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:545",
+    "homeName": "FC Botosani",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711073",
+    "date": "2024-10-06T18:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:21925",
+    "homeName": "FCSB",
+    "awayName": "Gloria Buzau",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "711083",
+    "date": "2024-10-18T15:30Z",
+    "homeId": "espn:21925",
+    "awayId": "espn:19265",
+    "homeName": "Gloria Buzau",
+    "awayName": "Hermannstadt",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "711086",
+    "date": "2024-10-18T18:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:2942",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Otelul Galati",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711087",
+    "date": "2024-10-19T15:15Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:6912",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "UTA Arad",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711081",
+    "date": "2024-10-19T18:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:5260",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711085",
+    "date": "2024-10-20T13:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:9682",
+    "homeName": "CSU Craiova",
+    "awayName": "FC Botosani",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711082",
+    "date": "2024-10-20T18:00Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:484",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "711084",
+    "date": "2024-10-21T15:30Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:22314",
+    "homeName": "Politehnica Iasi",
+    "awayName": "Unirea Slobozia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711088",
+    "date": "2024-10-21T18:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:6731",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": "711090",
+    "date": "2024-10-25T18:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:18773",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": "711096",
+    "date": "2024-10-26T10:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:21925",
+    "homeName": "UTA Arad",
+    "awayName": "Gloria Buzau",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711092",
+    "date": "2024-10-26T13:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:18320",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "711094",
+    "date": "2024-10-26T16:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:2496",
+    "homeName": "Hermannstadt",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "711093",
+    "date": "2024-10-27T14:00Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:22314",
+    "homeName": "Otelul Galati",
+    "awayName": "Unirea Slobozia",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "711091",
+    "date": "2024-10-27T19:00Z",
+    "homeId": "espn:484",
+    "awayId": "espn:545",
+    "homeName": "FCSB",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711089",
+    "date": "2024-10-28T16:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:8091",
+    "homeName": "FC Botosani",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "711095",
+    "date": "2024-10-28T19:00Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:8089",
+    "homeName": "FC Farul Constanta",
+    "awayName": "CSU Craiova",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "711097",
+    "date": "2024-11-01T19:00Z",
+    "homeId": "espn:21925",
+    "awayId": "espn:5260",
+    "homeName": "Gloria Buzau",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711101",
+    "date": "2024-11-02T16:30Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:12603",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711098",
+    "date": "2024-11-02T19:00Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:6912",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "UTA Arad",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711099",
+    "date": "2024-11-03T11:30Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:2942",
+    "homeName": "Politehnica Iasi",
+    "awayName": "Otelul Galati",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "711103",
+    "date": "2024-11-03T14:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:6731",
+    "homeName": "Universitatea Cluj",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711100",
+    "date": "2024-11-03T19:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:484",
+    "homeName": "CSU Craiova",
+    "awayName": "FCSB",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711102",
+    "date": "2024-11-04T16:00Z",
+    "homeId": "espn:22314",
+    "awayId": "espn:9682",
+    "homeName": "Unirea Slobozia",
+    "awayName": "FC Botosani",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711104",
+    "date": "2024-11-04T19:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:19265",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711107",
+    "date": "2024-11-08T16:00Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:9682",
+    "homeName": "Otelul Galati",
+    "awayName": "FC Botosani",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711106",
+    "date": "2024-11-08T19:00Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:5260",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711108",
+    "date": "2024-11-09T11:30Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:18773",
+    "homeName": "Politehnica Iasi",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "711112",
+    "date": "2024-11-09T16:15Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:19265",
+    "homeName": "CSU Craiova",
+    "awayName": "Hermannstadt",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": "711109",
+    "date": "2024-11-09T19:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:6912",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "UTA Arad",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711110",
+    "date": "2024-11-10T14:00Z",
+    "homeId": "espn:22314",
+    "awayId": "espn:6731",
+    "homeName": "Unirea Slobozia",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711111",
+    "date": "2024-11-10T19:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:484",
+    "homeName": "Universitatea Cluj",
+    "awayName": "FCSB",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "711105",
+    "date": "2024-11-11T16:00Z",
+    "homeId": "espn:21925",
+    "awayId": "espn:12603",
+    "homeName": "Gloria Buzau",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711028",
+    "date": "2024-11-11T19:00Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:5260",
+    "homeName": "Otelul Galati",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711016",
+    "date": "2024-11-21T18:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:484",
+    "homeName": "FC Botosani",
+    "awayName": "FCSB",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711116",
+    "date": "2024-11-22T15:30Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:21925",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Gloria Buzau",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711119",
+    "date": "2024-11-22T18:30Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:2942",
+    "homeName": "FC Farul Constanta",
+    "awayName": "Otelul Galati",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711118",
+    "date": "2024-11-23T15:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:8091",
+    "homeName": "Hermannstadt",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "711114",
+    "date": "2024-11-23T19:30Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:545",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711113",
+    "date": "2024-11-24T16:15Z",
+    "homeId": "espn:484",
+    "awayId": "espn:22314",
+    "homeName": "FCSB",
+    "awayName": "Unirea Slobozia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": "711117",
+    "date": "2024-11-24T18:45Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:2496",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711120",
+    "date": "2024-11-25T15:30Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:18320",
+    "homeName": "FC Botosani",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711115",
+    "date": "2024-11-25T18:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:8089",
+    "homeName": "UTA Arad",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "711127",
+    "date": "2024-11-29T15:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:6731",
+    "homeName": "FC Botosani",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711124",
+    "date": "2024-11-29T18:45Z",
+    "homeId": "espn:545",
+    "awayId": "espn:12603",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711123",
+    "date": "2024-11-30T13:00Z",
+    "homeId": "espn:22314",
+    "awayId": "espn:19265",
+    "homeName": "Unirea Slobozia",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "711121",
+    "date": "2024-11-30T15:30Z",
+    "homeId": "espn:21925",
+    "awayId": "espn:18320",
+    "homeName": "Gloria Buzau",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711126",
+    "date": "2024-11-30T18:30Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:18773",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711128",
+    "date": "2024-12-01T18:30Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:5260",
+    "homeName": "CSU Craiova",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "711122",
+    "date": "2024-12-02T15:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:6912",
+    "homeName": "Universitatea Cluj",
+    "awayName": "UTA Arad",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711125",
+    "date": "2024-12-02T18:30Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:484",
+    "homeName": "Otelul Galati",
+    "awayName": "FCSB",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": "711134",
+    "date": "2024-12-06T18:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:545",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711131",
+    "date": "2024-12-07T15:00Z",
+    "homeId": "espn:21925",
+    "awayId": "espn:2496",
+    "homeName": "Gloria Buzau",
+    "awayName": "Dinamo Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": "711136",
+    "date": "2024-12-07T18:00Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:8089",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "CSU Craiova",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711133",
+    "date": "2024-12-08T11:30Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:22314",
+    "homeName": "UTA Arad",
+    "awayName": "Unirea Slobozia",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": "711135",
+    "date": "2024-12-08T14:30Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:6731",
+    "homeName": "Politehnica Iasi",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "711129",
+    "date": "2024-12-08T18:30Z",
+    "homeId": "espn:484",
+    "awayId": "espn:9682",
+    "homeName": "FCSB",
+    "awayName": "FC Botosani",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "711132",
+    "date": "2024-12-09T15:30Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:2942",
+    "homeName": "Hermannstadt",
+    "awayName": "Otelul Galati",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "711012",
+    "date": "2024-12-09T18:30Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:5260",
+    "homeName": "Universitatea Cluj",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "711137",
+    "date": "2024-12-13T15:00Z",
+    "homeId": "espn:9682",
+    "awayId": "espn:19265",
+    "homeName": "FC Botosani",
+    "awayName": "Hermannstadt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": "711138",
+    "date": "2024-12-13T18:00Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:18320",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "Politehnica Iasi",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711143",
+    "date": "2024-12-14T12:30Z",
+    "homeId": "espn:2942",
+    "awayId": "espn:6912",
+    "homeName": "Otelul Galati",
+    "awayName": "UTA Arad",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711139",
+    "date": "2024-12-14T15:00Z",
+    "homeId": "espn:8089",
+    "awayId": "espn:18773",
+    "homeName": "CSU Craiova",
+    "awayName": "Sepsi Sfantu Gheorghe",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "711140",
+    "date": "2024-12-14T18:00Z",
+    "homeId": "espn:8091",
+    "awayId": "espn:12603",
+    "homeName": "Universitatea Cluj",
+    "awayName": "Petrolul Ploiesti",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": "711141",
+    "date": "2024-12-15T14:00Z",
+    "homeId": "espn:22314",
+    "awayId": "espn:5260",
+    "homeName": "Unirea Slobozia",
+    "awayName": "CFR Cluj-Napoca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711144",
+    "date": "2024-12-15T18:45Z",
+    "homeId": "espn:6731",
+    "awayId": "espn:484",
+    "homeName": "FC Farul Constanta",
+    "awayName": "FCSB",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "711142",
+    "date": "2024-12-16T18:00Z",
+    "homeId": "espn:545",
+    "awayId": "espn:21925",
+    "homeName": "Rapid Bucuresti",
+    "awayName": "Gloria Buzau",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711149",
+    "date": "2024-12-20T17:00Z",
+    "homeId": "espn:18773",
+    "awayId": "espn:8091",
+    "homeName": "Sepsi Sfantu Gheorghe",
+    "awayName": "Universitatea Cluj",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711146",
+    "date": "2024-12-21T15:00Z",
+    "homeId": "espn:19265",
+    "awayId": "espn:6731",
+    "homeName": "Hermannstadt",
+    "awayName": "FC Farul Constanta",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711145",
+    "date": "2024-12-21T17:30Z",
+    "homeId": "espn:21925",
+    "awayId": "espn:8089",
+    "homeName": "Gloria Buzau",
+    "awayName": "CSU Craiova",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": "711147",
+    "date": "2024-12-22T10:30Z",
+    "homeId": "espn:12603",
+    "awayId": "espn:22314",
+    "homeName": "Petrolul Ploiesti",
+    "awayName": "Unirea Slobozia",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": "711151",
+    "date": "2024-12-22T13:00Z",
+    "homeId": "espn:5260",
+    "awayId": "espn:2942",
+    "homeName": "CFR Cluj-Napoca",
+    "awayName": "Otelul Galati",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": "711150",
+    "date": "2024-12-22T18:00Z",
+    "homeId": "espn:2496",
+    "awayId": "espn:545",
+    "homeName": "Dinamo Bucuresti",
+    "awayName": "Rapid Bucuresti",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "711152",
+    "date": "2024-12-23T15:00Z",
+    "homeId": "espn:6912",
+    "awayId": "espn:9682",
+    "homeName": "UTA Arad",
+    "awayName": "FC Botosani",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": "711148",
+    "date": "2024-12-23T18:00Z",
+    "homeId": "espn:18320",
+    "awayId": "espn:484",
+    "homeName": "Politehnica Iasi",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 2
+  }
+]

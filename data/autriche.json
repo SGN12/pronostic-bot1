@@ -1,0 +1,5842 @@
+[
+  {
+    "id": 874355,
+    "date": "2022-07-22T18:30:00.000Z",
+    "homeId": 571,
+    "awayId": 601,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Vienna",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 874356,
+    "date": "2022-07-23T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1405,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 874357,
+    "date": "2022-07-23T17:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 637,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874360,
+    "date": "2022-07-24T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1028,
+    "homeName": "Rapid Vienna",
+    "awayName": "Ried",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 874359,
+    "date": "2022-07-24T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 618,
+    "homeName": "TSV Hartberg",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874358,
+    "date": "2022-07-24T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1398,
+    "homeName": "Austria Lustenau",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874362,
+    "date": "2022-07-30T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1025,
+    "homeName": "SCR Altach",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 874361,
+    "date": "2022-07-30T15:00:00.000Z",
+    "homeId": 1028,
+    "awayId": 1399,
+    "homeName": "Ried",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 874363,
+    "date": "2022-07-30T17:30:00.000Z",
+    "homeId": 637,
+    "awayId": 571,
+    "homeName": "Sturm Graz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874366,
+    "date": "2022-07-31T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1026,
+    "homeName": "Austria Vienna",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874364,
+    "date": "2022-07-31T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1072,
+    "homeName": "WSG Wattens",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874365,
+    "date": "2022-07-31T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 781,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 874371,
+    "date": "2022-08-06T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1026,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 874367,
+    "date": "2022-08-06T15:00:00.000Z",
+    "homeId": 1028,
+    "awayId": 637,
+    "homeName": "Ried",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874369,
+    "date": "2022-08-06T17:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 571,
+    "homeName": "TSV Hartberg",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 874368,
+    "date": "2022-08-07T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 601,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Vienna",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 874372,
+    "date": "2022-08-07T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1399,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874370,
+    "date": "2022-08-07T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1405,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 886675,
+    "date": "2022-08-13T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1398,
+    "homeName": "Austria Vienna",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874373,
+    "date": "2022-08-13T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1028,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Ried",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 874374,
+    "date": "2022-08-13T17:30:00.000Z",
+    "homeId": 637,
+    "awayId": 618,
+    "homeName": "Sturm Graz",
+    "awayName": "SCR Altach",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 874376,
+    "date": "2022-08-14T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1025,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874377,
+    "date": "2022-08-14T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 781,
+    "homeName": "Lask Linz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874375,
+    "date": "2022-08-14T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1072,
+    "homeName": "Austria Lustenau",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 874378,
+    "date": "2022-08-20T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1405,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 874379,
+    "date": "2022-08-20T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1399,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874380,
+    "date": "2022-08-20T17:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1026,
+    "homeName": "Sturm Graz",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 886676,
+    "date": "2022-08-21T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 601,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874382,
+    "date": "2022-08-21T15:00:00.000Z",
+    "homeId": 1028,
+    "awayId": 1398,
+    "homeName": "Ried",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874384,
+    "date": "2022-08-27T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1028,
+    "homeName": "TSV Hartberg",
+    "awayName": "Ried",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 874383,
+    "date": "2022-08-27T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 571,
+    "homeName": "Austria Lustenau",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "id": 874385,
+    "date": "2022-08-27T17:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 618,
+    "homeName": "Lask Linz",
+    "awayName": "SCR Altach",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 874387,
+    "date": "2022-08-28T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 637,
+    "homeName": "Rapid Vienna",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874386,
+    "date": "2022-08-28T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1025,
+    "homeName": "WSG Wattens",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 886677,
+    "date": "2022-08-28T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 601,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Austria Vienna",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 874388,
+    "date": "2022-09-03T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1398,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 874389,
+    "date": "2022-09-03T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1399,
+    "homeName": "Austria Vienna",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 874390,
+    "date": "2022-09-03T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1072,
+    "homeName": "Sturm Graz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 874391,
+    "date": "2022-09-04T12:30:00.000Z",
+    "homeId": 618,
+    "awayId": 781,
+    "homeName": "SCR Altach",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 874392,
+    "date": "2022-09-04T12:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 1405,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": 874393,
+    "date": "2022-09-04T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1028,
+    "homeName": "Lask Linz",
+    "awayName": "Ried",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874395,
+    "date": "2022-09-10T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1025,
+    "homeName": "Rapid Vienna",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 874396,
+    "date": "2022-09-10T15:00:00.000Z",
+    "homeId": 1028,
+    "awayId": 571,
+    "homeName": "Ried",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 874398,
+    "date": "2022-09-10T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 618,
+    "homeName": "WSG Wattens",
+    "awayName": "SCR Altach",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 886678,
+    "date": "2022-09-11T12:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 601,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 874397,
+    "date": "2022-09-11T12:30:00.000Z",
+    "homeId": 1399,
+    "awayId": 1026,
+    "homeName": "Austria Lustenau",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874394,
+    "date": "2022-09-11T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 637,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 874404,
+    "date": "2022-09-17T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1405,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 874401,
+    "date": "2022-09-17T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1072,
+    "homeName": "Wolfsberger AC",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 874400,
+    "date": "2022-09-17T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1398,
+    "homeName": "Lask Linz",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 874402,
+    "date": "2022-09-18T12:30:00.000Z",
+    "homeId": 601,
+    "awayId": 1028,
+    "homeName": "Austria Vienna",
+    "awayName": "Ried",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 874403,
+    "date": "2022-09-18T12:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1399,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 874399,
+    "date": "2022-09-18T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 781,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874405,
+    "date": "2022-10-01T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1026,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874410,
+    "date": "2022-10-01T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 781,
+    "homeName": "WSG Wattens",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 874408,
+    "date": "2022-10-01T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1025,
+    "homeName": "Austria Lustenau",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 874407,
+    "date": "2022-10-02T12:30:00.000Z",
+    "homeId": 1028,
+    "awayId": 618,
+    "homeName": "Ried",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 874409,
+    "date": "2022-10-02T12:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 1405,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 874406,
+    "date": "2022-10-02T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 637,
+    "homeName": "Austria Vienna",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 874416,
+    "date": "2022-10-08T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 571,
+    "homeName": "SCR Altach",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 874411,
+    "date": "2022-10-08T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1072,
+    "homeName": "Lask Linz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 874414,
+    "date": "2022-10-08T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1399,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874413,
+    "date": "2022-10-09T12:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1398,
+    "homeName": "Sturm Graz",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874412,
+    "date": "2022-10-09T12:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 1028,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Ried",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874415,
+    "date": "2022-10-09T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 601,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874419,
+    "date": "2022-10-15T15:00:00.000Z",
+    "homeId": 1028,
+    "awayId": 781,
+    "homeName": "Ried",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 874421,
+    "date": "2022-10-15T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1399,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 874418,
+    "date": "2022-10-15T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1026,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 874420,
+    "date": "2022-10-16T12:30:00.000Z",
+    "homeId": 618,
+    "awayId": 1072,
+    "homeName": "SCR Altach",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 874417,
+    "date": "2022-10-16T12:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1025,
+    "homeName": "Sturm Graz",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 886679,
+    "date": "2022-10-16T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 571,
+    "homeName": "Austria Vienna",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 874422,
+    "date": "2022-10-22T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 637,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 874425,
+    "date": "2022-10-22T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1405,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 874427,
+    "date": "2022-10-22T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1398,
+    "homeName": "TSV Hartberg",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 874424,
+    "date": "2022-10-23T12:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 618,
+    "homeName": "Wolfsberger AC",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 874426,
+    "date": "2022-10-23T12:30:00.000Z",
+    "homeId": 1399,
+    "awayId": 1028,
+    "homeName": "Austria Lustenau",
+    "awayName": "Ried",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 874423,
+    "date": "2022-10-23T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 601,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 874381,
+    "date": "2022-10-26T14:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1072,
+    "homeName": "Rapid Vienna",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 874428,
+    "date": "2022-10-29T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1072,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 874433,
+    "date": "2022-10-29T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 781,
+    "homeName": "Austria Lustenau",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 874432,
+    "date": "2022-10-29T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1398,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 874430,
+    "date": "2022-10-30T13:30:00.000Z",
+    "homeId": 601,
+    "awayId": 618,
+    "homeName": "Austria Vienna",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874429,
+    "date": "2022-10-30T13:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 1025,
+    "homeName": "Lask Linz",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 874431,
+    "date": "2022-10-30T16:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1028,
+    "homeName": "Sturm Graz",
+    "awayName": "Ried",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874434,
+    "date": "2022-11-05T16:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 571,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874436,
+    "date": "2022-11-05T16:00:00.000Z",
+    "homeId": 1028,
+    "awayId": 1405,
+    "homeName": "Ried",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 874438,
+    "date": "2022-11-05T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1399,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874437,
+    "date": "2022-11-06T13:30:00.000Z",
+    "homeId": 618,
+    "awayId": 637,
+    "homeName": "SCR Altach",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874439,
+    "date": "2022-11-06T13:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 601,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 874435,
+    "date": "2022-11-06T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1026,
+    "homeName": "Rapid Vienna",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 874444,
+    "date": "2022-11-12T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 781,
+    "homeName": "TSV Hartberg",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874445,
+    "date": "2022-11-12T16:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1028,
+    "homeName": "WSG Wattens",
+    "awayName": "Ried",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 874443,
+    "date": "2022-11-12T16:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 618,
+    "homeName": "Austria Lustenau",
+    "awayName": "SCR Altach",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 874441,
+    "date": "2022-11-13T13:30:00.000Z",
+    "homeId": 601,
+    "awayId": 1025,
+    "homeName": "Austria Vienna",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 874442,
+    "date": "2022-11-13T13:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 571,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 874440,
+    "date": "2022-11-13T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 637,
+    "homeName": "Lask Linz",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874449,
+    "date": "2023-02-10T19:30:00.000Z",
+    "homeId": 637,
+    "awayId": 781,
+    "homeName": "Sturm Graz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 874446,
+    "date": "2023-02-11T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1399,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 874447,
+    "date": "2023-02-11T16:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1398,
+    "homeName": "Wolfsberger AC",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874451,
+    "date": "2023-02-12T13:30:00.000Z",
+    "homeId": 618,
+    "awayId": 1026,
+    "homeName": "SCR Altach",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 874450,
+    "date": "2023-02-12T13:30:00.000Z",
+    "homeId": 1028,
+    "awayId": 1072,
+    "homeName": "Ried",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 874448,
+    "date": "2023-02-12T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1405,
+    "homeName": "Austria Vienna",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 874454,
+    "date": "2023-02-18T16:00:00.000Z",
+    "homeId": 1028,
+    "awayId": 1026,
+    "homeName": "Ried",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874456,
+    "date": "2023-02-18T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 637,
+    "homeName": "TSV Hartberg",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874452,
+    "date": "2023-02-18T16:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1025,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 874457,
+    "date": "2023-02-19T13:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 571,
+    "homeName": "WSG Wattens",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 874455,
+    "date": "2023-02-19T13:30:00.000Z",
+    "homeId": 1399,
+    "awayId": 601,
+    "homeName": "Austria Lustenau",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 874453,
+    "date": "2023-02-19T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 618,
+    "homeName": "Rapid Vienna",
+    "awayName": "SCR Altach",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 874459,
+    "date": "2023-02-24T19:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 1399,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 886680,
+    "date": "2023-02-25T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1072,
+    "homeName": "Austria Vienna",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 874461,
+    "date": "2023-02-25T16:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1405,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874462,
+    "date": "2023-02-26T13:30:00.000Z",
+    "homeId": 618,
+    "awayId": 1398,
+    "homeName": "SCR Altach",
+    "awayName": "WSG Wattens",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 874460,
+    "date": "2023-02-26T13:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 781,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874458,
+    "date": "2023-02-26T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1028,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Ried",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 886681,
+    "date": "2023-03-04T16:00:00.000Z",
+    "homeId": 1028,
+    "awayId": 601,
+    "homeName": "Ried",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 874466,
+    "date": "2023-03-04T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1025,
+    "homeName": "TSV Hartberg",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 874465,
+    "date": "2023-03-04T16:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 637,
+    "homeName": "Austria Lustenau",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 874467,
+    "date": "2023-03-05T13:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 1026,
+    "homeName": "WSG Wattens",
+    "awayName": "Lask Linz",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 874463,
+    "date": "2023-03-05T13:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 618,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "SCR Altach",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 874464,
+    "date": "2023-03-05T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 571,
+    "homeName": "Rapid Vienna",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": 874473,
+    "date": "2023-03-12T16:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1028,
+    "homeName": "SCR Altach",
+    "awayName": "Ried",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 874470,
+    "date": "2023-03-12T16:00:00.000Z",
+    "homeId": 637,
+    "awayId": 601,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 874472,
+    "date": "2023-03-12T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1398,
+    "homeName": "Rapid Vienna",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 874469,
+    "date": "2023-03-12T16:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1399,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 874468,
+    "date": "2023-03-12T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 571,
+    "homeName": "Lask Linz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 874471,
+    "date": "2023-03-12T16:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1072,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 874474,
+    "date": "2023-03-19T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 618,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 874475,
+    "date": "2023-03-19T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 781,
+    "homeName": "Austria Vienna",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 874476,
+    "date": "2023-03-19T16:00:00.000Z",
+    "homeId": 1028,
+    "awayId": 1025,
+    "homeName": "Ried",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 874478,
+    "date": "2023-03-19T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1026,
+    "homeName": "TSV Hartberg",
+    "awayName": "Lask Linz",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 874479,
+    "date": "2023-03-19T16:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 637,
+    "homeName": "WSG Wattens",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 874477,
+    "date": "2023-03-19T16:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1405,
+    "homeName": "Austria Lustenau",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017208,
+    "date": "2023-03-31T17:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 1399,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017210,
+    "date": "2023-04-01T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1398,
+    "homeName": "SCR Altach",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017209,
+    "date": "2023-04-01T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1028,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Ried",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017178,
+    "date": "2023-04-02T12:30:00.000Z",
+    "homeId": 601,
+    "awayId": 1026,
+    "homeName": "Austria Vienna",
+    "awayName": "Lask Linz",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017179,
+    "date": "2023-04-02T12:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 571,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017180,
+    "date": "2023-04-02T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 781,
+    "homeName": "Sturm Graz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017211,
+    "date": "2023-04-07T17:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 1025,
+    "homeName": "WSG Wattens",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017212,
+    "date": "2023-04-08T15:00:00.000Z",
+    "homeId": 1028,
+    "awayId": 1072,
+    "homeName": "Ried",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017213,
+    "date": "2023-04-08T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 618,
+    "homeName": "Austria Lustenau",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017181,
+    "date": "2023-04-09T12:30:00.000Z",
+    "homeId": 571,
+    "awayId": 601,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Vienna",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017182,
+    "date": "2023-04-09T12:30:00.000Z",
+    "homeId": 781,
+    "awayId": 1405,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017183,
+    "date": "2023-04-09T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 637,
+    "homeName": "Lask Linz",
+    "awayName": "Sturm Graz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017214,
+    "date": "2023-04-14T17:30:00.000Z",
+    "homeId": 1028,
+    "awayId": 1398,
+    "homeName": "Ried",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017215,
+    "date": "2023-04-15T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 618,
+    "homeName": "TSV Hartberg",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017216,
+    "date": "2023-04-15T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1025,
+    "homeName": "Austria Lustenau",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017184,
+    "date": "2023-04-16T12:30:00.000Z",
+    "homeId": 571,
+    "awayId": 1026,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017185,
+    "date": "2023-04-16T12:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 637,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017186,
+    "date": "2023-04-16T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 601,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Vienna",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017217,
+    "date": "2023-04-21T17:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 1072,
+    "homeName": "Wolfsberger AC",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017218,
+    "date": "2023-04-22T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1028,
+    "homeName": "SCR Altach",
+    "awayName": "Ried",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017219,
+    "date": "2023-04-22T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1399,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017187,
+    "date": "2023-04-23T12:30:00.000Z",
+    "homeId": 601,
+    "awayId": 1405,
+    "homeName": "Austria Vienna",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017188,
+    "date": "2023-04-23T12:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 781,
+    "homeName": "Lask Linz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017189,
+    "date": "2023-04-23T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 571,
+    "homeName": "Sturm Graz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017192,
+    "date": "2023-04-26T16:30:00.000Z",
+    "homeId": 637,
+    "awayId": 601,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017190,
+    "date": "2023-04-26T18:30:00.000Z",
+    "homeId": 781,
+    "awayId": 571,
+    "homeName": "Rapid Vienna",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017220,
+    "date": "2023-04-28T17:30:00.000Z",
+    "homeId": 618,
+    "awayId": 1025,
+    "homeName": "SCR Altach",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017221,
+    "date": "2023-04-29T15:00:00.000Z",
+    "homeId": 1028,
+    "awayId": 1399,
+    "homeName": "Ried",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "id": 1017222,
+    "date": "2023-04-29T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1072,
+    "homeName": "WSG Wattens",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017191,
+    "date": "2023-04-30T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1405,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017223,
+    "date": "2023-05-05T17:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 618,
+    "homeName": "Wolfsberger AC",
+    "awayName": "SCR Altach",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017224,
+    "date": "2023-05-06T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1398,
+    "homeName": "TSV Hartberg",
+    "awayName": "WSG Wattens",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017225,
+    "date": "2023-05-06T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1028,
+    "homeName": "Austria Lustenau",
+    "awayName": "Ried",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017193,
+    "date": "2023-05-07T12:30:00.000Z",
+    "homeId": 601,
+    "awayId": 637,
+    "homeName": "Austria Vienna",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017194,
+    "date": "2023-05-07T12:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 1026,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017195,
+    "date": "2023-05-07T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 781,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017226,
+    "date": "2023-05-12T17:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 1028,
+    "homeName": "WSG Wattens",
+    "awayName": "Ried",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017227,
+    "date": "2023-05-13T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1072,
+    "homeName": "SCR Altach",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017228,
+    "date": "2023-05-13T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1399,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017196,
+    "date": "2023-05-14T12:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1405,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017197,
+    "date": "2023-05-14T12:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 571,
+    "homeName": "Lask Linz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017198,
+    "date": "2023-05-14T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 781,
+    "homeName": "Austria Vienna",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017229,
+    "date": "2023-05-19T17:30:00.000Z",
+    "homeId": 1028,
+    "awayId": 618,
+    "homeName": "Ried",
+    "awayName": "SCR Altach",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017230,
+    "date": "2023-05-20T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1025,
+    "homeName": "TSV Hartberg",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017231,
+    "date": "2023-05-20T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1398,
+    "homeName": "Austria Lustenau",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": 1017199,
+    "date": "2023-05-21T12:30:00.000Z",
+    "homeId": 781,
+    "awayId": 1026,
+    "homeName": "Rapid Vienna",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017200,
+    "date": "2023-05-21T12:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 601,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017201,
+    "date": "2023-05-21T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 637,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Sturm Graz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017234,
+    "date": "2023-05-27T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1399,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017232,
+    "date": "2023-05-27T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1398,
+    "homeName": "Wolfsberger AC",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017233,
+    "date": "2023-05-27T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1028,
+    "homeName": "TSV Hartberg",
+    "awayName": "Ried",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017203,
+    "date": "2023-05-28T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1405,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017202,
+    "date": "2023-05-28T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 637,
+    "homeName": "Rapid Vienna",
+    "awayName": "Sturm Graz",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017204,
+    "date": "2023-05-28T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 601,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017236,
+    "date": "2023-06-02T17:30:00.000Z",
+    "homeId": 1028,
+    "awayId": 1025,
+    "homeName": "Ried",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017237,
+    "date": "2023-06-02T17:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 618,
+    "homeName": "WSG Wattens",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017235,
+    "date": "2023-06-02T17:30:00.000Z",
+    "homeId": 1399,
+    "awayId": 1072,
+    "homeName": "Austria Lustenau",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017205,
+    "date": "2023-06-03T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 571,
+    "homeName": "Austria Vienna",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017206,
+    "date": "2023-06-03T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1026,
+    "homeName": "Sturm Graz",
+    "awayName": "Lask Linz",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017207,
+    "date": "2023-06-03T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 781,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1030672,
+    "date": "2023-06-08T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 601,
+    "homeName": "Austria Lustenau",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1030673,
+    "date": "2023-06-11T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1399,
+    "homeName": "Austria Vienna",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042887,
+    "date": "2023-07-28T18:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 781,
+    "homeName": "Lask Linz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042888,
+    "date": "2023-07-29T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1394,
+    "homeName": "Wolfsberger AC",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042889,
+    "date": "2023-07-29T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1399,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042890,
+    "date": "2023-07-29T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1405,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042891,
+    "date": "2023-07-29T17:30:00.000Z",
+    "homeId": 618,
+    "awayId": 571,
+    "homeName": "SCR Altach",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042892,
+    "date": "2023-07-30T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 637,
+    "homeName": "Austria Vienna",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042893,
+    "date": "2023-08-05T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 618,
+    "homeName": "Rapid Vienna",
+    "awayName": "SCR Altach",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042895,
+    "date": "2023-08-05T17:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1026,
+    "homeName": "Sturm Graz",
+    "awayName": "Lask Linz",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042897,
+    "date": "2023-08-06T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1398,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "WSG Wattens",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042898,
+    "date": "2023-08-06T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 1072,
+    "homeName": "FC BW Linz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042896,
+    "date": "2023-08-06T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 601,
+    "homeName": "Austria Lustenau",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042894,
+    "date": "2023-08-09T18:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 1025,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042899,
+    "date": "2023-08-12T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1405,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042900,
+    "date": "2023-08-12T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1399,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042901,
+    "date": "2023-08-12T17:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 1394,
+    "homeName": "Lask Linz",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042902,
+    "date": "2023-08-13T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 601,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042904,
+    "date": "2023-08-13T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1398,
+    "homeName": "SCR Altach",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042903,
+    "date": "2023-08-13T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1072,
+    "homeName": "Rapid Vienna",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1043257,
+    "date": "2023-08-19T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1026,
+    "homeName": "WSG Wattens",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042906,
+    "date": "2023-08-19T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 637,
+    "homeName": "Austria Lustenau",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042905,
+    "date": "2023-08-19T17:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 618,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042907,
+    "date": "2023-08-20T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1025,
+    "homeName": "Austria Vienna",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042909,
+    "date": "2023-08-20T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 571,
+    "homeName": "TSV Hartberg",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 1042908,
+    "date": "2023-08-20T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 781,
+    "homeName": "FC BW Linz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 1042910,
+    "date": "2023-08-26T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1394,
+    "homeName": "Sturm Graz",
+    "awayName": "FC BW Linz",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042911,
+    "date": "2023-08-26T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 571,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042912,
+    "date": "2023-08-26T17:30:00.000Z",
+    "homeId": 1399,
+    "awayId": 618,
+    "homeName": "Austria Lustenau",
+    "awayName": "SCR Altach",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042913,
+    "date": "2023-08-27T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1398,
+    "homeName": "Rapid Vienna",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1043258,
+    "date": "2023-08-27T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 601,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042914,
+    "date": "2023-08-27T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1405,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042915,
+    "date": "2023-09-02T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1072,
+    "homeName": "Wolfsberger AC",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042916,
+    "date": "2023-09-02T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1394,
+    "homeName": "WSG Wattens",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": 1042917,
+    "date": "2023-09-02T17:30:00.000Z",
+    "homeId": 618,
+    "awayId": 637,
+    "homeName": "SCR Altach",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042918,
+    "date": "2023-09-03T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 781,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042920,
+    "date": "2023-09-03T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1405,
+    "homeName": "Austria Vienna",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042919,
+    "date": "2023-09-03T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1399,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042924,
+    "date": "2023-09-16T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 618,
+    "homeName": "FC BW Linz",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042922,
+    "date": "2023-09-16T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1026,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042921,
+    "date": "2023-09-16T17:30:00.000Z",
+    "homeId": 637,
+    "awayId": 571,
+    "homeName": "Sturm Graz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042925,
+    "date": "2023-09-17T12:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 601,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1043259,
+    "date": "2023-09-17T12:30:00.000Z",
+    "homeId": 1399,
+    "awayId": 1398,
+    "homeName": "Austria Lustenau",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042923,
+    "date": "2023-09-17T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1025,
+    "homeName": "Rapid Vienna",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042926,
+    "date": "2023-09-23T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1394,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "FC BW Linz",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042931,
+    "date": "2023-09-23T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1025,
+    "homeName": "WSG Wattens",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042928,
+    "date": "2023-09-23T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1399,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042930,
+    "date": "2023-09-24T12:30:00.000Z",
+    "homeId": 618,
+    "awayId": 601,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042927,
+    "date": "2023-09-24T12:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 1072,
+    "homeName": "Lask Linz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042929,
+    "date": "2023-09-24T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 637,
+    "homeName": "Rapid Vienna",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042932,
+    "date": "2023-09-30T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1026,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Lask Linz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042934,
+    "date": "2023-09-30T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 1405,
+    "homeName": "FC BW Linz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042935,
+    "date": "2023-09-30T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 571,
+    "homeName": "Austria Lustenau",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1043260,
+    "date": "2023-10-01T12:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1398,
+    "homeName": "Sturm Graz",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042936,
+    "date": "2023-10-01T12:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 618,
+    "homeName": "TSV Hartberg",
+    "awayName": "SCR Altach",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042933,
+    "date": "2023-10-01T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 781,
+    "homeName": "Austria Vienna",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042939,
+    "date": "2023-10-07T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1394,
+    "homeName": "Austria Vienna",
+    "awayName": "FC BW Linz",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042942,
+    "date": "2023-10-07T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1398,
+    "homeName": "TSV Hartberg",
+    "awayName": "WSG Wattens",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042941,
+    "date": "2023-10-07T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 781,
+    "homeName": "Austria Lustenau",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 1042938,
+    "date": "2023-10-08T12:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 637,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042937,
+    "date": "2023-10-08T12:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 618,
+    "homeName": "Lask Linz",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042940,
+    "date": "2023-10-08T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 571,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042943,
+    "date": "2023-10-21T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1026,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042944,
+    "date": "2023-10-21T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1072,
+    "homeName": "Sturm Graz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042946,
+    "date": "2023-10-21T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 1399,
+    "homeName": "FC BW Linz",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042947,
+    "date": "2023-10-22T12:30:00.000Z",
+    "homeId": 618,
+    "awayId": 1025,
+    "homeName": "SCR Altach",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1043261,
+    "date": "2023-10-22T12:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 601,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042945,
+    "date": "2023-10-22T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1405,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042948,
+    "date": "2023-10-28T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 618,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "SCR Altach",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042952,
+    "date": "2023-10-28T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 1025,
+    "homeName": "FC BW Linz",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042950,
+    "date": "2023-10-28T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1398,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042949,
+    "date": "2023-10-29T13:30:00.000Z",
+    "homeId": 637,
+    "awayId": 601,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042953,
+    "date": "2023-10-29T13:30:00.000Z",
+    "homeId": 1399,
+    "awayId": 1072,
+    "homeName": "Austria Lustenau",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1042951,
+    "date": "2023-10-29T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1026,
+    "homeName": "Rapid Vienna",
+    "awayName": "Lask Linz",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042955,
+    "date": "2023-11-04T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1399,
+    "homeName": "Austria Vienna",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042954,
+    "date": "2023-11-04T16:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1405,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042958,
+    "date": "2023-11-04T16:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 571,
+    "homeName": "WSG Wattens",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042956,
+    "date": "2023-11-05T13:30:00.000Z",
+    "homeId": 618,
+    "awayId": 781,
+    "homeName": "SCR Altach",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042957,
+    "date": "2023-11-05T13:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 1394,
+    "homeName": "TSV Hartberg",
+    "awayName": "FC BW Linz",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1043262,
+    "date": "2023-11-05T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 637,
+    "homeName": "Lask Linz",
+    "awayName": "Sturm Graz",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042963,
+    "date": "2023-11-11T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 781,
+    "homeName": "TSV Hartberg",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042964,
+    "date": "2023-11-11T16:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 618,
+    "homeName": "WSG Wattens",
+    "awayName": "SCR Altach",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042962,
+    "date": "2023-11-11T16:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1025,
+    "homeName": "Austria Lustenau",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042961,
+    "date": "2023-11-12T13:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 1026,
+    "homeName": "FC BW Linz",
+    "awayName": "Lask Linz",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042960,
+    "date": "2023-11-12T13:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 637,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042959,
+    "date": "2023-11-12T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 571,
+    "homeName": "Austria Vienna",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042965,
+    "date": "2023-11-25T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1072,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042967,
+    "date": "2023-11-25T16:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1399,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1043263,
+    "date": "2023-11-25T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1398,
+    "homeName": "Lask Linz",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042969,
+    "date": "2023-11-26T13:30:00.000Z",
+    "homeId": 618,
+    "awayId": 1405,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042966,
+    "date": "2023-11-26T13:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 601,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042968,
+    "date": "2023-11-26T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1394,
+    "homeName": "Rapid Vienna",
+    "awayName": "FC BW Linz",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042970,
+    "date": "2023-12-03T13:30:00.000Z",
+    "homeId": 571,
+    "awayId": 1025,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042972,
+    "date": "2023-12-03T13:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 637,
+    "homeName": "FC BW Linz",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1043264,
+    "date": "2023-12-03T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1026,
+    "homeName": "Austria Vienna",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042971,
+    "date": "2023-12-04T18:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1072,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042973,
+    "date": "2023-12-05T18:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1399,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042974,
+    "date": "2023-12-05T18:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 781,
+    "homeName": "WSG Wattens",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042977,
+    "date": "2023-12-09T13:30:00.000Z",
+    "homeId": 781,
+    "awayId": 571,
+    "homeName": "Rapid Vienna",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042979,
+    "date": "2023-12-09T16:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1026,
+    "homeName": "Austria Lustenau",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1042976,
+    "date": "2023-12-09T16:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 601,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042980,
+    "date": "2023-12-10T13:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 1025,
+    "homeName": "TSV Hartberg",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042978,
+    "date": "2023-12-10T13:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 1398,
+    "homeName": "FC BW Linz",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042975,
+    "date": "2023-12-10T16:00:00.000Z",
+    "homeId": 637,
+    "awayId": 618,
+    "homeName": "Sturm Graz",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042981,
+    "date": "2024-02-09T19:30:00.000Z",
+    "homeId": 571,
+    "awayId": 637,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042984,
+    "date": "2024-02-10T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1072,
+    "homeName": "Austria Vienna",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042985,
+    "date": "2024-02-10T16:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1394,
+    "homeName": "SCR Altach",
+    "awayName": "FC BW Linz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042983,
+    "date": "2024-02-11T13:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 781,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042986,
+    "date": "2024-02-11T13:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 1399,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042982,
+    "date": "2024-02-11T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1405,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042988,
+    "date": "2024-02-17T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 618,
+    "homeName": "Austria Vienna",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042987,
+    "date": "2024-02-17T16:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1398,
+    "homeName": "Wolfsberger AC",
+    "awayName": "WSG Wattens",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042990,
+    "date": "2024-02-17T16:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 571,
+    "homeName": "FC BW Linz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1043265,
+    "date": "2024-02-18T13:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 1026,
+    "homeName": "TSV Hartberg",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042991,
+    "date": "2024-02-18T13:30:00.000Z",
+    "homeId": 1399,
+    "awayId": 1405,
+    "homeName": "Austria Lustenau",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042989,
+    "date": "2024-02-18T16:00:00.000Z",
+    "homeId": 637,
+    "awayId": 781,
+    "homeName": "Sturm Graz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042992,
+    "date": "2024-02-24T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1399,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042996,
+    "date": "2024-02-24T16:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1072,
+    "homeName": "SCR Altach",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042993,
+    "date": "2024-02-24T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1025,
+    "homeName": "Lask Linz",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1042997,
+    "date": "2024-02-25T13:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 637,
+    "homeName": "WSG Wattens",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1042994,
+    "date": "2024-02-25T13:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 1394,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042995,
+    "date": "2024-02-25T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 601,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Vienna",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042998,
+    "date": "2024-03-03T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1405,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1043002,
+    "date": "2024-03-03T16:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1026,
+    "homeName": "SCR Altach",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1042999,
+    "date": "2024-03-03T16:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1025,
+    "homeName": "Sturm Graz",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1043000,
+    "date": "2024-03-03T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1399,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1043001,
+    "date": "2024-03-03T16:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 601,
+    "homeName": "FC BW Linz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1043003,
+    "date": "2024-03-03T16:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1072,
+    "homeName": "WSG Wattens",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1043004,
+    "date": "2024-03-09T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 571,
+    "homeName": "Lask Linz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1043266,
+    "date": "2024-03-10T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1398,
+    "homeName": "Austria Vienna",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1043005,
+    "date": "2024-03-10T16:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 618,
+    "homeName": "Wolfsberger AC",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1043008,
+    "date": "2024-03-10T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 637,
+    "homeName": "TSV Hartberg",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1043007,
+    "date": "2024-03-10T16:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1394,
+    "homeName": "Austria Lustenau",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1043006,
+    "date": "2024-03-10T16:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 781,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183884,
+    "date": "2024-03-15T18:30:00.000Z",
+    "homeId": 781,
+    "awayId": 1026,
+    "homeName": "Rapid Vienna",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183855,
+    "date": "2024-03-16T16:00:00.000Z",
+    "homeId": 618,
+    "awayId": 601,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183854,
+    "date": "2024-03-16T16:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 1399,
+    "homeName": "FC BW Linz",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183856,
+    "date": "2024-03-16T16:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1025,
+    "homeName": "WSG Wattens",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183885,
+    "date": "2024-03-17T13:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 637,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1183886,
+    "date": "2024-03-17T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1072,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183857,
+    "date": "2024-03-29T18:30:00.000Z",
+    "homeId": 601,
+    "awayId": 1394,
+    "homeName": "Austria Vienna",
+    "awayName": "FC BW Linz",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183858,
+    "date": "2024-03-30T16:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 618,
+    "homeName": "Wolfsberger AC",
+    "awayName": "SCR Altach",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183859,
+    "date": "2024-03-30T16:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1398,
+    "homeName": "Austria Lustenau",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183887,
+    "date": "2024-03-31T12:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 1405,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183888,
+    "date": "2024-03-31T12:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 781,
+    "homeName": "TSV Hartberg",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1183889,
+    "date": "2024-03-31T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 571,
+    "homeName": "Sturm Graz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183860,
+    "date": "2024-04-05T17:30:00.000Z",
+    "homeId": 618,
+    "awayId": 1398,
+    "homeName": "SCR Altach",
+    "awayName": "WSG Wattens",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183861,
+    "date": "2024-04-06T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1399,
+    "homeName": "Austria Vienna",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183862,
+    "date": "2024-04-06T17:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 1025,
+    "homeName": "FC BW Linz",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183890,
+    "date": "2024-04-07T12:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1026,
+    "homeName": "Sturm Graz",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183891,
+    "date": "2024-04-07T12:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 1072,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183892,
+    "date": "2024-04-07T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 781,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183893,
+    "date": "2024-04-12T17:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 571,
+    "homeName": "Lask Linz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183864,
+    "date": "2024-04-13T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 601,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183865,
+    "date": "2024-04-13T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1394,
+    "homeName": "WSG Wattens",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183863,
+    "date": "2024-04-13T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 618,
+    "homeName": "Austria Lustenau",
+    "awayName": "SCR Altach",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183894,
+    "date": "2024-04-14T12:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 637,
+    "homeName": "TSV Hartberg",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1183895,
+    "date": "2024-04-14T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1405,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183896,
+    "date": "2024-04-19T17:30:00.000Z",
+    "homeId": 637,
+    "awayId": 781,
+    "homeName": "Sturm Graz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183867,
+    "date": "2024-04-20T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1398,
+    "homeName": "Austria Vienna",
+    "awayName": "WSG Wattens",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183868,
+    "date": "2024-04-20T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1394,
+    "homeName": "SCR Altach",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183866,
+    "date": "2024-04-20T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1399,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183897,
+    "date": "2024-04-21T12:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 1072,
+    "homeName": "Lask Linz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1183898,
+    "date": "2024-04-21T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1405,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183870,
+    "date": "2024-04-23T16:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 601,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183869,
+    "date": "2024-04-23T16:30:00.000Z",
+    "homeId": 1399,
+    "awayId": 1025,
+    "homeName": "Austria Lustenau",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183871,
+    "date": "2024-04-23T18:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 618,
+    "homeName": "FC BW Linz",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183900,
+    "date": "2024-04-24T16:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 1026,
+    "homeName": "TSV Hartberg",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183899,
+    "date": "2024-04-24T16:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 571,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": 1183901,
+    "date": "2024-04-24T18:30:00.000Z",
+    "homeId": 781,
+    "awayId": 637,
+    "homeName": "Rapid Vienna",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1183872,
+    "date": "2024-04-26T17:30:00.000Z",
+    "homeId": 601,
+    "awayId": 618,
+    "homeName": "Austria Vienna",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183873,
+    "date": "2024-04-27T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1394,
+    "homeName": "Wolfsberger AC",
+    "awayName": "FC BW Linz",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183874,
+    "date": "2024-04-27T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1399,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183902,
+    "date": "2024-04-28T12:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 781,
+    "homeName": "Lask Linz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183903,
+    "date": "2024-04-28T12:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 1405,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183904,
+    "date": "2024-04-28T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 637,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Sturm Graz",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183875,
+    "date": "2024-05-03T17:30:00.000Z",
+    "homeId": 1399,
+    "awayId": 601,
+    "homeName": "Austria Lustenau",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183877,
+    "date": "2024-05-04T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1025,
+    "homeName": "SCR Altach",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183876,
+    "date": "2024-05-04T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 1398,
+    "homeName": "FC BW Linz",
+    "awayName": "WSG Wattens",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183905,
+    "date": "2024-05-05T12:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1072,
+    "homeName": "Sturm Graz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183906,
+    "date": "2024-05-05T12:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 1026,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183907,
+    "date": "2024-05-05T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 571,
+    "homeName": "Rapid Vienna",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183878,
+    "date": "2024-05-11T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1025,
+    "homeName": "Austria Vienna",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1183880,
+    "date": "2024-05-11T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 618,
+    "homeName": "WSG Wattens",
+    "awayName": "SCR Altach",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183879,
+    "date": "2024-05-11T15:00:00.000Z",
+    "homeId": 1399,
+    "awayId": 1394,
+    "homeName": "Austria Lustenau",
+    "awayName": "FC BW Linz",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183908,
+    "date": "2024-05-12T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 637,
+    "homeName": "Lask Linz",
+    "awayName": "Sturm Graz",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183910,
+    "date": "2024-05-12T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 571,
+    "homeName": "TSV Hartberg",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 1183909,
+    "date": "2024-05-12T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 781,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183883,
+    "date": "2024-05-18T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1399,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Lustenau",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183881,
+    "date": "2024-05-18T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1398,
+    "homeName": "Wolfsberger AC",
+    "awayName": "WSG Wattens",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183882,
+    "date": "2024-05-18T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 601,
+    "homeName": "FC BW Linz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183911,
+    "date": "2024-05-19T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1026,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Lask Linz",
+    "homeGoals": 7,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183912,
+    "date": "2024-05-19T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1405,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183913,
+    "date": "2024-05-19T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1072,
+    "homeName": "Rapid Vienna",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1200648,
+    "date": "2024-05-21T17:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 601,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1200885,
+    "date": "2024-05-24T17:30:00.000Z",
+    "homeId": 601,
+    "awayId": 1072,
+    "homeName": "Austria Vienna",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1200886,
+    "date": "2024-05-28T17:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 601,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218574,
+    "date": "2024-08-02T18:30:00.000Z",
+    "homeId": 4256,
+    "awayId": 571,
+    "homeName": "Grazer AK",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218575,
+    "date": "2024-08-03T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1398,
+    "homeName": "SCR Altach",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218576,
+    "date": "2024-08-03T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1026,
+    "homeName": "TSV Hartberg",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218577,
+    "date": "2024-08-03T17:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 1405,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218578,
+    "date": "2024-08-04T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 637,
+    "homeName": "Rapid Vienna",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218579,
+    "date": "2024-08-04T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 601,
+    "homeName": "FC BW Linz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218580,
+    "date": "2024-08-10T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 618,
+    "homeName": "Lask Linz",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218581,
+    "date": "2024-08-10T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 4256,
+    "homeName": "WSG Wattens",
+    "awayName": "Grazer AK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218582,
+    "date": "2024-08-10T17:30:00.000Z",
+    "homeId": 571,
+    "awayId": 1394,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "FC BW Linz",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218583,
+    "date": "2024-08-11T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1025,
+    "homeName": "Austria Vienna",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218584,
+    "date": "2024-08-11T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1072,
+    "homeName": "Sturm Graz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218585,
+    "date": "2024-08-11T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 781,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218587,
+    "date": "2024-08-17T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 637,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218586,
+    "date": "2024-08-17T15:00:00.000Z",
+    "homeId": 4256,
+    "awayId": 1394,
+    "homeName": "Grazer AK",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218588,
+    "date": "2024-08-17T17:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 571,
+    "homeName": "Lask Linz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218590,
+    "date": "2024-08-18T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1025,
+    "homeName": "SCR Altach",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218589,
+    "date": "2024-08-18T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1398,
+    "homeName": "Rapid Vienna",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218591,
+    "date": "2024-08-18T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 601,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218593,
+    "date": "2024-08-24T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1405,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218594,
+    "date": "2024-08-24T17:30:00.000Z",
+    "homeId": 637,
+    "awayId": 618,
+    "homeName": "Sturm Graz",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218596,
+    "date": "2024-08-25T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1026,
+    "homeName": "Austria Vienna",
+    "awayName": "Lask Linz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218595,
+    "date": "2024-08-25T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 4256,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Grazer AK",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218597,
+    "date": "2024-08-25T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 781,
+    "homeName": "FC BW Linz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218599,
+    "date": "2024-08-31T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 4256,
+    "homeName": "TSV Hartberg",
+    "awayName": "Grazer AK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218598,
+    "date": "2024-08-31T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1394,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "FC BW Linz",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218600,
+    "date": "2024-08-31T17:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1398,
+    "homeName": "Sturm Graz",
+    "awayName": "WSG Wattens",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218603,
+    "date": "2024-09-01T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 601,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218602,
+    "date": "2024-09-01T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 571,
+    "homeName": "Rapid Vienna",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218601,
+    "date": "2024-09-01T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1025,
+    "homeName": "Lask Linz",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 1218605,
+    "date": "2024-09-14T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 781,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218607,
+    "date": "2024-09-14T17:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 1026,
+    "homeName": "FC BW Linz",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218608,
+    "date": "2024-09-15T12:30:00.000Z",
+    "homeId": 4256,
+    "awayId": 618,
+    "homeName": "Grazer AK",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218614,
+    "date": "2024-09-21T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1394,
+    "homeName": "SCR Altach",
+    "awayName": "FC BW Linz",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218610,
+    "date": "2024-09-21T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 4256,
+    "homeName": "Lask Linz",
+    "awayName": "Grazer AK",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218612,
+    "date": "2024-09-21T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1072,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218611,
+    "date": "2024-09-22T12:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1025,
+    "homeName": "Sturm Graz",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218615,
+    "date": "2024-09-22T12:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 571,
+    "homeName": "WSG Wattens",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218613,
+    "date": "2024-09-22T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 601,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218606,
+    "date": "2024-09-25T16:30:00.000Z",
+    "homeId": 601,
+    "awayId": 637,
+    "homeName": "Austria Vienna",
+    "awayName": "Sturm Graz",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218609,
+    "date": "2024-09-26T16:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 1398,
+    "homeName": "TSV Hartberg",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218616,
+    "date": "2024-09-28T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 601,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218618,
+    "date": "2024-09-28T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1026,
+    "homeName": "Rapid Vienna",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218619,
+    "date": "2024-09-28T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 637,
+    "homeName": "FC BW Linz",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218617,
+    "date": "2024-09-29T12:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 1398,
+    "homeName": "Wolfsberger AC",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218621,
+    "date": "2024-09-29T12:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 618,
+    "homeName": "TSV Hartberg",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218620,
+    "date": "2024-09-29T15:00:00.000Z",
+    "homeId": 4256,
+    "awayId": 1405,
+    "homeName": "Grazer AK",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218624,
+    "date": "2024-10-05T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 4256,
+    "homeName": "Austria Vienna",
+    "awayName": "Grazer AK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218623,
+    "date": "2024-10-05T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1072,
+    "homeName": "Wolfsberger AC",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218627,
+    "date": "2024-10-05T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1394,
+    "homeName": "WSG Wattens",
+    "awayName": "FC BW Linz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218626,
+    "date": "2024-10-06T12:30:00.000Z",
+    "homeId": 618,
+    "awayId": 781,
+    "homeName": "SCR Altach",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218622,
+    "date": "2024-10-06T12:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 1405,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218625,
+    "date": "2024-10-06T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 571,
+    "homeName": "Sturm Graz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218628,
+    "date": "2024-10-19T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 618,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218629,
+    "date": "2024-10-19T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 4256,
+    "homeName": "Sturm Graz",
+    "awayName": "Grazer AK",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218632,
+    "date": "2024-10-19T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 1025,
+    "homeName": "FC BW Linz",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218633,
+    "date": "2024-10-20T12:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 1026,
+    "homeName": "WSG Wattens",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218630,
+    "date": "2024-10-20T12:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 601,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218631,
+    "date": "2024-10-20T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1072,
+    "homeName": "Rapid Vienna",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218636,
+    "date": "2024-10-26T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1398,
+    "homeName": "Austria Vienna",
+    "awayName": "WSG Wattens",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218637,
+    "date": "2024-10-26T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1405,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218639,
+    "date": "2024-10-26T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1394,
+    "homeName": "TSV Hartberg",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218635,
+    "date": "2024-10-27T12:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 571,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218638,
+    "date": "2024-10-27T12:30:00.000Z",
+    "homeId": 4256,
+    "awayId": 781,
+    "homeName": "Grazer AK",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218634,
+    "date": "2024-10-27T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 637,
+    "homeName": "Lask Linz",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218640,
+    "date": "2024-11-02T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 4256,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Grazer AK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218643,
+    "date": "2024-11-02T16:00:00.000Z",
+    "homeId": 637,
+    "awayId": 781,
+    "homeName": "Sturm Graz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218641,
+    "date": "2024-11-02T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1072,
+    "homeName": "Lask Linz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218645,
+    "date": "2024-11-03T13:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 618,
+    "homeName": "WSG Wattens",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218644,
+    "date": "2024-11-03T13:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 1025,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218642,
+    "date": "2024-11-03T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1394,
+    "homeName": "Austria Vienna",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218646,
+    "date": "2024-11-09T16:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 601,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218651,
+    "date": "2024-11-09T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 637,
+    "homeName": "TSV Hartberg",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218650,
+    "date": "2024-11-09T16:00:00.000Z",
+    "homeId": 4256,
+    "awayId": 1398,
+    "homeName": "Grazer AK",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218649,
+    "date": "2024-11-10T13:30:00.000Z",
+    "homeId": 618,
+    "awayId": 1026,
+    "homeName": "SCR Altach",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218648,
+    "date": "2024-11-10T13:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 571,
+    "homeName": "FC BW Linz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218647,
+    "date": "2024-11-10T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1405,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218652,
+    "date": "2024-11-23T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1026,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218655,
+    "date": "2024-11-23T16:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1405,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218657,
+    "date": "2024-11-23T16:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 781,
+    "homeName": "WSG Wattens",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218653,
+    "date": "2024-11-24T13:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 618,
+    "homeName": "Wolfsberger AC",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218656,
+    "date": "2024-11-24T13:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 4256,
+    "homeName": "FC BW Linz",
+    "awayName": "Grazer AK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218654,
+    "date": "2024-11-24T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1072,
+    "homeName": "Austria Vienna",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218661,
+    "date": "2024-11-30T16:00:00.000Z",
+    "homeId": 618,
+    "awayId": 637,
+    "homeName": "SCR Altach",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218663,
+    "date": "2024-11-30T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 571,
+    "homeName": "TSV Hartberg",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218662,
+    "date": "2024-11-30T16:00:00.000Z",
+    "homeId": 4256,
+    "awayId": 1025,
+    "homeName": "Grazer AK",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "id": 1218660,
+    "date": "2024-12-01T13:30:00.000Z",
+    "homeId": 781,
+    "awayId": 1394,
+    "homeName": "Rapid Vienna",
+    "awayName": "FC BW Linz",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218659,
+    "date": "2024-12-01T13:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 1398,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "WSG Wattens",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218658,
+    "date": "2024-12-01T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 601,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218592,
+    "date": "2024-12-04T19:30:00.000Z",
+    "homeId": 571,
+    "awayId": 1072,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218664,
+    "date": "2024-12-07T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 781,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218665,
+    "date": "2024-12-07T16:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1026,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Lask Linz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218669,
+    "date": "2024-12-07T16:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 637,
+    "homeName": "WSG Wattens",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218667,
+    "date": "2024-12-08T13:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 1405,
+    "homeName": "FC BW Linz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218668,
+    "date": "2024-12-08T13:30:00.000Z",
+    "homeId": 4256,
+    "awayId": 1072,
+    "homeName": "Grazer AK",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218666,
+    "date": "2024-12-08T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 618,
+    "homeName": "Austria Vienna",
+    "awayName": "SCR Altach",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218604,
+    "date": "2024-12-14T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1405,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218671,
+    "date": "2025-02-07T19:30:00.000Z",
+    "homeId": 637,
+    "awayId": 601,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218674,
+    "date": "2025-02-08T16:00:00.000Z",
+    "homeId": 618,
+    "awayId": 4256,
+    "homeName": "SCR Altach",
+    "awayName": "Grazer AK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218673,
+    "date": "2025-02-08T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1025,
+    "homeName": "Rapid Vienna",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218675,
+    "date": "2025-02-09T13:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 1072,
+    "homeName": "WSG Wattens",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218672,
+    "date": "2025-02-09T13:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 571,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218670,
+    "date": "2025-02-09T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1394,
+    "homeName": "Lask Linz",
+    "awayName": "FC BW Linz",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218676,
+    "date": "2025-02-15T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1398,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218677,
+    "date": "2025-02-15T16:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 637,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Sturm Graz",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218679,
+    "date": "2025-02-15T16:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 618,
+    "homeName": "FC BW Linz",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218681,
+    "date": "2025-02-16T13:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 1405,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218680,
+    "date": "2025-02-16T13:30:00.000Z",
+    "homeId": 4256,
+    "awayId": 1026,
+    "homeName": "Grazer AK",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218678,
+    "date": "2025-02-16T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 781,
+    "homeName": "Austria Vienna",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218683,
+    "date": "2025-02-22T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 571,
+    "homeName": "Austria Vienna",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218687,
+    "date": "2025-02-22T16:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1025,
+    "homeName": "WSG Wattens",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218685,
+    "date": "2025-02-22T16:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 4256,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Grazer AK",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218686,
+    "date": "2025-02-23T13:30:00.000Z",
+    "homeId": 618,
+    "awayId": 1072,
+    "homeName": "SCR Altach",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218684,
+    "date": "2025-02-23T13:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1394,
+    "homeName": "Sturm Graz",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218682,
+    "date": "2025-02-23T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 781,
+    "homeName": "Lask Linz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218690,
+    "date": "2025-03-01T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 618,
+    "homeName": "Rapid Vienna",
+    "awayName": "SCR Altach",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218693,
+    "date": "2025-03-01T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1025,
+    "homeName": "TSV Hartberg",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1218692,
+    "date": "2025-03-01T16:00:00.000Z",
+    "homeId": 4256,
+    "awayId": 601,
+    "homeName": "Grazer AK",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218691,
+    "date": "2025-03-02T13:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 1398,
+    "homeName": "FC BW Linz",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218689,
+    "date": "2025-03-02T13:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 1026,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218688,
+    "date": "2025-03-02T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 637,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Sturm Graz",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218696,
+    "date": "2025-03-09T16:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1405,
+    "homeName": "Austria Vienna",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218697,
+    "date": "2025-03-09T16:00:00.000Z",
+    "homeId": 618,
+    "awayId": 571,
+    "homeName": "SCR Altach",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218695,
+    "date": "2025-03-09T16:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 1394,
+    "homeName": "Wolfsberger AC",
+    "awayName": "FC BW Linz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218694,
+    "date": "2025-03-09T16:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1398,
+    "homeName": "Lask Linz",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218699,
+    "date": "2025-03-09T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 781,
+    "homeName": "TSV Hartberg",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218698,
+    "date": "2025-03-09T16:00:00.000Z",
+    "homeId": 4256,
+    "awayId": 637,
+    "homeName": "Grazer AK",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218700,
+    "date": "2025-03-16T16:00:00.000Z",
+    "homeId": 571,
+    "awayId": 1025,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218701,
+    "date": "2025-03-16T16:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1026,
+    "homeName": "Sturm Graz",
+    "awayName": "Lask Linz",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218703,
+    "date": "2025-03-16T16:00:00.000Z",
+    "homeId": 781,
+    "awayId": 4256,
+    "homeName": "Rapid Vienna",
+    "awayName": "Grazer AK",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1218704,
+    "date": "2025-03-16T16:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 1072,
+    "homeName": "FC BW Linz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1218705,
+    "date": "2025-03-16T16:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 601,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1218702,
+    "date": "2025-03-16T16:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 618,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361698,
+    "date": "2025-03-28T18:30:00.000Z",
+    "homeId": 618,
+    "awayId": 1026,
+    "homeName": "SCR Altach",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361700,
+    "date": "2025-03-29T16:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1405,
+    "homeName": "TSV Hartberg",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1361699,
+    "date": "2025-03-29T16:00:00.000Z",
+    "homeId": 4256,
+    "awayId": 1398,
+    "homeName": "Grazer AK",
+    "awayName": "WSG Wattens",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361668,
+    "date": "2025-03-30T12:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 637,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361669,
+    "date": "2025-03-30T12:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 601,
+    "homeName": "FC BW Linz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361670,
+    "date": "2025-03-30T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 571,
+    "homeName": "Rapid Vienna",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361671,
+    "date": "2025-04-04T17:30:00.000Z",
+    "homeId": 637,
+    "awayId": 781,
+    "homeName": "Sturm Graz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361701,
+    "date": "2025-04-05T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 4256,
+    "homeName": "Lask Linz",
+    "awayName": "Grazer AK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361703,
+    "date": "2025-04-05T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1072,
+    "homeName": "WSG Wattens",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1361702,
+    "date": "2025-04-05T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 618,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1361672,
+    "date": "2025-04-06T12:30:00.000Z",
+    "homeId": 571,
+    "awayId": 1394,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361673,
+    "date": "2025-04-06T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1025,
+    "homeName": "Austria Vienna",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361674,
+    "date": "2025-04-11T17:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 1025,
+    "homeName": "FC BW Linz",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361705,
+    "date": "2025-04-12T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1026,
+    "homeName": "TSV Hartberg",
+    "awayName": "Lask Linz",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361706,
+    "date": "2025-04-12T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1405,
+    "homeName": "WSG Wattens",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 5,
+    "awayGoals": 3
+  },
+  {
+    "id": 1361704,
+    "date": "2025-04-12T15:00:00.000Z",
+    "homeId": 4256,
+    "awayId": 618,
+    "homeName": "Grazer AK",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361675,
+    "date": "2025-04-13T12:30:00.000Z",
+    "homeId": 571,
+    "awayId": 637,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361676,
+    "date": "2025-04-13T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 601,
+    "homeName": "Rapid Vienna",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361707,
+    "date": "2025-04-18T17:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 1398,
+    "homeName": "Lask Linz",
+    "awayName": "WSG Wattens",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361708,
+    "date": "2025-04-19T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1072,
+    "homeName": "SCR Altach",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361709,
+    "date": "2025-04-19T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 4256,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Grazer AK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361678,
+    "date": "2025-04-20T12:30:00.000Z",
+    "homeId": 637,
+    "awayId": 1394,
+    "homeName": "Sturm Graz",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361677,
+    "date": "2025-04-20T12:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 781,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361679,
+    "date": "2025-04-20T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 571,
+    "homeName": "Austria Vienna",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1361710,
+    "date": "2025-04-22T16:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 618,
+    "homeName": "WSG Wattens",
+    "awayName": "SCR Altach",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361711,
+    "date": "2025-04-22T16:30:00.000Z",
+    "homeId": 4256,
+    "awayId": 1072,
+    "homeName": "Grazer AK",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1361712,
+    "date": "2025-04-22T18:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 1026,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1361680,
+    "date": "2025-04-23T16:30:00.000Z",
+    "homeId": 571,
+    "awayId": 1025,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361681,
+    "date": "2025-04-23T16:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 781,
+    "homeName": "FC BW Linz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361682,
+    "date": "2025-04-23T18:30:00.000Z",
+    "homeId": 601,
+    "awayId": 637,
+    "homeName": "Austria Vienna",
+    "awayName": "Sturm Graz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361713,
+    "date": "2025-04-25T17:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 4256,
+    "homeName": "TSV Hartberg",
+    "awayName": "Grazer AK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361715,
+    "date": "2025-04-26T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1398,
+    "homeName": "SCR Altach",
+    "awayName": "WSG Wattens",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361714,
+    "date": "2025-04-26T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1405,
+    "homeName": "Lask Linz",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361684,
+    "date": "2025-04-27T12:30:00.000Z",
+    "homeId": 781,
+    "awayId": 1394,
+    "homeName": "Rapid Vienna",
+    "awayName": "FC BW Linz",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361683,
+    "date": "2025-04-27T12:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 571,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361685,
+    "date": "2025-04-27T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 601,
+    "homeName": "Sturm Graz",
+    "awayName": "Austria Vienna",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361716,
+    "date": "2025-05-02T17:30:00.000Z",
+    "homeId": 4256,
+    "awayId": 1405,
+    "homeName": "Grazer AK",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361718,
+    "date": "2025-05-03T15:00:00.000Z",
+    "homeId": 1398,
+    "awayId": 1026,
+    "homeName": "WSG Wattens",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1361687,
+    "date": "2025-05-04T12:30:00.000Z",
+    "homeId": 781,
+    "awayId": 1025,
+    "homeName": "Rapid Vienna",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361717,
+    "date": "2025-05-04T12:30:00.000Z",
+    "homeId": 1072,
+    "awayId": 618,
+    "homeName": "TSV Hartberg",
+    "awayName": "SCR Altach",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361686,
+    "date": "2025-05-04T12:30:00.000Z",
+    "homeId": 1394,
+    "awayId": 637,
+    "homeName": "FC BW Linz",
+    "awayName": "Sturm Graz",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361688,
+    "date": "2025-05-04T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 601,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Austria Vienna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361689,
+    "date": "2025-05-09T17:30:00.000Z",
+    "homeId": 637,
+    "awayId": 571,
+    "homeName": "Sturm Graz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361719,
+    "date": "2025-05-10T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 4256,
+    "homeName": "SCR Altach",
+    "awayName": "Grazer AK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361720,
+    "date": "2025-05-10T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1072,
+    "homeName": "Lask Linz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361721,
+    "date": "2025-05-10T15:00:00.000Z",
+    "homeId": 1405,
+    "awayId": 1398,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "WSG Wattens",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1361690,
+    "date": "2025-05-11T12:30:00.000Z",
+    "homeId": 1025,
+    "awayId": 1394,
+    "homeName": "Wolfsberger AC",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361691,
+    "date": "2025-05-11T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 781,
+    "homeName": "Austria Vienna",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361722,
+    "date": "2025-05-17T15:00:00.000Z",
+    "homeId": 618,
+    "awayId": 1405,
+    "homeName": "SCR Altach",
+    "awayName": "Austria Klagenfurt",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361724,
+    "date": "2025-05-17T15:00:00.000Z",
+    "homeId": 1072,
+    "awayId": 1398,
+    "homeName": "TSV Hartberg",
+    "awayName": "WSG Wattens",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361723,
+    "date": "2025-05-17T15:00:00.000Z",
+    "homeId": 4256,
+    "awayId": 1026,
+    "homeName": "Grazer AK",
+    "awayName": "Lask Linz",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361693,
+    "date": "2025-05-18T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 637,
+    "homeName": "Rapid Vienna",
+    "awayName": "Sturm Graz",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361692,
+    "date": "2025-05-18T15:00:00.000Z",
+    "homeId": 1025,
+    "awayId": 601,
+    "homeName": "Wolfsberger AC",
+    "awayName": "Austria Vienna",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361694,
+    "date": "2025-05-18T15:00:00.000Z",
+    "homeId": 1394,
+    "awayId": 571,
+    "homeName": "FC BW Linz",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361725,
+    "date": "2025-05-23T17:30:00.000Z",
+    "homeId": 1026,
+    "awayId": 618,
+    "homeName": "Lask Linz",
+    "awayName": "SCR Altach",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1361727,
+    "date": "2025-05-23T17:30:00.000Z",
+    "homeId": 1398,
+    "awayId": 4256,
+    "homeName": "WSG Wattens",
+    "awayName": "Grazer AK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361726,
+    "date": "2025-05-23T17:30:00.000Z",
+    "homeId": 1405,
+    "awayId": 1072,
+    "homeName": "Austria Klagenfurt",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1361695,
+    "date": "2025-05-24T15:00:00.000Z",
+    "homeId": 571,
+    "awayId": 781,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361696,
+    "date": "2025-05-24T15:00:00.000Z",
+    "homeId": 601,
+    "awayId": 1394,
+    "homeName": "Austria Vienna",
+    "awayName": "FC BW Linz",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1361697,
+    "date": "2025-05-24T15:00:00.000Z",
+    "homeId": 637,
+    "awayId": 1025,
+    "homeName": "Sturm Graz",
+    "awayName": "Wolfsberger AC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1375855,
+    "date": "2025-05-26T17:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 1072,
+    "homeName": "Lask Linz",
+    "awayName": "TSV Hartberg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1376531,
+    "date": "2025-05-29T15:00:00.000Z",
+    "homeId": 1026,
+    "awayId": 781,
+    "homeName": "Lask Linz",
+    "awayName": "Rapid Vienna",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1376532,
+    "date": "2025-06-01T15:00:00.000Z",
+    "homeId": 781,
+    "awayId": 1026,
+    "homeName": "Rapid Vienna",
+    "awayName": "Lask Linz",
+    "homeGoals": 3,
+    "awayGoals": 0
+  }
+]

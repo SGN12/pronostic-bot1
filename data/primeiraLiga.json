@@ -1,0 +1,8309 @@
+[
+  {
+    "date": "2022-08-05T19:15:00+00:00",
+    "homeId": 211,
+    "awayId": 240,
+    "homeName": "Benfica",
+    "awayName": "Arouca",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-06T14:30:00+00:00",
+    "homeId": 226,
+    "awayId": 810,
+    "homeName": "Rio Ave",
+    "awayName": "Vizela",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-06T17:00:00+00:00",
+    "homeId": 230,
+    "awayId": 242,
+    "homeName": "Estoril",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-06T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 214,
+    "homeName": "FC Porto",
+    "awayName": "Maritimo",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-07T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 4716,
+    "homeName": "Santa Clara",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-07T17:00:00+00:00",
+    "homeId": 217,
+    "awayId": 228,
+    "homeName": "SC Braga",
+    "awayName": "Sporting CP",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-07T19:30:00+00:00",
+    "homeId": 216,
+    "awayId": 222,
+    "homeName": "Portimonense",
+    "awayName": "Boavista",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-07T19:30:00+00:00",
+    "homeId": 223,
+    "awayId": 224,
+    "homeName": "Chaves",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-08T19:15:00+00:00",
+    "homeId": 762,
+    "awayId": 234,
+    "homeName": "GIL Vicente",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-12T19:15:00+00:00",
+    "homeId": 242,
+    "awayId": 217,
+    "homeName": "Famalicao",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-13T17:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 211,
+    "homeName": "Casa Pia",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-13T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 226,
+    "homeName": "Sporting CP",
+    "awayName": "Rio Ave",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-14T14:30:00+00:00",
+    "homeId": 222,
+    "awayId": 227,
+    "homeName": "Boavista",
+    "awayName": "Santa Clara",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-14T17:00:00+00:00",
+    "homeId": 810,
+    "awayId": 212,
+    "homeName": "Vizela",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-14T19:30:00+00:00",
+    "homeId": 224,
+    "awayId": 230,
+    "homeName": "Vitória SC",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-15T14:30:00+00:00",
+    "homeId": 214,
+    "awayId": 223,
+    "homeName": "Maritimo",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-15T17:00:00+00:00",
+    "homeId": 240,
+    "awayId": 762,
+    "homeName": "Arouca",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-15T19:30:00+00:00",
+    "homeId": 234,
+    "awayId": 216,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Portimonense",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-19T19:15:00+00:00",
+    "homeId": 230,
+    "awayId": 226,
+    "homeName": "Estoril",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-20T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 240,
+    "homeName": "Santa Clara",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-20T17:00:00+00:00",
+    "homeId": 223,
+    "awayId": 810,
+    "homeName": "Chaves",
+    "awayName": "Vizela",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-20T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 228,
+    "homeName": "FC Porto",
+    "awayName": "Sporting CP",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-21T14:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 222,
+    "homeName": "Casa Pia",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-21T17:00:00+00:00",
+    "homeId": 217,
+    "awayId": 214,
+    "homeName": "SC Braga",
+    "awayName": "Maritimo",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-21T19:30:00+00:00",
+    "homeId": 216,
+    "awayId": 224,
+    "homeName": "Portimonense",
+    "awayName": "Vitória SC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-22T19:15:00+00:00",
+    "homeId": 762,
+    "awayId": 242,
+    "homeName": "GIL Vicente",
+    "awayName": "Famalicao",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-26T19:15:00+00:00",
+    "homeId": 234,
+    "awayId": 230,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Estoril",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-27T14:30:00+00:00",
+    "homeId": 214,
+    "awayId": 216,
+    "homeName": "Maritimo",
+    "awayName": "Portimonense",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-27T17:00:00+00:00",
+    "homeId": 222,
+    "awayId": 211,
+    "homeName": "Boavista",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-27T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 223,
+    "homeName": "Sporting CP",
+    "awayName": "Chaves",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-28T14:30:00+00:00",
+    "homeId": 242,
+    "awayId": 227,
+    "homeName": "Famalicao",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-28T17:00:00+00:00",
+    "homeId": 240,
+    "awayId": 217,
+    "homeName": "Arouca",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "date": "2022-08-28T19:30:00+00:00",
+    "homeId": 226,
+    "awayId": 212,
+    "homeName": "Rio Ave",
+    "awayName": "FC Porto",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-29T18:00:00+00:00",
+    "homeId": 224,
+    "awayId": 4716,
+    "homeName": "Vitória SC",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-29T20:15:00+00:00",
+    "homeId": 810,
+    "awayId": 762,
+    "homeName": "Vizela",
+    "awayName": "GIL Vicente",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-30T19:15:00+00:00",
+    "homeId": 211,
+    "awayId": 234,
+    "homeName": "Benfica",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-02T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 810,
+    "homeName": "Benfica",
+    "awayName": "Vizela",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-02T20:15:00+00:00",
+    "homeId": 230,
+    "awayId": 228,
+    "homeName": "Estoril",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-03T14:30:00+00:00",
+    "homeId": 217,
+    "awayId": 224,
+    "homeName": "SC Braga",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-03T19:30:00+00:00",
+    "homeId": 762,
+    "awayId": 212,
+    "homeName": "GIL Vicente",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-04T14:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 240,
+    "homeName": "Casa Pia",
+    "awayName": "Arouca",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-04T17:00:00+00:00",
+    "homeId": 227,
+    "awayId": 214,
+    "homeName": "Santa Clara",
+    "awayName": "Maritimo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-04T19:30:00+00:00",
+    "homeId": 216,
+    "awayId": 242,
+    "homeName": "Portimonense",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-05T18:00:00+00:00",
+    "homeId": 222,
+    "awayId": 234,
+    "homeName": "Boavista",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-05T20:15:00+00:00",
+    "homeId": 223,
+    "awayId": 226,
+    "homeName": "Chaves",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-09T19:15:00+00:00",
+    "homeId": 224,
+    "awayId": 227,
+    "homeName": "Vitória SC",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-10T14:30:00+00:00",
+    "homeId": 242,
+    "awayId": 211,
+    "homeName": "Famalicao",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-10T17:00:00+00:00",
+    "homeId": 228,
+    "awayId": 216,
+    "homeName": "Sporting CP",
+    "awayName": "Portimonense",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-10T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 223,
+    "homeName": "FC Porto",
+    "awayName": "Chaves",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-11T14:30:00+00:00",
+    "homeId": 234,
+    "awayId": 4716,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-09-11T17:00:00+00:00",
+    "homeId": 214,
+    "awayId": 762,
+    "homeName": "Maritimo",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-11T17:00:00+00:00",
+    "homeId": 240,
+    "awayId": 222,
+    "homeName": "Arouca",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-11T19:30:00+00:00",
+    "homeId": 226,
+    "awayId": 217,
+    "homeName": "Rio Ave",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-09-12T19:15:00+00:00",
+    "homeId": 810,
+    "awayId": 230,
+    "homeName": "Vizela",
+    "awayName": "Estoril",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-16T19:15:00+00:00",
+    "homeId": 216,
+    "awayId": 223,
+    "homeName": "Portimonense",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-17T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 234,
+    "homeName": "Santa Clara",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-17T14:30:00+00:00",
+    "homeId": 762,
+    "awayId": 226,
+    "homeName": "GIL Vicente",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-17T17:00:00+00:00",
+    "homeId": 230,
+    "awayId": 212,
+    "homeName": "Estoril",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-17T19:30:00+00:00",
+    "homeId": 222,
+    "awayId": 228,
+    "homeName": "Boavista",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-18T14:30:00+00:00",
+    "homeId": 240,
+    "awayId": 224,
+    "homeName": "Arouca",
+    "awayName": "Vitória SC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-18T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 214,
+    "homeName": "Benfica",
+    "awayName": "Maritimo",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-18T17:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 242,
+    "homeName": "Casa Pia",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-18T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 810,
+    "homeName": "SC Braga",
+    "awayName": "Vizela",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-30T18:00:00+00:00",
+    "homeId": 228,
+    "awayId": 762,
+    "homeName": "Sporting CP",
+    "awayName": "GIL Vicente",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-30T20:15:00+00:00",
+    "homeId": 212,
+    "awayId": 217,
+    "homeName": "FC Porto",
+    "awayName": "SC Braga",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-01T14:30:00+00:00",
+    "homeId": 810,
+    "awayId": 216,
+    "homeName": "Vizela",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-01T17:00:00+00:00",
+    "homeId": 223,
+    "awayId": 230,
+    "homeName": "Chaves",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-01T19:30:00+00:00",
+    "homeId": 224,
+    "awayId": 211,
+    "homeName": "Vitória SC",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-02T14:30:00+00:00",
+    "homeId": 226,
+    "awayId": 227,
+    "homeName": "Rio Ave",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-02T17:00:00+00:00",
+    "homeId": 234,
+    "awayId": 240,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-02T19:30:00+00:00",
+    "homeId": 242,
+    "awayId": 222,
+    "homeName": "Famalicao",
+    "awayName": "Boavista",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-03T19:15:00+00:00",
+    "homeId": 214,
+    "awayId": 4716,
+    "homeName": "Maritimo",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-07T19:15:00+00:00",
+    "homeId": 762,
+    "awayId": 230,
+    "homeName": "GIL Vicente",
+    "awayName": "Estoril",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-08T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 228,
+    "homeName": "Santa Clara",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-08T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 226,
+    "homeName": "Benfica",
+    "awayName": "Rio Ave",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-08T17:00:00+00:00",
+    "homeId": 216,
+    "awayId": 212,
+    "homeName": "Portimonense",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-08T19:30:00+00:00",
+    "homeId": 234,
+    "awayId": 224,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-09T14:30:00+00:00",
+    "homeId": 222,
+    "awayId": 214,
+    "homeName": "Boavista",
+    "awayName": "Maritimo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-09T17:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 810,
+    "homeName": "Casa Pia",
+    "awayName": "Vizela",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-09T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 223,
+    "homeName": "SC Braga",
+    "awayName": "Chaves",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-10T19:15:00+00:00",
+    "homeId": 240,
+    "awayId": 242,
+    "homeName": "Arouca",
+    "awayName": "Famalicao",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-21T19:15:00+00:00",
+    "homeId": 212,
+    "awayId": 211,
+    "homeName": "FC Porto",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-22T14:30:00+00:00",
+    "homeId": 242,
+    "awayId": 234,
+    "homeName": "Famalicao",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-22T17:00:00+00:00",
+    "homeId": 230,
+    "awayId": 217,
+    "homeName": "Estoril",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-22T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 4716,
+    "homeName": "Sporting CP",
+    "awayName": "Casa Pia",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-23T14:30:00+00:00",
+    "homeId": 214,
+    "awayId": 240,
+    "homeName": "Maritimo",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-23T14:30:00+00:00",
+    "homeId": 810,
+    "awayId": 227,
+    "homeName": "Vizela",
+    "awayName": "Santa Clara",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-23T17:00:00+00:00",
+    "homeId": 223,
+    "awayId": 762,
+    "homeName": "Chaves",
+    "awayName": "GIL Vicente",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-23T19:30:00+00:00",
+    "homeId": 224,
+    "awayId": 222,
+    "homeName": "Vitória SC",
+    "awayName": "Boavista",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-24T19:15:00+00:00",
+    "homeId": 226,
+    "awayId": 216,
+    "homeName": "Rio Ave",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-28T19:15:00+00:00",
+    "homeId": 234,
+    "awayId": 214,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Maritimo",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-29T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 212,
+    "homeName": "Santa Clara",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-29T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 223,
+    "homeName": "Benfica",
+    "awayName": "Chaves",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-29T19:30:00+00:00",
+    "homeId": 240,
+    "awayId": 228,
+    "homeName": "Arouca",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-30T15:30:00+00:00",
+    "homeId": 216,
+    "awayId": 230,
+    "homeName": "Portimonense",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-30T15:30:00+00:00",
+    "homeId": 222,
+    "awayId": 810,
+    "homeName": "Boavista",
+    "awayName": "Vizela",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-30T18:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 226,
+    "homeName": "Casa Pia",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-30T20:30:00+00:00",
+    "homeId": 762,
+    "awayId": 217,
+    "homeName": "GIL Vicente",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-31T20:15:00+00:00",
+    "homeId": 224,
+    "awayId": 242,
+    "homeName": "Vitória SC",
+    "awayName": "Famalicao",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-04T20:15:00+00:00",
+    "homeId": 762,
+    "awayId": 216,
+    "homeName": "GIL Vicente",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-05T15:30:00+00:00",
+    "homeId": 810,
+    "awayId": 240,
+    "homeName": "Vizela",
+    "awayName": "Arouca",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-05T18:00:00+00:00",
+    "homeId": 212,
+    "awayId": 234,
+    "homeName": "FC Porto",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-05T20:30:00+00:00",
+    "homeId": 228,
+    "awayId": 224,
+    "homeName": "Sporting CP",
+    "awayName": "Vitória SC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-06T15:30:00+00:00",
+    "homeId": 226,
+    "awayId": 222,
+    "homeName": "Rio Ave",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-06T18:00:00+00:00",
+    "homeId": 214,
+    "awayId": 242,
+    "homeName": "Maritimo",
+    "awayName": "Famalicao",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-06T18:00:00+00:00",
+    "homeId": 217,
+    "awayId": 4716,
+    "homeName": "SC Braga",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-06T20:30:00+00:00",
+    "homeId": 230,
+    "awayId": 211,
+    "homeName": "Estoril",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2022-11-07T20:15:00+00:00",
+    "homeId": 223,
+    "awayId": 227,
+    "homeName": "Chaves",
+    "awayName": "Santa Clara",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-12T18:00:00+00:00",
+    "homeId": 240,
+    "awayId": 226,
+    "homeName": "Arouca",
+    "awayName": "Rio Ave",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-12T20:30:00+00:00",
+    "homeId": 222,
+    "awayId": 212,
+    "homeName": "Boavista",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-11-13T15:30:00+00:00",
+    "homeId": 224,
+    "awayId": 214,
+    "homeName": "Vitória SC",
+    "awayName": "Maritimo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-13T15:30:00+00:00",
+    "homeId": 234,
+    "awayId": 810,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Vizela",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-13T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 762,
+    "homeName": "Benfica",
+    "awayName": "GIL Vicente",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-13T18:00:00+00:00",
+    "homeId": 216,
+    "awayId": 217,
+    "homeName": "Portimonense",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-13T18:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 223,
+    "homeName": "Casa Pia",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-13T20:30:00+00:00",
+    "homeId": 242,
+    "awayId": 228,
+    "homeName": "Famalicao",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-14T20:15:00+00:00",
+    "homeId": 227,
+    "awayId": 230,
+    "homeName": "Santa Clara",
+    "awayName": "Estoril",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-23T20:15:00+00:00",
+    "homeId": 226,
+    "awayId": 214,
+    "homeName": "Rio Ave",
+    "awayName": "Maritimo",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-28T19:00:00+00:00",
+    "homeId": 216,
+    "awayId": 4716,
+    "homeName": "Portimonense",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-12-28T21:15:00+00:00",
+    "homeId": 212,
+    "awayId": 240,
+    "homeName": "FC Porto",
+    "awayName": "Arouca",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-12-29T17:00:00+00:00",
+    "homeId": 762,
+    "awayId": 227,
+    "homeName": "GIL Vicente",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-29T21:15:00+00:00",
+    "homeId": 228,
+    "awayId": 234,
+    "homeName": "Sporting CP",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-30T17:00:00+00:00",
+    "homeId": 223,
+    "awayId": 242,
+    "homeName": "Chaves",
+    "awayName": "Famalicao",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-12-30T19:00:00+00:00",
+    "homeId": 810,
+    "awayId": 224,
+    "homeName": "Vizela",
+    "awayName": "Vitória SC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-12-30T21:15:00+00:00",
+    "homeId": 217,
+    "awayId": 211,
+    "homeName": "SC Braga",
+    "awayName": "Benfica",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-05T20:15:00+00:00",
+    "homeId": 227,
+    "awayId": 217,
+    "homeName": "Santa Clara",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-01-06T19:00:00+00:00",
+    "homeId": 211,
+    "awayId": 216,
+    "homeName": "Benfica",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-06T21:15:00+00:00",
+    "homeId": 242,
+    "awayId": 810,
+    "homeName": "Famalicao",
+    "awayName": "Vizela",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-07T15:30:00+00:00",
+    "homeId": 240,
+    "awayId": 230,
+    "homeName": "Arouca",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-07T18:00:00+00:00",
+    "homeId": 224,
+    "awayId": 226,
+    "homeName": "Vitória SC",
+    "awayName": "Rio Ave",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-07T20:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 212,
+    "homeName": "Casa Pia",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-08T15:30:00+00:00",
+    "homeId": 234,
+    "awayId": 223,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-08T18:00:00+00:00",
+    "homeId": 214,
+    "awayId": 228,
+    "homeName": "Maritimo",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-08T20:30:00+00:00",
+    "homeId": 222,
+    "awayId": 762,
+    "homeName": "Boavista",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-13T20:15:00+00:00",
+    "homeId": 216,
+    "awayId": 227,
+    "homeName": "Portimonense",
+    "awayName": "Santa Clara",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-14T15:30:00+00:00",
+    "homeId": 810,
+    "awayId": 214,
+    "homeName": "Vizela",
+    "awayName": "Maritimo",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-14T18:00:00+00:00",
+    "homeId": 226,
+    "awayId": 234,
+    "homeName": "Rio Ave",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-14T20:30:00+00:00",
+    "homeId": 217,
+    "awayId": 222,
+    "homeName": "SC Braga",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-15T15:30:00+00:00",
+    "homeId": 223,
+    "awayId": 240,
+    "homeName": "Chaves",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-15T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 228,
+    "homeName": "Benfica",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-15T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 242,
+    "homeName": "FC Porto",
+    "awayName": "Famalicao",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-16T19:00:00+00:00",
+    "homeId": 230,
+    "awayId": 4716,
+    "homeName": "Estoril",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-16T21:15:00+00:00",
+    "homeId": 762,
+    "awayId": 224,
+    "homeName": "GIL Vicente",
+    "awayName": "Vitória SC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-20T19:00:00+00:00",
+    "homeId": 240,
+    "awayId": 216,
+    "homeName": "Arouca",
+    "awayName": "Portimonense",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-20T21:15:00+00:00",
+    "homeId": 228,
+    "awayId": 810,
+    "homeName": "Sporting CP",
+    "awayName": "Vizela",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-21T15:30:00+00:00",
+    "homeId": 234,
+    "awayId": 217,
+    "homeName": "Pacos Ferreira",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-21T18:00:00+00:00",
+    "homeId": 227,
+    "awayId": 211,
+    "homeName": "Santa Clara",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-01-21T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 212,
+    "homeName": "Vitória SC",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-22T15:30:00+00:00",
+    "homeId": 214,
+    "awayId": 230,
+    "homeName": "Maritimo",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-22T18:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 762,
+    "homeName": "Casa Pia",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-01-22T20:30:00+00:00",
+    "homeId": 242,
+    "awayId": 226,
+    "homeName": "Famalicao",
+    "awayName": "Rio Ave",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-23T20:15:00+00:00",
+    "homeId": 222,
+    "awayId": 223,
+    "homeName": "Boavista",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-26T20:15:00+00:00",
+    "homeId": 234,
+    "awayId": 211,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-29T15:30:00+00:00",
+    "homeId": 810,
+    "awayId": 226,
+    "homeName": "Vizela",
+    "awayName": "Rio Ave",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-29T15:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 227,
+    "homeName": "Casa Pia",
+    "awayName": "Santa Clara",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-29T18:00:00+00:00",
+    "homeId": 222,
+    "awayId": 216,
+    "homeName": "Boavista",
+    "awayName": "Portimonense",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-29T20:30:00+00:00",
+    "homeId": 242,
+    "awayId": 230,
+    "homeName": "Famalicao",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-30T20:15:00+00:00",
+    "homeId": 224,
+    "awayId": 223,
+    "homeName": "Vitória SC",
+    "awayName": "Chaves",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-31T19:00:00+00:00",
+    "homeId": 234,
+    "awayId": 762,
+    "homeName": "Pacos Ferreira",
+    "awayName": "GIL Vicente",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-31T21:15:00+00:00",
+    "homeId": 240,
+    "awayId": 211,
+    "homeName": "Arouca",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-01T19:00:00+00:00",
+    "homeId": 214,
+    "awayId": 212,
+    "homeName": "Maritimo",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-01T21:15:00+00:00",
+    "homeId": 228,
+    "awayId": 217,
+    "homeName": "Sporting CP",
+    "awayName": "SC Braga",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-04T15:30:00+00:00",
+    "homeId": 227,
+    "awayId": 222,
+    "homeName": "Santa Clara",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-04T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 4716,
+    "homeName": "Benfica",
+    "awayName": "Casa Pia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-04T20:30:00+00:00",
+    "homeId": 230,
+    "awayId": 224,
+    "homeName": "Estoril",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-05T15:30:00+00:00",
+    "homeId": 217,
+    "awayId": 242,
+    "homeName": "SC Braga",
+    "awayName": "Famalicao",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-05T15:30:00+00:00",
+    "homeId": 223,
+    "awayId": 214,
+    "homeName": "Chaves",
+    "awayName": "Maritimo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-05T18:00:00+00:00",
+    "homeId": 212,
+    "awayId": 810,
+    "homeName": "FC Porto",
+    "awayName": "Vizela",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-05T20:30:00+00:00",
+    "homeId": 762,
+    "awayId": 240,
+    "homeName": "GIL Vicente",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-06T19:00:00+00:00",
+    "homeId": 216,
+    "awayId": 234,
+    "homeName": "Portimonense",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-06T21:15:00+00:00",
+    "homeId": 226,
+    "awayId": 228,
+    "homeName": "Rio Ave",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-09T18:00:00+00:00",
+    "homeId": 230,
+    "awayId": 222,
+    "homeName": "Estoril",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-10T20:15:00+00:00",
+    "homeId": 810,
+    "awayId": 223,
+    "homeName": "Vizela",
+    "awayName": "Chaves",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-11T18:00:00+00:00",
+    "homeId": 240,
+    "awayId": 227,
+    "homeName": "Arouca",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-11T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 216,
+    "homeName": "Vitória SC",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-12T15:30:00+00:00",
+    "homeId": 242,
+    "awayId": 762,
+    "homeName": "Famalicao",
+    "awayName": "GIL Vicente",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-12T18:00:00+00:00",
+    "homeId": 228,
+    "awayId": 212,
+    "homeName": "Sporting CP",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-12T20:30:00+00:00",
+    "homeId": 214,
+    "awayId": 217,
+    "homeName": "Maritimo",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-13T19:00:00+00:00",
+    "homeId": 226,
+    "awayId": 230,
+    "homeName": "Rio Ave",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-13T21:15:00+00:00",
+    "homeId": 222,
+    "awayId": 4716,
+    "homeName": "Boavista",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-17T20:15:00+00:00",
+    "homeId": 762,
+    "awayId": 810,
+    "homeName": "GIL Vicente",
+    "awayName": "Vizela",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-18T18:00:00+00:00",
+    "homeId": 216,
+    "awayId": 214,
+    "homeName": "Portimonense",
+    "awayName": "Maritimo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-18T18:00:00+00:00",
+    "homeId": 230,
+    "awayId": 234,
+    "homeName": "Estoril",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-18T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 226,
+    "homeName": "FC Porto",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-19T15:30:00+00:00",
+    "homeId": 227,
+    "awayId": 242,
+    "homeName": "Santa Clara",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-19T18:00:00+00:00",
+    "homeId": 217,
+    "awayId": 240,
+    "homeName": "SC Braga",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-19T20:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 224,
+    "homeName": "Casa Pia",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-20T19:00:00+00:00",
+    "homeId": 223,
+    "awayId": 228,
+    "homeName": "Chaves",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-20T21:15:00+00:00",
+    "homeId": 211,
+    "awayId": 222,
+    "homeName": "Benfica",
+    "awayName": "Boavista",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-24T20:15:00+00:00",
+    "homeId": 242,
+    "awayId": 216,
+    "homeName": "Famalicao",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-25T15:30:00+00:00",
+    "homeId": 240,
+    "awayId": 4716,
+    "homeName": "Arouca",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-25T18:00:00+00:00",
+    "homeId": 214,
+    "awayId": 227,
+    "homeName": "Maritimo",
+    "awayName": "Santa Clara",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-25T20:30:00+00:00",
+    "homeId": 810,
+    "awayId": 211,
+    "homeName": "Vizela",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-26T15:30:00+00:00",
+    "homeId": 226,
+    "awayId": 223,
+    "homeName": "Rio Ave",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-26T18:00:00+00:00",
+    "homeId": 234,
+    "awayId": 222,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-26T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 762,
+    "homeName": "FC Porto",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-27T19:00:00+00:00",
+    "homeId": 228,
+    "awayId": 230,
+    "homeName": "Sporting CP",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-27T21:15:00+00:00",
+    "homeId": 224,
+    "awayId": 217,
+    "homeName": "Vitória SC",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-03T19:00:00+00:00",
+    "homeId": 222,
+    "awayId": 240,
+    "homeName": "Boavista",
+    "awayName": "Arouca",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-03T21:15:00+00:00",
+    "homeId": 211,
+    "awayId": 242,
+    "homeName": "Benfica",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-04T15:30:00+00:00",
+    "homeId": 230,
+    "awayId": 810,
+    "homeName": "Estoril",
+    "awayName": "Vizela",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-04T18:00:00+00:00",
+    "homeId": 216,
+    "awayId": 228,
+    "homeName": "Portimonense",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-04T20:30:00+00:00",
+    "homeId": 223,
+    "awayId": 212,
+    "homeName": "Chaves",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-05T15:30:00+00:00",
+    "homeId": 762,
+    "awayId": 214,
+    "homeName": "GIL Vicente",
+    "awayName": "Maritimo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-05T18:00:00+00:00",
+    "homeId": 227,
+    "awayId": 224,
+    "homeName": "Santa Clara",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-05T20:30:00+00:00",
+    "homeId": 217,
+    "awayId": 226,
+    "homeName": "SC Braga",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-06T20:15:00+00:00",
+    "homeId": 4716,
+    "awayId": 234,
+    "homeName": "Casa Pia",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-10T20:15:00+00:00",
+    "homeId": 212,
+    "awayId": 230,
+    "homeName": "FC Porto",
+    "awayName": "Estoril",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-11T15:30:00+00:00",
+    "homeId": 223,
+    "awayId": 216,
+    "homeName": "Chaves",
+    "awayName": "Portimonense",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-11T15:30:00+00:00",
+    "homeId": 234,
+    "awayId": 227,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-11T18:00:00+00:00",
+    "homeId": 224,
+    "awayId": 240,
+    "homeName": "Vitória SC",
+    "awayName": "Arouca",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-11T20:30:00+00:00",
+    "homeId": 810,
+    "awayId": 217,
+    "homeName": "Vizela",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-03-12T15:30:00+00:00",
+    "homeId": 226,
+    "awayId": 762,
+    "homeName": "Rio Ave",
+    "awayName": "GIL Vicente",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-12T18:00:00+00:00",
+    "homeId": 214,
+    "awayId": 211,
+    "homeName": "Maritimo",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-12T20:30:00+00:00",
+    "homeId": 228,
+    "awayId": 222,
+    "homeName": "Sporting CP",
+    "awayName": "Boavista",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-13T20:15:00+00:00",
+    "homeId": 242,
+    "awayId": 4716,
+    "homeName": "Famalicao",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-17T20:15:00+00:00",
+    "homeId": 227,
+    "awayId": 226,
+    "homeName": "Santa Clara",
+    "awayName": "Rio Ave",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-18T15:30:00+00:00",
+    "homeId": 216,
+    "awayId": 810,
+    "homeName": "Portimonense",
+    "awayName": "Vizela",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-18T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 224,
+    "homeName": "Benfica",
+    "awayName": "Vitória SC",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-18T18:00:00+00:00",
+    "homeId": 240,
+    "awayId": 234,
+    "homeName": "Arouca",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-18T20:30:00+00:00",
+    "homeId": 230,
+    "awayId": 223,
+    "homeName": "Estoril",
+    "awayName": "Chaves",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-19T15:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 214,
+    "homeName": "Casa Pia",
+    "awayName": "Maritimo",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-19T18:00:00+00:00",
+    "homeId": 217,
+    "awayId": 212,
+    "homeName": "SC Braga",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-19T20:30:00+00:00",
+    "homeId": 222,
+    "awayId": 242,
+    "homeName": "Boavista",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-31T19:15:00+00:00",
+    "homeId": 230,
+    "awayId": 762,
+    "homeName": "Estoril",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-01T14:30:00+00:00",
+    "homeId": 810,
+    "awayId": 4716,
+    "homeName": "Vizela",
+    "awayName": "Casa Pia",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-01T17:00:00+00:00",
+    "homeId": 224,
+    "awayId": 234,
+    "homeName": "Vitória SC",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-01T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 227,
+    "homeName": "Sporting CP",
+    "awayName": "Santa Clara",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-02T14:30:00+00:00",
+    "homeId": 214,
+    "awayId": 222,
+    "homeName": "Maritimo",
+    "awayName": "Boavista",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-02T14:30:00+00:00",
+    "homeId": 223,
+    "awayId": 217,
+    "homeName": "Chaves",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-02T17:00:00+00:00",
+    "homeId": 226,
+    "awayId": 211,
+    "homeName": "Rio Ave",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-02T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 216,
+    "homeName": "FC Porto",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-03T19:15:00+00:00",
+    "homeId": 242,
+    "awayId": 240,
+    "homeName": "Famalicao",
+    "awayName": "Arouca",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-05T19:15:00+00:00",
+    "homeId": 762,
+    "awayId": 228,
+    "homeName": "GIL Vicente",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-07T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 810,
+    "homeName": "Santa Clara",
+    "awayName": "Vizela",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-07T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 212,
+    "homeName": "Benfica",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-07T19:30:00+00:00",
+    "homeId": 222,
+    "awayId": 224,
+    "homeName": "Boavista",
+    "awayName": "Vitória SC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-08T14:30:00+00:00",
+    "homeId": 240,
+    "awayId": 214,
+    "homeName": "Arouca",
+    "awayName": "Maritimo",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-08T17:00:00+00:00",
+    "homeId": 216,
+    "awayId": 226,
+    "homeName": "Portimonense",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-08T17:00:00+00:00",
+    "homeId": 234,
+    "awayId": 242,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-08T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 230,
+    "homeName": "SC Braga",
+    "awayName": "Estoril",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-09T17:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 228,
+    "homeName": "Casa Pia",
+    "awayName": "Sporting CP",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-04-10T19:15:00+00:00",
+    "homeId": 762,
+    "awayId": 223,
+    "homeName": "GIL Vicente",
+    "awayName": "Chaves",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-14T19:15:00+00:00",
+    "homeId": 242,
+    "awayId": 224,
+    "homeName": "Famalicao",
+    "awayName": "Vitória SC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-15T14:30:00+00:00",
+    "homeId": 214,
+    "awayId": 234,
+    "homeName": "Maritimo",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-15T14:30:00+00:00",
+    "homeId": 230,
+    "awayId": 216,
+    "homeName": "Estoril",
+    "awayName": "Portimonense",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-15T17:00:00+00:00",
+    "homeId": 223,
+    "awayId": 211,
+    "homeName": "Chaves",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-15T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 227,
+    "homeName": "FC Porto",
+    "awayName": "Santa Clara",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-16T14:30:00+00:00",
+    "homeId": 226,
+    "awayId": 4716,
+    "homeName": "Rio Ave",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-16T17:00:00+00:00",
+    "homeId": 217,
+    "awayId": 762,
+    "homeName": "SC Braga",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-16T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 240,
+    "homeName": "Sporting CP",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-17T19:15:00+00:00",
+    "homeId": 810,
+    "awayId": 222,
+    "homeName": "Vizela",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-21T19:15:00+00:00",
+    "homeId": 4716,
+    "awayId": 217,
+    "homeName": "Casa Pia",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-22T14:30:00+00:00",
+    "homeId": 242,
+    "awayId": 214,
+    "homeName": "Famalicao",
+    "awayName": "Maritimo",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-22T17:00:00+00:00",
+    "homeId": 222,
+    "awayId": 226,
+    "homeName": "Boavista",
+    "awayName": "Rio Ave",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-22T19:30:00+00:00",
+    "homeId": 234,
+    "awayId": 212,
+    "homeName": "Pacos Ferreira",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-23T14:30:00+00:00",
+    "homeId": 216,
+    "awayId": 762,
+    "homeName": "Portimonense",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-23T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 230,
+    "homeName": "Benfica",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-23T17:00:00+00:00",
+    "homeId": 227,
+    "awayId": 223,
+    "homeName": "Santa Clara",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-23T19:30:00+00:00",
+    "homeId": 240,
+    "awayId": 810,
+    "homeName": "Arouca",
+    "awayName": "Vizela",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-24T19:15:00+00:00",
+    "homeId": 224,
+    "awayId": 228,
+    "homeName": "Vitória SC",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-28T19:15:00+00:00",
+    "homeId": 226,
+    "awayId": 240,
+    "homeName": "Rio Ave",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-29T14:30:00+00:00",
+    "homeId": 214,
+    "awayId": 224,
+    "homeName": "Maritimo",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-29T14:30:00+00:00",
+    "homeId": 217,
+    "awayId": 216,
+    "homeName": "SC Braga",
+    "awayName": "Portimonense",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-29T17:00:00+00:00",
+    "homeId": 223,
+    "awayId": 4716,
+    "homeName": "Chaves",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-29T17:00:00+00:00",
+    "homeId": 810,
+    "awayId": 234,
+    "homeName": "Vizela",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-29T19:30:00+00:00",
+    "homeId": 762,
+    "awayId": 211,
+    "homeName": "GIL Vicente",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-30T14:30:00+00:00",
+    "homeId": 230,
+    "awayId": 227,
+    "homeName": "Estoril",
+    "awayName": "Santa Clara",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-30T17:00:00+00:00",
+    "homeId": 212,
+    "awayId": 222,
+    "homeName": "FC Porto",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-30T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 242,
+    "homeName": "Sporting CP",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-05T19:15:00+00:00",
+    "homeId": 4716,
+    "awayId": 216,
+    "homeName": "Casa Pia",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-06T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 762,
+    "homeName": "Santa Clara",
+    "awayName": "GIL Vicente",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-06T17:00:00+00:00",
+    "homeId": 222,
+    "awayId": 230,
+    "homeName": "Boavista",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-06T19:30:00+00:00",
+    "homeId": 211,
+    "awayId": 217,
+    "homeName": "Benfica",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-07T14:30:00+00:00",
+    "homeId": 214,
+    "awayId": 226,
+    "homeName": "Maritimo",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-07T17:00:00+00:00",
+    "homeId": 224,
+    "awayId": 810,
+    "homeName": "Vitória SC",
+    "awayName": "Vizela",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-07T19:30:00+00:00",
+    "homeId": 234,
+    "awayId": 228,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-05-08T18:00:00+00:00",
+    "homeId": 242,
+    "awayId": 223,
+    "homeName": "Famalicao",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-08T20:15:00+00:00",
+    "homeId": 240,
+    "awayId": 212,
+    "homeName": "Arouca",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-12T19:15:00+00:00",
+    "homeId": 762,
+    "awayId": 222,
+    "homeName": "GIL Vicente",
+    "awayName": "Boavista",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-13T14:30:00+00:00",
+    "homeId": 223,
+    "awayId": 234,
+    "homeName": "Chaves",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-13T14:30:00+00:00",
+    "homeId": 810,
+    "awayId": 242,
+    "homeName": "Vizela",
+    "awayName": "Famalicao",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-13T17:00:00+00:00",
+    "homeId": 216,
+    "awayId": 211,
+    "homeName": "Portimonense",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-05-13T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 214,
+    "homeName": "Sporting CP",
+    "awayName": "Maritimo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-14T14:30:00+00:00",
+    "homeId": 226,
+    "awayId": 224,
+    "homeName": "Rio Ave",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-14T17:00:00+00:00",
+    "homeId": 217,
+    "awayId": 227,
+    "homeName": "SC Braga",
+    "awayName": "Santa Clara",
+    "homeGoals": 5,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-05-14T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 4716,
+    "homeName": "FC Porto",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-15T19:15:00+00:00",
+    "homeId": 230,
+    "awayId": 240,
+    "homeName": "Estoril",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-19T19:15:00+00:00",
+    "homeId": 214,
+    "awayId": 810,
+    "homeName": "Maritimo",
+    "awayName": "Vizela",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-20T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 216,
+    "homeName": "Santa Clara",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-20T14:30:00+00:00",
+    "homeId": 240,
+    "awayId": 223,
+    "homeName": "Arouca",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-20T17:00:00+00:00",
+    "homeId": 222,
+    "awayId": 217,
+    "homeName": "Boavista",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-20T19:30:00+00:00",
+    "homeId": 242,
+    "awayId": 212,
+    "homeName": "Famalicao",
+    "awayName": "FC Porto",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-05-21T14:30:00+00:00",
+    "homeId": 224,
+    "awayId": 762,
+    "homeName": "Vitória SC",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-21T17:00:00+00:00",
+    "homeId": 234,
+    "awayId": 226,
+    "homeName": "Pacos Ferreira",
+    "awayName": "Rio Ave",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-21T17:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 230,
+    "homeName": "Casa Pia",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-21T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 211,
+    "homeName": "Sporting CP",
+    "awayName": "Benfica",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-26T18:00:00+00:00",
+    "homeId": 226,
+    "awayId": 242,
+    "homeName": "Rio Ave",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-26T20:15:00+00:00",
+    "homeId": 810,
+    "awayId": 228,
+    "homeName": "Vizela",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-27T11:45:00+00:00",
+    "homeId": 762,
+    "awayId": 4716,
+    "homeName": "GIL Vicente",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-27T14:30:00+00:00",
+    "homeId": 223,
+    "awayId": 222,
+    "homeName": "Chaves",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-05-27T14:30:00+00:00",
+    "homeId": 230,
+    "awayId": 214,
+    "homeName": "Estoril",
+    "awayName": "Maritimo",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-27T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 227,
+    "homeName": "Benfica",
+    "awayName": "Santa Clara",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-27T17:00:00+00:00",
+    "homeId": 212,
+    "awayId": 224,
+    "homeName": "FC Porto",
+    "awayName": "Vitória SC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-27T17:00:00+00:00",
+    "homeId": 216,
+    "awayId": 240,
+    "homeName": "Portimonense",
+    "awayName": "Arouca",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-27T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 234,
+    "homeName": "SC Braga",
+    "awayName": "Pacos Ferreira",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-06-03T19:00:00+00:00",
+    "homeId": 15130,
+    "awayId": 214,
+    "homeName": "Estrela",
+    "awayName": "Maritimo",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-11T19:15:00+00:00",
+    "homeId": 217,
+    "awayId": 242,
+    "homeName": "SC Braga",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-12T14:30:00+00:00",
+    "homeId": 762,
+    "awayId": 216,
+    "homeName": "GIL Vicente",
+    "awayName": "Portimonense",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-12T17:00:00+00:00",
+    "homeId": 231,
+    "awayId": 4716,
+    "homeName": "Farense",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-12T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 810,
+    "homeName": "Sporting CP",
+    "awayName": "Vizela",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-13T14:30:00+00:00",
+    "homeId": 226,
+    "awayId": 223,
+    "homeName": "Rio Ave",
+    "awayName": "Chaves",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-13T17:00:00+00:00",
+    "homeId": 15130,
+    "awayId": 224,
+    "homeName": "Estrela",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-13T19:30:00+00:00",
+    "homeId": 240,
+    "awayId": 230,
+    "homeName": "Arouca",
+    "awayName": "Estoril",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-14T17:45:00+00:00",
+    "homeId": 215,
+    "awayId": 212,
+    "homeName": "Moreirense",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-14T19:45:00+00:00",
+    "homeId": 222,
+    "awayId": 211,
+    "homeName": "Boavista",
+    "awayName": "Benfica",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-18T19:15:00+00:00",
+    "homeId": 4716,
+    "awayId": 228,
+    "homeName": "Casa Pia",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-19T14:30:00+00:00",
+    "homeId": 224,
+    "awayId": 762,
+    "homeName": "Vitória SC",
+    "awayName": "GIL Vicente",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-19T17:00:00+00:00",
+    "homeId": 223,
+    "awayId": 217,
+    "homeName": "Chaves",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-08-19T19:30:00+00:00",
+    "homeId": 211,
+    "awayId": 15130,
+    "homeName": "Benfica",
+    "awayName": "Estrela",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-19T19:30:00+00:00",
+    "homeId": 216,
+    "awayId": 222,
+    "homeName": "Portimonense",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-08-20T14:30:00+00:00",
+    "homeId": 230,
+    "awayId": 226,
+    "homeName": "Estoril",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-20T17:00:00+00:00",
+    "homeId": 212,
+    "awayId": 231,
+    "homeName": "FC Porto",
+    "awayName": "Farense",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-20T19:30:00+00:00",
+    "homeId": 810,
+    "awayId": 240,
+    "homeName": "Vizela",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-21T19:15:00+00:00",
+    "homeId": 242,
+    "awayId": 215,
+    "homeName": "Famalicao",
+    "awayName": "Moreirense",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-25T19:15:00+00:00",
+    "homeId": 15130,
+    "awayId": 230,
+    "homeName": "Estrela",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-26T14:30:00+00:00",
+    "homeId": 240,
+    "awayId": 216,
+    "homeName": "Arouca",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-26T17:00:00+00:00",
+    "homeId": 231,
+    "awayId": 223,
+    "homeName": "Farense",
+    "awayName": "Chaves",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-26T19:30:00+00:00",
+    "homeId": 762,
+    "awayId": 211,
+    "homeName": "GIL Vicente",
+    "awayName": "Benfica",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-27T14:30:00+00:00",
+    "homeId": 222,
+    "awayId": 4716,
+    "homeName": "Boavista",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-27T17:00:00+00:00",
+    "homeId": 224,
+    "awayId": 810,
+    "homeName": "Vitória SC",
+    "awayName": "Vizela",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-27T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 242,
+    "homeName": "Sporting CP",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-28T19:15:00+00:00",
+    "homeId": 226,
+    "awayId": 212,
+    "homeName": "Rio Ave",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-01T19:15:00+00:00",
+    "homeId": 810,
+    "awayId": 762,
+    "homeName": "Vizela",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-02T14:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 226,
+    "homeName": "Casa Pia",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-02T17:00:00+00:00",
+    "homeId": 216,
+    "awayId": 15130,
+    "homeName": "Portimonense",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-02T17:00:00+00:00",
+    "homeId": 242,
+    "awayId": 231,
+    "homeName": "Famalicao",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-02T19:30:00+00:00",
+    "homeId": 211,
+    "awayId": 224,
+    "homeName": "Benfica",
+    "awayName": "Vitória SC",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-03T14:30:00+00:00",
+    "homeId": 223,
+    "awayId": 215,
+    "homeName": "Chaves",
+    "awayName": "Moreirense",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-03T14:30:00+00:00",
+    "homeId": 230,
+    "awayId": 222,
+    "homeName": "Estoril",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-03T17:00:00+00:00",
+    "homeId": 212,
+    "awayId": 240,
+    "homeName": "FC Porto",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-03T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 228,
+    "homeName": "SC Braga",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-09T17:00:00+00:00",
+    "homeId": 215,
+    "awayId": 217,
+    "homeName": "Moreirense",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-15T18:15:00+00:00",
+    "homeId": 15130,
+    "awayId": 212,
+    "homeName": "Estrela",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-16T14:30:00+00:00",
+    "homeId": 226,
+    "awayId": 242,
+    "homeName": "Rio Ave",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-16T17:00:00+00:00",
+    "homeId": 231,
+    "awayId": 217,
+    "homeName": "Farense",
+    "awayName": "SC Braga",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-16T19:30:00+00:00",
+    "homeId": 810,
+    "awayId": 211,
+    "homeName": "Vizela",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-17T14:30:00+00:00",
+    "homeId": 240,
+    "awayId": 4716,
+    "homeName": "Arouca",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-17T14:30:00+00:00",
+    "homeId": 762,
+    "awayId": 230,
+    "homeName": "GIL Vicente",
+    "awayName": "Estoril",
+    "homeGoals": 5,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-17T17:00:00+00:00",
+    "homeId": 224,
+    "awayId": 216,
+    "homeName": "Vitória SC",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-17T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 215,
+    "homeName": "Sporting CP",
+    "awayName": "Moreirense",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-18T19:15:00+00:00",
+    "homeId": 222,
+    "awayId": 223,
+    "homeName": "Boavista",
+    "awayName": "Chaves",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-22T19:15:00+00:00",
+    "homeId": 242,
+    "awayId": 240,
+    "homeName": "Famalicao",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-23T14:30:00+00:00",
+    "homeId": 215,
+    "awayId": 231,
+    "homeName": "Moreirense",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-23T14:30:00+00:00",
+    "homeId": 230,
+    "awayId": 810,
+    "homeName": "Estoril",
+    "awayName": "Vizela",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-23T17:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 224,
+    "homeName": "Casa Pia",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-23T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 762,
+    "homeName": "FC Porto",
+    "awayName": "GIL Vicente",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-24T14:30:00+00:00",
+    "homeId": 223,
+    "awayId": 15130,
+    "homeName": "Chaves",
+    "awayName": "Estrela",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-24T17:00:00+00:00",
+    "homeId": 216,
+    "awayId": 211,
+    "homeName": "Portimonense",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-24T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 222,
+    "homeName": "SC Braga",
+    "awayName": "Boavista",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-25T19:15:00+00:00",
+    "homeId": 228,
+    "awayId": 226,
+    "homeName": "Sporting CP",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-28T19:15:00+00:00",
+    "homeId": 15130,
+    "awayId": 217,
+    "homeName": "Estrela",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-09-29T19:15:00+00:00",
+    "homeId": 211,
+    "awayId": 212,
+    "homeName": "Benfica",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-30T14:30:00+00:00",
+    "homeId": 810,
+    "awayId": 216,
+    "homeName": "Vizela",
+    "awayName": "Portimonense",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-30T17:00:00+00:00",
+    "homeId": 222,
+    "awayId": 242,
+    "homeName": "Boavista",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-30T19:30:00+00:00",
+    "homeId": 231,
+    "awayId": 228,
+    "homeName": "Farense",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-01T14:30:00+00:00",
+    "homeId": 240,
+    "awayId": 223,
+    "homeName": "Arouca",
+    "awayName": "Chaves",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-01T17:00:00+00:00",
+    "homeId": 224,
+    "awayId": 230,
+    "homeName": "Vitória SC",
+    "awayName": "Estoril",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-01T19:30:00+00:00",
+    "homeId": 226,
+    "awayId": 215,
+    "homeName": "Rio Ave",
+    "awayName": "Moreirense",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-10-02T19:15:00+00:00",
+    "homeId": 762,
+    "awayId": 4716,
+    "homeName": "GIL Vicente",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-06T19:15:00+00:00",
+    "homeId": 215,
+    "awayId": 222,
+    "homeName": "Moreirense",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-07T14:30:00+00:00",
+    "homeId": 223,
+    "awayId": 762,
+    "homeName": "Chaves",
+    "awayName": "GIL Vicente",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-07T14:30:00+00:00",
+    "homeId": 231,
+    "awayId": 810,
+    "homeName": "Farense",
+    "awayName": "Vizela",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-07T17:00:00+00:00",
+    "homeId": 217,
+    "awayId": 226,
+    "homeName": "SC Braga",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-07T19:30:00+00:00",
+    "homeId": 230,
+    "awayId": 211,
+    "homeName": "Estoril",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-08T14:30:00+00:00",
+    "homeId": 242,
+    "awayId": 224,
+    "homeName": "Famalicao",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-08T14:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 15130,
+    "homeName": "Casa Pia",
+    "awayName": "Estrela",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-08T17:00:00+00:00",
+    "homeId": 212,
+    "awayId": 216,
+    "homeName": "FC Porto",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-08T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 240,
+    "homeName": "Sporting CP",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-27T19:15:00+00:00",
+    "homeId": 240,
+    "awayId": 215,
+    "homeName": "Arouca",
+    "awayName": "Moreirense",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-28T14:30:00+00:00",
+    "homeId": 216,
+    "awayId": 230,
+    "homeName": "Portimonense",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-28T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 4716,
+    "homeName": "Benfica",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-28T17:00:00+00:00",
+    "homeId": 224,
+    "awayId": 223,
+    "homeName": "Vitória SC",
+    "awayName": "Chaves",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-28T19:30:00+00:00",
+    "homeId": 762,
+    "awayId": 217,
+    "homeName": "GIL Vicente",
+    "awayName": "SC Braga",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-29T15:30:00+00:00",
+    "homeId": 226,
+    "awayId": 231,
+    "homeName": "Rio Ave",
+    "awayName": "Farense",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-10-29T18:00:00+00:00",
+    "homeId": 15130,
+    "awayId": 242,
+    "homeName": "Estrela",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-29T20:30:00+00:00",
+    "homeId": 810,
+    "awayId": 212,
+    "homeName": "Vizela",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-30T20:15:00+00:00",
+    "homeId": 222,
+    "awayId": 228,
+    "homeName": "Boavista",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-03T20:15:00+00:00",
+    "homeId": 212,
+    "awayId": 230,
+    "homeName": "FC Porto",
+    "awayName": "Estoril",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-04T15:30:00+00:00",
+    "homeId": 223,
+    "awayId": 211,
+    "homeName": "Chaves",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-04T18:00:00+00:00",
+    "homeId": 242,
+    "awayId": 762,
+    "homeName": "Famalicao",
+    "awayName": "GIL Vicente",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-04T20:30:00+00:00",
+    "homeId": 217,
+    "awayId": 216,
+    "homeName": "SC Braga",
+    "awayName": "Portimonense",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-05T15:30:00+00:00",
+    "homeId": 215,
+    "awayId": 224,
+    "homeName": "Moreirense",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-05T15:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 810,
+    "homeName": "Casa Pia",
+    "awayName": "Vizela",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-05T18:00:00+00:00",
+    "homeId": 226,
+    "awayId": 222,
+    "homeName": "Rio Ave",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-05T20:30:00+00:00",
+    "homeId": 228,
+    "awayId": 15130,
+    "homeName": "Sporting CP",
+    "awayName": "Estrela",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-06T20:15:00+00:00",
+    "homeId": 231,
+    "awayId": 240,
+    "homeName": "Farense",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-10T20:15:00+00:00",
+    "homeId": 230,
+    "awayId": 4716,
+    "homeName": "Estoril",
+    "awayName": "Casa Pia",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-11T15:30:00+00:00",
+    "homeId": 216,
+    "awayId": 223,
+    "homeName": "Portimonense",
+    "awayName": "Chaves",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-11T18:00:00+00:00",
+    "homeId": 810,
+    "awayId": 242,
+    "homeName": "Vizela",
+    "awayName": "Famalicao",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-11T18:00:00+00:00",
+    "homeId": 15130,
+    "awayId": 215,
+    "homeName": "Estrela",
+    "awayName": "Moreirense",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-11T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 212,
+    "homeName": "Vitória SC",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-12T15:30:00+00:00",
+    "homeId": 222,
+    "awayId": 231,
+    "homeName": "Boavista",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-12T15:30:00+00:00",
+    "homeId": 762,
+    "awayId": 226,
+    "homeName": "GIL Vicente",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-12T18:00:00+00:00",
+    "homeId": 240,
+    "awayId": 217,
+    "homeName": "Arouca",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-12T20:30:00+00:00",
+    "homeId": 211,
+    "awayId": 228,
+    "homeName": "Benfica",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-01T20:30:00+00:00",
+    "homeId": 223,
+    "awayId": 810,
+    "homeName": "Chaves",
+    "awayName": "Vizela",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-02T15:30:00+00:00",
+    "homeId": 226,
+    "awayId": 15130,
+    "homeName": "Rio Ave",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-02T15:30:00+00:00",
+    "homeId": 231,
+    "awayId": 224,
+    "homeName": "Farense",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-02T18:00:00+00:00",
+    "homeId": 242,
+    "awayId": 212,
+    "homeName": "Famalicao",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-02T20:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 216,
+    "homeName": "Casa Pia",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-03T15:30:00+00:00",
+    "homeId": 217,
+    "awayId": 230,
+    "homeName": "SC Braga",
+    "awayName": "Estoril",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-03T18:00:00+00:00",
+    "homeId": 215,
+    "awayId": 211,
+    "homeName": "Moreirense",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-03T20:30:00+00:00",
+    "homeId": 222,
+    "awayId": 240,
+    "homeName": "Boavista",
+    "awayName": "Arouca",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-12-04T20:15:00+00:00",
+    "homeId": 228,
+    "awayId": 762,
+    "homeName": "Sporting CP",
+    "awayName": "GIL Vicente",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-08T15:30:00+00:00",
+    "homeId": 810,
+    "awayId": 217,
+    "homeName": "Vizela",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-08T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 231,
+    "homeName": "Benfica",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-09T15:30:00+00:00",
+    "homeId": 216,
+    "awayId": 242,
+    "homeName": "Portimonense",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-09T18:00:00+00:00",
+    "homeId": 224,
+    "awayId": 228,
+    "homeName": "Vitória SC",
+    "awayName": "Sporting CP",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-09T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 4716,
+    "homeName": "FC Porto",
+    "awayName": "Casa Pia",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-10T15:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 222,
+    "homeName": "Estrela",
+    "awayName": "Boavista",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-10T18:00:00+00:00",
+    "homeId": 240,
+    "awayId": 226,
+    "homeName": "Arouca",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-10T20:30:00+00:00",
+    "homeId": 230,
+    "awayId": 223,
+    "homeName": "Estoril",
+    "awayName": "Chaves",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-11T20:15:00+00:00",
+    "homeId": 762,
+    "awayId": 215,
+    "homeName": "GIL Vicente",
+    "awayName": "Moreirense",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-15T20:15:00+00:00",
+    "homeId": 231,
+    "awayId": 15130,
+    "homeName": "Farense",
+    "awayName": "Estrela",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-16T15:30:00+00:00",
+    "homeId": 226,
+    "awayId": 810,
+    "homeName": "Rio Ave",
+    "awayName": "Vizela",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-16T18:00:00+00:00",
+    "homeId": 240,
+    "awayId": 762,
+    "homeName": "Arouca",
+    "awayName": "GIL Vicente",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-16T20:30:00+00:00",
+    "homeId": 222,
+    "awayId": 224,
+    "homeName": "Boavista",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-17T15:30:00+00:00",
+    "homeId": 215,
+    "awayId": 216,
+    "homeName": "Moreirense",
+    "awayName": "Portimonense",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-17T15:30:00+00:00",
+    "homeId": 223,
+    "awayId": 4716,
+    "homeName": "Chaves",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-17T18:00:00+00:00",
+    "homeId": 242,
+    "awayId": 230,
+    "homeName": "Famalicao",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-17T20:30:00+00:00",
+    "homeId": 217,
+    "awayId": 211,
+    "homeName": "SC Braga",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-18T20:15:00+00:00",
+    "homeId": 228,
+    "awayId": 212,
+    "homeName": "Sporting CP",
+    "awayName": "FC Porto",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-23T15:30:00+00:00",
+    "homeId": 224,
+    "awayId": 226,
+    "homeName": "Vitória SC",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-23T15:30:00+00:00",
+    "homeId": 810,
+    "awayId": 215,
+    "homeName": "Vizela",
+    "awayName": "Moreirense",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-28T20:15:00+00:00",
+    "homeId": 15130,
+    "awayId": 240,
+    "homeName": "Estrela",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-12-29T18:45:00+00:00",
+    "homeId": 211,
+    "awayId": 242,
+    "homeName": "Benfica",
+    "awayName": "Famalicao",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-29T20:45:00+00:00",
+    "homeId": 212,
+    "awayId": 223,
+    "homeName": "FC Porto",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-30T15:30:00+00:00",
+    "homeId": 230,
+    "awayId": 231,
+    "homeName": "Estoril",
+    "awayName": "Farense",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-30T15:30:00+00:00",
+    "homeId": 762,
+    "awayId": 222,
+    "homeName": "GIL Vicente",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-30T18:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 217,
+    "homeName": "Casa Pia",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-30T20:30:00+00:00",
+    "homeId": 216,
+    "awayId": 228,
+    "homeName": "Portimonense",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-05T18:45:00+00:00",
+    "homeId": 228,
+    "awayId": 230,
+    "homeName": "Sporting CP",
+    "awayName": "Estoril",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-05T20:45:00+00:00",
+    "homeId": 222,
+    "awayId": 212,
+    "homeName": "Boavista",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-06T15:30:00+00:00",
+    "homeId": 231,
+    "awayId": 762,
+    "homeName": "Farense",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-06T15:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 810,
+    "homeName": "Estrela",
+    "awayName": "Vizela",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-06T18:00:00+00:00",
+    "homeId": 240,
+    "awayId": 211,
+    "homeName": "Arouca",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-01-06T20:30:00+00:00",
+    "homeId": 217,
+    "awayId": 224,
+    "homeName": "SC Braga",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-07T18:00:00+00:00",
+    "homeId": 226,
+    "awayId": 216,
+    "homeName": "Rio Ave",
+    "awayName": "Portimonense",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-07T20:30:00+00:00",
+    "homeId": 242,
+    "awayId": 223,
+    "homeName": "Famalicao",
+    "awayName": "Chaves",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-08T20:15:00+00:00",
+    "homeId": 215,
+    "awayId": 4716,
+    "homeName": "Moreirense",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-01-12T20:15:00+00:00",
+    "homeId": 216,
+    "awayId": 231,
+    "homeName": "Portimonense",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-13T15:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 242,
+    "homeName": "Casa Pia",
+    "awayName": "Famalicao",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-13T18:00:00+00:00",
+    "homeId": 223,
+    "awayId": 228,
+    "homeName": "Chaves",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-01-13T20:30:00+00:00",
+    "homeId": 230,
+    "awayId": 215,
+    "homeName": "Estoril",
+    "awayName": "Moreirense",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-01-14T15:30:00+00:00",
+    "homeId": 762,
+    "awayId": 15130,
+    "homeName": "GIL Vicente",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-14T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 226,
+    "homeName": "Benfica",
+    "awayName": "Rio Ave",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-14T18:00:00+00:00",
+    "homeId": 810,
+    "awayId": 222,
+    "homeName": "Vizela",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-01-14T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 217,
+    "homeName": "FC Porto",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-15T20:15:00+00:00",
+    "homeId": 224,
+    "awayId": 240,
+    "homeName": "Vitória SC",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-18T18:45:00+00:00",
+    "homeId": 242,
+    "awayId": 217,
+    "homeName": "Famalicao",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-18T20:45:00+00:00",
+    "homeId": 810,
+    "awayId": 228,
+    "homeName": "Vizela",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-01-19T20:15:00+00:00",
+    "homeId": 211,
+    "awayId": 222,
+    "homeName": "Benfica",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-20T15:30:00+00:00",
+    "homeId": 230,
+    "awayId": 240,
+    "homeName": "Estoril",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-20T18:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 231,
+    "homeName": "Casa Pia",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-01-20T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 215,
+    "homeName": "FC Porto",
+    "awayName": "Moreirense",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-21T15:30:00+00:00",
+    "homeId": 216,
+    "awayId": 762,
+    "homeName": "Portimonense",
+    "awayName": "GIL Vicente",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-21T18:00:00+00:00",
+    "homeId": 223,
+    "awayId": 226,
+    "homeName": "Chaves",
+    "awayName": "Rio Ave",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-21T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 15130,
+    "homeName": "Vitória SC",
+    "awayName": "Estrela",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-28T15:30:00+00:00",
+    "homeId": 215,
+    "awayId": 242,
+    "homeName": "Moreirense",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-28T15:30:00+00:00",
+    "homeId": 222,
+    "awayId": 216,
+    "homeName": "Boavista",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-01-28T18:00:00+00:00",
+    "homeId": 231,
+    "awayId": 212,
+    "homeName": "Farense",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-01-28T20:30:00+00:00",
+    "homeId": 240,
+    "awayId": 810,
+    "homeName": "Arouca",
+    "awayName": "Vizela",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-28T20:30:00+00:00",
+    "homeId": 762,
+    "awayId": 224,
+    "homeName": "GIL Vicente",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-29T18:45:00+00:00",
+    "homeId": 15130,
+    "awayId": 211,
+    "homeName": "Estrela",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-01-29T20:45:00+00:00",
+    "homeId": 228,
+    "awayId": 4716,
+    "homeName": "Sporting CP",
+    "awayName": "Casa Pia",
+    "homeGoals": 8,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-31T18:45:00+00:00",
+    "homeId": 226,
+    "awayId": 230,
+    "homeName": "Rio Ave",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-31T20:45:00+00:00",
+    "homeId": 217,
+    "awayId": 223,
+    "homeName": "SC Braga",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-03T15:30:00+00:00",
+    "homeId": 216,
+    "awayId": 240,
+    "homeName": "Portimonense",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-03T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 226,
+    "homeName": "FC Porto",
+    "awayName": "Rio Ave",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-04T15:30:00+00:00",
+    "homeId": 223,
+    "awayId": 231,
+    "homeName": "Chaves",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-04T15:30:00+00:00",
+    "homeId": 810,
+    "awayId": 224,
+    "homeName": "Vizela",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-04T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 762,
+    "homeName": "Benfica",
+    "awayName": "GIL Vicente",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-04T18:00:00+00:00",
+    "homeId": 230,
+    "awayId": 15130,
+    "homeName": "Estoril",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-04T20:30:00+00:00",
+    "homeId": 217,
+    "awayId": 215,
+    "homeName": "SC Braga",
+    "awayName": "Moreirense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-05T20:15:00+00:00",
+    "homeId": 4716,
+    "awayId": 222,
+    "homeName": "Casa Pia",
+    "awayName": "Boavista",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-09T20:15:00+00:00",
+    "homeId": 15130,
+    "awayId": 216,
+    "homeName": "Estrela",
+    "awayName": "Portimonense",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-10T15:30:00+00:00",
+    "homeId": 231,
+    "awayId": 242,
+    "homeName": "Farense",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-10T18:00:00+00:00",
+    "homeId": 215,
+    "awayId": 223,
+    "homeName": "Moreirense",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-10T20:30:00+00:00",
+    "homeId": 222,
+    "awayId": 230,
+    "homeName": "Boavista",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-11T15:30:00+00:00",
+    "homeId": 226,
+    "awayId": 4716,
+    "homeName": "Rio Ave",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-11T18:00:00+00:00",
+    "homeId": 228,
+    "awayId": 217,
+    "homeName": "Sporting CP",
+    "awayName": "SC Braga",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-11T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 211,
+    "homeName": "Vitória SC",
+    "awayName": "Benfica",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-12T20:15:00+00:00",
+    "homeId": 240,
+    "awayId": 212,
+    "homeName": "Arouca",
+    "awayName": "FC Porto",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-13T15:30:00+00:00",
+    "homeId": 762,
+    "awayId": 810,
+    "homeName": "GIL Vicente",
+    "awayName": "Vizela",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-16T20:15:00+00:00",
+    "homeId": 242,
+    "awayId": 226,
+    "homeName": "Famalicao",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-17T15:30:00+00:00",
+    "homeId": 223,
+    "awayId": 222,
+    "homeName": "Chaves",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-17T18:00:00+00:00",
+    "homeId": 216,
+    "awayId": 224,
+    "homeName": "Portimonense",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-17T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 15130,
+    "homeName": "FC Porto",
+    "awayName": "Estrela",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-18T15:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 240,
+    "homeName": "Casa Pia",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-18T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 810,
+    "homeName": "Benfica",
+    "awayName": "Vizela",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-18T18:00:00+00:00",
+    "homeId": 230,
+    "awayId": 762,
+    "homeName": "Estoril",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-18T20:30:00+00:00",
+    "homeId": 217,
+    "awayId": 231,
+    "homeName": "SC Braga",
+    "awayName": "Farense",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-19T20:15:00+00:00",
+    "homeId": 215,
+    "awayId": 228,
+    "homeName": "Moreirense",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-23T20:15:00+00:00",
+    "homeId": 240,
+    "awayId": 242,
+    "homeName": "Arouca",
+    "awayName": "Famalicao",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-24T15:30:00+00:00",
+    "homeId": 231,
+    "awayId": 215,
+    "homeName": "Farense",
+    "awayName": "Moreirense",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-24T18:00:00+00:00",
+    "homeId": 15130,
+    "awayId": 223,
+    "homeName": "Estrela",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-24T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 4716,
+    "homeName": "Vitória SC",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-25T15:30:00+00:00",
+    "homeId": 810,
+    "awayId": 230,
+    "homeName": "Vizela",
+    "awayName": "Estoril",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-25T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 216,
+    "homeName": "Benfica",
+    "awayName": "Portimonense",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-25T18:00:00+00:00",
+    "homeId": 762,
+    "awayId": 212,
+    "homeName": "GIL Vicente",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-25T20:30:00+00:00",
+    "homeId": 226,
+    "awayId": 228,
+    "homeName": "Rio Ave",
+    "awayName": "Sporting CP",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-26T20:15:00+00:00",
+    "homeId": 222,
+    "awayId": 217,
+    "homeName": "Boavista",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-03-01T20:15:00+00:00",
+    "homeId": 223,
+    "awayId": 240,
+    "homeName": "Chaves",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-03-02T15:30:00+00:00",
+    "homeId": 215,
+    "awayId": 226,
+    "homeName": "Moreirense",
+    "awayName": "Rio Ave",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-02T18:00:00+00:00",
+    "homeId": 230,
+    "awayId": 224,
+    "homeName": "Estoril",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-02T20:30:00+00:00",
+    "homeId": 217,
+    "awayId": 15130,
+    "homeName": "SC Braga",
+    "awayName": "Estrela",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-03T15:30:00+00:00",
+    "homeId": 216,
+    "awayId": 810,
+    "homeName": "Portimonense",
+    "awayName": "Vizela",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-03T15:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 762,
+    "homeName": "Casa Pia",
+    "awayName": "GIL Vicente",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-03T18:00:00+00:00",
+    "homeId": 228,
+    "awayId": 231,
+    "homeName": "Sporting CP",
+    "awayName": "Farense",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-03T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 211,
+    "homeName": "FC Porto",
+    "awayName": "Benfica",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-04T20:15:00+00:00",
+    "homeId": 242,
+    "awayId": 222,
+    "homeName": "Famalicao",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-08T18:45:00+00:00",
+    "homeId": 216,
+    "awayId": 212,
+    "homeName": "Portimonense",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-08T20:45:00+00:00",
+    "homeId": 15130,
+    "awayId": 4716,
+    "homeName": "Estrela",
+    "awayName": "Casa Pia",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-09T15:30:00+00:00",
+    "homeId": 810,
+    "awayId": 231,
+    "homeName": "Vizela",
+    "awayName": "Farense",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-09T18:00:00+00:00",
+    "homeId": 222,
+    "awayId": 215,
+    "homeName": "Boavista",
+    "awayName": "Moreirense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-09T18:00:00+00:00",
+    "homeId": 226,
+    "awayId": 217,
+    "homeName": "Rio Ave",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-09T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 242,
+    "homeName": "Vitória SC",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-10T18:00:00+00:00",
+    "homeId": 240,
+    "awayId": 228,
+    "homeName": "Arouca",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-10T20:30:00+00:00",
+    "homeId": 211,
+    "awayId": 230,
+    "homeName": "Benfica",
+    "awayName": "Estoril",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-11T20:15:00+00:00",
+    "homeId": 762,
+    "awayId": 223,
+    "homeName": "GIL Vicente",
+    "awayName": "Chaves",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-15T20:15:00+00:00",
+    "homeId": 230,
+    "awayId": 216,
+    "homeName": "Estoril",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-16T15:30:00+00:00",
+    "homeId": 242,
+    "awayId": 15130,
+    "homeName": "Famalicao",
+    "awayName": "Estrela",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-16T18:00:00+00:00",
+    "homeId": 217,
+    "awayId": 762,
+    "homeName": "SC Braga",
+    "awayName": "GIL Vicente",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-16T18:00:00+00:00",
+    "homeId": 231,
+    "awayId": 226,
+    "homeName": "Farense",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-16T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 810,
+    "homeName": "FC Porto",
+    "awayName": "Vizela",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-17T15:30:00+00:00",
+    "homeId": 215,
+    "awayId": 240,
+    "homeName": "Moreirense",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-17T15:30:00+00:00",
+    "homeId": 223,
+    "awayId": 224,
+    "homeName": "Chaves",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-17T18:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 211,
+    "homeName": "Casa Pia",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-17T20:30:00+00:00",
+    "homeId": 228,
+    "awayId": 222,
+    "homeName": "Sporting CP",
+    "awayName": "Boavista",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-29T15:30:00+00:00",
+    "homeId": 762,
+    "awayId": 242,
+    "homeName": "GIL Vicente",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-29T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 223,
+    "homeName": "Benfica",
+    "awayName": "Chaves",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-29T20:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 228,
+    "homeName": "Estrela",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-30T15:30:00+00:00",
+    "homeId": 224,
+    "awayId": 215,
+    "homeName": "Vitória SC",
+    "awayName": "Moreirense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-30T15:30:00+00:00",
+    "homeId": 240,
+    "awayId": 231,
+    "homeName": "Arouca",
+    "awayName": "Farense",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-30T18:00:00+00:00",
+    "homeId": 222,
+    "awayId": 226,
+    "homeName": "Boavista",
+    "awayName": "Rio Ave",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-30T20:30:00+00:00",
+    "homeId": 230,
+    "awayId": 212,
+    "homeName": "Estoril",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-31T17:00:00+00:00",
+    "homeId": 810,
+    "awayId": 4716,
+    "homeName": "Vizela",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-04-01T19:15:00+00:00",
+    "homeId": 216,
+    "awayId": 217,
+    "homeName": "Portimonense",
+    "awayName": "SC Braga",
+    "homeGoals": 3,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-04-05T19:15:00+00:00",
+    "homeId": 231,
+    "awayId": 222,
+    "homeName": "Farense",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-06T14:30:00+00:00",
+    "homeId": 226,
+    "awayId": 762,
+    "homeName": "Rio Ave",
+    "awayName": "GIL Vicente",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-06T14:30:00+00:00",
+    "homeId": 242,
+    "awayId": 810,
+    "homeName": "Famalicao",
+    "awayName": "Vizela",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-06T17:00:00+00:00",
+    "homeId": 217,
+    "awayId": 240,
+    "homeName": "SC Braga",
+    "awayName": "Arouca",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-06T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 211,
+    "homeName": "Sporting CP",
+    "awayName": "Benfica",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-07T14:30:00+00:00",
+    "homeId": 223,
+    "awayId": 216,
+    "homeName": "Chaves",
+    "awayName": "Portimonense",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-07T17:00:00+00:00",
+    "homeId": 215,
+    "awayId": 15130,
+    "homeName": "Moreirense",
+    "awayName": "Estrela",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-07T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 224,
+    "homeName": "FC Porto",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-08T19:15:00+00:00",
+    "homeId": 4716,
+    "awayId": 230,
+    "homeName": "Casa Pia",
+    "awayName": "Estoril",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-12T19:15:00+00:00",
+    "homeId": 762,
+    "awayId": 228,
+    "homeName": "GIL Vicente",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-04-13T14:30:00+00:00",
+    "homeId": 224,
+    "awayId": 231,
+    "homeName": "Vitória SC",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-13T17:00:00+00:00",
+    "homeId": 212,
+    "awayId": 242,
+    "homeName": "FC Porto",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-13T19:30:00+00:00",
+    "homeId": 230,
+    "awayId": 217,
+    "homeName": "Estoril",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-14T14:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 226,
+    "homeName": "Estrela",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-14T17:00:00+00:00",
+    "homeId": 216,
+    "awayId": 4716,
+    "homeName": "Portimonense",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-14T17:00:00+00:00",
+    "homeId": 240,
+    "awayId": 222,
+    "homeName": "Arouca",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-14T19:30:00+00:00",
+    "homeId": 211,
+    "awayId": 215,
+    "homeName": "Benfica",
+    "awayName": "Moreirense",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-15T19:15:00+00:00",
+    "homeId": 810,
+    "awayId": 223,
+    "homeName": "Vizela",
+    "awayName": "Chaves",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-16T19:15:00+00:00",
+    "homeId": 242,
+    "awayId": 228,
+    "homeName": "Famalicao",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-19T19:15:00+00:00",
+    "homeId": 226,
+    "awayId": 240,
+    "homeName": "Rio Ave",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-20T14:30:00+00:00",
+    "homeId": 215,
+    "awayId": 762,
+    "homeName": "Moreirense",
+    "awayName": "GIL Vicente",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-20T17:00:00+00:00",
+    "homeId": 222,
+    "awayId": 15130,
+    "homeName": "Boavista",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-20T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 810,
+    "homeName": "SC Braga",
+    "awayName": "Vizela",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-21T14:30:00+00:00",
+    "homeId": 223,
+    "awayId": 230,
+    "homeName": "Chaves",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-21T14:30:00+00:00",
+    "homeId": 242,
+    "awayId": 216,
+    "homeName": "Famalicao",
+    "awayName": "Portimonense",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-21T17:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 212,
+    "homeName": "Casa Pia",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-21T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 224,
+    "homeName": "Sporting CP",
+    "awayName": "Vitória SC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-22T19:15:00+00:00",
+    "homeId": 231,
+    "awayId": 211,
+    "homeName": "Farense",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-26T19:15:00+00:00",
+    "homeId": 762,
+    "awayId": 240,
+    "homeName": "GIL Vicente",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-27T14:30:00+00:00",
+    "homeId": 810,
+    "awayId": 226,
+    "homeName": "Vizela",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-27T14:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 223,
+    "homeName": "Casa Pia",
+    "awayName": "Chaves",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-27T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 217,
+    "homeName": "Benfica",
+    "awayName": "SC Braga",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-27T19:30:00+00:00",
+    "homeId": 224,
+    "awayId": 222,
+    "homeName": "Vitória SC",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-28T14:30:00+00:00",
+    "homeId": 216,
+    "awayId": 215,
+    "homeName": "Portimonense",
+    "awayName": "Moreirense",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-28T17:00:00+00:00",
+    "homeId": 230,
+    "awayId": 242,
+    "homeName": "Estoril",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-28T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 228,
+    "homeName": "FC Porto",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-29T19:15:00+00:00",
+    "homeId": 15130,
+    "awayId": 231,
+    "homeName": "Estrela",
+    "awayName": "Farense",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-05-03T19:15:00+00:00",
+    "homeId": 215,
+    "awayId": 810,
+    "homeName": "Moreirense",
+    "awayName": "Vizela",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-04T14:30:00+00:00",
+    "homeId": 222,
+    "awayId": 762,
+    "homeName": "Boavista",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-04T14:30:00+00:00",
+    "homeId": 226,
+    "awayId": 224,
+    "homeName": "Rio Ave",
+    "awayName": "Vitória SC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-04T17:00:00+00:00",
+    "homeId": 228,
+    "awayId": 216,
+    "homeName": "Sporting CP",
+    "awayName": "Portimonense",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-04T19:30:00+00:00",
+    "homeId": 223,
+    "awayId": 212,
+    "homeName": "Chaves",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-05-05T14:30:00+00:00",
+    "homeId": 231,
+    "awayId": 230,
+    "homeName": "Farense",
+    "awayName": "Estoril",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-05T17:00:00+00:00",
+    "homeId": 217,
+    "awayId": 4716,
+    "homeName": "SC Braga",
+    "awayName": "Casa Pia",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-05-05T17:00:00+00:00",
+    "homeId": 240,
+    "awayId": 15130,
+    "homeName": "Arouca",
+    "awayName": "Estrela",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-05T19:30:00+00:00",
+    "homeId": 242,
+    "awayId": 211,
+    "homeName": "Famalicao",
+    "awayName": "Benfica",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-10T19:15:00+00:00",
+    "homeId": 223,
+    "awayId": 242,
+    "homeName": "Chaves",
+    "awayName": "Famalicao",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-11T14:30:00+00:00",
+    "homeId": 216,
+    "awayId": 226,
+    "homeName": "Portimonense",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-11T14:30:00+00:00",
+    "homeId": 810,
+    "awayId": 15130,
+    "homeName": "Vizela",
+    "awayName": "Estrela",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-11T17:00:00+00:00",
+    "homeId": 230,
+    "awayId": 228,
+    "homeName": "Estoril",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-11T19:30:00+00:00",
+    "homeId": 224,
+    "awayId": 217,
+    "homeName": "Vitória SC",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-05-12T14:30:00+00:00",
+    "homeId": 762,
+    "awayId": 231,
+    "homeName": "GIL Vicente",
+    "awayName": "Farense",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-12T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 240,
+    "homeName": "Benfica",
+    "awayName": "Arouca",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-12T17:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 215,
+    "homeName": "Casa Pia",
+    "awayName": "Moreirense",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-12T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 222,
+    "homeName": "FC Porto",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-17T17:45:00+00:00",
+    "homeId": 242,
+    "awayId": 4716,
+    "homeName": "Famalicao",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-17T19:45:00+00:00",
+    "homeId": 226,
+    "awayId": 211,
+    "homeName": "Rio Ave",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-18T14:30:00+00:00",
+    "homeId": 222,
+    "awayId": 810,
+    "homeName": "Boavista",
+    "awayName": "Vizela",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-18T14:30:00+00:00",
+    "homeId": 231,
+    "awayId": 216,
+    "homeName": "Farense",
+    "awayName": "Portimonense",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-05-18T14:30:00+00:00",
+    "homeId": 240,
+    "awayId": 224,
+    "homeName": "Arouca",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-05-18T14:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 762,
+    "homeName": "Estrela",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-18T17:00:00+00:00",
+    "homeId": 215,
+    "awayId": 230,
+    "homeName": "Moreirense",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-18T17:00:00+00:00",
+    "homeId": 228,
+    "awayId": 223,
+    "homeName": "Sporting CP",
+    "awayName": "Chaves",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-18T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 212,
+    "homeName": "SC Braga",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-25T18:45:00+00:00",
+    "homeId": 216,
+    "awayId": 21595,
+    "homeName": "Portimonense",
+    "awayName": "AVS",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-06-02T18:45:00+00:00",
+    "homeId": 21595,
+    "awayId": 216,
+    "homeName": "AVS",
+    "awayName": "Portimonense",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-09T19:15:00+00:00",
+    "homeId": 228,
+    "awayId": 226,
+    "homeName": "Sporting CP",
+    "awayName": "Rio Ave",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-10T14:30:00+00:00",
+    "homeId": 21595,
+    "awayId": 225,
+    "homeName": "AVS",
+    "awayName": "Nacional",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-10T17:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 222,
+    "homeName": "Casa Pia",
+    "awayName": "Boavista",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-10T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 762,
+    "homeName": "FC Porto",
+    "awayName": "GIL Vicente",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-11T14:30:00+00:00",
+    "homeId": 230,
+    "awayId": 227,
+    "homeName": "Estoril",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-08-11T17:00:00+00:00",
+    "homeId": 231,
+    "awayId": 215,
+    "homeName": "Farense",
+    "awayName": "Moreirense",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-11T17:00:00+00:00",
+    "homeId": 242,
+    "awayId": 211,
+    "homeName": "Famalicao",
+    "awayName": "Benfica",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-11T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 15130,
+    "homeName": "SC Braga",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-12T19:15:00+00:00",
+    "homeId": 240,
+    "awayId": 224,
+    "homeName": "Arouca",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-16T16:00:00+00:00",
+    "homeId": 227,
+    "awayId": 212,
+    "homeName": "Santa Clara",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-16T19:15:00+00:00",
+    "homeId": 762,
+    "awayId": 21595,
+    "homeName": "GIL Vicente",
+    "awayName": "AVS",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-17T14:30:00+00:00",
+    "homeId": 226,
+    "awayId": 231,
+    "homeName": "Rio Ave",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-17T17:00:00+00:00",
+    "homeId": 225,
+    "awayId": 228,
+    "homeName": "Nacional",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "date": "2024-08-17T19:30:00+00:00",
+    "homeId": 211,
+    "awayId": 4716,
+    "homeName": "Benfica",
+    "awayName": "Casa Pia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-18T14:30:00+00:00",
+    "homeId": 215,
+    "awayId": 240,
+    "homeName": "Moreirense",
+    "awayName": "Arouca",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-18T17:00:00+00:00",
+    "homeId": 224,
+    "awayId": 230,
+    "homeName": "Vitória SC",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-18T19:30:00+00:00",
+    "homeId": 222,
+    "awayId": 217,
+    "homeName": "Boavista",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-19T19:15:00+00:00",
+    "homeId": 15130,
+    "awayId": 242,
+    "homeName": "Estrela",
+    "awayName": "Famalicao",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-23T19:15:00+00:00",
+    "homeId": 231,
+    "awayId": 228,
+    "homeName": "Farense",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-08-24T14:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 227,
+    "homeName": "Casa Pia",
+    "awayName": "Santa Clara",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-24T17:00:00+00:00",
+    "homeId": 212,
+    "awayId": 226,
+    "homeName": "FC Porto",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-24T19:30:00+00:00",
+    "homeId": 211,
+    "awayId": 15130,
+    "homeName": "Benfica",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-24T19:30:00+00:00",
+    "homeId": 242,
+    "awayId": 222,
+    "homeName": "Famalicao",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-25T14:30:00+00:00",
+    "homeId": 240,
+    "awayId": 225,
+    "homeName": "Arouca",
+    "awayName": "Nacional",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-25T17:00:00+00:00",
+    "homeId": 230,
+    "awayId": 762,
+    "homeName": "Estoril",
+    "awayName": "GIL Vicente",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-25T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 215,
+    "homeName": "SC Braga",
+    "awayName": "Moreirense",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-25T19:30:00+00:00",
+    "homeId": 21595,
+    "awayId": 224,
+    "homeName": "AVS",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-30T19:15:00+00:00",
+    "homeId": 215,
+    "awayId": 211,
+    "homeName": "Moreirense",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-31T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 21595,
+    "homeName": "Santa Clara",
+    "awayName": "AVS",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-31T17:00:00+00:00",
+    "homeId": 222,
+    "awayId": 230,
+    "homeName": "Boavista",
+    "awayName": "Estoril",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-31T17:00:00+00:00",
+    "homeId": 15130,
+    "awayId": 4716,
+    "homeName": "Estrela",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-31T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 212,
+    "homeName": "Sporting CP",
+    "awayName": "FC Porto",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-01T14:30:00+00:00",
+    "homeId": 225,
+    "awayId": 231,
+    "homeName": "Nacional",
+    "awayName": "Farense",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-01T17:00:00+00:00",
+    "homeId": 226,
+    "awayId": 240,
+    "homeName": "Rio Ave",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-01T19:30:00+00:00",
+    "homeId": 224,
+    "awayId": 242,
+    "homeName": "Vitória SC",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-01T19:30:00+00:00",
+    "homeId": 762,
+    "awayId": 217,
+    "homeName": "GIL Vicente",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-13T19:15:00+00:00",
+    "homeId": 240,
+    "awayId": 228,
+    "homeName": "Arouca",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-14T14:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 215,
+    "homeName": "Casa Pia",
+    "awayName": "Moreirense",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-14T17:00:00+00:00",
+    "homeId": 21595,
+    "awayId": 226,
+    "homeName": "AVS",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-14T19:30:00+00:00",
+    "homeId": 211,
+    "awayId": 227,
+    "homeName": "Benfica",
+    "awayName": "Santa Clara",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-14T19:30:00+00:00",
+    "homeId": 242,
+    "awayId": 762,
+    "homeName": "Famalicao",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-15T14:30:00+00:00",
+    "homeId": 212,
+    "awayId": 231,
+    "homeName": "FC Porto",
+    "awayName": "Farense",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-15T17:00:00+00:00",
+    "homeId": 230,
+    "awayId": 225,
+    "homeName": "Estoril",
+    "awayName": "Nacional",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-15T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 224,
+    "homeName": "SC Braga",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-16T19:15:00+00:00",
+    "homeId": 15130,
+    "awayId": 222,
+    "homeName": "Estrela",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-20T19:15:00+00:00",
+    "homeId": 225,
+    "awayId": 217,
+    "homeName": "Nacional",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-21T14:30:00+00:00",
+    "homeId": 226,
+    "awayId": 230,
+    "homeName": "Rio Ave",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-21T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 15130,
+    "homeName": "Santa Clara",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-21T17:00:00+00:00",
+    "homeId": 224,
+    "awayId": 212,
+    "homeName": "Vitória SC",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-21T19:30:00+00:00",
+    "homeId": 215,
+    "awayId": 242,
+    "homeName": "Moreirense",
+    "awayName": "Famalicao",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-22T14:30:00+00:00",
+    "homeId": 762,
+    "awayId": 4716,
+    "homeName": "GIL Vicente",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-22T17:00:00+00:00",
+    "homeId": 231,
+    "awayId": 240,
+    "homeName": "Farense",
+    "awayName": "Arouca",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-22T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 21595,
+    "homeName": "Sporting CP",
+    "awayName": "AVS",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-23T19:15:00+00:00",
+    "homeId": 222,
+    "awayId": 211,
+    "homeName": "Boavista",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-27T19:15:00+00:00",
+    "homeId": 230,
+    "awayId": 228,
+    "homeName": "Estoril",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-28T14:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 215,
+    "homeName": "Estrela",
+    "awayName": "Moreirense",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-28T17:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 224,
+    "homeName": "Casa Pia",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-28T19:30:00+00:00",
+    "homeId": 211,
+    "awayId": 762,
+    "homeName": "Benfica",
+    "awayName": "GIL Vicente",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-29T14:30:00+00:00",
+    "homeId": 242,
+    "awayId": 225,
+    "homeName": "Famalicao",
+    "awayName": "Nacional",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-29T17:00:00+00:00",
+    "homeId": 212,
+    "awayId": 240,
+    "homeName": "FC Porto",
+    "awayName": "Arouca",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-29T19:30:00+00:00",
+    "homeId": 217,
+    "awayId": 226,
+    "homeName": "SC Braga",
+    "awayName": "Rio Ave",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-29T19:30:00+00:00",
+    "homeId": 227,
+    "awayId": 222,
+    "homeName": "Santa Clara",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-30T19:15:00+00:00",
+    "homeId": 21595,
+    "awayId": 231,
+    "homeName": "AVS",
+    "awayName": "Farense",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-04T19:15:00+00:00",
+    "homeId": 226,
+    "awayId": 242,
+    "homeName": "Rio Ave",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-05T14:30:00+00:00",
+    "homeId": 215,
+    "awayId": 227,
+    "homeName": "Moreirense",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-05T14:30:00+00:00",
+    "homeId": 762,
+    "awayId": 15130,
+    "homeName": "GIL Vicente",
+    "awayName": "Estrela",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-05T17:00:00+00:00",
+    "homeId": 240,
+    "awayId": 21595,
+    "homeName": "Arouca",
+    "awayName": "AVS",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-05T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 4716,
+    "homeName": "Sporting CP",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-06T14:30:00+00:00",
+    "homeId": 224,
+    "awayId": 222,
+    "homeName": "Vitória SC",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-06T14:30:00+00:00",
+    "homeId": 231,
+    "awayId": 230,
+    "homeName": "Farense",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-06T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 217,
+    "homeName": "FC Porto",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-25T17:45:00+00:00",
+    "homeId": 4716,
+    "awayId": 225,
+    "homeName": "Casa Pia",
+    "awayName": "Nacional",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-25T19:45:00+00:00",
+    "homeId": 227,
+    "awayId": 762,
+    "homeName": "Santa Clara",
+    "awayName": "GIL Vicente",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-26T14:30:00+00:00",
+    "homeId": 230,
+    "awayId": 240,
+    "homeName": "Estoril",
+    "awayName": "Arouca",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-26T17:00:00+00:00",
+    "homeId": 222,
+    "awayId": 215,
+    "homeName": "Boavista",
+    "awayName": "Moreirense",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-26T19:30:00+00:00",
+    "homeId": 242,
+    "awayId": 228,
+    "homeName": "Famalicao",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-27T15:30:00+00:00",
+    "homeId": 217,
+    "awayId": 231,
+    "homeName": "SC Braga",
+    "awayName": "Farense",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-27T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 226,
+    "homeName": "Benfica",
+    "awayName": "Rio Ave",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-27T20:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 224,
+    "homeName": "Estrela",
+    "awayName": "Vitória SC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-28T20:15:00+00:00",
+    "homeId": 21595,
+    "awayId": 212,
+    "homeName": "AVS",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-11-01T20:15:00+00:00",
+    "homeId": 228,
+    "awayId": 15130,
+    "homeName": "Sporting CP",
+    "awayName": "Estrela",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-02T15:30:00+00:00",
+    "homeId": 226,
+    "awayId": 4716,
+    "homeName": "Rio Ave",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-02T18:00:00+00:00",
+    "homeId": 231,
+    "awayId": 211,
+    "homeName": "Farense",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-02T20:30:00+00:00",
+    "homeId": 762,
+    "awayId": 222,
+    "homeName": "GIL Vicente",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-03T15:30:00+00:00",
+    "homeId": 21595,
+    "awayId": 242,
+    "homeName": "AVS",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-03T18:00:00+00:00",
+    "homeId": 224,
+    "awayId": 215,
+    "homeName": "Vitória SC",
+    "awayName": "Moreirense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-03T18:00:00+00:00",
+    "homeId": 240,
+    "awayId": 217,
+    "homeName": "Arouca",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-03T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 230,
+    "homeName": "FC Porto",
+    "awayName": "Estoril",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-04T20:15:00+00:00",
+    "homeId": 225,
+    "awayId": 227,
+    "homeName": "Nacional",
+    "awayName": "Santa Clara",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-08T20:15:00+00:00",
+    "homeId": 215,
+    "awayId": 762,
+    "homeName": "Moreirense",
+    "awayName": "GIL Vicente",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-09T15:30:00+00:00",
+    "homeId": 230,
+    "awayId": 21595,
+    "homeName": "Estoril",
+    "awayName": "AVS",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-09T15:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 231,
+    "homeName": "Casa Pia",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-09T18:00:00+00:00",
+    "homeId": 242,
+    "awayId": 240,
+    "homeName": "Famalicao",
+    "awayName": "Arouca",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-09T20:30:00+00:00",
+    "homeId": 222,
+    "awayId": 226,
+    "homeName": "Boavista",
+    "awayName": "Rio Ave",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-10T15:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 225,
+    "homeName": "Estrela",
+    "awayName": "Nacional",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-10T16:30:00+00:00",
+    "homeId": 227,
+    "awayId": 224,
+    "homeName": "Santa Clara",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-10T18:45:00+00:00",
+    "homeId": 217,
+    "awayId": 228,
+    "homeName": "SC Braga",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-11-10T20:45:00+00:00",
+    "homeId": 211,
+    "awayId": 212,
+    "homeName": "Benfica",
+    "awayName": "FC Porto",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-29T20:15:00+00:00",
+    "homeId": 231,
+    "awayId": 15130,
+    "homeName": "Farense",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-30T15:30:00+00:00",
+    "homeId": 226,
+    "awayId": 215,
+    "homeName": "Rio Ave",
+    "awayName": "Moreirense",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-30T18:00:00+00:00",
+    "homeId": 225,
+    "awayId": 222,
+    "homeName": "Nacional",
+    "awayName": "Boavista",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-30T20:30:00+00:00",
+    "homeId": 228,
+    "awayId": 227,
+    "homeName": "Sporting CP",
+    "awayName": "Santa Clara",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-01T15:30:00+00:00",
+    "homeId": 230,
+    "awayId": 242,
+    "homeName": "Estoril",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-01T18:00:00+00:00",
+    "homeId": 240,
+    "awayId": 211,
+    "homeName": "Arouca",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-01T20:30:00+00:00",
+    "homeId": 21595,
+    "awayId": 217,
+    "homeName": "AVS",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-02T18:45:00+00:00",
+    "homeId": 224,
+    "awayId": 762,
+    "homeName": "Vitória SC",
+    "awayName": "GIL Vicente",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-02T20:45:00+00:00",
+    "homeId": 212,
+    "awayId": 4716,
+    "homeName": "FC Porto",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-05T20:15:00+00:00",
+    "homeId": 215,
+    "awayId": 228,
+    "homeName": "Moreirense",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-06T20:15:00+00:00",
+    "homeId": 217,
+    "awayId": 230,
+    "homeName": "SC Braga",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-07T15:30:00+00:00",
+    "homeId": 762,
+    "awayId": 225,
+    "homeName": "GIL Vicente",
+    "awayName": "Nacional",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-07T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 224,
+    "homeName": "Benfica",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-07T18:00:00+00:00",
+    "homeId": 227,
+    "awayId": 226,
+    "homeName": "Santa Clara",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-07T20:30:00+00:00",
+    "homeId": 242,
+    "awayId": 212,
+    "homeName": "Famalicao",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-08T15:30:00+00:00",
+    "homeId": 222,
+    "awayId": 231,
+    "homeName": "Boavista",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-08T18:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 21595,
+    "homeName": "Casa Pia",
+    "awayName": "AVS",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-09T20:15:00+00:00",
+    "homeId": 15130,
+    "awayId": 240,
+    "homeName": "Estrela",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-14T15:30:00+00:00",
+    "homeId": 231,
+    "awayId": 762,
+    "homeName": "Farense",
+    "awayName": "GIL Vicente",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-14T18:00:00+00:00",
+    "homeId": 225,
+    "awayId": 215,
+    "homeName": "Nacional",
+    "awayName": "Moreirense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-14T20:30:00+00:00",
+    "homeId": 228,
+    "awayId": 222,
+    "homeName": "Sporting CP",
+    "awayName": "Boavista",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-15T15:30:00+00:00",
+    "homeId": 240,
+    "awayId": 227,
+    "homeName": "Arouca",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-15T18:00:00+00:00",
+    "homeId": 21595,
+    "awayId": 211,
+    "homeName": "AVS",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-15T20:30:00+00:00",
+    "homeId": 230,
+    "awayId": 4716,
+    "homeName": "Estoril",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-16T18:45:00+00:00",
+    "homeId": 217,
+    "awayId": 242,
+    "homeName": "SC Braga",
+    "awayName": "Famalicao",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-16T20:15:00+00:00",
+    "homeId": 212,
+    "awayId": 15130,
+    "homeName": "FC Porto",
+    "awayName": "Estrela",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-16T20:45:00+00:00",
+    "homeId": 226,
+    "awayId": 224,
+    "homeName": "Rio Ave",
+    "awayName": "Vitória SC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-19T17:00:00+00:00",
+    "homeId": 225,
+    "awayId": 211,
+    "homeName": "Nacional",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-20T20:15:00+00:00",
+    "homeId": 4716,
+    "awayId": 240,
+    "homeName": "Casa Pia",
+    "awayName": "Arouca",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-21T15:30:00+00:00",
+    "homeId": 242,
+    "awayId": 231,
+    "homeName": "Famalicao",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-21T18:00:00+00:00",
+    "homeId": 222,
+    "awayId": 21595,
+    "homeName": "Boavista",
+    "awayName": "AVS",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-21T20:30:00+00:00",
+    "homeId": 215,
+    "awayId": 212,
+    "homeName": "Moreirense",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-22T17:00:00+00:00",
+    "homeId": 227,
+    "awayId": 217,
+    "homeName": "Santa Clara",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-22T20:30:00+00:00",
+    "homeId": 762,
+    "awayId": 228,
+    "homeName": "GIL Vicente",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-23T18:45:00+00:00",
+    "homeId": 211,
+    "awayId": 230,
+    "homeName": "Benfica",
+    "awayName": "Estoril",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-23T18:45:00+00:00",
+    "homeId": 224,
+    "awayId": 225,
+    "homeName": "Vitória SC",
+    "awayName": "Nacional",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-23T20:45:00+00:00",
+    "homeId": 15130,
+    "awayId": 226,
+    "homeName": "Estrela",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-27T20:15:00+00:00",
+    "homeId": 240,
+    "awayId": 762,
+    "homeName": "Arouca",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-28T15:30:00+00:00",
+    "homeId": 21595,
+    "awayId": 15130,
+    "homeName": "AVS",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-28T18:00:00+00:00",
+    "homeId": 230,
+    "awayId": 215,
+    "homeName": "Estoril",
+    "awayName": "Moreirense",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-28T20:30:00+00:00",
+    "homeId": 212,
+    "awayId": 222,
+    "homeName": "FC Porto",
+    "awayName": "Boavista",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-29T15:30:00+00:00",
+    "homeId": 226,
+    "awayId": 225,
+    "homeName": "Rio Ave",
+    "awayName": "Nacional",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-29T15:30:00+00:00",
+    "homeId": 231,
+    "awayId": 224,
+    "homeName": "Farense",
+    "awayName": "Vitória SC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-29T18:00:00+00:00",
+    "homeId": 217,
+    "awayId": 4716,
+    "homeName": "SC Braga",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-29T20:30:00+00:00",
+    "homeId": 228,
+    "awayId": 211,
+    "homeName": "Sporting CP",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-30T20:15:00+00:00",
+    "homeId": 242,
+    "awayId": 227,
+    "homeName": "Famalicao",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-03T20:15:00+00:00",
+    "homeId": 224,
+    "awayId": 228,
+    "homeName": "Vitória SC",
+    "awayName": "Sporting CP",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-01-04T15:30:00+00:00",
+    "homeId": 215,
+    "awayId": 21595,
+    "homeName": "Moreirense",
+    "awayName": "AVS",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-04T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 217,
+    "homeName": "Benfica",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-04T20:30:00+00:00",
+    "homeId": 222,
+    "awayId": 240,
+    "homeName": "Boavista",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-05T15:30:00+00:00",
+    "homeId": 227,
+    "awayId": 231,
+    "homeName": "Santa Clara",
+    "awayName": "Farense",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-05T18:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 242,
+    "homeName": "Casa Pia",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-05T20:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 230,
+    "homeName": "Estrela",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-01-06T20:15:00+00:00",
+    "homeId": 762,
+    "awayId": 226,
+    "homeName": "GIL Vicente",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-12T15:30:00+00:00",
+    "homeId": 225,
+    "awayId": 212,
+    "homeName": "Nacional",
+    "awayName": "FC Porto",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-17T20:15:00+00:00",
+    "homeId": 211,
+    "awayId": 242,
+    "homeName": "Benfica",
+    "awayName": "Famalicao",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-18T15:30:00+00:00",
+    "homeId": 227,
+    "awayId": 230,
+    "homeName": "Santa Clara",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-18T18:00:00+00:00",
+    "homeId": 226,
+    "awayId": 228,
+    "homeName": "Rio Ave",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-18T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 240,
+    "homeName": "Vitória SC",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-19T15:30:00+00:00",
+    "homeId": 215,
+    "awayId": 231,
+    "homeName": "Moreirense",
+    "awayName": "Farense",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-19T15:30:00+00:00",
+    "homeId": 225,
+    "awayId": 21595,
+    "homeName": "Nacional",
+    "awayName": "AVS",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-19T18:00:00+00:00",
+    "homeId": 15130,
+    "awayId": 217,
+    "homeName": "Estrela",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-19T20:30:00+00:00",
+    "homeId": 762,
+    "awayId": 212,
+    "homeName": "GIL Vicente",
+    "awayName": "FC Porto",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-20T20:15:00+00:00",
+    "homeId": 222,
+    "awayId": 4716,
+    "homeName": "Boavista",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-24T20:15:00+00:00",
+    "homeId": 240,
+    "awayId": 215,
+    "homeName": "Arouca",
+    "awayName": "Moreirense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-25T15:30:00+00:00",
+    "homeId": 231,
+    "awayId": 226,
+    "homeName": "Farense",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-25T15:30:00+00:00",
+    "homeId": 242,
+    "awayId": 15130,
+    "homeName": "Famalicao",
+    "awayName": "Estrela",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-25T18:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 211,
+    "homeName": "Casa Pia",
+    "awayName": "Benfica",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-25T20:30:00+00:00",
+    "homeId": 228,
+    "awayId": 225,
+    "homeName": "Sporting CP",
+    "awayName": "Nacional",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-26T15:30:00+00:00",
+    "homeId": 230,
+    "awayId": 224,
+    "homeName": "Estoril",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-26T18:00:00+00:00",
+    "homeId": 212,
+    "awayId": 227,
+    "homeName": "FC Porto",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-26T20:30:00+00:00",
+    "homeId": 217,
+    "awayId": 222,
+    "homeName": "SC Braga",
+    "awayName": "Boavista",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-27T20:15:00+00:00",
+    "homeId": 21595,
+    "awayId": 762,
+    "homeName": "AVS",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-31T20:15:00+00:00",
+    "homeId": 222,
+    "awayId": 242,
+    "homeName": "Boavista",
+    "awayName": "Famalicao",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-01T15:30:00+00:00",
+    "homeId": 225,
+    "awayId": 240,
+    "homeName": "Nacional",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-01T15:30:00+00:00",
+    "homeId": 227,
+    "awayId": 4716,
+    "homeName": "Santa Clara",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-01T18:00:00+00:00",
+    "homeId": 762,
+    "awayId": 230,
+    "homeName": "GIL Vicente",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-01T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 21595,
+    "homeName": "Vitória SC",
+    "awayName": "AVS",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-02T18:00:00+00:00",
+    "homeId": 228,
+    "awayId": 231,
+    "homeName": "Sporting CP",
+    "awayName": "Farense",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-02T20:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 211,
+    "homeName": "Estrela",
+    "awayName": "Benfica",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-03T18:45:00+00:00",
+    "homeId": 215,
+    "awayId": 217,
+    "homeName": "Moreirense",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-03T20:45:00+00:00",
+    "homeId": 226,
+    "awayId": 212,
+    "homeName": "Rio Ave",
+    "awayName": "FC Porto",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-07T20:15:00+00:00",
+    "homeId": 212,
+    "awayId": 228,
+    "homeName": "FC Porto",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-08T15:30:00+00:00",
+    "homeId": 21595,
+    "awayId": 227,
+    "homeName": "AVS",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-08T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 215,
+    "homeName": "Benfica",
+    "awayName": "Moreirense",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-08T20:30:00+00:00",
+    "homeId": 242,
+    "awayId": 224,
+    "homeName": "Famalicao",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-09T15:30:00+00:00",
+    "homeId": 230,
+    "awayId": 222,
+    "homeName": "Estoril",
+    "awayName": "Boavista",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-09T15:30:00+00:00",
+    "homeId": 231,
+    "awayId": 225,
+    "homeName": "Farense",
+    "awayName": "Nacional",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-09T18:00:00+00:00",
+    "homeId": 217,
+    "awayId": 762,
+    "homeName": "SC Braga",
+    "awayName": "GIL Vicente",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-09T20:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 15130,
+    "homeName": "Casa Pia",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-10T20:15:00+00:00",
+    "homeId": 240,
+    "awayId": 226,
+    "homeName": "Arouca",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-14T20:15:00+00:00",
+    "homeId": 222,
+    "awayId": 15130,
+    "homeName": "Boavista",
+    "awayName": "Estrela",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-15T15:30:00+00:00",
+    "homeId": 215,
+    "awayId": 4716,
+    "homeName": "Moreirense",
+    "awayName": "Casa Pia",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-15T17:00:00+00:00",
+    "homeId": 225,
+    "awayId": 230,
+    "homeName": "Nacional",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-15T18:00:00+00:00",
+    "homeId": 227,
+    "awayId": 211,
+    "homeName": "Santa Clara",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-15T20:30:00+00:00",
+    "homeId": 228,
+    "awayId": 240,
+    "homeName": "Sporting CP",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-16T15:30:00+00:00",
+    "homeId": 226,
+    "awayId": 21595,
+    "homeName": "Rio Ave",
+    "awayName": "AVS",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-16T18:00:00+00:00",
+    "homeId": 231,
+    "awayId": 212,
+    "homeName": "Farense",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-16T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 217,
+    "homeName": "Vitória SC",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-17T20:15:00+00:00",
+    "homeId": 762,
+    "awayId": 242,
+    "homeName": "GIL Vicente",
+    "awayName": "Famalicao",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-21T20:15:00+00:00",
+    "homeId": 217,
+    "awayId": 225,
+    "homeName": "SC Braga",
+    "awayName": "Nacional",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-22T15:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 762,
+    "homeName": "Casa Pia",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-22T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 222,
+    "homeName": "Benfica",
+    "awayName": "Boavista",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-22T20:30:00+00:00",
+    "homeId": 230,
+    "awayId": 226,
+    "homeName": "Estoril",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-23T15:30:00+00:00",
+    "homeId": 240,
+    "awayId": 231,
+    "homeName": "Arouca",
+    "awayName": "Farense",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-23T15:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 227,
+    "homeName": "Estrela",
+    "awayName": "Santa Clara",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-23T18:00:00+00:00",
+    "homeId": 21595,
+    "awayId": 228,
+    "homeName": "AVS",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-23T20:30:00+00:00",
+    "homeId": 242,
+    "awayId": 215,
+    "homeName": "Famalicao",
+    "awayName": "Moreirense",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-24T20:15:00+00:00",
+    "homeId": 212,
+    "awayId": 224,
+    "homeName": "FC Porto",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-01T15:30:00+00:00",
+    "homeId": 225,
+    "awayId": 242,
+    "homeName": "Nacional",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-01T18:00:00+00:00",
+    "homeId": 240,
+    "awayId": 212,
+    "homeName": "Arouca",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-01T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 4716,
+    "homeName": "Vitória SC",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-02T15:30:00+00:00",
+    "homeId": 215,
+    "awayId": 15130,
+    "homeName": "Moreirense",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-02T15:30:00+00:00",
+    "homeId": 222,
+    "awayId": 227,
+    "homeName": "Boavista",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-02T18:00:00+00:00",
+    "homeId": 231,
+    "awayId": 21595,
+    "homeName": "Farense",
+    "awayName": "AVS",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-02T20:30:00+00:00",
+    "homeId": 226,
+    "awayId": 217,
+    "homeName": "Rio Ave",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-03T20:15:00+00:00",
+    "homeId": 228,
+    "awayId": 230,
+    "homeName": "Sporting CP",
+    "awayName": "Estoril",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-07T20:15:00+00:00",
+    "homeId": 15130,
+    "awayId": 762,
+    "homeName": "Estrela",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-08T15:30:00+00:00",
+    "homeId": 21595,
+    "awayId": 240,
+    "homeName": "AVS",
+    "awayName": "Arouca",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-08T18:00:00+00:00",
+    "homeId": 211,
+    "awayId": 225,
+    "homeName": "Benfica",
+    "awayName": "Nacional",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-08T18:00:00+00:00",
+    "homeId": 230,
+    "awayId": 231,
+    "homeName": "Estoril",
+    "awayName": "Farense",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-08T20:30:00+00:00",
+    "homeId": 217,
+    "awayId": 212,
+    "homeName": "SC Braga",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-09T15:30:00+00:00",
+    "homeId": 227,
+    "awayId": 215,
+    "homeName": "Santa Clara",
+    "awayName": "Moreirense",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-09T18:00:00+00:00",
+    "homeId": 4716,
+    "awayId": 228,
+    "homeName": "Casa Pia",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-09T20:30:00+00:00",
+    "homeId": 222,
+    "awayId": 224,
+    "homeName": "Boavista",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-10T20:15:00+00:00",
+    "homeId": 242,
+    "awayId": 226,
+    "homeName": "Famalicao",
+    "awayName": "Rio Ave",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-15T15:30:00+00:00",
+    "homeId": 231,
+    "awayId": 217,
+    "homeName": "Farense",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-15T15:30:00+00:00",
+    "homeId": 762,
+    "awayId": 227,
+    "homeName": "GIL Vicente",
+    "awayName": "Santa Clara",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-15T18:00:00+00:00",
+    "homeId": 212,
+    "awayId": 21595,
+    "homeName": "FC Porto",
+    "awayName": "AVS",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-15T20:30:00+00:00",
+    "homeId": 228,
+    "awayId": 242,
+    "homeName": "Sporting CP",
+    "awayName": "Famalicao",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-16T15:30:00+00:00",
+    "homeId": 225,
+    "awayId": 4716,
+    "homeName": "Nacional",
+    "awayName": "Casa Pia",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-16T15:30:00+00:00",
+    "homeId": 240,
+    "awayId": 230,
+    "homeName": "Arouca",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-16T18:00:00+00:00",
+    "homeId": 226,
+    "awayId": 211,
+    "homeName": "Rio Ave",
+    "awayName": "Benfica",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-16T20:30:00+00:00",
+    "homeId": 215,
+    "awayId": 222,
+    "homeName": "Moreirense",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-16T20:30:00+00:00",
+    "homeId": 224,
+    "awayId": 15130,
+    "homeName": "Vitória SC",
+    "awayName": "Estrela",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-28T20:15:00+00:00",
+    "homeId": 762,
+    "awayId": 211,
+    "homeName": "GIL Vicente",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-29T15:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 226,
+    "homeName": "Casa Pia",
+    "awayName": "Rio Ave",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-29T18:00:00+00:00",
+    "homeId": 15130,
+    "awayId": 228,
+    "homeName": "Estrela",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-29T20:30:00+00:00",
+    "homeId": 217,
+    "awayId": 240,
+    "homeName": "SC Braga",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-30T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 225,
+    "homeName": "Santa Clara",
+    "awayName": "Nacional",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-30T14:30:00+00:00",
+    "homeId": 242,
+    "awayId": 21595,
+    "homeName": "Famalicao",
+    "awayName": "AVS",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-30T17:00:00+00:00",
+    "homeId": 230,
+    "awayId": 212,
+    "homeName": "Estoril",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-30T19:30:00+00:00",
+    "homeId": 215,
+    "awayId": 224,
+    "homeName": "Moreirense",
+    "awayName": "Vitória SC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-01T19:15:00+00:00",
+    "homeId": 222,
+    "awayId": 762,
+    "homeName": "Boavista",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-02T19:15:00+00:00",
+    "homeId": 211,
+    "awayId": 231,
+    "homeName": "Benfica",
+    "awayName": "Farense",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-04T19:15:00+00:00",
+    "homeId": 21595,
+    "awayId": 230,
+    "homeName": "AVS",
+    "awayName": "Estoril",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-05T17:00:00+00:00",
+    "homeId": 240,
+    "awayId": 242,
+    "homeName": "Arouca",
+    "awayName": "Famalicao",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-05T19:30:00+00:00",
+    "homeId": 224,
+    "awayId": 227,
+    "homeName": "Vitória SC",
+    "awayName": "Santa Clara",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-06T14:30:00+00:00",
+    "homeId": 762,
+    "awayId": 215,
+    "homeName": "GIL Vicente",
+    "awayName": "Moreirense",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-06T17:00:00+00:00",
+    "homeId": 225,
+    "awayId": 15130,
+    "homeName": "Nacional",
+    "awayName": "Estrela",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-06T19:30:00+00:00",
+    "homeId": 212,
+    "awayId": 211,
+    "homeName": "FC Porto",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-04-07T17:45:00+00:00",
+    "homeId": 231,
+    "awayId": 4716,
+    "homeName": "Farense",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-07T19:15:00+00:00",
+    "homeId": 226,
+    "awayId": 222,
+    "homeName": "Rio Ave",
+    "awayName": "Boavista",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-07T19:45:00+00:00",
+    "homeId": 228,
+    "awayId": 217,
+    "homeName": "Sporting CP",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-11T19:15:00+00:00",
+    "homeId": 762,
+    "awayId": 224,
+    "homeName": "GIL Vicente",
+    "awayName": "Vitória SC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-12T14:30:00+00:00",
+    "homeId": 222,
+    "awayId": 225,
+    "homeName": "Boavista",
+    "awayName": "Nacional",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-12T14:30:00+00:00",
+    "homeId": 242,
+    "awayId": 230,
+    "homeName": "Famalicao",
+    "awayName": "Estoril",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-12T17:00:00+00:00",
+    "homeId": 227,
+    "awayId": 228,
+    "homeName": "Santa Clara",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-12T19:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 212,
+    "homeName": "Casa Pia",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-13T14:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 231,
+    "homeName": "Estrela",
+    "awayName": "Farense",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-13T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 240,
+    "homeName": "Benfica",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-13T17:00:00+00:00",
+    "homeId": 217,
+    "awayId": 21595,
+    "homeName": "SC Braga",
+    "awayName": "AVS",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-13T19:30:00+00:00",
+    "homeId": 215,
+    "awayId": 226,
+    "homeName": "Moreirense",
+    "awayName": "Rio Ave",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-18T14:30:00+00:00",
+    "homeId": 226,
+    "awayId": 227,
+    "homeName": "Rio Ave",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-18T14:30:00+00:00",
+    "homeId": 231,
+    "awayId": 222,
+    "homeName": "Farense",
+    "awayName": "Boavista",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-18T17:00:00+00:00",
+    "homeId": 212,
+    "awayId": 242,
+    "homeName": "FC Porto",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-18T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 215,
+    "homeName": "Sporting CP",
+    "awayName": "Moreirense",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-19T14:30:00+00:00",
+    "homeId": 225,
+    "awayId": 762,
+    "homeName": "Nacional",
+    "awayName": "GIL Vicente",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-19T14:30:00+00:00",
+    "homeId": 21595,
+    "awayId": 4716,
+    "homeName": "AVS",
+    "awayName": "Casa Pia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-19T17:00:00+00:00",
+    "homeId": 230,
+    "awayId": 217,
+    "homeName": "Estoril",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-19T17:00:00+00:00",
+    "homeId": 240,
+    "awayId": 15130,
+    "homeName": "Arouca",
+    "awayName": "Estrela",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-19T19:30:00+00:00",
+    "homeId": 224,
+    "awayId": 211,
+    "homeName": "Vitória SC",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-25T19:30:00+00:00",
+    "homeId": 242,
+    "awayId": 217,
+    "homeName": "Famalicao",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-26T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 240,
+    "homeName": "Santa Clara",
+    "awayName": "Arouca",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-26T17:00:00+00:00",
+    "homeId": 762,
+    "awayId": 231,
+    "homeName": "GIL Vicente",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-26T19:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 212,
+    "homeName": "Estrela",
+    "awayName": "FC Porto",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-27T14:30:00+00:00",
+    "homeId": 215,
+    "awayId": 225,
+    "homeName": "Moreirense",
+    "awayName": "Nacional",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-27T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 21595,
+    "homeName": "Benfica",
+    "awayName": "AVS",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-27T17:00:00+00:00",
+    "homeId": 224,
+    "awayId": 226,
+    "homeName": "Vitória SC",
+    "awayName": "Rio Ave",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-27T19:30:00+00:00",
+    "homeId": 222,
+    "awayId": 228,
+    "homeName": "Boavista",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2025-04-29T19:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 230,
+    "homeName": "Casa Pia",
+    "awayName": "Estoril",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-02T19:15:00+00:00",
+    "homeId": 212,
+    "awayId": 215,
+    "homeName": "FC Porto",
+    "awayName": "Moreirense",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-03T14:30:00+00:00",
+    "homeId": 225,
+    "awayId": 224,
+    "homeName": "Nacional",
+    "awayName": "Vitória SC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-03T14:30:00+00:00",
+    "homeId": 231,
+    "awayId": 242,
+    "homeName": "Farense",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-03T17:00:00+00:00",
+    "homeId": 217,
+    "awayId": 227,
+    "homeName": "SC Braga",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-03T19:30:00+00:00",
+    "homeId": 230,
+    "awayId": 211,
+    "homeName": "Estoril",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-04T17:00:00+00:00",
+    "homeId": 240,
+    "awayId": 4716,
+    "homeName": "Arouca",
+    "awayName": "Casa Pia",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-04T19:30:00+00:00",
+    "homeId": 228,
+    "awayId": 762,
+    "homeName": "Sporting CP",
+    "awayName": "GIL Vicente",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-05T18:30:00+00:00",
+    "homeId": 226,
+    "awayId": 15130,
+    "homeName": "Rio Ave",
+    "awayName": "Estrela",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-05T19:15:00+00:00",
+    "homeId": 21595,
+    "awayId": 222,
+    "homeName": "AVS",
+    "awayName": "Boavista",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-10T14:30:00+00:00",
+    "homeId": 225,
+    "awayId": 226,
+    "homeName": "Nacional",
+    "awayName": "Rio Ave",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-10T14:30:00+00:00",
+    "homeId": 227,
+    "awayId": 242,
+    "homeName": "Santa Clara",
+    "awayName": "Famalicao",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-10T17:00:00+00:00",
+    "homeId": 211,
+    "awayId": 228,
+    "homeName": "Benfica",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-10T19:30:00+00:00",
+    "homeId": 762,
+    "awayId": 240,
+    "homeName": "GIL Vicente",
+    "awayName": "Arouca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-10T19:30:00+00:00",
+    "homeId": 4716,
+    "awayId": 217,
+    "homeName": "Casa Pia",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-11T14:30:00+00:00",
+    "homeId": 15130,
+    "awayId": 21595,
+    "homeName": "Estrela",
+    "awayName": "AVS",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-11T17:00:00+00:00",
+    "homeId": 215,
+    "awayId": 230,
+    "homeName": "Moreirense",
+    "awayName": "Estoril",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-11T17:00:00+00:00",
+    "homeId": 224,
+    "awayId": 231,
+    "homeName": "Vitória SC",
+    "awayName": "Farense",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-11T19:30:00+00:00",
+    "homeId": 222,
+    "awayId": 212,
+    "homeName": "Boavista",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-16T18:00:00+00:00",
+    "homeId": 226,
+    "awayId": 762,
+    "homeName": "Rio Ave",
+    "awayName": "GIL Vicente",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-16T18:00:00+00:00",
+    "homeId": 242,
+    "awayId": 4716,
+    "homeName": "Famalicao",
+    "awayName": "Casa Pia",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-17T17:00:00+00:00",
+    "homeId": 212,
+    "awayId": 225,
+    "homeName": "FC Porto",
+    "awayName": "Nacional",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-17T17:00:00+00:00",
+    "homeId": 217,
+    "awayId": 211,
+    "homeName": "SC Braga",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-17T17:00:00+00:00",
+    "homeId": 228,
+    "awayId": 224,
+    "homeName": "Sporting CP",
+    "awayName": "Vitória SC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-17T17:00:00+00:00",
+    "homeId": 230,
+    "awayId": 15130,
+    "homeName": "Estoril",
+    "awayName": "Estrela",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-17T17:00:00+00:00",
+    "homeId": 231,
+    "awayId": 227,
+    "homeName": "Farense",
+    "awayName": "Santa Clara",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-17T17:00:00+00:00",
+    "homeId": 240,
+    "awayId": 222,
+    "homeName": "Arouca",
+    "awayName": "Boavista",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-17T17:00:00+00:00",
+    "homeId": 21595,
+    "awayId": 215,
+    "homeName": "AVS",
+    "awayName": "Moreirense",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-24T18:45:00+00:00",
+    "homeId": 21595,
+    "awayId": 810,
+    "homeName": "AVS",
+    "awayName": "Vizela",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-06-01T18:45:00+00:00",
+    "homeId": 810,
+    "awayId": 21595,
+    "homeName": "Vizela",
+    "awayName": "AVS",
+    "homeGoals": 2,
+    "awayGoals": 2
+  }
+]

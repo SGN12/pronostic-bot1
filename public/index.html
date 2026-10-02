@@ -1,0 +1,1565 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Pronostic Bot</title>
+
+    <style>
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            min-height: 100vh;
+            color: white;
+            background:
+                radial-gradient(circle at top left, #263cff, transparent 35%),
+                radial-gradient(circle at bottom right, #8b00ff, transparent 35%),
+                #070914;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        header {
+            text-align: center;
+            margin: 30px 0;
+        }
+
+        header h1 {
+            font-size: 38px;
+            letter-spacing: 2px;
+        }
+
+        header p {
+            margin-top: 10px;
+            opacity: 0.7;
+        }
+
+        .glass {
+            background: rgba(255,255,255,0.08);
+            border: 1px solid rgba(255,255,255,0.15);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-radius: 24px;
+            padding: 25px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.35);
+        }
+
+        .teams {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+
+        .search-box {
+            position: relative;
+        }
+
+        input {
+            width: 100%;
+            padding: 15px;
+            border-radius: 14px;
+            border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(0,0,0,0.25);
+            color: white;
+            outline: none;
+            font-size: 16px;
+        }
+
+        input:focus {
+            border-color: #6c7cff;
+        }
+
+        .results {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            z-index: 20;
+            background: #15182a;
+            border-radius: 12px;
+            margin-top: 6px;
+            overflow: hidden;
+            box-shadow: 0 15px 40px rgba(0,0,0,0.5);
+        }
+
+        .team-result {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 12px;
+            cursor: pointer;
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+        }
+
+        .team-result:hover {
+            background: rgba(255,255,255,0.1);
+        }
+
+        .team-result img {
+            width: 38px;
+            height: 38px;
+            object-fit: contain;
+        }
+
+        .team-info {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .team-info small {
+            opacity: 0.55;
+        }
+
+        .selected {
+            margin-top: 12px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 10px;
+            border-radius: 12px;
+            background: rgba(255,255,255,0.06);
+        }
+
+        .selected img {
+            width: 45px;
+            height: 45px;
+            object-fit: contain;
+        }
+
+        button {
+            width: 100%;
+            margin-top: 25px;
+            padding: 17px;
+            border: none;
+            border-radius: 15px;
+            background: linear-gradient(90deg, #536dfe, #9c4dff);
+            color: white;
+            font-size: 17px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.25s;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(100,80,255,0.4);
+        }
+
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        #message {
+            text-align: center;
+            margin-top: 20px;
+            opacity: 0.8;
+        }
+
+        .result {
+            margin-top: 25px;
+            display: none;
+        }
+
+        .prediction {
+            text-align: center;
+            padding: 25px;
+            border-radius: 20px;
+            background: rgba(255,255,255,0.06);
+        }
+
+        .prediction h2 {
+            font-size: 38px;
+            margin: 10px 0;
+        }
+
+        .confidence {
+            font-size: 18px;
+            opacity: 0.8;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+            margin-top: 15px;
+        }
+
+        .stat {
+            text-align: center;
+            padding: 18px 10px;
+            background: rgba(255,255,255,0.06);
+            border-radius: 15px;
+        }
+
+        .stat strong {
+            display: block;
+            font-size: 24px;
+            margin-top: 7px;
+        }
+
+        .extra {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-top: 15px;
+        }
+
+        .extra div {
+            text-align: center;
+            padding: 20px;
+            background: rgba(255,255,255,0.06);
+            border-radius: 15px;
+        }
+
+        .extra strong {
+            display: block;
+            font-size: 25px;
+            margin-top: 7px;
+        }
+
+        .score {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        @media(max-width: 700px) {
+
+            .teams {
+                grid-template-columns: 1fr;
+            }
+
+            .stats {
+                grid-template-columns: 1fr;
+            }
+
+            .extra {
+                grid-template-columns: 1fr;
+            }
+
+            header h1 {
+                font-size: 30px;
+            }
+
+        }
+
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <header>
+        <h1>⚽ PRONOSTIC BOT</h1>
+        <p>Analyse intelligente des matchs</p>
+    </header>
+
+    <div class="glass">
+
+        <div style="margin-bottom:25px;">
+            <label>🏆 Compétition</label>
+
+            <select
+                id="competitionSelect"
+                style="width:100%; padding:14px; border-radius:12px; margin-top:8px; font-size:16px;"
+            >
+                <option value="">Chargement des compétitions...</option>
+            </select>
+        </div>
+
+        <div class="teams">
+
+            <!-- DOMICILE -->
+
+            <div>
+
+                <label>🏠 Équipe à domicile</label>
+
+                <div class="search-box">
+
+                    <input
+                        id="homeInput"
+                        type="text"
+                        placeholder="Ex: Chelsea"
+                        autocomplete="off"
+                    >
+
+                    <div
+                        id="homeResults"
+                        class="results"
+                    ></div>
+
+                </div>
+
+                <div
+                    id="homeSelected"
+                    class="selected"
+                    style="display:none"
+                ></div>
+
+            </div>
+
+
+            <!-- EXTÉRIEUR -->
+
+            <div>
+
+                <label>✈️ Équipe extérieure</label>
+
+                <div class="search-box">
+
+                    <input
+                        id="awayInput"
+                        type="text"
+                        placeholder="Ex: Arsenal"
+                        autocomplete="off"
+                    >
+
+                    <div
+                        id="awayResults"
+                        class="results"
+                    ></div>
+
+                </div>
+
+                <div
+                    id="awaySelected"
+                    class="selected"
+                    style="display:none"
+                ></div>
+
+            </div>
+
+        </div>
+
+
+        <button
+            id="analyseBtn"
+            disabled
+        >
+            🔮 ANALYSER LE MATCH
+        </button>
+
+<button
+    id="prochainBtn"
+    type="button"
+>
+    🔮 VOIR LE PROCHAIN MATCH
+</button>
+
+
+<button
+    id="calendrierBtn"
+    type="button"
+>
+    📅 VOIR LE CALENDRIER
+</button>
+
+<div
+    id="calendrierResult"
+    class="glass"
+    style="display:none; margin-top:25px;"
+></div>
+        <div id="message"></div>
+<div
+    id="prochainResult"
+    class="glass"
+    style="display:none; margin-top:25px;"
+></div>
+    </div>
+
+
+    <!-- RESULTAT -->
+
+    <div
+        id="result"
+        class="glass result"
+    >
+
+        <div class="prediction">
+
+            <div id="matchTitle">
+                Chelsea 🆚 Arsenal
+            </div>
+
+            <h2 id="prediction">
+                -
+            </h2>
+
+            <div class="confidence">
+                Confiance :
+                <strong id="confidence">-</strong>
+            </div>
+
+        </div>
+
+
+        <div class="stats">
+
+            <div class="stat">
+                🏠 Domicile
+                <strong id="homeProb">-</strong>
+            </div>
+
+            <div class="stat">
+                🤝 Nul
+                <strong id="drawProb">-</strong>
+            </div>
+
+            <div class="stat">
+                ✈️ Extérieur
+                <strong id="awayProb">-</strong>
+            </div>
+
+        </div>
+
+
+        <div class="score">
+
+            ⚽ Score probable :
+            <span id="score">-</span>
+
+        </div>
+
+
+        <div class="extra">
+
+            <div>
+                📈 Over 2.5
+                <strong id="over25">-</strong>
+            </div>
+
+            <div>
+                🔄 BTTS
+                <strong id="btts">-</strong>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<script>
+
+let homeTeam = null;
+let awayTeam = null;
+
+
+// ==========================================
+// RECHERCHE EQUIPE
+// ==========================================
+
+async function rechercherEquipe(
+    texte,
+    resultsElement,
+    type
+) {
+
+    if (texte.length < 2) {
+
+        resultsElement.innerHTML = "";
+
+        return;
+    }
+
+    try {
+
+        const response = await fetch(
+            "/api/equipes?search=" +
+            encodeURIComponent(texte)
+        );
+
+        const data = await response.json();
+
+        resultsElement.innerHTML = "";
+
+        if (
+            !data.succes ||
+            !data.equipes ||
+            data.equipes.length === 0
+        ) {
+
+            resultsElement.innerHTML =
+                `<div class="team-result">
+                    Aucune équipe trouvée
+                </div>`;
+
+            return;
+        }
+
+
+        // On privilégie les équipes principales
+        const equipes = data.equipes
+            .filter(equipe =>
+                !/ W$| U21$| U19$| U23$| U18$/i
+                    .test(equipe.nom)
+            )
+            .slice(0, 8);
+
+
+        equipes.forEach(equipe => {
+
+            const div =
+                document.createElement("div");
+
+            div.className = "team-result";
+
+            div.innerHTML = `
+
+                <img
+                    src="${equipe.logo}"
+                    alt=""
+                >
+
+                <div class="team-info">
+
+                    <strong>
+                        ${equipe.nom}
+                    </strong>
+
+                    <small>
+                        ${equipe.pays || ""}
+                    </small>
+
+                </div>
+            `;
+
+
+            div.onclick = () => {
+
+                selectionnerEquipe(
+                    equipe,
+                    type
+                );
+
+                resultsElement.innerHTML = "";
+
+            };
+
+
+            resultsElement.appendChild(div);
+
+        });
+
+    } catch (error) {
+
+        console.error(error);
+
+        resultsElement.innerHTML =
+            `<div class="team-result">
+                Erreur de connexion
+            </div>`;
+    }
+}
+
+
+// ==========================================
+// SELECTION
+// ==========================================
+
+function selectionnerEquipe(
+    equipe,
+    type
+) {
+
+    if (type === "home") {
+
+        homeTeam = equipe;
+
+        homeInput.value =
+            equipe.nom;
+
+        afficherSelection(
+            equipe,
+            homeSelected
+        );
+
+    } else {
+
+        awayTeam = equipe;
+
+        awayInput.value =
+            equipe.nom;
+
+        afficherSelection(
+            equipe,
+            awaySelected
+        );
+
+    }
+
+    verifierBouton();
+}
+
+
+// ==========================================
+// AFFICHER EQUIPE
+// ==========================================
+
+function afficherSelection(
+    equipe,
+    element
+) {
+
+    element.style.display = "flex";
+
+    element.innerHTML = `
+
+        <img
+            src="${equipe.logo}"
+            alt=""
+        >
+
+        <strong>
+            ${equipe.nom}
+        </strong>
+    `;
+}
+
+
+// ==========================================
+// VERIFIER BOUTON
+// ==========================================
+
+function verifierBouton() {
+
+    analyseBtn.disabled =
+        !(homeTeam && awayTeam);
+}
+
+
+// ==========================================
+// INPUT DOMICILE
+// ==========================================
+
+homeInput.addEventListener(
+    "input",
+    () => {
+
+        homeTeam = null;
+
+        homeSelected.style.display =
+            "none";
+
+        rechercherEquipe(
+            homeInput.value.trim(),
+            homeResults,
+            "home"
+        );
+
+        verifierBouton();
+    }
+);
+
+
+// ==========================================
+// INPUT EXTERIEUR
+// ==========================================
+
+awayInput.addEventListener(
+    "input",
+    () => {
+
+        awayTeam = null;
+
+        awaySelected.style.display =
+            "none";
+
+        rechercherEquipe(
+            awayInput.value.trim(),
+            awayResults,
+            "away"
+        );
+
+        verifierBouton();
+    }
+);
+
+
+// ==========================================
+// ANALYSE
+// ==========================================
+
+analyseBtn.addEventListener(
+    "click",
+    async () => {
+
+        if (!homeTeam || !awayTeam) {
+
+            return;
+        }
+
+        analyseBtn.disabled = true;
+
+        analyseBtn.textContent =
+            "⏳ ANALYSE EN COURS...";
+
+        message.textContent =
+            "Analyse des données historiques...";
+
+        result.style.display =
+            "none";
+
+
+        try {
+
+            const competition =
+                document.getElementById(
+                    "competitionSelect"
+                ).value;
+
+            const url =
+                "/api/pronostic?competition=" +
+                encodeURIComponent(
+                    competition
+                ) +
+                "&home=" +
+                encodeURIComponent(
+                    homeTeam.nom
+                ) +
+                "&away=" +
+                encodeURIComponent(
+                    awayTeam.nom
+                );
+
+
+            const response =
+                await fetch(url);
+
+            const data =
+                await response.json();
+
+
+            if (!data.succes) {
+
+                throw new Error(
+                    data.erreur ||
+                    "Erreur inconnue"
+                );
+            }
+
+
+            matchTitle.textContent =
+                homeTeam.nom +
+                " 🆚 " +
+                awayTeam.nom;
+
+
+            prediction.textContent =
+                data.pronostic.prediction;
+
+
+            confidence.textContent =
+                data.pronostic.confiance +
+                "%";
+
+
+            homeProb.textContent =
+                data.pronostic.probabilites
+                    .domicile +
+                "%";
+
+
+            drawProb.textContent =
+                data.pronostic.probabilites
+                    .nul +
+                "%";
+
+
+            awayProb.textContent =
+                data.pronostic.probabilites
+                    .exterieur +
+                "%";
+
+
+            score.textContent =
+                data.pronostic.scoreProbable;
+
+
+            over25.textContent =
+                data.pronostic.over25 +
+                "%";
+
+
+            btts.textContent =
+                data.pronostic.btts +
+                "%";
+
+
+            result.style.display =
+                "block";
+
+            message.textContent =
+                "✅ Analyse terminée";
+
+        } catch (error) {
+
+            console.error(error);
+
+            message.textContent =
+                "❌ " +
+                error.message;
+
+        }
+
+
+        analyseBtn.disabled = false;
+
+        analyseBtn.textContent =
+            "🔮 ANALYSER LE MATCH";
+
+        verifierBouton();
+
+    }
+);
+
+// ==========================================
+// 🔮 PROCHAIN MATCH
+// ==========================================
+
+const prochainBtn =
+    document.getElementById("prochainBtn");
+
+const prochainResult =
+    document.getElementById("prochainResult");
+
+prochainBtn.addEventListener(
+    "click",
+    async () => {
+
+        const equipe =
+            homeTeam || awayTeam;
+
+        if (!equipe) {
+
+            message.textContent =
+                "⚠️ Sélectionne d'abord une équipe.";
+
+            return;
+        }
+
+        prochainBtn.disabled = true;
+
+        prochainBtn.textContent =
+            "⏳ RECHERCHE...";
+
+        prochainResult.style.display =
+            "none";
+
+        message.textContent =
+            "🔎 Recherche du prochain match...";
+
+        try {
+
+            const response = await fetch(
+                "/api/pronostic-prochain?team=" +
+                encodeURIComponent(equipe.nom)
+            );
+
+            const data =
+                await response.json();
+
+            if (!response.ok || !data.succes) {
+
+                throw new Error(
+                    data.erreur ||
+                    "Impossible de trouver le prochain match."
+                );
+            }
+
+            const match =
+                data.match;
+
+            const p =
+                data.pronostic;
+
+            prochainResult.innerHTML = `
+
+                <div class="prediction">
+
+                    <h2>🔮 PROCHAIN MATCH</h2>
+
+                    <p>
+                        ${match.round || ""}
+                    </p>
+
+                    <p style="margin-top:10px;">
+                        📅 ${match.date}
+                        —
+                        🕐 ${match.heure || ""}
+                    </p>
+
+                    <div
+                        style="
+                            display:flex;
+                            justify-content:center;
+                            align-items:center;
+                            gap:20px;
+                            margin:25px 0;
+                            flex-wrap:wrap;
+                        "
+                    >
+
+                        <div style="text-align:center;">
+                            <img
+                                src="${match.domicile.logo}"
+                                style="
+                                    width:65px;
+                                    height:65px;
+                                    object-fit:contain;
+                                "
+                            >
+                            <p>
+                                <strong>
+                                    ${match.domicile.nom}
+                                </strong>
+                            </p>
+                        </div>
+
+                        <strong style="font-size:22px;">
+                            🆚
+                        </strong>
+
+                        <div style="text-align:center;">
+                            <img
+                                src="${match.exterieur.logo}"
+                                style="
+                                    width:65px;
+                                    height:65px;
+                                    object-fit:contain;
+                                "
+                            >
+                            <p>
+                                <strong>
+                                    ${match.exterieur.nom}
+                                </strong>
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <h2>
+                        🎯 ${p.prediction}
+                    </h2>
+
+                    <p class="confidence">
+                        Confiance :
+                        <strong>
+                            ${p.confiance}%
+                        </strong>
+                    </p>
+
+                </div>
+
+                <div class="stats">
+
+                    <div class="stat">
+                        🏠 Domicile
+                        <strong>
+                            ${p.probabilites.domicile}%
+                        </strong>
+                    </div>
+
+                    <div class="stat">
+                        🤝 Nul
+                        <strong>
+                            ${p.probabilites.nul}%
+                        </strong>
+                    </div>
+
+                    <div class="stat">
+                        ✈️ Extérieur
+                        <strong>
+                            ${p.probabilites.exterieur}%
+                        </strong>
+                    </div>
+
+                </div>
+
+                <div class="score">
+
+                    ⚽ Score probable :
+                    <span>
+                        ${p.scoreProbable}
+                    </span>
+
+                </div>
+
+                <div class="extra">
+
+                    <div>
+                        📈 Over 2.5
+                        <strong>
+                            ${p.over25}%
+                        </strong>
+                    </div>
+
+                    <div>
+                        🔄 BTTS
+                        <strong>
+                            ${p.btts}%
+                        </strong>
+                    </div>
+
+                </div>
+
+                <div class="extra">
+
+                    <div>
+                        ⚽ Buts attendus
+                        <strong>
+                            ${p.butsAttendus.domicile}
+                            -
+                            ${p.butsAttendus.exterieur}
+                        </strong>
+                    </div>
+
+                    <div>
+                        🧠 Moteur
+                        <strong>
+                            ${data.moteur.version}
+                        </strong>
+                    </div>
+
+                </div>
+
+                <p
+                    style="
+                        text-align:center;
+                        margin-top:20px;
+                        opacity:.7;
+                    "
+                >
+                    Historique :
+                    ${data.moteur.saisonsHistoriques.join(" / ")}
+                </p>
+            `;
+
+            prochainResult.style.display =
+                "block";
+
+            message.textContent =
+                "✅ Prochain match analysé.";
+
+            prochainResult.scrollIntoView({
+                behavior: "smooth"
+            });
+
+        } catch (error) {
+
+            console.error(error);
+
+            message.textContent =
+                "❌ " + error.message;
+
+        }
+
+        prochainBtn.disabled = false;
+
+        prochainBtn.textContent =
+            "🔮 VOIR LE PROCHAIN MATCH";
+    }
+);
+
+// ==========================================
+// 📅 CALENDRIER DES PROCHAINS MATCHS
+// ==========================================
+
+const calendrierBtn =
+    document.getElementById("calendrierBtn");
+
+const calendrierResult =
+    document.getElementById("calendrierResult");
+
+
+calendrierBtn.addEventListener("click", async () => {
+
+    calendrierBtn.disabled = true;
+    calendrierBtn.textContent = "⏳ CHARGEMENT...";
+
+    calendrierResult.style.display = "block";
+    calendrierResult.innerHTML = `
+        <h2>📅 Chargement du calendrier...</h2>
+        <p>Récupération des prochains matchs.</p>
+    `;
+
+    try {
+
+const competition =
+    document.getElementById("competitionSelect").value;
+
+const response = await fetch(
+    "/api/prochains-matchs?competition=" +
+    encodeURIComponent(competition)
+);
+        const data = await response.json();
+
+        if (!response.ok || !data.succes) {
+            throw new Error(
+                data.erreur || "Impossible de charger le calendrier."
+            );
+        }
+
+        const matchs = data.matchs || [];
+
+        const nomCompetition =
+            data.championnat || "Compétition";
+
+        if (matchs.length === 0) {
+            calendrierResult.innerHTML = `
+                <h2>📅 Aucun match trouvé</h2>
+                <p>Aucun prochain match n'est disponible.</p>
+            `;
+            return;
+        }
+
+        const listeMatchs = matchs.map(match => {
+
+            const date = match.date || "Date inconnue";
+            const heure = match.time || "";
+            const domicile = match.team1 || "Équipe inconnue";
+            const exterieur = match.team2 || "Équipe inconnue";
+            const journee = match.round || "";
+
+            return `
+                <div class="analyse-bloc"
+                    style="
+                        margin-top:15px;
+                        padding:18px;
+                        border-radius:16px;
+                        background:rgba(255,255,255,0.06);
+                        border:1px solid rgba(255,255,255,0.1);
+                    ">
+
+                    <p style="opacity:.7; font-size:14px;">
+                        ${journee}
+                    </p>
+
+                    <p style="margin:8px 0 14px;">
+                        📅 ${date}
+                        ${heure ? " — 🕐 " + heure : ""}
+                    </p>
+
+                    <div style="
+                        display:flex;
+                        justify-content:space-between;
+                        align-items:center;
+                        gap:12px;
+                        font-weight:bold;
+                    ">
+                        <span>${domicile}</span>
+                        <span style="opacity:.6;">VS</span>
+                        <span style="text-align:right;">${exterieur}</span>
+                    </div>
+
+                    <button
+                        onclick="analyserMatch('${domicile.replace(/'/g, "\\'")}', '${exterieur.replace(/'/g, "\\'")}', document.getElementById('competitionSelect').value)"
+                        style="
+                            margin-top:18px;
+                            width:100%;
+                            padding:12px;
+                            border:none;
+                            border-radius:12px;
+                            background:linear-gradient(135deg,#7c3aed,#2563eb);
+                            color:white;
+                            font-weight:bold;
+                            cursor:pointer;
+                        ">
+                        🔮 ANALYSER
+                    </button>
+
+                    <div
+                        class="resultat-analyse"
+                        style="margin-top:12px;">
+                    </div>
+
+                </div>
+            `;
+        }).join("");
+
+        calendrierResult.innerHTML = `
+            <h2>📅 ${data.championnat || "Calendrier"}</h2>
+
+            <p style="margin-top:8px; opacity:.7;">
+                ${matchs.length} prochains matchs affichés
+            </p>
+
+            ${listeMatchs}
+        `;
+
+        calendrierResult.scrollIntoView({
+            behavior: "smooth",
+            block: "start"
+        });
+
+window.analyserMatch = async function(domicile, exterieur, competition) {
+            const blocs = document.querySelectorAll(".analyse-bloc");
+
+            let blocActuel = null;
+
+            blocs.forEach(bloc => {
+                const texte = bloc.innerText;
+
+                if (
+                    texte.includes(domicile) &&
+                    texte.includes(exterieur)
+                ) {
+                    blocActuel = bloc;
+                }
+            });
+
+            if (!blocActuel) return;
+
+            const resultat =
+                blocActuel.querySelector(".resultat-analyse");
+
+            resultat.innerHTML = "⏳ Analyse en cours...";
+
+            try {
+
+                const response = await fetch(
+                    "/api/analyser-match?home=" +
+                    encodeURIComponent(domicile) +
+                    "&away=" +
+                    encodeURIComponent(exterieur)
+                );
+               "&competition=" +
+encodeURIComponent(competition)
+                const data = await response.json();
+
+                if (!response.ok || !data.succes) {
+                    throw new Error(
+                        data.erreur || "Erreur pendant l'analyse."
+                    );
+                }
+
+                const p = data.pronostic;
+
+                resultat.innerHTML = `
+                    <div style="
+                        padding:15px;
+                        border-radius:14px;
+                        background:rgba(0,0,0,.2);
+                        border:1px solid rgba(255,255,255,.1);
+                    ">
+
+                        <h3 style="
+                            margin:0 0 18px;
+                            font-size:20px;
+                        ">
+                            🔮 ANALYSE V25
+                        </h3>
+
+                        <div style="
+                            display:grid;
+                            grid-template-columns:1fr 1fr;
+                            gap:10px;
+                            margin-bottom:18px;
+                        ">
+
+                            <div style="
+                                padding:12px;
+                                border-radius:12px;
+                                background:rgba(124,58,237,.15);
+                            ">
+                                <div style="font-size:12px;opacity:.7;">
+                                    🎯 TENDANCE
+                                </div>
+
+                                <strong style="
+                                    display:block;
+                                    margin-top:5px;
+                                    font-size:18px;
+                                ">
+                                    ${p.prediction === "1"
+                                        ? "Victoire domicile"
+                                        : p.prediction === "2"
+                                        ? "Victoire extérieur"
+                                        : "Match nul"}
+                                </strong>
+                            </div>
+
+                            <div style="
+                                padding:12px;
+                                border-radius:12px;
+                                background:rgba(37,99,235,.15);
+                            ">
+                                <div style="font-size:12px;opacity:.7;">
+                                    📊 CONFIANCE
+                                </div>
+
+                                <strong style="
+                                    display:block;
+                                    margin-top:5px;
+                                    font-size:18px;
+                                ">
+                                    ${p.confiance}%
+                                </strong>
+                            </div>
+
+                        </div>
+
+                        <div style="
+                            padding:15px;
+                            margin-bottom:15px;
+                            border-radius:12px;
+                            text-align:center;
+                            background:rgba(255,255,255,.05);
+                        ">
+
+                            <div style="
+                                font-size:12px;
+                                opacity:.7;
+                                margin-bottom:7px;
+                            ">
+                                ⚽ SCORE EXACT LE PLUS PROBABLE
+                            </div>
+
+                            <strong style="
+                                font-size:30px;
+                                letter-spacing:3px;
+                            ">
+                                ${p.scoreProbable}
+                            </strong>
+
+                        </div>
+
+                        <div style="
+                            display:grid;
+                            grid-template-columns:1fr 1fr 1fr;
+                            gap:8px;
+                            margin-bottom:15px;
+                            text-align:center;
+                        ">
+
+                            <div style="
+                                padding:10px;
+                                border-radius:10px;
+                                background:rgba(34,197,94,.12);
+                            ">
+                                <div style="font-size:11px;opacity:.7;">
+                                    🏠 DOMICILE
+                                </div>
+                                <strong>
+                                    ${p.probabilites.domicile}%
+                                </strong>
+                            </div>
+
+                            <div style="
+                                padding:10px;
+                                border-radius:10px;
+                                background:rgba(234,179,8,.12);
+                            ">
+                                <div style="font-size:11px;opacity:.7;">
+                                    🤝 NUL
+                                </div>
+                                <strong>
+                                    ${p.probabilites.nul}%
+                                </strong>
+                            </div>
+
+                            <div style="
+                                padding:10px;
+                                border-radius:10px;
+                                background:rgba(239,68,68,.12);
+                            ">
+                                <div style="font-size:11px;opacity:.7;">
+                                    ✈️ EXTÉRIEUR
+                                </div>
+                                <strong>
+                                    ${p.probabilites.exterieur}%
+                                </strong>
+                            </div>
+
+                        </div>
+
+                        <div style="
+                            display:grid;
+                            grid-template-columns:1fr 1fr;
+                            gap:10px;
+                        ">
+
+                            <div style="
+                                padding:12px;
+                                border-radius:12px;
+                                background:rgba(255,255,255,.05);
+                            ">
+                                <div style="font-size:12px;opacity:.7;">
+                                    🔥 OVER 2.5
+                                </div>
+                                <strong>
+                                    ${p.over25}%
+                                </strong>
+                            </div>
+
+                            <div style="
+                                padding:12px;
+                                border-radius:12px;
+                                background:rgba(255,255,255,.05);
+                            ">
+                                <div style="font-size:12px;opacity:.7;">
+                                    ⚡ BTTS
+                                </div>
+                                <strong>
+                                    ${p.btts}%
+                                </strong>
+                            </div>
+
+                        </div>
+
+                        <div style="
+                            margin-top:10px;
+                            padding:12px;
+                            border-radius:12px;
+                            background:rgba(255,255,255,.04);
+                        ">
+
+                            <div style="
+                                font-size:12px;
+                                opacity:.7;
+                                margin-bottom:8px;
+                            ">
+                                ⚽ BUTS ATTENDUS
+                            </div>
+
+                            <div style="
+                                display:flex;
+                                justify-content:space-between;
+                            ">
+                                <span>🏠 Domicile</span>
+
+                                <strong>
+                                    ${p.butsAttendus.domicile}
+                                </strong>
+                            </div>
+
+                            <div style="
+                                display:flex;
+                                justify-content:space-between;
+                                margin-top:5px;
+                            ">
+                                <span>✈️ Extérieur</span>
+
+                                <strong>
+                                    ${p.butsAttendus.exterieur}
+                                </strong>
+                            </div>
+
+                        </div>
+
+                    </div>
+                `;
+
+            } catch (error) {
+
+                resultat.innerHTML =
+                    "❌ " + error.message;
+
+            }
+        };
+
+    } catch (error) {
+
+        console.error("Erreur calendrier :", error);
+
+        calendrierResult.innerHTML = `
+            <h2>❌ Erreur</h2>
+            <p>${error.message}</p>
+        `;
+
+    } finally {
+
+        calendrierBtn.disabled = false;
+        calendrierBtn.textContent = "📅 VOIR LE CALENDRIER";
+
+    }
+
+});
+
+</script>
+
+
+<script>
+async function chargerCompetitions() {
+    const select = document.getElementById("competitionSelect");
+
+    try {
+        const response = await fetch("/api/competitions");
+        const competitions = await response.json();
+
+        select.innerHTML = "";
+
+        const drapeaux = {
+            "Angleterre": "🇬🇧",
+            "Espagne": "🇪🇸",
+            "Italie": "🇮🇹",
+            "Allemagne": "🇩🇪",
+            "France": "🇫🇷",
+            "Portugal": "🇵🇹",
+            "Pays-Bas": "🇳🇱",
+            "Belgique": "🇧🇪",
+            "Turquie": "🇹🇷",
+            "Arabie Saoudite": "🇸🇦",
+            "Brésil": "🇧🇷",
+            "Argentine": "🇦🇷",
+            "États-Unis": "🇺🇸",
+            "Europe": "🏆"
+        };
+
+        for (const [id, competition] of Object.entries(competitions)) {
+            const option = document.createElement("option");
+
+            const drapeau =
+                drapeaux[competition.pays] || "⚽";
+
+            option.value = id;
+            option.textContent =
+                `${drapeau} ${competition.nom}`;
+
+            select.appendChild(option);
+        }
+
+        console.log(
+            `✅ ${Object.keys(competitions).length} compétitions chargées`
+        );
+
+    } catch (error) {
+        console.error(
+            "❌ Erreur chargement compétitions :",
+            error
+        );
+
+        select.innerHTML =
+            '<option value="">Erreur de chargement</option>';
+    }
+}
+
+chargerCompetitions();
+</script>
+
+</body>
+</html>

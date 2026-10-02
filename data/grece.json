@@ -1,0 +1,7162 @@
+[
+  {
+    "id": 923700,
+    "date": "2022-08-19T18:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 955,
+    "homeName": "Volos NFC",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 923699,
+    "date": "2022-08-20T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 1124,
+    "homeName": "Atromitos",
+    "awayName": "OFI",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 923704,
+    "date": "2022-08-20T18:30:00.000Z",
+    "homeId": 956,
+    "awayId": 575,
+    "homeName": "Lamia",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 923703,
+    "date": "2022-08-20T18:45:00.000Z",
+    "homeId": 619,
+    "awayId": 949,
+    "homeName": "PAOK",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923702,
+    "date": "2022-08-21T17:00:00.000Z",
+    "homeId": 617,
+    "awayId": 7513,
+    "homeName": "Panathinaikos",
+    "awayName": "Ionikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923698,
+    "date": "2022-08-21T17:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 957,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Levadiakos",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 923701,
+    "date": "2022-08-21T19:00:00.000Z",
+    "homeId": 553,
+    "awayId": 950,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923707,
+    "date": "2022-08-26T18:30:00.000Z",
+    "homeId": 7513,
+    "awayId": 957,
+    "homeName": "Ionikos",
+    "awayName": "Levadiakos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923711,
+    "date": "2022-08-27T17:00:00.000Z",
+    "homeId": 950,
+    "awayId": 956,
+    "homeName": "PAS Giannina",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923705,
+    "date": "2022-08-27T18:30:00.000Z",
+    "homeId": 575,
+    "awayId": 2110,
+    "homeName": "AEK Athens FC",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 923709,
+    "date": "2022-08-28T16:00:00.000Z",
+    "homeId": 949,
+    "awayId": 1123,
+    "homeName": "Panetolikos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 923708,
+    "date": "2022-08-28T18:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 617,
+    "homeName": "OFI",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923710,
+    "date": "2022-08-28T18:45:00.000Z",
+    "homeId": 619,
+    "awayId": 12260,
+    "homeName": "PAOK",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923706,
+    "date": "2022-08-29T16:00:00.000Z",
+    "homeId": 955,
+    "awayId": 553,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923718,
+    "date": "2022-09-03T14:45:00.000Z",
+    "homeId": 956,
+    "awayId": 955,
+    "homeName": "Lamia",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923717,
+    "date": "2022-09-03T16:00:00.000Z",
+    "homeId": 553,
+    "awayId": 7513,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Ionikos",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 923806,
+    "date": "2022-09-03T17:30:00.000Z",
+    "homeId": 617,
+    "awayId": 957,
+    "homeName": "Panathinaikos",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923714,
+    "date": "2022-09-04T15:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 949,
+    "homeName": "Atromitos",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923715,
+    "date": "2022-09-04T16:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 1124,
+    "homeName": "Volos NFC",
+    "awayName": "OFI",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 923712,
+    "date": "2022-09-04T18:30:00.000Z",
+    "homeId": 575,
+    "awayId": 950,
+    "homeName": "AEK Athens FC",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923713,
+    "date": "2022-09-04T18:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 619,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923722,
+    "date": "2022-09-10T15:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 949,
+    "homeName": "OFI",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 923725,
+    "date": "2022-09-10T16:15:00.000Z",
+    "homeId": 950,
+    "awayId": 957,
+    "homeName": "PAS Giannina",
+    "awayName": "Levadiakos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923720,
+    "date": "2022-09-10T18:30:00.000Z",
+    "homeId": 7513,
+    "awayId": 12260,
+    "homeName": "Ionikos",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 923721,
+    "date": "2022-09-11T15:30:00.000Z",
+    "homeId": 553,
+    "awayId": 2110,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923723,
+    "date": "2022-09-11T18:30:00.000Z",
+    "homeId": 617,
+    "awayId": 575,
+    "homeName": "Panathinaikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923719,
+    "date": "2022-09-11T18:30:00.000Z",
+    "homeId": 955,
+    "awayId": 1123,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923724,
+    "date": "2022-09-12T16:00:00.000Z",
+    "homeId": 619,
+    "awayId": 956,
+    "homeName": "PAOK",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923732,
+    "date": "2022-09-17T17:00:00.000Z",
+    "homeId": 949,
+    "awayId": 575,
+    "homeName": "Panetolikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923727,
+    "date": "2022-09-17T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 956,
+    "homeName": "Atromitos",
+    "awayName": "Lamia",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923731,
+    "date": "2022-09-17T18:30:00.000Z",
+    "homeId": 617,
+    "awayId": 950,
+    "homeName": "Panathinaikos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 923729,
+    "date": "2022-09-18T15:00:00.000Z",
+    "homeId": 957,
+    "awayId": 955,
+    "homeName": "Levadiakos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923730,
+    "date": "2022-09-18T16:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 619,
+    "homeName": "OFI",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923726,
+    "date": "2022-09-18T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 553,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923728,
+    "date": "2022-09-18T18:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 7513,
+    "homeName": "Volos NFC",
+    "awayName": "Ionikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923739,
+    "date": "2022-10-01T16:30:00.000Z",
+    "homeId": 956,
+    "awayId": 957,
+    "homeName": "Lamia",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923734,
+    "date": "2022-10-02T12:00:00.000Z",
+    "homeId": 955,
+    "awayId": 1124,
+    "homeName": "Asteras Tripolis",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923736,
+    "date": "2022-10-02T13:00:00.000Z",
+    "homeId": 553,
+    "awayId": 12260,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923735,
+    "date": "2022-10-02T16:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 1123,
+    "homeName": "Volos NFC",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923737,
+    "date": "2022-10-02T18:30:00.000Z",
+    "homeId": 619,
+    "awayId": 617,
+    "homeName": "PAOK",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 923738,
+    "date": "2022-10-03T15:00:00.000Z",
+    "homeId": 950,
+    "awayId": 949,
+    "homeName": "PAS Giannina",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 923733,
+    "date": "2022-10-03T17:00:00.000Z",
+    "homeId": 575,
+    "awayId": 7513,
+    "homeName": "AEK Athens FC",
+    "awayName": "Ionikos",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 923746,
+    "date": "2022-10-08T14:00:00.000Z",
+    "homeId": 949,
+    "awayId": 2110,
+    "homeName": "Panetolikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 923742,
+    "date": "2022-10-08T16:30:00.000Z",
+    "homeId": 7513,
+    "awayId": 956,
+    "homeName": "Ionikos",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923744,
+    "date": "2022-10-09T13:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 553,
+    "homeName": "OFI",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 923743,
+    "date": "2022-10-09T13:30:00.000Z",
+    "homeId": 957,
+    "awayId": 619,
+    "homeName": "Levadiakos",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923745,
+    "date": "2022-10-09T16:30:00.000Z",
+    "homeId": 617,
+    "awayId": 955,
+    "homeName": "Panathinaikos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923740,
+    "date": "2022-10-09T18:15:00.000Z",
+    "homeId": 1123,
+    "awayId": 575,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923741,
+    "date": "2022-10-10T15:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 950,
+    "homeName": "Atromitos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923750,
+    "date": "2022-10-15T14:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 957,
+    "homeName": "Volos NFC",
+    "awayName": "Levadiakos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923748,
+    "date": "2022-10-15T17:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 7513,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Ionikos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923747,
+    "date": "2022-10-16T13:00:00.000Z",
+    "homeId": 575,
+    "awayId": 12260,
+    "homeName": "AEK Athens FC",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923752,
+    "date": "2022-10-16T15:00:00.000Z",
+    "homeId": 950,
+    "awayId": 1124,
+    "homeName": "PAS Giannina",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 923753,
+    "date": "2022-10-16T16:30:00.000Z",
+    "homeId": 956,
+    "awayId": 617,
+    "homeName": "Lamia",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923749,
+    "date": "2022-10-16T17:30:00.000Z",
+    "homeId": 955,
+    "awayId": 949,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923751,
+    "date": "2022-10-17T17:00:00.000Z",
+    "homeId": 553,
+    "awayId": 619,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 923754,
+    "date": "2022-10-22T16:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 2110,
+    "homeName": "Atromitos",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923759,
+    "date": "2022-10-22T16:30:00.000Z",
+    "homeId": 949,
+    "awayId": 553,
+    "homeName": "Panetolikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923755,
+    "date": "2022-10-23T13:00:00.000Z",
+    "homeId": 7513,
+    "awayId": 950,
+    "homeName": "Ionikos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 923758,
+    "date": "2022-10-23T16:30:00.000Z",
+    "homeId": 617,
+    "awayId": 1123,
+    "homeName": "Panathinaikos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923760,
+    "date": "2022-10-23T16:30:00.000Z",
+    "homeId": 619,
+    "awayId": 955,
+    "homeName": "PAOK",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 923756,
+    "date": "2022-10-24T15:00:00.000Z",
+    "homeId": 957,
+    "awayId": 575,
+    "homeName": "Levadiakos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923757,
+    "date": "2022-10-24T17:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 956,
+    "homeName": "OFI",
+    "awayName": "Lamia",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923764,
+    "date": "2022-10-29T14:00:00.000Z",
+    "homeId": 7513,
+    "awayId": 949,
+    "homeName": "Ionikos",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923763,
+    "date": "2022-10-29T16:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 617,
+    "homeName": "Volos NFC",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 923766,
+    "date": "2022-10-30T14:00:00.000Z",
+    "homeId": 553,
+    "awayId": 956,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Lamia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923765,
+    "date": "2022-10-30T14:30:00.000Z",
+    "homeId": 957,
+    "awayId": 12260,
+    "homeName": "Levadiakos",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923761,
+    "date": "2022-10-30T17:30:00.000Z",
+    "homeId": 575,
+    "awayId": 619,
+    "homeName": "AEK Athens FC",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923762,
+    "date": "2022-10-30T18:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 1124,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923767,
+    "date": "2022-10-31T16:00:00.000Z",
+    "homeId": 950,
+    "awayId": 955,
+    "homeName": "PAS Giannina",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923774,
+    "date": "2022-11-05T13:45:00.000Z",
+    "homeId": 956,
+    "awayId": 2110,
+    "homeName": "Lamia",
+    "awayName": "Volos NFC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 923770,
+    "date": "2022-11-05T16:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 7513,
+    "homeName": "OFI",
+    "awayName": "Ionikos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923769,
+    "date": "2022-11-05T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 1123,
+    "homeName": "Atromitos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923773,
+    "date": "2022-11-05T19:00:00.000Z",
+    "homeId": 619,
+    "awayId": 950,
+    "homeName": "PAOK",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923772,
+    "date": "2022-11-06T14:00:00.000Z",
+    "homeId": 949,
+    "awayId": 957,
+    "homeName": "Panetolikos",
+    "awayName": "Levadiakos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923771,
+    "date": "2022-11-06T17:30:00.000Z",
+    "homeId": 617,
+    "awayId": 553,
+    "homeName": "Panathinaikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923768,
+    "date": "2022-11-06T18:30:00.000Z",
+    "homeId": 955,
+    "awayId": 575,
+    "homeName": "Asteras Tripolis",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923776,
+    "date": "2022-11-08T18:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 956,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Lamia",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 923781,
+    "date": "2022-11-09T15:00:00.000Z",
+    "homeId": 949,
+    "awayId": 617,
+    "homeName": "Panetolikos",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 923777,
+    "date": "2022-11-09T16:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 955,
+    "homeName": "Atromitos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923775,
+    "date": "2022-11-09T18:00:00.000Z",
+    "homeId": 575,
+    "awayId": 1124,
+    "homeName": "AEK Athens FC",
+    "awayName": "OFI",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 923780,
+    "date": "2022-11-09T18:00:00.000Z",
+    "homeId": 957,
+    "awayId": 553,
+    "homeName": "Levadiakos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 923778,
+    "date": "2022-11-10T17:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 950,
+    "homeName": "Volos NFC",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923779,
+    "date": "2022-11-10T19:30:00.000Z",
+    "homeId": 7513,
+    "awayId": 619,
+    "homeName": "Ionikos",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 923787,
+    "date": "2022-11-13T14:00:00.000Z",
+    "homeId": 950,
+    "awayId": 1123,
+    "homeName": "PAS Giannina",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 923785,
+    "date": "2022-11-13T15:15:00.000Z",
+    "homeId": 617,
+    "awayId": 12260,
+    "homeName": "Panathinaikos",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923788,
+    "date": "2022-11-13T16:00:00.000Z",
+    "homeId": 956,
+    "awayId": 949,
+    "homeName": "Lamia",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 923783,
+    "date": "2022-11-13T17:30:00.000Z",
+    "homeId": 553,
+    "awayId": 575,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923786,
+    "date": "2022-11-13T19:30:00.000Z",
+    "homeId": 619,
+    "awayId": 2110,
+    "homeName": "PAOK",
+    "awayName": "Volos NFC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 923782,
+    "date": "2022-11-14T16:00:00.000Z",
+    "homeId": 955,
+    "awayId": 7513,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Ionikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923784,
+    "date": "2022-11-14T17:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 957,
+    "homeName": "OFI",
+    "awayName": "Levadiakos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923792,
+    "date": "2022-12-21T13:00:00.000Z",
+    "homeId": 957,
+    "awayId": 1123,
+    "homeName": "Levadiakos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923789,
+    "date": "2022-12-21T15:00:00.000Z",
+    "homeId": 575,
+    "awayId": 956,
+    "homeName": "AEK Athens FC",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 923790,
+    "date": "2022-12-21T15:00:00.000Z",
+    "homeId": 955,
+    "awayId": 2110,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923795,
+    "date": "2022-12-21T18:00:00.000Z",
+    "homeId": 950,
+    "awayId": 553,
+    "homeName": "PAS Giannina",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 923791,
+    "date": "2022-12-21T19:30:00.000Z",
+    "homeId": 7513,
+    "awayId": 617,
+    "homeName": "Ionikos",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923793,
+    "date": "2022-12-22T15:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 12260,
+    "homeName": "OFI",
+    "awayName": "Atromitos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 923794,
+    "date": "2022-12-22T17:30:00.000Z",
+    "homeId": 949,
+    "awayId": 619,
+    "homeName": "Panetolikos",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923799,
+    "date": "2022-12-28T15:00:00.000Z",
+    "homeId": 957,
+    "awayId": 7513,
+    "homeName": "Levadiakos",
+    "awayName": "Ionikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923800,
+    "date": "2022-12-28T16:00:00.000Z",
+    "homeId": 553,
+    "awayId": 955,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 923798,
+    "date": "2022-12-28T17:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 575,
+    "homeName": "Volos NFC",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 923797,
+    "date": "2022-12-28T18:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 619,
+    "homeName": "Atromitos",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923801,
+    "date": "2022-12-28T19:30:00.000Z",
+    "homeId": 617,
+    "awayId": 1124,
+    "homeName": "Panathinaikos",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923796,
+    "date": "2022-12-29T16:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 949,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923802,
+    "date": "2022-12-29T16:30:00.000Z",
+    "homeId": 956,
+    "awayId": 950,
+    "homeName": "Lamia",
+    "awayName": "PAS Giannina",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923805,
+    "date": "2023-01-03T14:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 2110,
+    "homeName": "OFI",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923716,
+    "date": "2023-01-03T15:00:00.000Z",
+    "homeId": 957,
+    "awayId": 617,
+    "homeName": "Levadiakos",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 923809,
+    "date": "2023-01-03T18:00:00.000Z",
+    "homeId": 950,
+    "awayId": 575,
+    "homeName": "PAS Giannina",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923804,
+    "date": "2023-01-03T19:30:00.000Z",
+    "homeId": 7513,
+    "awayId": 553,
+    "homeName": "Ionikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923803,
+    "date": "2023-01-04T15:00:00.000Z",
+    "homeId": 955,
+    "awayId": 956,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 923807,
+    "date": "2023-01-04T16:00:00.000Z",
+    "homeId": 949,
+    "awayId": 12260,
+    "homeName": "Panetolikos",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923808,
+    "date": "2023-01-04T18:00:00.000Z",
+    "homeId": 619,
+    "awayId": 1123,
+    "homeName": "PAOK",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923814,
+    "date": "2023-01-07T15:30:00.000Z",
+    "homeId": 957,
+    "awayId": 950,
+    "homeName": "Levadiakos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 923816,
+    "date": "2023-01-07T17:30:00.000Z",
+    "homeId": 956,
+    "awayId": 619,
+    "homeName": "Lamia",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 923813,
+    "date": "2023-01-08T14:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 553,
+    "homeName": "Volos NFC",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 923812,
+    "date": "2023-01-08T15:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 7513,
+    "homeName": "Atromitos",
+    "awayName": "Ionikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923811,
+    "date": "2023-01-08T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 955,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 923810,
+    "date": "2023-01-08T17:30:00.000Z",
+    "homeId": 575,
+    "awayId": 617,
+    "homeName": "AEK Athens FC",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923815,
+    "date": "2023-01-09T15:00:00.000Z",
+    "homeId": 949,
+    "awayId": 1124,
+    "homeName": "Panetolikos",
+    "awayName": "OFI",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 923823,
+    "date": "2023-01-14T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 12260,
+    "homeName": "Lamia",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923821,
+    "date": "2023-01-14T18:00:00.000Z",
+    "homeId": 619,
+    "awayId": 1124,
+    "homeName": "PAOK",
+    "awayName": "OFI",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923817,
+    "date": "2023-01-15T14:00:00.000Z",
+    "homeId": 575,
+    "awayId": 949,
+    "homeName": "AEK Athens FC",
+    "awayName": "Panetolikos",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 923818,
+    "date": "2023-01-15T15:00:00.000Z",
+    "homeId": 955,
+    "awayId": 957,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Levadiakos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923820,
+    "date": "2023-01-15T17:30:00.000Z",
+    "homeId": 553,
+    "awayId": 1123,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923822,
+    "date": "2023-01-15T18:30:00.000Z",
+    "homeId": 950,
+    "awayId": 617,
+    "homeName": "PAS Giannina",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 923819,
+    "date": "2023-01-16T17:30:00.000Z",
+    "homeId": 7513,
+    "awayId": 2110,
+    "homeName": "Ionikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 923830,
+    "date": "2023-01-20T18:30:00.000Z",
+    "homeId": 949,
+    "awayId": 950,
+    "homeName": "Panetolikos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923828,
+    "date": "2023-01-21T15:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 955,
+    "homeName": "OFI",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923824,
+    "date": "2023-01-21T18:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 2110,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Volos NFC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 923826,
+    "date": "2023-01-22T14:00:00.000Z",
+    "homeId": 7513,
+    "awayId": 575,
+    "homeName": "Ionikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 923827,
+    "date": "2023-01-22T15:00:00.000Z",
+    "homeId": 957,
+    "awayId": 956,
+    "homeName": "Levadiakos",
+    "awayName": "Lamia",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923829,
+    "date": "2023-01-22T17:30:00.000Z",
+    "homeId": 617,
+    "awayId": 619,
+    "homeName": "Panathinaikos",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 923825,
+    "date": "2023-01-22T18:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 553,
+    "homeName": "Atromitos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923833,
+    "date": "2023-01-28T17:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 949,
+    "homeName": "Volos NFC",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 923836,
+    "date": "2023-01-28T18:00:00.000Z",
+    "homeId": 950,
+    "awayId": 12260,
+    "homeName": "PAS Giannina",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923834,
+    "date": "2023-01-29T14:00:00.000Z",
+    "homeId": 553,
+    "awayId": 1124,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923831,
+    "date": "2023-01-29T17:30:00.000Z",
+    "homeId": 575,
+    "awayId": 1123,
+    "homeName": "AEK Athens FC",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 923835,
+    "date": "2023-01-30T16:00:00.000Z",
+    "homeId": 619,
+    "awayId": 957,
+    "homeName": "PAOK",
+    "awayName": "Levadiakos",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 923837,
+    "date": "2023-01-30T17:30:00.000Z",
+    "homeId": 956,
+    "awayId": 7513,
+    "homeName": "Lamia",
+    "awayName": "Ionikos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923832,
+    "date": "2023-01-30T19:00:00.000Z",
+    "homeId": 955,
+    "awayId": 617,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923841,
+    "date": "2023-02-04T15:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 950,
+    "homeName": "OFI",
+    "awayName": "PAS Giannina",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923839,
+    "date": "2023-02-04T17:00:00.000Z",
+    "homeId": 7513,
+    "awayId": 1123,
+    "homeName": "Ionikos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923842,
+    "date": "2023-02-05T15:00:00.000Z",
+    "homeId": 617,
+    "awayId": 956,
+    "homeName": "Panathinaikos",
+    "awayName": "Lamia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923843,
+    "date": "2023-02-05T18:00:00.000Z",
+    "homeId": 949,
+    "awayId": 955,
+    "homeName": "Panetolikos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923844,
+    "date": "2023-02-05T18:30:00.000Z",
+    "homeId": 619,
+    "awayId": 553,
+    "homeName": "PAOK",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923840,
+    "date": "2023-02-06T14:00:00.000Z",
+    "homeId": 957,
+    "awayId": 2110,
+    "homeName": "Levadiakos",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 923850,
+    "date": "2023-02-11T18:00:00.000Z",
+    "homeId": 950,
+    "awayId": 7513,
+    "homeName": "PAS Giannina",
+    "awayName": "Ionikos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923848,
+    "date": "2023-02-12T14:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 12260,
+    "homeName": "Volos NFC",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923846,
+    "date": "2023-02-12T18:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 617,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 923851,
+    "date": "2023-02-13T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 1124,
+    "homeName": "Lamia",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 923847,
+    "date": "2023-02-13T16:00:00.000Z",
+    "homeId": 955,
+    "awayId": 619,
+    "homeName": "Asteras Tripolis",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 923845,
+    "date": "2023-02-13T16:30:00.000Z",
+    "homeId": 575,
+    "awayId": 957,
+    "homeName": "AEK Athens FC",
+    "awayName": "Levadiakos",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 923849,
+    "date": "2023-02-13T19:00:00.000Z",
+    "homeId": 553,
+    "awayId": 949,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Panetolikos",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "id": 923855,
+    "date": "2023-02-18T15:00:00.000Z",
+    "homeId": 617,
+    "awayId": 2110,
+    "homeName": "Panathinaikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923852,
+    "date": "2023-02-18T18:00:00.000Z",
+    "homeId": 955,
+    "awayId": 950,
+    "homeName": "Asteras Tripolis",
+    "awayName": "PAS Giannina",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923858,
+    "date": "2023-02-19T14:00:00.000Z",
+    "homeId": 956,
+    "awayId": 553,
+    "homeName": "Lamia",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 923856,
+    "date": "2023-02-19T17:30:00.000Z",
+    "homeId": 949,
+    "awayId": 7513,
+    "homeName": "Panetolikos",
+    "awayName": "Ionikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923857,
+    "date": "2023-02-19T18:30:00.000Z",
+    "homeId": 619,
+    "awayId": 575,
+    "homeName": "PAOK",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923853,
+    "date": "2023-02-20T16:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 957,
+    "homeName": "Atromitos",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923854,
+    "date": "2023-02-20T17:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 1123,
+    "homeName": "OFI",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 923861,
+    "date": "2023-02-24T18:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 956,
+    "homeName": "Volos NFC",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923859,
+    "date": "2023-02-25T15:30:00.000Z",
+    "homeId": 575,
+    "awayId": 955,
+    "homeName": "AEK Athens FC",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923865,
+    "date": "2023-02-25T17:00:00.000Z",
+    "homeId": 950,
+    "awayId": 619,
+    "homeName": "PAS Giannina",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923864,
+    "date": "2023-02-25T18:30:00.000Z",
+    "homeId": 553,
+    "awayId": 617,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923863,
+    "date": "2023-02-26T14:00:00.000Z",
+    "homeId": 957,
+    "awayId": 949,
+    "homeName": "Levadiakos",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 923862,
+    "date": "2023-02-26T14:00:00.000Z",
+    "homeId": 7513,
+    "awayId": 1124,
+    "homeName": "Ionikos",
+    "awayName": "OFI",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 923860,
+    "date": "2023-02-26T17:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 12260,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923866,
+    "date": "2023-03-04T18:00:00.000Z",
+    "homeId": 955,
+    "awayId": 12260,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923867,
+    "date": "2023-03-05T14:00:00.000Z",
+    "homeId": 553,
+    "awayId": 957,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Levadiakos",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "id": 923871,
+    "date": "2023-03-05T15:00:00.000Z",
+    "homeId": 950,
+    "awayId": 2110,
+    "homeName": "PAS Giannina",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 923872,
+    "date": "2023-03-05T15:30:00.000Z",
+    "homeId": 956,
+    "awayId": 1123,
+    "homeName": "Lamia",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 923868,
+    "date": "2023-03-05T17:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 575,
+    "homeName": "OFI",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 923870,
+    "date": "2023-03-05T18:30:00.000Z",
+    "homeId": 619,
+    "awayId": 7513,
+    "homeName": "PAOK",
+    "awayName": "Ionikos",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "id": 923869,
+    "date": "2023-03-06T17:30:00.000Z",
+    "homeId": 617,
+    "awayId": 949,
+    "homeName": "Panathinaikos",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923838,
+    "date": "2023-03-08T15:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 575,
+    "homeName": "Atromitos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 923873,
+    "date": "2023-03-12T17:00:00.000Z",
+    "homeId": 575,
+    "awayId": 553,
+    "homeName": "AEK Athens FC",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 923879,
+    "date": "2023-03-12T17:00:00.000Z",
+    "homeId": 949,
+    "awayId": 956,
+    "homeName": "Panetolikos",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 923878,
+    "date": "2023-03-12T17:00:00.000Z",
+    "homeId": 957,
+    "awayId": 1124,
+    "homeName": "Levadiakos",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 923874,
+    "date": "2023-03-12T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 950,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "PAS Giannina",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 923876,
+    "date": "2023-03-12T17:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 619,
+    "homeName": "Volos NFC",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 923877,
+    "date": "2023-03-12T17:00:00.000Z",
+    "homeId": 7513,
+    "awayId": 955,
+    "homeName": "Ionikos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 923875,
+    "date": "2023-03-12T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 617,
+    "homeName": "Atromitos",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014659,
+    "date": "2023-03-18T15:00:00.000Z",
+    "homeId": 955,
+    "awayId": 949,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014661,
+    "date": "2023-03-18T15:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 957,
+    "homeName": "OFI",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014660,
+    "date": "2023-03-18T17:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 7513,
+    "homeName": "Atromitos",
+    "awayName": "Ionikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014662,
+    "date": "2023-03-18T19:00:00.000Z",
+    "homeId": 956,
+    "awayId": 950,
+    "homeName": "Lamia",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014631,
+    "date": "2023-03-19T15:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 553,
+    "homeName": "Volos NFC",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1014630,
+    "date": "2023-03-19T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 619,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014629,
+    "date": "2023-03-19T19:30:00.000Z",
+    "homeId": 575,
+    "awayId": 617,
+    "homeName": "AEK Athens FC",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014664,
+    "date": "2023-04-01T14:00:00.000Z",
+    "homeId": 957,
+    "awayId": 12260,
+    "homeName": "Levadiakos",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014665,
+    "date": "2023-04-01T14:30:00.000Z",
+    "homeId": 949,
+    "awayId": 956,
+    "homeName": "Panetolikos",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1014666,
+    "date": "2023-04-01T16:30:00.000Z",
+    "homeId": 950,
+    "awayId": 1124,
+    "homeName": "PAS Giannina",
+    "awayName": "OFI",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014663,
+    "date": "2023-04-01T18:00:00.000Z",
+    "homeId": 7513,
+    "awayId": 955,
+    "homeName": "Ionikos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014633,
+    "date": "2023-04-02T15:00:00.000Z",
+    "homeId": 617,
+    "awayId": 2110,
+    "homeName": "Panathinaikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014634,
+    "date": "2023-04-02T16:30:00.000Z",
+    "homeId": 619,
+    "awayId": 575,
+    "homeName": "PAOK",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014632,
+    "date": "2023-04-02T18:00:00.000Z",
+    "homeId": 553,
+    "awayId": 1123,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014636,
+    "date": "2023-04-05T15:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 575,
+    "homeName": "Volos NFC",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014635,
+    "date": "2023-04-05T16:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 617,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014637,
+    "date": "2023-04-05T18:00:00.000Z",
+    "homeId": 553,
+    "awayId": 619,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "PAOK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014668,
+    "date": "2023-04-08T14:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 950,
+    "homeName": "Atromitos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014669,
+    "date": "2023-04-08T14:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 956,
+    "homeName": "OFI",
+    "awayName": "Lamia",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014670,
+    "date": "2023-04-08T16:30:00.000Z",
+    "homeId": 949,
+    "awayId": 7513,
+    "homeName": "Panetolikos",
+    "awayName": "Ionikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014667,
+    "date": "2023-04-08T16:30:00.000Z",
+    "homeId": 955,
+    "awayId": 957,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Levadiakos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014638,
+    "date": "2023-04-09T15:00:00.000Z",
+    "homeId": 575,
+    "awayId": 1123,
+    "homeName": "AEK Athens FC",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014640,
+    "date": "2023-04-09T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 2110,
+    "homeName": "PAOK",
+    "awayName": "Volos NFC",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014639,
+    "date": "2023-04-09T18:00:00.000Z",
+    "homeId": 617,
+    "awayId": 553,
+    "homeName": "Panathinaikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014673,
+    "date": "2023-04-22T16:15:00.000Z",
+    "homeId": 950,
+    "awayId": 949,
+    "homeName": "PAS Giannina",
+    "awayName": "Panetolikos",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014674,
+    "date": "2023-04-22T16:15:00.000Z",
+    "homeId": 956,
+    "awayId": 12260,
+    "homeName": "Lamia",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014671,
+    "date": "2023-04-22T16:15:00.000Z",
+    "homeId": 957,
+    "awayId": 7513,
+    "homeName": "Levadiakos",
+    "awayName": "Ionikos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014672,
+    "date": "2023-04-22T16:15:00.000Z",
+    "homeId": 1124,
+    "awayId": 955,
+    "homeName": "OFI",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014641,
+    "date": "2023-04-23T14:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 1123,
+    "homeName": "Volos NFC",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1014643,
+    "date": "2023-04-23T17:00:00.000Z",
+    "homeId": 619,
+    "awayId": 617,
+    "homeName": "PAOK",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014642,
+    "date": "2023-04-23T18:00:00.000Z",
+    "homeId": 553,
+    "awayId": 575,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1014646,
+    "date": "2023-04-26T15:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 617,
+    "homeName": "Volos NFC",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014645,
+    "date": "2023-04-26T16:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 553,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014644,
+    "date": "2023-04-26T18:00:00.000Z",
+    "homeId": 575,
+    "awayId": 619,
+    "homeName": "AEK Athens FC",
+    "awayName": "PAOK",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014678,
+    "date": "2023-04-29T16:15:00.000Z",
+    "homeId": 949,
+    "awayId": 957,
+    "homeName": "Panetolikos",
+    "awayName": "Levadiakos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014675,
+    "date": "2023-04-29T16:15:00.000Z",
+    "homeId": 955,
+    "awayId": 956,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Lamia",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014677,
+    "date": "2023-04-29T16:15:00.000Z",
+    "homeId": 7513,
+    "awayId": 950,
+    "homeName": "Ionikos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014676,
+    "date": "2023-04-29T16:15:00.000Z",
+    "homeId": 12260,
+    "awayId": 1124,
+    "homeName": "Atromitos",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1014647,
+    "date": "2023-04-30T17:00:00.000Z",
+    "homeId": 553,
+    "awayId": 2110,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Volos NFC",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014648,
+    "date": "2023-04-30T17:00:00.000Z",
+    "homeId": 617,
+    "awayId": 575,
+    "homeName": "Panathinaikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014649,
+    "date": "2023-04-30T17:00:00.000Z",
+    "homeId": 619,
+    "awayId": 1123,
+    "homeName": "PAOK",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014650,
+    "date": "2023-05-03T17:00:00.000Z",
+    "homeId": 575,
+    "awayId": 553,
+    "homeName": "AEK Athens FC",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014652,
+    "date": "2023-05-03T17:00:00.000Z",
+    "homeId": 617,
+    "awayId": 619,
+    "homeName": "Panathinaikos",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014651,
+    "date": "2023-05-03T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 2110,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Volos NFC",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014681,
+    "date": "2023-05-06T17:00:00.000Z",
+    "homeId": 950,
+    "awayId": 955,
+    "homeName": "PAS Giannina",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014682,
+    "date": "2023-05-06T17:00:00.000Z",
+    "homeId": 956,
+    "awayId": 957,
+    "homeName": "Lamia",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014680,
+    "date": "2023-05-06T17:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 7513,
+    "homeName": "OFI",
+    "awayName": "Ionikos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014679,
+    "date": "2023-05-06T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 949,
+    "homeName": "Atromitos",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014655,
+    "date": "2023-05-08T18:00:00.000Z",
+    "homeId": 553,
+    "awayId": 617,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014653,
+    "date": "2023-05-08T18:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 575,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014654,
+    "date": "2023-05-08T18:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 619,
+    "homeName": "Volos NFC",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014686,
+    "date": "2023-05-13T14:00:00.000Z",
+    "homeId": 949,
+    "awayId": 1124,
+    "homeName": "Panetolikos",
+    "awayName": "OFI",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014683,
+    "date": "2023-05-13T17:00:00.000Z",
+    "homeId": 955,
+    "awayId": 12260,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014685,
+    "date": "2023-05-13T17:00:00.000Z",
+    "homeId": 957,
+    "awayId": 950,
+    "homeName": "Levadiakos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1014684,
+    "date": "2023-05-13T17:00:00.000Z",
+    "homeId": 7513,
+    "awayId": 956,
+    "homeName": "Ionikos",
+    "awayName": "Lamia",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1014656,
+    "date": "2023-05-14T17:00:00.000Z",
+    "homeId": 575,
+    "awayId": 2110,
+    "homeName": "AEK Athens FC",
+    "awayName": "Volos NFC",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1014657,
+    "date": "2023-05-14T17:00:00.000Z",
+    "homeId": 617,
+    "awayId": 1123,
+    "homeName": "Panathinaikos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1014658,
+    "date": "2023-05-14T17:00:00.000Z",
+    "homeId": 619,
+    "awayId": 553,
+    "homeName": "PAOK",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073486,
+    "date": "2023-08-18T18:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 956,
+    "homeName": "Volos NFC",
+    "awayName": "Lamia",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073488,
+    "date": "2023-08-20T16:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 1123,
+    "homeName": "OFI",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073490,
+    "date": "2023-08-20T17:00:00.000Z",
+    "homeId": 619,
+    "awayId": 955,
+    "homeName": "PAOK",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073491,
+    "date": "2023-08-20T17:00:00.000Z",
+    "homeId": 950,
+    "awayId": 5050,
+    "homeName": "PAS Giannina",
+    "awayName": "Kifisia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073487,
+    "date": "2023-08-20T19:00:00.000Z",
+    "homeId": 553,
+    "awayId": 2099,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Panserraikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073496,
+    "date": "2023-08-25T18:00:00.000Z",
+    "homeId": 949,
+    "awayId": 950,
+    "homeName": "Panetolikos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073495,
+    "date": "2023-08-26T17:00:00.000Z",
+    "homeId": 617,
+    "awayId": 2110,
+    "homeName": "Panathinaikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073493,
+    "date": "2023-08-26T17:00:00.000Z",
+    "homeId": 955,
+    "awayId": 1124,
+    "homeName": "Asteras Tripolis",
+    "awayName": "OFI",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073492,
+    "date": "2023-08-26T18:30:00.000Z",
+    "homeId": 575,
+    "awayId": 2099,
+    "homeName": "AEK Athens FC",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073498,
+    "date": "2023-08-27T16:15:00.000Z",
+    "homeId": 956,
+    "awayId": 1123,
+    "homeName": "Lamia",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073497,
+    "date": "2023-08-27T18:00:00.000Z",
+    "homeId": 619,
+    "awayId": 5050,
+    "homeName": "PAOK",
+    "awayName": "Kifisia",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073586,
+    "date": "2023-08-27T18:30:00.000Z",
+    "homeId": 553,
+    "awayId": 12260,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Atromitos",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073501,
+    "date": "2023-09-01T18:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 12260,
+    "homeName": "Kifisia",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073504,
+    "date": "2023-09-02T18:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 949,
+    "homeName": "Panserraikos",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073502,
+    "date": "2023-09-03T17:00:00.000Z",
+    "homeId": 553,
+    "awayId": 956,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Lamia",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073499,
+    "date": "2023-09-03T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 955,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073503,
+    "date": "2023-09-03T17:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 619,
+    "homeName": "OFI",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073500,
+    "date": "2023-09-03T18:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 575,
+    "homeName": "Volos NFC",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073505,
+    "date": "2023-09-03T18:45:00.000Z",
+    "homeId": 950,
+    "awayId": 617,
+    "homeName": "PAS Giannina",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073512,
+    "date": "2023-09-16T14:30:00.000Z",
+    "homeId": 956,
+    "awayId": 1124,
+    "homeName": "Lamia",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073510,
+    "date": "2023-09-16T17:30:00.000Z",
+    "homeId": 949,
+    "awayId": 617,
+    "homeName": "Panetolikos",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 1073507,
+    "date": "2023-09-17T12:00:00.000Z",
+    "homeId": 955,
+    "awayId": 950,
+    "homeName": "Asteras Tripolis",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073509,
+    "date": "2023-09-17T15:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 2099,
+    "homeName": "Kifisia",
+    "awayName": "Panserraikos",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "id": 1073511,
+    "date": "2023-09-17T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 1123,
+    "homeName": "PAOK",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073506,
+    "date": "2023-09-17T18:30:00.000Z",
+    "homeId": 575,
+    "awayId": 553,
+    "homeName": "AEK Athens FC",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073508,
+    "date": "2023-09-18T15:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 2110,
+    "homeName": "Atromitos",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073516,
+    "date": "2023-09-23T14:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 12260,
+    "homeName": "OFI",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073518,
+    "date": "2023-09-23T17:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 956,
+    "homeName": "Panserraikos",
+    "awayName": "Lamia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073515,
+    "date": "2023-09-24T14:00:00.000Z",
+    "homeId": 553,
+    "awayId": 5050,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Kifisia",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073513,
+    "date": "2023-09-24T14:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 949,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Panetolikos",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073514,
+    "date": "2023-09-24T17:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 955,
+    "homeName": "Volos NFC",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073519,
+    "date": "2023-09-24T17:30:00.000Z",
+    "homeId": 950,
+    "awayId": 619,
+    "homeName": "PAS Giannina",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073517,
+    "date": "2023-09-25T18:00:00.000Z",
+    "homeId": 617,
+    "awayId": 575,
+    "homeName": "Panathinaikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073524,
+    "date": "2023-09-27T13:00:00.000Z",
+    "homeId": 949,
+    "awayId": 1124,
+    "homeName": "Panetolikos",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073522,
+    "date": "2023-09-27T15:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 956,
+    "homeName": "Kifisia",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073523,
+    "date": "2023-09-27T17:30:00.000Z",
+    "homeId": 553,
+    "awayId": 1123,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073526,
+    "date": "2023-09-27T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 2110,
+    "homeName": "PAOK",
+    "awayName": "Volos NFC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073525,
+    "date": "2023-09-28T14:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 950,
+    "homeName": "Panserraikos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073521,
+    "date": "2023-09-28T17:30:00.000Z",
+    "homeId": 955,
+    "awayId": 617,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1073520,
+    "date": "2023-09-28T18:00:00.000Z",
+    "homeId": 575,
+    "awayId": 12260,
+    "homeName": "AEK Athens FC",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073533,
+    "date": "2023-10-01T12:00:00.000Z",
+    "homeId": 956,
+    "awayId": 949,
+    "homeName": "Lamia",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073527,
+    "date": "2023-10-01T14:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 5050,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Kifisia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073531,
+    "date": "2023-10-01T16:30:00.000Z",
+    "homeId": 617,
+    "awayId": 619,
+    "homeName": "Panathinaikos",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073532,
+    "date": "2023-10-01T17:30:00.000Z",
+    "homeId": 950,
+    "awayId": 553,
+    "homeName": "PAS Giannina",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073528,
+    "date": "2023-10-02T15:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 955,
+    "homeName": "Atromitos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073530,
+    "date": "2023-10-02T17:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 575,
+    "homeName": "OFI",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073485,
+    "date": "2023-10-08T16:30:00.000Z",
+    "homeId": 575,
+    "awayId": 949,
+    "homeName": "AEK Athens FC",
+    "awayName": "Panetolikos",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073489,
+    "date": "2023-10-08T18:30:00.000Z",
+    "homeId": 617,
+    "awayId": 12260,
+    "homeName": "Panathinaikos",
+    "awayName": "Atromitos",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073540,
+    "date": "2023-10-20T17:30:00.000Z",
+    "homeId": 956,
+    "awayId": 950,
+    "homeName": "Lamia",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073537,
+    "date": "2023-10-21T14:30:00.000Z",
+    "homeId": 949,
+    "awayId": 2110,
+    "homeName": "Panetolikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073626,
+    "date": "2023-10-21T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 2099,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073534,
+    "date": "2023-10-22T13:00:00.000Z",
+    "homeId": 955,
+    "awayId": 575,
+    "homeName": "Asteras Tripolis",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073535,
+    "date": "2023-10-22T13:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 1124,
+    "homeName": "Kifisia",
+    "awayName": "OFI",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073539,
+    "date": "2023-10-22T15:30:00.000Z",
+    "homeId": 619,
+    "awayId": 12260,
+    "homeName": "PAOK",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073536,
+    "date": "2023-10-22T16:30:00.000Z",
+    "homeId": 553,
+    "awayId": 617,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073545,
+    "date": "2023-10-28T14:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 5050,
+    "homeName": "Volos NFC",
+    "awayName": "Kifisia",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073544,
+    "date": "2023-10-28T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 949,
+    "homeName": "Atromitos",
+    "awayName": "Panetolikos",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073543,
+    "date": "2023-10-29T15:30:00.000Z",
+    "homeId": 955,
+    "awayId": 956,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Lamia",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073547,
+    "date": "2023-10-29T17:30:00.000Z",
+    "homeId": 617,
+    "awayId": 2099,
+    "homeName": "Panathinaikos",
+    "awayName": "Panserraikos",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073542,
+    "date": "2023-10-29T18:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 950,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073541,
+    "date": "2023-10-30T17:30:00.000Z",
+    "homeId": 575,
+    "awayId": 619,
+    "homeName": "AEK Athens FC",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073546,
+    "date": "2023-10-30T19:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 553,
+    "homeName": "OFI",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073554,
+    "date": "2023-11-04T15:30:00.000Z",
+    "homeId": 956,
+    "awayId": 617,
+    "homeName": "Lamia",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073549,
+    "date": "2023-11-04T18:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 575,
+    "homeName": "Kifisia",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073551,
+    "date": "2023-11-05T14:00:00.000Z",
+    "homeId": 949,
+    "awayId": 955,
+    "homeName": "Panetolikos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073553,
+    "date": "2023-11-05T15:30:00.000Z",
+    "homeId": 950,
+    "awayId": 2110,
+    "homeName": "PAS Giannina",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073550,
+    "date": "2023-11-05T17:30:00.000Z",
+    "homeId": 553,
+    "awayId": 619,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": 1073548,
+    "date": "2023-11-05T18:15:00.000Z",
+    "homeId": 1123,
+    "awayId": 12260,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073552,
+    "date": "2023-11-06T16:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 1124,
+    "homeName": "Panserraikos",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073559,
+    "date": "2023-11-11T15:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 950,
+    "homeName": "OFI",
+    "awayName": "PAS Giannina",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073557,
+    "date": "2023-11-11T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 2099,
+    "homeName": "Atromitos",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073558,
+    "date": "2023-11-11T18:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 1123,
+    "homeName": "Volos NFC",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073561,
+    "date": "2023-11-12T15:30:00.000Z",
+    "homeId": 619,
+    "awayId": 949,
+    "homeName": "PAOK",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073555,
+    "date": "2023-11-12T17:30:00.000Z",
+    "homeId": 575,
+    "awayId": 956,
+    "homeName": "AEK Athens FC",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073556,
+    "date": "2023-11-12T18:30:00.000Z",
+    "homeId": 955,
+    "awayId": 553,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073647,
+    "date": "2023-11-12T19:30:00.000Z",
+    "homeId": 5050,
+    "awayId": 617,
+    "homeName": "Kifisia",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073565,
+    "date": "2023-11-24T16:15:00.000Z",
+    "homeId": 1124,
+    "awayId": 2110,
+    "homeName": "OFI",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073564,
+    "date": "2023-11-25T15:30:00.000Z",
+    "homeId": 553,
+    "awayId": 949,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Panetolikos",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073659,
+    "date": "2023-11-25T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 2099,
+    "homeName": "PAOK",
+    "awayName": "Panserraikos",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073563,
+    "date": "2023-11-26T14:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 955,
+    "homeName": "Kifisia",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073567,
+    "date": "2023-11-26T15:00:00.000Z",
+    "homeId": 950,
+    "awayId": 575,
+    "homeName": "PAS Giannina",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073568,
+    "date": "2023-11-26T17:30:00.000Z",
+    "homeId": 956,
+    "awayId": 12260,
+    "homeName": "Lamia",
+    "awayName": "Atromitos",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073562,
+    "date": "2023-11-26T18:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 617,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Panathinaikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073529,
+    "date": "2023-11-29T15:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 2099,
+    "homeName": "Volos NFC",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073574,
+    "date": "2023-12-02T15:30:00.000Z",
+    "homeId": 949,
+    "awayId": 5050,
+    "homeName": "Panetolikos",
+    "awayName": "Kifisia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073570,
+    "date": "2023-12-02T18:00:00.000Z",
+    "homeId": 955,
+    "awayId": 2099,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073572,
+    "date": "2023-12-03T14:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 553,
+    "homeName": "Volos NFC",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073571,
+    "date": "2023-12-03T15:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 950,
+    "homeName": "Atromitos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073573,
+    "date": "2023-12-03T17:30:00.000Z",
+    "homeId": 617,
+    "awayId": 1124,
+    "homeName": "Panathinaikos",
+    "awayName": "OFI",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073575,
+    "date": "2023-12-04T16:00:00.000Z",
+    "homeId": 619,
+    "awayId": 956,
+    "homeName": "PAOK",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073569,
+    "date": "2023-12-04T19:00:00.000Z",
+    "homeId": 575,
+    "awayId": 1123,
+    "homeName": "AEK Athens FC",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073579,
+    "date": "2023-12-16T15:30:00.000Z",
+    "homeId": 5050,
+    "awayId": 950,
+    "homeName": "Kifisia",
+    "awayName": "PAS Giannina",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073576,
+    "date": "2023-12-17T13:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 1124,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073577,
+    "date": "2023-12-17T15:30:00.000Z",
+    "homeId": 955,
+    "awayId": 619,
+    "homeName": "Asteras Tripolis",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1073582,
+    "date": "2023-12-17T17:30:00.000Z",
+    "homeId": 956,
+    "awayId": 2110,
+    "homeName": "Lamia",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073578,
+    "date": "2023-12-17T18:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 617,
+    "homeName": "Atromitos",
+    "awayName": "Panathinaikos",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073580,
+    "date": "2023-12-18T15:00:00.000Z",
+    "homeId": 949,
+    "awayId": 575,
+    "homeName": "Panetolikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073581,
+    "date": "2023-12-18T16:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 553,
+    "homeName": "Panserraikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073583,
+    "date": "2023-12-20T15:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 956,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Lamia",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073584,
+    "date": "2023-12-20T17:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 617,
+    "homeName": "Volos NFC",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073589,
+    "date": "2023-12-21T13:00:00.000Z",
+    "homeId": 950,
+    "awayId": 949,
+    "homeName": "PAS Giannina",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073588,
+    "date": "2023-12-21T15:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 575,
+    "homeName": "Panserraikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073587,
+    "date": "2023-12-21T15:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 955,
+    "homeName": "OFI",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073585,
+    "date": "2023-12-21T18:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 619,
+    "homeName": "Kifisia",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "id": 1073494,
+    "date": "2023-12-21T18:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 553,
+    "homeName": "Atromitos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073591,
+    "date": "2024-01-03T14:00:00.000Z",
+    "homeId": 955,
+    "awayId": 1123,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073596,
+    "date": "2024-01-03T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 553,
+    "homeName": "Lamia",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073590,
+    "date": "2024-01-03T17:00:00.000Z",
+    "homeId": 575,
+    "awayId": 2110,
+    "homeName": "AEK Athens FC",
+    "awayName": "Volos NFC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073595,
+    "date": "2024-01-03T18:00:00.000Z",
+    "homeId": 619,
+    "awayId": 1124,
+    "homeName": "PAOK",
+    "awayName": "OFI",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073593,
+    "date": "2024-01-03T19:00:00.000Z",
+    "homeId": 617,
+    "awayId": 950,
+    "homeName": "Panathinaikos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073594,
+    "date": "2024-01-04T15:00:00.000Z",
+    "homeId": 949,
+    "awayId": 2099,
+    "homeName": "Panetolikos",
+    "awayName": "Panserraikos",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073592,
+    "date": "2024-01-04T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 5050,
+    "homeName": "Atromitos",
+    "awayName": "Kifisia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073602,
+    "date": "2024-01-07T13:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 5050,
+    "homeName": "Panserraikos",
+    "awayName": "Kifisia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073598,
+    "date": "2024-01-07T13:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 12260,
+    "homeName": "Volos NFC",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073601,
+    "date": "2024-01-07T15:00:00.000Z",
+    "homeId": 617,
+    "awayId": 949,
+    "homeName": "Panathinaikos",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073603,
+    "date": "2024-01-07T15:30:00.000Z",
+    "homeId": 950,
+    "awayId": 955,
+    "homeName": "PAS Giannina",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073597,
+    "date": "2024-01-07T17:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 619,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073599,
+    "date": "2024-01-07T19:00:00.000Z",
+    "homeId": 553,
+    "awayId": 575,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073600,
+    "date": "2024-01-08T18:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 956,
+    "homeName": "OFI",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073606,
+    "date": "2024-01-13T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 1124,
+    "homeName": "Atromitos",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073610,
+    "date": "2024-01-13T18:00:00.000Z",
+    "homeId": 956,
+    "awayId": 2099,
+    "homeName": "Lamia",
+    "awayName": "Panserraikos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073608,
+    "date": "2024-01-14T13:00:00.000Z",
+    "homeId": 949,
+    "awayId": 1123,
+    "homeName": "Panetolikos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1073607,
+    "date": "2024-01-14T15:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 553,
+    "homeName": "Kifisia",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073605,
+    "date": "2024-01-14T15:30:00.000Z",
+    "homeId": 955,
+    "awayId": 2110,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073604,
+    "date": "2024-01-14T18:30:00.000Z",
+    "homeId": 575,
+    "awayId": 617,
+    "homeName": "AEK Athens FC",
+    "awayName": "Panathinaikos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073609,
+    "date": "2024-01-14T18:30:00.000Z",
+    "homeId": 619,
+    "awayId": 950,
+    "homeName": "PAOK",
+    "awayName": "PAS Giannina",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073617,
+    "date": "2024-01-20T15:30:00.000Z",
+    "homeId": 956,
+    "awayId": 5050,
+    "homeName": "Lamia",
+    "awayName": "Kifisia",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073616,
+    "date": "2024-01-20T17:00:00.000Z",
+    "homeId": 950,
+    "awayId": 2099,
+    "homeName": "PAS Giannina",
+    "awayName": "Panserraikos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073614,
+    "date": "2024-01-20T18:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 949,
+    "homeName": "OFI",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073613,
+    "date": "2024-01-21T14:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 619,
+    "homeName": "Volos NFC",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 1073612,
+    "date": "2024-01-21T15:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 575,
+    "homeName": "Atromitos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 1073615,
+    "date": "2024-01-21T17:30:00.000Z",
+    "homeId": 617,
+    "awayId": 955,
+    "homeName": "Panathinaikos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073611,
+    "date": "2024-01-21T18:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 553,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073622,
+    "date": "2024-01-27T15:30:00.000Z",
+    "homeId": 949,
+    "awayId": 956,
+    "homeName": "Panetolikos",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073623,
+    "date": "2024-01-27T17:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 2110,
+    "homeName": "Panserraikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073620,
+    "date": "2024-01-27T18:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 1123,
+    "homeName": "Kifisia",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073618,
+    "date": "2024-01-28T14:00:00.000Z",
+    "homeId": 575,
+    "awayId": 1124,
+    "homeName": "AEK Athens FC",
+    "awayName": "OFI",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073619,
+    "date": "2024-01-28T15:30:00.000Z",
+    "homeId": 955,
+    "awayId": 12260,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Atromitos",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073621,
+    "date": "2024-01-28T17:30:00.000Z",
+    "homeId": 553,
+    "awayId": 950,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "PAS Giannina",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073624,
+    "date": "2024-01-28T18:30:00.000Z",
+    "homeId": 619,
+    "awayId": 617,
+    "homeName": "PAOK",
+    "awayName": "Panathinaikos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073628,
+    "date": "2024-02-03T15:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 949,
+    "homeName": "Volos NFC",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073538,
+    "date": "2024-02-03T17:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 1123,
+    "homeName": "Panserraikos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073629,
+    "date": "2024-02-04T14:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 5050,
+    "homeName": "OFI",
+    "awayName": "Kifisia",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073625,
+    "date": "2024-02-04T15:30:00.000Z",
+    "homeId": 575,
+    "awayId": 955,
+    "homeName": "AEK Athens FC",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073631,
+    "date": "2024-02-04T15:30:00.000Z",
+    "homeId": 950,
+    "awayId": 956,
+    "homeName": "PAS Giannina",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1073627,
+    "date": "2024-02-04T18:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 619,
+    "homeName": "Atromitos",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073630,
+    "date": "2024-02-04T19:00:00.000Z",
+    "homeId": 617,
+    "awayId": 553,
+    "homeName": "Panathinaikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073633,
+    "date": "2024-02-10T15:30:00.000Z",
+    "homeId": 553,
+    "awayId": 1124,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "OFI",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073637,
+    "date": "2024-02-10T17:00:00.000Z",
+    "homeId": 950,
+    "awayId": 1123,
+    "homeName": "PAS Giannina",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073634,
+    "date": "2024-02-10T17:30:00.000Z",
+    "homeId": 949,
+    "awayId": 12260,
+    "homeName": "Panetolikos",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073632,
+    "date": "2024-02-11T14:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 2110,
+    "homeName": "Kifisia",
+    "awayName": "Volos NFC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073635,
+    "date": "2024-02-11T15:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 617,
+    "homeName": "Panserraikos",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073638,
+    "date": "2024-02-11T17:30:00.000Z",
+    "homeId": 956,
+    "awayId": 955,
+    "homeName": "Lamia",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073636,
+    "date": "2024-02-11T18:00:00.000Z",
+    "homeId": 619,
+    "awayId": 575,
+    "homeName": "PAOK",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073641,
+    "date": "2024-02-17T17:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 1123,
+    "homeName": "Atromitos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073644,
+    "date": "2024-02-17T18:30:00.000Z",
+    "homeId": 617,
+    "awayId": 956,
+    "homeName": "Panathinaikos",
+    "awayName": "Lamia",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073642,
+    "date": "2024-02-18T13:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 950,
+    "homeName": "Volos NFC",
+    "awayName": "PAS Giannina",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073639,
+    "date": "2024-02-18T17:00:00.000Z",
+    "homeId": 575,
+    "awayId": 5050,
+    "homeName": "AEK Athens FC",
+    "awayName": "Kifisia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073645,
+    "date": "2024-02-18T18:30:00.000Z",
+    "homeId": 619,
+    "awayId": 553,
+    "homeName": "PAOK",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1073643,
+    "date": "2024-02-19T15:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 2099,
+    "homeName": "OFI",
+    "awayName": "Panserraikos",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073640,
+    "date": "2024-02-19T16:00:00.000Z",
+    "homeId": 955,
+    "awayId": 949,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073652,
+    "date": "2024-02-24T17:00:00.000Z",
+    "homeId": 956,
+    "awayId": 575,
+    "homeName": "Lamia",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073650,
+    "date": "2024-02-24T17:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 12260,
+    "homeName": "Panserraikos",
+    "awayName": "Atromitos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073651,
+    "date": "2024-02-25T14:30:00.000Z",
+    "homeId": 950,
+    "awayId": 1124,
+    "homeName": "PAS Giannina",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073649,
+    "date": "2024-02-25T15:00:00.000Z",
+    "homeId": 949,
+    "awayId": 619,
+    "homeName": "Panetolikos",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073648,
+    "date": "2024-02-25T16:00:00.000Z",
+    "homeId": 553,
+    "awayId": 955,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073646,
+    "date": "2024-02-25T17:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 2110,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Volos NFC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073560,
+    "date": "2024-02-25T18:00:00.000Z",
+    "homeId": 617,
+    "awayId": 5050,
+    "homeName": "Panathinaikos",
+    "awayName": "Kifisia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073654,
+    "date": "2024-02-28T13:00:00.000Z",
+    "homeId": 955,
+    "awayId": 5050,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Kifisia",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073656,
+    "date": "2024-02-28T13:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 1124,
+    "homeName": "Volos NFC",
+    "awayName": "OFI",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073658,
+    "date": "2024-02-28T15:00:00.000Z",
+    "homeId": 949,
+    "awayId": 553,
+    "homeName": "Panetolikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073655,
+    "date": "2024-02-28T15:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 956,
+    "homeName": "Atromitos",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073653,
+    "date": "2024-02-28T17:00:00.000Z",
+    "homeId": 575,
+    "awayId": 950,
+    "homeName": "AEK Athens FC",
+    "awayName": "PAS Giannina",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073566,
+    "date": "2024-02-28T18:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 619,
+    "homeName": "Panserraikos",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073657,
+    "date": "2024-02-28T19:00:00.000Z",
+    "homeId": 617,
+    "awayId": 1123,
+    "homeName": "Panathinaikos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073662,
+    "date": "2024-03-03T17:30:00.000Z",
+    "homeId": 553,
+    "awayId": 2110,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Volos NFC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1073665,
+    "date": "2024-03-03T17:30:00.000Z",
+    "homeId": 950,
+    "awayId": 12260,
+    "homeName": "PAS Giannina",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073666,
+    "date": "2024-03-03T17:30:00.000Z",
+    "homeId": 956,
+    "awayId": 619,
+    "homeName": "Lamia",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073660,
+    "date": "2024-03-03T17:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 575,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1073663,
+    "date": "2024-03-03T17:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 617,
+    "homeName": "OFI",
+    "awayName": "Panathinaikos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1073664,
+    "date": "2024-03-03T17:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 955,
+    "homeName": "Panserraikos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1073661,
+    "date": "2024-03-03T17:30:00.000Z",
+    "homeId": 5050,
+    "awayId": 949,
+    "homeName": "Kifisia",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1180916,
+    "date": "2024-03-10T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 575,
+    "homeName": "Lamia",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1180914,
+    "date": "2024-03-10T18:30:00.000Z",
+    "homeId": 553,
+    "awayId": 617,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1180915,
+    "date": "2024-03-10T19:00:00.000Z",
+    "homeId": 619,
+    "awayId": 1123,
+    "homeName": "PAOK",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1180910,
+    "date": "2024-03-16T15:00:00.000Z",
+    "homeId": 955,
+    "awayId": 2110,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1180912,
+    "date": "2024-03-16T15:30:00.000Z",
+    "homeId": 5050,
+    "awayId": 1124,
+    "homeName": "Kifisia",
+    "awayName": "OFI",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1180911,
+    "date": "2024-03-16T17:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 950,
+    "homeName": "Atromitos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1180913,
+    "date": "2024-03-16T18:00:00.000Z",
+    "homeId": 949,
+    "awayId": 2099,
+    "homeName": "Panetolikos",
+    "awayName": "Panserraikos",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183752,
+    "date": "2024-03-30T13:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 955,
+    "homeName": "Panserraikos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183750,
+    "date": "2024-03-30T15:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 5050,
+    "homeName": "Volos NFC",
+    "awayName": "Kifisia",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183753,
+    "date": "2024-03-30T17:30:00.000Z",
+    "homeId": 950,
+    "awayId": 949,
+    "homeName": "PAS Giannina",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183751,
+    "date": "2024-03-30T18:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 12260,
+    "homeName": "OFI",
+    "awayName": "Atromitos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1182343,
+    "date": "2024-03-31T15:00:00.000Z",
+    "homeId": 617,
+    "awayId": 619,
+    "homeName": "Panathinaikos",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1182344,
+    "date": "2024-03-31T17:30:00.000Z",
+    "homeId": 575,
+    "awayId": 553,
+    "homeName": "AEK Athens FC",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1182345,
+    "date": "2024-03-31T17:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 956,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1182346,
+    "date": "2024-04-03T16:00:00.000Z",
+    "homeId": 553,
+    "awayId": 1123,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1182347,
+    "date": "2024-04-03T16:30:00.000Z",
+    "homeId": 619,
+    "awayId": 956,
+    "homeName": "PAOK",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1182348,
+    "date": "2024-04-03T18:00:00.000Z",
+    "homeId": 617,
+    "awayId": 575,
+    "homeName": "Panathinaikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183755,
+    "date": "2024-04-06T14:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 2099,
+    "homeName": "Atromitos",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183757,
+    "date": "2024-04-06T16:30:00.000Z",
+    "homeId": 949,
+    "awayId": 2110,
+    "homeName": "Panetolikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183754,
+    "date": "2024-04-06T16:30:00.000Z",
+    "homeId": 955,
+    "awayId": 5050,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Kifisia",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183756,
+    "date": "2024-04-06T17:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 950,
+    "homeName": "OFI",
+    "awayName": "PAS Giannina",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1182349,
+    "date": "2024-04-07T14:00:00.000Z",
+    "homeId": 956,
+    "awayId": 553,
+    "homeName": "Lamia",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 1182350,
+    "date": "2024-04-07T16:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 617,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1182351,
+    "date": "2024-04-07T17:30:00.000Z",
+    "homeId": 575,
+    "awayId": 619,
+    "homeName": "AEK Athens FC",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183760,
+    "date": "2024-04-13T12:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 1124,
+    "homeName": "Panserraikos",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183758,
+    "date": "2024-04-13T14:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 12260,
+    "homeName": "Volos NFC",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183761,
+    "date": "2024-04-13T16:30:00.000Z",
+    "homeId": 950,
+    "awayId": 955,
+    "homeName": "PAS Giannina",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183759,
+    "date": "2024-04-13T17:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 949,
+    "homeName": "Kifisia",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1182352,
+    "date": "2024-04-14T14:00:00.000Z",
+    "homeId": 617,
+    "awayId": 956,
+    "homeName": "Panathinaikos",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1182354,
+    "date": "2024-04-14T17:30:00.000Z",
+    "homeId": 575,
+    "awayId": 1123,
+    "homeName": "AEK Athens FC",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183764,
+    "date": "2024-04-20T15:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 2110,
+    "homeName": "OFI",
+    "awayName": "Volos NFC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183762,
+    "date": "2024-04-20T16:30:00.000Z",
+    "homeId": 955,
+    "awayId": 949,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183763,
+    "date": "2024-04-20T16:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 5050,
+    "homeName": "Atromitos",
+    "awayName": "Kifisia",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183765,
+    "date": "2024-04-21T12:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 950,
+    "homeName": "Panserraikos",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1182355,
+    "date": "2024-04-21T14:00:00.000Z",
+    "homeId": 956,
+    "awayId": 617,
+    "homeName": "Lamia",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 1182356,
+    "date": "2024-04-21T16:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 575,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1182357,
+    "date": "2024-04-21T17:30:00.000Z",
+    "homeId": 553,
+    "awayId": 619,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1182358,
+    "date": "2024-04-24T14:00:00.000Z",
+    "homeId": 956,
+    "awayId": 619,
+    "homeName": "Lamia",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1182359,
+    "date": "2024-04-24T16:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 553,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1182360,
+    "date": "2024-04-24T17:30:00.000Z",
+    "homeId": 575,
+    "awayId": 617,
+    "homeName": "AEK Athens FC",
+    "awayName": "Panathinaikos",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183769,
+    "date": "2024-04-27T17:00:00.000Z",
+    "homeId": 949,
+    "awayId": 12260,
+    "homeName": "Panetolikos",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183766,
+    "date": "2024-04-27T17:00:00.000Z",
+    "homeId": 955,
+    "awayId": 1124,
+    "homeName": "Asteras Tripolis",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183767,
+    "date": "2024-04-27T17:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 2099,
+    "homeName": "Volos NFC",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183768,
+    "date": "2024-04-27T17:00:00.000Z",
+    "homeId": 5050,
+    "awayId": 950,
+    "homeName": "Kifisia",
+    "awayName": "PAS Giannina",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1182361,
+    "date": "2024-04-28T14:00:00.000Z",
+    "homeId": 553,
+    "awayId": 956,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Lamia",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1182362,
+    "date": "2024-04-28T16:30:00.000Z",
+    "homeId": 619,
+    "awayId": 575,
+    "homeName": "PAOK",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1182363,
+    "date": "2024-04-28T17:30:00.000Z",
+    "homeId": 617,
+    "awayId": 1123,
+    "homeName": "Panathinaikos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183773,
+    "date": "2024-05-11T17:00:00.000Z",
+    "homeId": 950,
+    "awayId": 2110,
+    "homeName": "PAS Giannina",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1183771,
+    "date": "2024-05-11T17:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 949,
+    "homeName": "OFI",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1183772,
+    "date": "2024-05-11T17:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 5050,
+    "homeName": "Panserraikos",
+    "awayName": "Kifisia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1183770,
+    "date": "2024-05-11T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 955,
+    "homeName": "Atromitos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1182353,
+    "date": "2024-05-12T17:00:00.000Z",
+    "homeId": 619,
+    "awayId": 553,
+    "homeName": "PAOK",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1182366,
+    "date": "2024-05-15T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 1123,
+    "homeName": "Lamia",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": 1182364,
+    "date": "2024-05-15T17:00:00.000Z",
+    "homeId": 553,
+    "awayId": 575,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1182365,
+    "date": "2024-05-15T17:00:00.000Z",
+    "homeId": 619,
+    "awayId": 617,
+    "homeName": "PAOK",
+    "awayName": "Panathinaikos",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1182367,
+    "date": "2024-05-19T17:00:00.000Z",
+    "homeId": 575,
+    "awayId": 956,
+    "homeName": "AEK Athens FC",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1182369,
+    "date": "2024-05-19T17:00:00.000Z",
+    "homeId": 617,
+    "awayId": 553,
+    "homeName": "Panathinaikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1182368,
+    "date": "2024-05-19T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 619,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250509,
+    "date": "2024-08-17T17:00:00.000Z",
+    "homeId": 619,
+    "awayId": 2099,
+    "homeName": "PAOK",
+    "awayName": "Panserraikos",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250505,
+    "date": "2024-08-17T17:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 553,
+    "homeName": "Volos NFC",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250506,
+    "date": "2024-08-18T16:00:00.000Z",
+    "homeId": 957,
+    "awayId": 2095,
+    "homeName": "Levadiakos",
+    "awayName": "Kallithea",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250507,
+    "date": "2024-08-18T17:00:00.000Z",
+    "homeId": 617,
+    "awayId": 955,
+    "homeName": "Panathinaikos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250504,
+    "date": "2024-08-18T17:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 1123,
+    "homeName": "Atromitos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250503,
+    "date": "2024-08-18T19:00:00.000Z",
+    "homeId": 575,
+    "awayId": 1124,
+    "homeName": "AEK Athens FC",
+    "awayName": "OFI",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250508,
+    "date": "2024-08-19T18:00:00.000Z",
+    "homeId": 949,
+    "awayId": 956,
+    "homeName": "Panetolikos",
+    "awayName": "Lamia",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250513,
+    "date": "2024-08-24T16:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 12260,
+    "homeName": "OFI",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250515,
+    "date": "2024-08-24T17:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 1123,
+    "homeName": "Panserraikos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250510,
+    "date": "2024-08-24T18:30:00.000Z",
+    "homeId": 575,
+    "awayId": 956,
+    "homeName": "AEK Athens FC",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250511,
+    "date": "2024-08-25T16:00:00.000Z",
+    "homeId": 955,
+    "awayId": 2110,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250516,
+    "date": "2024-08-25T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 949,
+    "homeName": "PAOK",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250514,
+    "date": "2024-08-25T18:00:00.000Z",
+    "homeId": 617,
+    "awayId": 957,
+    "homeName": "Panathinaikos",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250512,
+    "date": "2024-08-26T17:30:00.000Z",
+    "homeId": 553,
+    "awayId": 2095,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Kallithea",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250523,
+    "date": "2024-08-31T16:30:00.000Z",
+    "homeId": 956,
+    "awayId": 553,
+    "homeName": "Lamia",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1250518,
+    "date": "2024-08-31T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 955,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250522,
+    "date": "2024-08-31T19:00:00.000Z",
+    "homeId": 949,
+    "awayId": 2099,
+    "homeName": "Panetolikos",
+    "awayName": "Panserraikos",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250521,
+    "date": "2024-09-01T16:00:00.000Z",
+    "homeId": 957,
+    "awayId": 575,
+    "homeName": "Levadiakos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1250520,
+    "date": "2024-09-01T16:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 1124,
+    "homeName": "Volos NFC",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1250519,
+    "date": "2024-09-01T17:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 619,
+    "homeName": "Atromitos",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250517,
+    "date": "2024-09-01T19:00:00.000Z",
+    "homeId": 2095,
+    "awayId": 617,
+    "homeName": "Kallithea",
+    "awayName": "Panathinaikos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250530,
+    "date": "2024-09-14T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 2095,
+    "homeName": "Lamia",
+    "awayName": "Kallithea",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250525,
+    "date": "2024-09-14T17:00:00.000Z",
+    "homeId": 955,
+    "awayId": 12260,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250528,
+    "date": "2024-09-15T13:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 957,
+    "homeName": "Panserraikos",
+    "awayName": "Levadiakos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250526,
+    "date": "2024-09-15T15:30:00.000Z",
+    "homeId": 553,
+    "awayId": 949,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250529,
+    "date": "2024-09-15T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 617,
+    "homeName": "PAOK",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250527,
+    "date": "2024-09-15T17:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 1123,
+    "homeName": "OFI",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250524,
+    "date": "2024-09-16T17:00:00.000Z",
+    "homeId": 575,
+    "awayId": 2110,
+    "homeName": "AEK Athens FC",
+    "awayName": "Volos NFC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250534,
+    "date": "2024-09-21T14:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 619,
+    "homeName": "Volos NFC",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1250532,
+    "date": "2024-09-21T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 553,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250537,
+    "date": "2024-09-21T17:30:00.000Z",
+    "homeId": 949,
+    "awayId": 955,
+    "homeName": "Panetolikos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250535,
+    "date": "2024-09-22T13:30:00.000Z",
+    "homeId": 957,
+    "awayId": 1124,
+    "homeName": "Levadiakos",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250536,
+    "date": "2024-09-22T15:00:00.000Z",
+    "homeId": 617,
+    "awayId": 2099,
+    "homeName": "Panathinaikos",
+    "awayName": "Panserraikos",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250533,
+    "date": "2024-09-22T17:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 956,
+    "homeName": "Atromitos",
+    "awayName": "Lamia",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250531,
+    "date": "2024-09-22T18:00:00.000Z",
+    "homeId": 2095,
+    "awayId": 575,
+    "homeName": "Kallithea",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250540,
+    "date": "2024-09-28T14:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 2095,
+    "homeName": "Volos NFC",
+    "awayName": "Kallithea",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250539,
+    "date": "2024-09-28T17:00:00.000Z",
+    "homeId": 955,
+    "awayId": 957,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250542,
+    "date": "2024-09-29T14:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 949,
+    "homeName": "OFI",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250541,
+    "date": "2024-09-29T15:00:00.000Z",
+    "homeId": 553,
+    "awayId": 12260,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250543,
+    "date": "2024-09-29T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 1123,
+    "homeName": "PAOK",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250538,
+    "date": "2024-09-29T18:30:00.000Z",
+    "homeId": 575,
+    "awayId": 617,
+    "homeName": "AEK Athens FC",
+    "awayName": "Panathinaikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250544,
+    "date": "2024-09-30T17:00:00.000Z",
+    "homeId": 956,
+    "awayId": 2099,
+    "homeName": "Lamia",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250547,
+    "date": "2024-10-05T15:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 2110,
+    "homeName": "Atromitos",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250550,
+    "date": "2024-10-05T16:30:00.000Z",
+    "homeId": 949,
+    "awayId": 575,
+    "homeName": "Panetolikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250546,
+    "date": "2024-10-05T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 956,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Lamia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250551,
+    "date": "2024-10-06T13:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 1124,
+    "homeName": "Panserraikos",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1250545,
+    "date": "2024-10-06T14:00:00.000Z",
+    "homeId": 2095,
+    "awayId": 955,
+    "homeName": "Kallithea",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1250549,
+    "date": "2024-10-06T17:30:00.000Z",
+    "homeId": 617,
+    "awayId": 553,
+    "homeName": "Panathinaikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250548,
+    "date": "2024-10-06T17:30:00.000Z",
+    "homeId": 957,
+    "awayId": 619,
+    "homeName": "Levadiakos",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250555,
+    "date": "2024-10-19T14:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 2099,
+    "homeName": "Volos NFC",
+    "awayName": "Panserraikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250554,
+    "date": "2024-10-19T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 949,
+    "homeName": "Atromitos",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250558,
+    "date": "2024-10-19T17:30:00.000Z",
+    "homeId": 956,
+    "awayId": 955,
+    "homeName": "Lamia",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250556,
+    "date": "2024-10-20T13:00:00.000Z",
+    "homeId": 553,
+    "awayId": 957,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Levadiakos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250557,
+    "date": "2024-10-20T15:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 617,
+    "homeName": "OFI",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250553,
+    "date": "2024-10-20T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 2095,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Kallithea",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250552,
+    "date": "2024-10-20T17:30:00.000Z",
+    "homeId": 575,
+    "awayId": 619,
+    "homeName": "AEK Athens FC",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250563,
+    "date": "2024-10-26T14:00:00.000Z",
+    "homeId": 949,
+    "awayId": 2110,
+    "homeName": "Panetolikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250561,
+    "date": "2024-10-26T14:30:00.000Z",
+    "homeId": 957,
+    "awayId": 956,
+    "homeName": "Levadiakos",
+    "awayName": "Lamia",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250564,
+    "date": "2024-10-26T17:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 575,
+    "homeName": "Panserraikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250559,
+    "date": "2024-10-27T14:00:00.000Z",
+    "homeId": 955,
+    "awayId": 553,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250562,
+    "date": "2024-10-27T15:00:00.000Z",
+    "homeId": 617,
+    "awayId": 1123,
+    "homeName": "Panathinaikos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250565,
+    "date": "2024-10-27T19:00:00.000Z",
+    "homeId": 619,
+    "awayId": 1124,
+    "homeName": "PAOK",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250560,
+    "date": "2024-10-27T19:30:00.000Z",
+    "homeId": 2095,
+    "awayId": 12260,
+    "homeName": "Kallithea",
+    "awayName": "Atromitos",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1250571,
+    "date": "2024-11-02T15:00:00.000Z",
+    "homeId": 553,
+    "awayId": 2099,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Panserraikos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250567,
+    "date": "2024-11-02T18:30:00.000Z",
+    "homeId": 2095,
+    "awayId": 949,
+    "homeName": "Kallithea",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250568,
+    "date": "2024-11-03T14:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 957,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Levadiakos",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250570,
+    "date": "2024-11-03T15:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 617,
+    "homeName": "Volos NFC",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250572,
+    "date": "2024-11-03T18:30:00.000Z",
+    "homeId": 956,
+    "awayId": 619,
+    "homeName": "Lamia",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250569,
+    "date": "2024-11-03T18:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 575,
+    "homeName": "Atromitos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250566,
+    "date": "2024-11-04T15:30:00.000Z",
+    "homeId": 955,
+    "awayId": 1124,
+    "homeName": "Asteras Tripolis",
+    "awayName": "OFI",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250577,
+    "date": "2024-11-09T15:00:00.000Z",
+    "homeId": 949,
+    "awayId": 1123,
+    "homeName": "Panetolikos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250578,
+    "date": "2024-11-09T16:45:00.000Z",
+    "homeId": 2099,
+    "awayId": 12260,
+    "homeName": "Panserraikos",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1250573,
+    "date": "2024-11-09T18:00:00.000Z",
+    "homeId": 575,
+    "awayId": 955,
+    "homeName": "AEK Athens FC",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250575,
+    "date": "2024-11-10T14:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 2095,
+    "homeName": "OFI",
+    "awayName": "Kallithea",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250574,
+    "date": "2024-11-10T14:30:00.000Z",
+    "homeId": 957,
+    "awayId": 2110,
+    "homeName": "Levadiakos",
+    "awayName": "Volos NFC",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250576,
+    "date": "2024-11-10T17:30:00.000Z",
+    "homeId": 617,
+    "awayId": 956,
+    "homeName": "Panathinaikos",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250579,
+    "date": "2024-11-10T18:30:00.000Z",
+    "homeId": 619,
+    "awayId": 553,
+    "homeName": "PAOK",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1250581,
+    "date": "2024-11-22T17:30:00.000Z",
+    "homeId": 2095,
+    "awayId": 2099,
+    "homeName": "Kallithea",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250586,
+    "date": "2024-11-23T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 1124,
+    "homeName": "Lamia",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250582,
+    "date": "2024-11-23T17:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 2110,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250585,
+    "date": "2024-11-24T15:00:00.000Z",
+    "homeId": 949,
+    "awayId": 617,
+    "homeName": "Panetolikos",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250580,
+    "date": "2024-11-24T17:30:00.000Z",
+    "homeId": 955,
+    "awayId": 619,
+    "homeName": "Asteras Tripolis",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250584,
+    "date": "2024-11-24T18:30:00.000Z",
+    "homeId": 553,
+    "awayId": 575,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250583,
+    "date": "2024-11-25T16:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 957,
+    "homeName": "Atromitos",
+    "awayName": "Levadiakos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250588,
+    "date": "2024-11-30T15:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 956,
+    "homeName": "Volos NFC",
+    "awayName": "Lamia",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250589,
+    "date": "2024-11-30T17:30:00.000Z",
+    "homeId": 957,
+    "awayId": 949,
+    "homeName": "Levadiakos",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250587,
+    "date": "2024-11-30T18:30:00.000Z",
+    "homeId": 575,
+    "awayId": 1123,
+    "homeName": "AEK Athens FC",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250592,
+    "date": "2024-12-01T13:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 955,
+    "homeName": "Panserraikos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250590,
+    "date": "2024-12-01T15:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 553,
+    "homeName": "OFI",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250593,
+    "date": "2024-12-01T17:00:00.000Z",
+    "homeId": 619,
+    "awayId": 2095,
+    "homeName": "PAOK",
+    "awayName": "Kallithea",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250591,
+    "date": "2024-12-01T18:30:00.000Z",
+    "homeId": 617,
+    "awayId": 12260,
+    "homeName": "Panathinaikos",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250597,
+    "date": "2024-12-07T15:00:00.000Z",
+    "homeId": 553,
+    "awayId": 2110,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Volos NFC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250596,
+    "date": "2024-12-07T17:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 12260,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250599,
+    "date": "2024-12-08T13:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 619,
+    "homeName": "Panserraikos",
+    "awayName": "PAOK",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1250598,
+    "date": "2024-12-08T15:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 575,
+    "homeName": "OFI",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250594,
+    "date": "2024-12-08T17:00:00.000Z",
+    "homeId": 955,
+    "awayId": 617,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250600,
+    "date": "2024-12-08T18:30:00.000Z",
+    "homeId": 956,
+    "awayId": 949,
+    "homeName": "Lamia",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250595,
+    "date": "2024-12-09T15:30:00.000Z",
+    "homeId": 2095,
+    "awayId": 957,
+    "homeName": "Kallithea",
+    "awayName": "Levadiakos",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": 1250607,
+    "date": "2024-12-14T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 575,
+    "homeName": "Lamia",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250603,
+    "date": "2024-12-14T17:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 1124,
+    "homeName": "Atromitos",
+    "awayName": "OFI",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250604,
+    "date": "2024-12-14T18:30:00.000Z",
+    "homeId": 2110,
+    "awayId": 955,
+    "homeName": "Volos NFC",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250602,
+    "date": "2024-12-15T13:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 2099,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250605,
+    "date": "2024-12-15T16:00:00.000Z",
+    "homeId": 957,
+    "awayId": 617,
+    "homeName": "Levadiakos",
+    "awayName": "Panathinaikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250606,
+    "date": "2024-12-15T17:00:00.000Z",
+    "homeId": 949,
+    "awayId": 619,
+    "homeName": "Panetolikos",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250601,
+    "date": "2024-12-16T18:30:00.000Z",
+    "homeId": 2095,
+    "awayId": 553,
+    "homeName": "Kallithea",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250610,
+    "date": "2024-12-21T17:00:00.000Z",
+    "homeId": 553,
+    "awayId": 956,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250613,
+    "date": "2024-12-22T13:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 949,
+    "homeName": "Panserraikos",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250612,
+    "date": "2024-12-22T16:00:00.000Z",
+    "homeId": 617,
+    "awayId": 2095,
+    "homeName": "Panathinaikos",
+    "awayName": "Kallithea",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250614,
+    "date": "2024-12-22T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 12260,
+    "homeName": "PAOK",
+    "awayName": "Atromitos",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250608,
+    "date": "2024-12-22T19:00:00.000Z",
+    "homeId": 575,
+    "awayId": 957,
+    "homeName": "AEK Athens FC",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250609,
+    "date": "2024-12-23T13:00:00.000Z",
+    "homeId": 955,
+    "awayId": 1123,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250611,
+    "date": "2024-12-23T16:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 2110,
+    "homeName": "OFI",
+    "awayName": "Volos NFC",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250615,
+    "date": "2025-01-04T15:00:00.000Z",
+    "homeId": 2095,
+    "awayId": 956,
+    "homeName": "Kallithea",
+    "awayName": "Lamia",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250619,
+    "date": "2025-01-05T13:00:00.000Z",
+    "homeId": 957,
+    "awayId": 2099,
+    "homeName": "Levadiakos",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250616,
+    "date": "2025-01-05T14:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 1124,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "OFI",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250618,
+    "date": "2025-01-05T15:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 575,
+    "homeName": "Volos NFC",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "id": 1250617,
+    "date": "2025-01-05T17:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 955,
+    "homeName": "Atromitos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250620,
+    "date": "2025-01-05T18:30:00.000Z",
+    "homeId": 617,
+    "awayId": 619,
+    "homeName": "Panathinaikos",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250621,
+    "date": "2025-01-06T16:00:00.000Z",
+    "homeId": 949,
+    "awayId": 553,
+    "homeName": "Panetolikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250624,
+    "date": "2025-01-11T18:30:00.000Z",
+    "homeId": 553,
+    "awayId": 1123,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250626,
+    "date": "2025-01-12T14:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 617,
+    "homeName": "Panserraikos",
+    "awayName": "Panathinaikos",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250628,
+    "date": "2025-01-12T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 12260,
+    "homeName": "Lamia",
+    "awayName": "Atromitos",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1250627,
+    "date": "2025-01-12T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 2110,
+    "homeName": "PAOK",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250622,
+    "date": "2025-01-12T18:30:00.000Z",
+    "homeId": 575,
+    "awayId": 2095,
+    "homeName": "AEK Athens FC",
+    "awayName": "Kallithea",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250623,
+    "date": "2025-01-13T16:00:00.000Z",
+    "homeId": 955,
+    "awayId": 949,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250625,
+    "date": "2025-01-13T16:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 957,
+    "homeName": "OFI",
+    "awayName": "Levadiakos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250629,
+    "date": "2025-01-18T15:00:00.000Z",
+    "homeId": 2095,
+    "awayId": 2110,
+    "homeName": "Kallithea",
+    "awayName": "Volos NFC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250631,
+    "date": "2025-01-19T13:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 553,
+    "homeName": "Atromitos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250634,
+    "date": "2025-01-19T14:30:00.000Z",
+    "homeId": 949,
+    "awayId": 1124,
+    "homeName": "Panetolikos",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250632,
+    "date": "2025-01-19T14:30:00.000Z",
+    "homeId": 957,
+    "awayId": 955,
+    "homeName": "Levadiakos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250630,
+    "date": "2025-01-19T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 619,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250633,
+    "date": "2025-01-19T18:30:00.000Z",
+    "homeId": 617,
+    "awayId": 575,
+    "homeName": "Panathinaikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250635,
+    "date": "2025-01-20T16:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 956,
+    "homeName": "Panserraikos",
+    "awayName": "Lamia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250638,
+    "date": "2025-01-24T18:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 12260,
+    "homeName": "Volos NFC",
+    "awayName": "Atromitos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250637,
+    "date": "2025-01-25T15:00:00.000Z",
+    "homeId": 955,
+    "awayId": 2095,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Kallithea",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250640,
+    "date": "2025-01-25T15:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 2099,
+    "homeName": "OFI",
+    "awayName": "Panserraikos",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250636,
+    "date": "2025-01-25T18:00:00.000Z",
+    "homeId": 575,
+    "awayId": 949,
+    "homeName": "AEK Athens FC",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250642,
+    "date": "2025-01-26T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 1123,
+    "homeName": "Lamia",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250641,
+    "date": "2025-01-26T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 957,
+    "homeName": "PAOK",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250639,
+    "date": "2025-01-26T18:30:00.000Z",
+    "homeId": 553,
+    "awayId": 617,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250646,
+    "date": "2025-02-01T16:00:00.000Z",
+    "homeId": 617,
+    "awayId": 1124,
+    "homeName": "Panathinaikos",
+    "awayName": "OFI",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250648,
+    "date": "2025-02-01T17:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 2110,
+    "homeName": "Panserraikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250645,
+    "date": "2025-02-02T14:30:00.000Z",
+    "homeId": 957,
+    "awayId": 553,
+    "homeName": "Levadiakos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250644,
+    "date": "2025-02-02T15:00:00.000Z",
+    "homeId": 2095,
+    "awayId": 1123,
+    "homeName": "Kallithea",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250649,
+    "date": "2025-02-02T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 575,
+    "homeName": "PAOK",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250647,
+    "date": "2025-02-02T18:30:00.000Z",
+    "homeId": 949,
+    "awayId": 12260,
+    "homeName": "Panetolikos",
+    "awayName": "Atromitos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250643,
+    "date": "2025-02-03T16:00:00.000Z",
+    "homeId": 955,
+    "awayId": 956,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250653,
+    "date": "2025-02-08T15:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 949,
+    "homeName": "Volos NFC",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250655,
+    "date": "2025-02-08T18:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 619,
+    "homeName": "OFI",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "id": 1250654,
+    "date": "2025-02-09T15:00:00.000Z",
+    "homeId": 553,
+    "awayId": 955,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250651,
+    "date": "2025-02-09T17:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 617,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Panathinaikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250650,
+    "date": "2025-02-09T18:30:00.000Z",
+    "homeId": 575,
+    "awayId": 2099,
+    "homeName": "AEK Athens FC",
+    "awayName": "Panserraikos",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250656,
+    "date": "2025-02-10T16:00:00.000Z",
+    "homeId": 956,
+    "awayId": 957,
+    "homeName": "Lamia",
+    "awayName": "Levadiakos",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250652,
+    "date": "2025-02-10T16:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 2095,
+    "homeName": "Atromitos",
+    "awayName": "Kallithea",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250659,
+    "date": "2025-02-15T15:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 955,
+    "homeName": "OFI",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250657,
+    "date": "2025-02-15T18:00:00.000Z",
+    "homeId": 575,
+    "awayId": 12260,
+    "homeName": "AEK Athens FC",
+    "awayName": "Atromitos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250658,
+    "date": "2025-02-16T13:00:00.000Z",
+    "homeId": 957,
+    "awayId": 1123,
+    "homeName": "Levadiakos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250660,
+    "date": "2025-02-16T15:00:00.000Z",
+    "homeId": 617,
+    "awayId": 2110,
+    "homeName": "Panathinaikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250662,
+    "date": "2025-02-16T15:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 553,
+    "homeName": "Panserraikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1250663,
+    "date": "2025-02-16T18:00:00.000Z",
+    "homeId": 619,
+    "awayId": 956,
+    "homeName": "PAOK",
+    "awayName": "Lamia",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250661,
+    "date": "2025-02-16T18:30:00.000Z",
+    "homeId": 949,
+    "awayId": 2095,
+    "homeName": "Panetolikos",
+    "awayName": "Kallithea",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250665,
+    "date": "2025-02-22T15:00:00.000Z",
+    "homeId": 2095,
+    "awayId": 1124,
+    "homeName": "Kallithea",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1250667,
+    "date": "2025-02-22T17:30:00.000Z",
+    "homeId": 12260,
+    "awayId": 2099,
+    "homeName": "Atromitos",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250668,
+    "date": "2025-02-22T18:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 957,
+    "homeName": "Volos NFC",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250666,
+    "date": "2025-02-23T14:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 949,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250670,
+    "date": "2025-02-23T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 617,
+    "homeName": "Lamia",
+    "awayName": "Panathinaikos",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250664,
+    "date": "2025-02-23T17:30:00.000Z",
+    "homeId": 955,
+    "awayId": 575,
+    "homeName": "Asteras Tripolis",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1250669,
+    "date": "2025-02-23T18:30:00.000Z",
+    "homeId": 553,
+    "awayId": 619,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250676,
+    "date": "2025-03-01T15:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 2095,
+    "homeName": "Panserraikos",
+    "awayName": "Kallithea",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250672,
+    "date": "2025-03-01T15:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 1123,
+    "homeName": "Volos NFC",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250675,
+    "date": "2025-03-01T18:00:00.000Z",
+    "homeId": 617,
+    "awayId": 949,
+    "homeName": "Panathinaikos",
+    "awayName": "Panetolikos",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250673,
+    "date": "2025-03-02T14:30:00.000Z",
+    "homeId": 957,
+    "awayId": 12260,
+    "homeName": "Levadiakos",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250674,
+    "date": "2025-03-02T15:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 956,
+    "homeName": "OFI",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250677,
+    "date": "2025-03-02T17:30:00.000Z",
+    "homeId": 619,
+    "awayId": 955,
+    "homeName": "PAOK",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250671,
+    "date": "2025-03-02T18:30:00.000Z",
+    "homeId": 575,
+    "awayId": 553,
+    "homeName": "AEK Athens FC",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250682,
+    "date": "2025-03-09T17:00:00.000Z",
+    "homeId": 553,
+    "awayId": 1124,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "OFI",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250683,
+    "date": "2025-03-09T17:00:00.000Z",
+    "homeId": 949,
+    "awayId": 957,
+    "homeName": "Panetolikos",
+    "awayName": "Levadiakos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250678,
+    "date": "2025-03-09T17:00:00.000Z",
+    "homeId": 955,
+    "awayId": 2099,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1250684,
+    "date": "2025-03-09T17:00:00.000Z",
+    "homeId": 956,
+    "awayId": 2110,
+    "homeName": "Lamia",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250680,
+    "date": "2025-03-09T17:00:00.000Z",
+    "homeId": 1123,
+    "awayId": 575,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1250679,
+    "date": "2025-03-09T17:00:00.000Z",
+    "homeId": 2095,
+    "awayId": 619,
+    "homeName": "Kallithea",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1250681,
+    "date": "2025-03-09T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 617,
+    "homeName": "Atromitos",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360708,
+    "date": "2025-03-29T14:30:00.000Z",
+    "homeId": 1124,
+    "awayId": 12260,
+    "homeName": "OFI",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360720,
+    "date": "2025-03-29T16:30:00.000Z",
+    "homeId": 2095,
+    "awayId": 2110,
+    "homeName": "Kallithea",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360709,
+    "date": "2025-03-29T17:30:00.000Z",
+    "homeId": 955,
+    "awayId": 1123,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360721,
+    "date": "2025-03-29T18:30:00.000Z",
+    "homeId": 949,
+    "awayId": 957,
+    "homeName": "Panetolikos",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360722,
+    "date": "2025-03-30T14:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 956,
+    "homeName": "Panserraikos",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360696,
+    "date": "2025-03-30T16:00:00.000Z",
+    "homeId": 575,
+    "awayId": 619,
+    "homeName": "AEK Athens FC",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1360697,
+    "date": "2025-03-30T18:00:00.000Z",
+    "homeId": 553,
+    "awayId": 617,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Panathinaikos",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360723,
+    "date": "2025-04-05T14:00:00.000Z",
+    "homeId": 957,
+    "awayId": 2099,
+    "homeName": "Levadiakos",
+    "awayName": "Panserraikos",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360710,
+    "date": "2025-04-05T16:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 1124,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360724,
+    "date": "2025-04-05T17:00:00.000Z",
+    "homeId": 956,
+    "awayId": 2095,
+    "homeName": "Lamia",
+    "awayName": "Kallithea",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360725,
+    "date": "2025-04-06T14:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 949,
+    "homeName": "Volos NFC",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360698,
+    "date": "2025-04-06T16:30:00.000Z",
+    "homeId": 619,
+    "awayId": 553,
+    "homeName": "PAOK",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360699,
+    "date": "2025-04-06T18:30:00.000Z",
+    "homeId": 617,
+    "awayId": 575,
+    "homeName": "Panathinaikos",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360711,
+    "date": "2025-04-07T15:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 955,
+    "homeName": "Atromitos",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360726,
+    "date": "2025-04-12T14:00:00.000Z",
+    "homeId": 949,
+    "awayId": 956,
+    "homeName": "Panetolikos",
+    "awayName": "Lamia",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360727,
+    "date": "2025-04-12T16:30:00.000Z",
+    "homeId": 2099,
+    "awayId": 2095,
+    "homeName": "Panserraikos",
+    "awayName": "Kallithea",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360728,
+    "date": "2025-04-12T17:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 957,
+    "homeName": "Volos NFC",
+    "awayName": "Levadiakos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360712,
+    "date": "2025-04-13T13:30:00.000Z",
+    "homeId": 955,
+    "awayId": 1124,
+    "homeName": "Asteras Tripolis",
+    "awayName": "OFI",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360700,
+    "date": "2025-04-13T16:00:00.000Z",
+    "homeId": 617,
+    "awayId": 619,
+    "homeName": "Panathinaikos",
+    "awayName": "PAOK",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360713,
+    "date": "2025-04-13T16:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 12260,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360701,
+    "date": "2025-04-13T18:00:00.000Z",
+    "homeId": 553,
+    "awayId": 575,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360730,
+    "date": "2025-04-23T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 2110,
+    "homeName": "Lamia",
+    "awayName": "Volos NFC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1360729,
+    "date": "2025-04-23T15:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 949,
+    "homeName": "Panserraikos",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360731,
+    "date": "2025-04-23T17:30:00.000Z",
+    "homeId": 2095,
+    "awayId": 957,
+    "homeName": "Kallithea",
+    "awayName": "Levadiakos",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1360715,
+    "date": "2025-04-26T17:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 955,
+    "homeName": "OFI",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360714,
+    "date": "2025-04-26T17:00:00.000Z",
+    "homeId": 12260,
+    "awayId": 1123,
+    "homeName": "Atromitos",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360702,
+    "date": "2025-04-27T17:00:00.000Z",
+    "homeId": 575,
+    "awayId": 553,
+    "homeName": "AEK Athens FC",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360703,
+    "date": "2025-04-27T17:00:00.000Z",
+    "homeId": 619,
+    "awayId": 617,
+    "homeName": "PAOK",
+    "awayName": "Panathinaikos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360733,
+    "date": "2025-04-28T15:00:00.000Z",
+    "homeId": 949,
+    "awayId": 2095,
+    "homeName": "Panetolikos",
+    "awayName": "Kallithea",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360732,
+    "date": "2025-04-28T15:00:00.000Z",
+    "homeId": 957,
+    "awayId": 956,
+    "homeName": "Levadiakos",
+    "awayName": "Lamia",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360734,
+    "date": "2025-04-28T17:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 2099,
+    "homeName": "Volos NFC",
+    "awayName": "Panserraikos",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360716,
+    "date": "2025-05-03T17:00:00.000Z",
+    "homeId": 955,
+    "awayId": 12260,
+    "homeName": "Asteras Tripolis",
+    "awayName": "Atromitos",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 1360717,
+    "date": "2025-05-03T17:00:00.000Z",
+    "homeId": 1124,
+    "awayId": 1123,
+    "homeName": "OFI",
+    "awayName": "Aris Thessalonikis",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360705,
+    "date": "2025-05-04T17:00:00.000Z",
+    "homeId": 553,
+    "awayId": 619,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "PAOK",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360704,
+    "date": "2025-05-04T17:00:00.000Z",
+    "homeId": 575,
+    "awayId": 617,
+    "homeName": "AEK Athens FC",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360736,
+    "date": "2025-05-05T15:00:00.000Z",
+    "homeId": 2095,
+    "awayId": 949,
+    "homeName": "Kallithea",
+    "awayName": "Panetolikos",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360735,
+    "date": "2025-05-05T15:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 2110,
+    "homeName": "Panserraikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360737,
+    "date": "2025-05-05T17:00:00.000Z",
+    "homeId": 956,
+    "awayId": 957,
+    "homeName": "Lamia",
+    "awayName": "Levadiakos",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1360739,
+    "date": "2025-05-10T14:00:00.000Z",
+    "homeId": 956,
+    "awayId": 2099,
+    "homeName": "Lamia",
+    "awayName": "Panserraikos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360738,
+    "date": "2025-05-10T14:00:00.000Z",
+    "homeId": 957,
+    "awayId": 2095,
+    "homeName": "Levadiakos",
+    "awayName": "Kallithea",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360718,
+    "date": "2025-05-10T15:30:00.000Z",
+    "homeId": 1123,
+    "awayId": 955,
+    "homeName": "Aris Thessalonikis",
+    "awayName": "Asteras Tripolis",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360719,
+    "date": "2025-05-10T16:15:00.000Z",
+    "homeId": 12260,
+    "awayId": 1124,
+    "homeName": "Atromitos",
+    "awayName": "OFI",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360740,
+    "date": "2025-05-10T17:00:00.000Z",
+    "homeId": 949,
+    "awayId": 2110,
+    "homeName": "Panetolikos",
+    "awayName": "Volos NFC",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1360707,
+    "date": "2025-05-11T17:00:00.000Z",
+    "homeId": 617,
+    "awayId": 553,
+    "homeName": "Panathinaikos",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360706,
+    "date": "2025-05-11T17:00:00.000Z",
+    "homeId": 619,
+    "awayId": 575,
+    "homeName": "PAOK",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360743,
+    "date": "2025-05-14T15:00:00.000Z",
+    "homeId": 957,
+    "awayId": 949,
+    "homeName": "Levadiakos",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360741,
+    "date": "2025-05-14T17:00:00.000Z",
+    "homeId": 2095,
+    "awayId": 2099,
+    "homeName": "Kallithea",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360742,
+    "date": "2025-05-14T17:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 956,
+    "homeName": "Volos NFC",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360745,
+    "date": "2025-05-18T12:00:00.000Z",
+    "homeId": 2099,
+    "awayId": 957,
+    "homeName": "Panserraikos",
+    "awayName": "Levadiakos",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1360746,
+    "date": "2025-05-18T15:00:00.000Z",
+    "homeId": 956,
+    "awayId": 949,
+    "homeName": "Lamia",
+    "awayName": "Panetolikos",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1360744,
+    "date": "2025-05-18T17:00:00.000Z",
+    "homeId": 2110,
+    "awayId": 2095,
+    "homeName": "Volos NFC",
+    "awayName": "Kallithea",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360749,
+    "date": "2025-05-22T15:00:00.000Z",
+    "homeId": 949,
+    "awayId": 2099,
+    "homeName": "Panetolikos",
+    "awayName": "Panserraikos",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1360748,
+    "date": "2025-05-22T15:00:00.000Z",
+    "homeId": 957,
+    "awayId": 2110,
+    "homeName": "Levadiakos",
+    "awayName": "Volos NFC",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1360747,
+    "date": "2025-05-22T17:00:00.000Z",
+    "homeId": 2095,
+    "awayId": 956,
+    "homeName": "Kallithea",
+    "awayName": "Lamia",
+    "homeGoals": 3,
+    "awayGoals": 0
+  }
+]

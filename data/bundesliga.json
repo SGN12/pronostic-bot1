@@ -1,0 +1,8309 @@
+[
+  {
+    "date": "2022-08-05T18:30:00+00:00",
+    "homeId": 169,
+    "awayId": 157,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "date": "2022-08-06T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 162,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-06T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 167,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-06T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 160,
+    "homeName": "FC Augsburg",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-08-06T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 164,
+    "homeName": "Vfl Bochum",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-06T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 159,
+    "homeName": "Union Berlin",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-06T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 168,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-07T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 173,
+    "homeName": "VfB Stuttgart",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-07T15:30:00+00:00",
+    "homeId": 192,
+    "awayId": 174,
+    "homeName": "1. FC Köln",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-12T18:30:00+00:00",
+    "homeId": 160,
+    "awayId": 165,
+    "homeName": "SC Freiburg",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-13T13:30:00+00:00",
+    "homeId": 159,
+    "awayId": 169,
+    "homeName": "Hertha Berlin",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-13T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 172,
+    "homeName": "Werder Bremen",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-13T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 176,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-13T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 170,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-13T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 192,
+    "homeName": "RB Leipzig",
+    "awayName": "1. FC Köln",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-13T16:30:00+00:00",
+    "homeId": 174,
+    "awayId": 163,
+    "homeName": "FC Schalke 04",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-14T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 182,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-14T15:30:00+00:00",
+    "homeId": 157,
+    "awayId": 161,
+    "homeName": "Bayern Munich",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-19T18:30:00+00:00",
+    "homeId": 163,
+    "awayId": 159,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-20T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 174,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-20T13:30:00+00:00",
+    "homeId": 165,
+    "awayId": 162,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-20T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 167,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-20T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 164,
+    "homeName": "FC Augsburg",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-20T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 160,
+    "homeName": "VfB Stuttgart",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-20T16:30:00+00:00",
+    "homeId": 182,
+    "awayId": 173,
+    "homeName": "Union Berlin",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-21T13:30:00+00:00",
+    "homeId": 169,
+    "awayId": 192,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-21T15:30:00+00:00",
+    "homeId": 176,
+    "awayId": 157,
+    "homeName": "Vfl Bochum",
+    "awayName": "Bayern Munich",
+    "homeGoals": 0,
+    "awayGoals": 7
+  },
+  {
+    "date": "2022-08-26T18:30:00+00:00",
+    "homeId": 160,
+    "awayId": 176,
+    "homeName": "SC Freiburg",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-27T13:30:00+00:00",
+    "homeId": 159,
+    "awayId": 165,
+    "homeName": "Hertha Berlin",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-27T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 168,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-27T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 170,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-27T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 161,
+    "homeName": "RB Leipzig",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-27T13:30:00+00:00",
+    "homeId": 174,
+    "awayId": 182,
+    "homeName": "FC Schalke 04",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "date": "2022-08-27T16:30:00+00:00",
+    "homeId": 157,
+    "awayId": 163,
+    "homeName": "Bayern Munich",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-28T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 172,
+    "homeName": "1. FC Köln",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-28T15:30:00+00:00",
+    "homeId": 162,
+    "awayId": 169,
+    "homeName": "Werder Bremen",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-09-02T18:30:00+00:00",
+    "homeId": 165,
+    "awayId": 167,
+    "homeName": "Borussia Dortmund",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-03T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 192,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "1. FC Köln",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-09-03T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 160,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "SC Freiburg",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-09-03T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 174,
+    "homeName": "VfB Stuttgart",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-03T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 162,
+    "homeName": "Vfl Bochum",
+    "awayName": "Werder Bremen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-03T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 157,
+    "homeName": "Union Berlin",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-03T16:30:00+00:00",
+    "homeId": 169,
+    "awayId": 173,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "RB Leipzig",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-04T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 159,
+    "homeName": "FC Augsburg",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-04T15:30:00+00:00",
+    "homeId": 163,
+    "awayId": 164,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-09T18:30:00+00:00",
+    "homeId": 162,
+    "awayId": 170,
+    "homeName": "Werder Bremen",
+    "awayName": "FC Augsburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-10T13:30:00+00:00",
+    "homeId": 157,
+    "awayId": 172,
+    "homeName": "Bayern Munich",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-10T13:30:00+00:00",
+    "homeId": 159,
+    "awayId": 168,
+    "homeName": "Hertha Berlin",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-10T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 164,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-10T13:30:00+00:00",
+    "homeId": 169,
+    "awayId": 161,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-10T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 165,
+    "homeName": "RB Leipzig",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-10T16:30:00+00:00",
+    "homeId": 174,
+    "awayId": 176,
+    "homeName": "FC Schalke 04",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-11T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 182,
+    "homeName": "1. FC Köln",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-11T15:30:00+00:00",
+    "homeId": 160,
+    "awayId": 163,
+    "homeName": "SC Freiburg",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-16T18:30:00+00:00",
+    "homeId": 164,
+    "awayId": 159,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-17T13:30:00+00:00",
+    "homeId": 165,
+    "awayId": 174,
+    "homeName": "Borussia Dortmund",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-17T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 162,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-17T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 157,
+    "homeName": "FC Augsburg",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-17T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 169,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-09-17T16:30:00+00:00",
+    "homeId": 163,
+    "awayId": 173,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "RB Leipzig",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-18T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 161,
+    "homeName": "Union Berlin",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-18T15:30:00+00:00",
+    "homeId": 176,
+    "awayId": 192,
+    "homeName": "Vfl Bochum",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-18T17:30:00+00:00",
+    "homeId": 167,
+    "awayId": 160,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-30T18:30:00+00:00",
+    "homeId": 157,
+    "awayId": 168,
+    "homeName": "Bayern Munich",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-01T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 164,
+    "homeName": "SC Freiburg",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-01T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 172,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-01T13:30:00+00:00",
+    "homeId": 169,
+    "awayId": 182,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Union Berlin",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-01T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 176,
+    "homeName": "RB Leipzig",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-01T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 165,
+    "homeName": "1. FC Köln",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-01T16:30:00+00:00",
+    "homeId": 162,
+    "awayId": 163,
+    "homeName": "Werder Bremen",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-02T13:30:00+00:00",
+    "homeId": 159,
+    "awayId": 167,
+    "homeName": "Hertha Berlin",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-02T15:30:00+00:00",
+    "homeId": 174,
+    "awayId": 170,
+    "homeName": "FC Schalke 04",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-07T18:30:00+00:00",
+    "homeId": 167,
+    "awayId": 162,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-08T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 173,
+    "homeName": "FSV Mainz 05",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-08T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 174,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-08T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 161,
+    "homeName": "FC Augsburg",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-08T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 169,
+    "homeName": "Vfl Bochum",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-08T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 157,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Bayern Munich",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-09T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 192,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "1. FC Köln",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-09T15:30:00+00:00",
+    "homeId": 159,
+    "awayId": 160,
+    "homeName": "Hertha Berlin",
+    "awayName": "SC Freiburg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-09T17:30:00+00:00",
+    "homeId": 172,
+    "awayId": 182,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-14T18:30:00+00:00",
+    "homeId": 174,
+    "awayId": 167,
+    "homeName": "FC Schalke 04",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-15T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 163,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-15T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 164,
+    "homeName": "Werder Bremen",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-15T13:30:00+00:00",
+    "homeId": 169,
+    "awayId": 168,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-15T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 176,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-15T16:30:00+00:00",
+    "homeId": 173,
+    "awayId": 159,
+    "homeName": "RB Leipzig",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-16T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 170,
+    "homeName": "1. FC Köln",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-16T15:30:00+00:00",
+    "homeId": 182,
+    "awayId": 165,
+    "homeName": "Union Berlin",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-16T17:30:00+00:00",
+    "homeId": 157,
+    "awayId": 160,
+    "homeName": "Bayern Munich",
+    "awayName": "SC Freiburg",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-21T18:30:00+00:00",
+    "homeId": 164,
+    "awayId": 192,
+    "homeName": "FSV Mainz 05",
+    "awayName": "1. FC Köln",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-22T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 162,
+    "homeName": "SC Freiburg",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-22T13:30:00+00:00",
+    "homeId": 165,
+    "awayId": 172,
+    "homeName": "Borussia Dortmund",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-22T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 157,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Bayern Munich",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-22T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 161,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-22T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 173,
+    "homeName": "FC Augsburg",
+    "awayName": "RB Leipzig",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-22T16:30:00+00:00",
+    "homeId": 163,
+    "awayId": 169,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-23T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 182,
+    "homeName": "Vfl Bochum",
+    "awayName": "Union Berlin",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-23T15:30:00+00:00",
+    "homeId": 159,
+    "awayId": 174,
+    "homeName": "Hertha Berlin",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-28T18:30:00+00:00",
+    "homeId": 162,
+    "awayId": 159,
+    "homeName": "Werder Bremen",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-29T13:30:00+00:00",
+    "homeId": 157,
+    "awayId": 164,
+    "homeName": "Bayern Munich",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 6,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-29T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 176,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-29T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 170,
+    "homeName": "VfB Stuttgart",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-29T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 168,
+    "homeName": "RB Leipzig",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-29T16:30:00+00:00",
+    "homeId": 169,
+    "awayId": 165,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-30T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 163,
+    "homeName": "Union Berlin",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-30T16:30:00+00:00",
+    "homeId": 174,
+    "awayId": 160,
+    "homeName": "FC Schalke 04",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-30T18:30:00+00:00",
+    "homeId": 192,
+    "awayId": 167,
+    "homeName": "1. FC Köln",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-04T19:30:00+00:00",
+    "homeId": 163,
+    "awayId": 172,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-05T14:30:00+00:00",
+    "homeId": 159,
+    "awayId": 157,
+    "homeName": "Hertha Berlin",
+    "awayName": "Bayern Munich",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-11-05T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 161,
+    "homeName": "FSV Mainz 05",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-11-05T14:30:00+00:00",
+    "homeId": 165,
+    "awayId": 176,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-05T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 173,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-11-05T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 169,
+    "homeName": "FC Augsburg",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-05T17:30:00+00:00",
+    "homeId": 162,
+    "awayId": 174,
+    "homeName": "Werder Bremen",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-06T14:30:00+00:00",
+    "homeId": 168,
+    "awayId": 182,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Union Berlin",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-06T16:30:00+00:00",
+    "homeId": 160,
+    "awayId": 192,
+    "homeName": "SC Freiburg",
+    "awayName": "1. FC Köln",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-08T17:30:00+00:00",
+    "homeId": 161,
+    "awayId": 165,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-08T19:30:00+00:00",
+    "homeId": 157,
+    "awayId": 162,
+    "homeName": "Bayern Munich",
+    "awayName": "Werder Bremen",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-08T19:30:00+00:00",
+    "homeId": 172,
+    "awayId": 159,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-08T19:30:00+00:00",
+    "homeId": 176,
+    "awayId": 163,
+    "homeName": "Vfl Bochum",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-09T17:30:00+00:00",
+    "homeId": 192,
+    "awayId": 168,
+    "homeName": "1. FC Köln",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-09T19:30:00+00:00",
+    "homeId": 169,
+    "awayId": 167,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-09T19:30:00+00:00",
+    "homeId": 173,
+    "awayId": 160,
+    "homeName": "RB Leipzig",
+    "awayName": "SC Freiburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-09T19:30:00+00:00",
+    "homeId": 174,
+    "awayId": 164,
+    "homeName": "FC Schalke 04",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-09T19:30:00+00:00",
+    "homeId": 182,
+    "awayId": 170,
+    "homeName": "Union Berlin",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-11T19:30:00+00:00",
+    "homeId": 163,
+    "awayId": 165,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-12T14:30:00+00:00",
+    "homeId": 159,
+    "awayId": 192,
+    "homeName": "Hertha Berlin",
+    "awayName": "1. FC Köln",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-12T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 173,
+    "homeName": "Werder Bremen",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-12T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 161,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-12T14:30:00+00:00",
+    "homeId": 168,
+    "awayId": 172,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-12T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 176,
+    "homeName": "FC Augsburg",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-12T17:30:00+00:00",
+    "homeId": 174,
+    "awayId": 157,
+    "homeName": "FC Schalke 04",
+    "awayName": "Bayern Munich",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-13T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 169,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-13T16:30:00+00:00",
+    "homeId": 160,
+    "awayId": 182,
+    "homeName": "SC Freiburg",
+    "awayName": "Union Berlin",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-20T19:30:00+00:00",
+    "homeId": 173,
+    "awayId": 157,
+    "homeName": "RB Leipzig",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-21T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 160,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "SC Freiburg",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-21T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 174,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-21T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 164,
+    "homeName": "VfB Stuttgart",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-21T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 159,
+    "homeName": "Vfl Bochum",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-21T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 167,
+    "homeName": "Union Berlin",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-21T17:30:00+00:00",
+    "homeId": 192,
+    "awayId": 162,
+    "homeName": "1. FC Köln",
+    "awayName": "Werder Bremen",
+    "homeGoals": 7,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-22T14:30:00+00:00",
+    "homeId": 165,
+    "awayId": 170,
+    "homeName": "Borussia Dortmund",
+    "awayName": "FC Augsburg",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-01-22T16:30:00+00:00",
+    "homeId": 163,
+    "awayId": 168,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-01-24T17:30:00+00:00",
+    "homeId": 174,
+    "awayId": 173,
+    "homeName": "FC Schalke 04",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "date": "2023-01-24T19:30:00+00:00",
+    "homeId": 157,
+    "awayId": 192,
+    "homeName": "Bayern Munich",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-24T19:30:00+00:00",
+    "homeId": 159,
+    "awayId": 161,
+    "homeName": "Hertha Berlin",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-01-24T19:30:00+00:00",
+    "homeId": 167,
+    "awayId": 172,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-25T17:30:00+00:00",
+    "homeId": 164,
+    "awayId": 165,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-25T19:30:00+00:00",
+    "homeId": 160,
+    "awayId": 169,
+    "homeName": "SC Freiburg",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-25T19:30:00+00:00",
+    "homeId": 162,
+    "awayId": 182,
+    "homeName": "Werder Bremen",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-25T19:30:00+00:00",
+    "homeId": 168,
+    "awayId": 176,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-25T19:30:00+00:00",
+    "homeId": 170,
+    "awayId": 163,
+    "homeName": "FC Augsburg",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-27T19:30:00+00:00",
+    "homeId": 173,
+    "awayId": 172,
+    "homeName": "RB Leipzig",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-28T14:30:00+00:00",
+    "homeId": 159,
+    "awayId": 182,
+    "homeName": "Hertha Berlin",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-28T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 170,
+    "homeName": "SC Freiburg",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-28T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 161,
+    "homeName": "Werder Bremen",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-28T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 176,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-01-28T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 163,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-01-28T17:30:00+00:00",
+    "homeId": 157,
+    "awayId": 169,
+    "homeName": "Bayern Munich",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-01-29T14:30:00+00:00",
+    "homeId": 174,
+    "awayId": 192,
+    "homeName": "FC Schalke 04",
+    "awayName": "1. FC Köln",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-01-29T16:30:00+00:00",
+    "homeId": 168,
+    "awayId": 165,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-03T19:30:00+00:00",
+    "homeId": 170,
+    "awayId": 168,
+    "homeName": "FC Augsburg",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-04T14:30:00+00:00",
+    "homeId": 165,
+    "awayId": 160,
+    "homeName": "Borussia Dortmund",
+    "awayName": "SC Freiburg",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-04T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 159,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-04T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 167,
+    "homeName": "Vfl Bochum",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-04T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 164,
+    "homeName": "Union Berlin",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-04T14:30:00+00:00",
+    "homeId": 192,
+    "awayId": 173,
+    "homeName": "1. FC Köln",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-04T17:30:00+00:00",
+    "homeId": 163,
+    "awayId": 174,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-05T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 162,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Werder Bremen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-05T16:30:00+00:00",
+    "homeId": 161,
+    "awayId": 157,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Bayern Munich",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-02-10T19:30:00+00:00",
+    "homeId": 174,
+    "awayId": 161,
+    "homeName": "FC Schalke 04",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-11T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 176,
+    "homeName": "Bayern Munich",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-11T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 172,
+    "homeName": "SC Freiburg",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-11T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 165,
+    "homeName": "Werder Bremen",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-11T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 170,
+    "homeName": "FSV Mainz 05",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-11T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 168,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-11T17:30:00+00:00",
+    "homeId": 173,
+    "awayId": 182,
+    "homeName": "RB Leipzig",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-12T14:30:00+00:00",
+    "homeId": 159,
+    "awayId": 163,
+    "homeName": "Hertha Berlin",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-12T16:30:00+00:00",
+    "homeId": 192,
+    "awayId": 169,
+    "homeName": "1. FC Köln",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-17T19:30:00+00:00",
+    "homeId": 170,
+    "awayId": 167,
+    "homeName": "FC Augsburg",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-18T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 173,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-18T14:30:00+00:00",
+    "homeId": 163,
+    "awayId": 157,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Bayern Munich",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-18T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 192,
+    "homeName": "VfB Stuttgart",
+    "awayName": "1. FC Köln",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-18T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 160,
+    "homeName": "Vfl Bochum",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-18T17:30:00+00:00",
+    "homeId": 169,
+    "awayId": 162,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-19T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 174,
+    "homeName": "Union Berlin",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-19T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 159,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-19T18:30:00+00:00",
+    "homeId": 168,
+    "awayId": 164,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-02-24T19:30:00+00:00",
+    "homeId": 164,
+    "awayId": 163,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-25T14:30:00+00:00",
+    "homeId": 159,
+    "awayId": 170,
+    "homeName": "Hertha Berlin",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-25T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 176,
+    "homeName": "Werder Bremen",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-25T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 165,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-25T14:30:00+00:00",
+    "homeId": 173,
+    "awayId": 169,
+    "homeName": "RB Leipzig",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-25T14:30:00+00:00",
+    "homeId": 192,
+    "awayId": 161,
+    "homeName": "1. FC Köln",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-25T17:30:00+00:00",
+    "homeId": 174,
+    "awayId": 172,
+    "homeName": "FC Schalke 04",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-26T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 168,
+    "homeName": "SC Freiburg",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-26T16:30:00+00:00",
+    "homeId": 157,
+    "awayId": 182,
+    "homeName": "Bayern Munich",
+    "awayName": "Union Berlin",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-03T19:30:00+00:00",
+    "homeId": 165,
+    "awayId": 173,
+    "homeName": "Borussia Dortmund",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-04T14:30:00+00:00",
+    "homeId": 163,
+    "awayId": 160,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-04T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 167,
+    "homeName": "FSV Mainz 05",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-04T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 162,
+    "homeName": "FC Augsburg",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-04T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 174,
+    "homeName": "Vfl Bochum",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-04T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 192,
+    "homeName": "Union Berlin",
+    "awayName": "1. FC Köln",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-04T17:30:00+00:00",
+    "homeId": 172,
+    "awayId": 157,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-05T14:30:00+00:00",
+    "homeId": 168,
+    "awayId": 159,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-05T16:30:00+00:00",
+    "homeId": 161,
+    "awayId": 169,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-10T19:30:00+00:00",
+    "homeId": 192,
+    "awayId": 176,
+    "homeName": "1. FC Köln",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-11T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 170,
+    "homeName": "Bayern Munich",
+    "awayName": "FC Augsburg",
+    "homeGoals": 5,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-11T14:30:00+00:00",
+    "homeId": 159,
+    "awayId": 164,
+    "homeName": "Hertha Berlin",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-11T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 172,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-11T14:30:00+00:00",
+    "homeId": 173,
+    "awayId": 163,
+    "homeName": "RB Leipzig",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-11T17:30:00+00:00",
+    "homeId": 174,
+    "awayId": 165,
+    "homeName": "FC Schalke 04",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-12T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 167,
+    "homeName": "SC Freiburg",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-12T16:30:00+00:00",
+    "homeId": 162,
+    "awayId": 168,
+    "homeName": "Werder Bremen",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-03-12T18:30:00+00:00",
+    "homeId": 161,
+    "awayId": 182,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-17T19:30:00+00:00",
+    "homeId": 163,
+    "awayId": 162,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-03-18T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 159,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-18T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 174,
+    "homeName": "FC Augsburg",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-18T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 161,
+    "homeName": "VfB Stuttgart",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-18T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 173,
+    "homeName": "Vfl Bochum",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-18T17:30:00+00:00",
+    "homeId": 165,
+    "awayId": 192,
+    "homeName": "Borussia Dortmund",
+    "awayName": "1. FC Köln",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-19T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 169,
+    "homeName": "Union Berlin",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-19T16:30:00+00:00",
+    "homeId": 168,
+    "awayId": 157,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Bayern Munich",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-19T18:30:00+00:00",
+    "homeId": 164,
+    "awayId": 160,
+    "homeName": "FSV Mainz 05",
+    "awayName": "SC Freiburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-31T18:30:00+00:00",
+    "homeId": 169,
+    "awayId": 176,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-01T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 159,
+    "homeName": "SC Freiburg",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-01T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 170,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-01T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 164,
+    "homeName": "RB Leipzig",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-01T13:30:00+00:00",
+    "homeId": 174,
+    "awayId": 168,
+    "homeName": "FC Schalke 04",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-01T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 172,
+    "homeName": "Union Berlin",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-01T16:30:00+00:00",
+    "homeId": 157,
+    "awayId": 165,
+    "homeName": "Bayern Munich",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-02T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 163,
+    "homeName": "1. FC Köln",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-02T15:30:00+00:00",
+    "homeId": 162,
+    "awayId": 167,
+    "homeName": "Werder Bremen",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-08T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 157,
+    "homeName": "SC Freiburg",
+    "awayName": "Bayern Munich",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-08T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 162,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-08T13:30:00+00:00",
+    "homeId": 165,
+    "awayId": 182,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Union Berlin",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-08T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 169,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-08T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 192,
+    "homeName": "FC Augsburg",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-08T16:30:00+00:00",
+    "homeId": 159,
+    "awayId": 173,
+    "homeName": "Hertha Berlin",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-09T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 161,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-09T15:30:00+00:00",
+    "homeId": 176,
+    "awayId": 172,
+    "homeName": "Vfl Bochum",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-09T17:30:00+00:00",
+    "homeId": 167,
+    "awayId": 174,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-14T18:30:00+00:00",
+    "homeId": 174,
+    "awayId": 159,
+    "homeName": "FC Schalke 04",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-15T13:30:00+00:00",
+    "homeId": 157,
+    "awayId": 167,
+    "homeName": "Bayern Munich",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-15T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 165,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-15T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 170,
+    "homeName": "RB Leipzig",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-15T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 164,
+    "homeName": "1. FC Köln",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-15T16:30:00+00:00",
+    "homeId": 169,
+    "awayId": 163,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-16T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 160,
+    "homeName": "Werder Bremen",
+    "awayName": "SC Freiburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-16T15:30:00+00:00",
+    "homeId": 182,
+    "awayId": 176,
+    "homeName": "Union Berlin",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-16T17:30:00+00:00",
+    "homeId": 161,
+    "awayId": 168,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-21T18:30:00+00:00",
+    "homeId": 170,
+    "awayId": 172,
+    "homeName": "FC Augsburg",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-22T13:30:00+00:00",
+    "homeId": 159,
+    "awayId": 162,
+    "homeName": "Hertha Berlin",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-04-22T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 157,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Bayern Munich",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-22T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 192,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-04-22T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 161,
+    "homeName": "Vfl Bochum",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-04-22T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 169,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-23T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 174,
+    "homeName": "SC Freiburg",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-23T15:30:00+00:00",
+    "homeId": 168,
+    "awayId": 173,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-23T17:30:00+00:00",
+    "homeId": 163,
+    "awayId": 182,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-28T18:30:00+00:00",
+    "homeId": 176,
+    "awayId": 165,
+    "homeName": "Vfl Bochum",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-29T13:30:00+00:00",
+    "homeId": 169,
+    "awayId": 170,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-29T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 163,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-29T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 167,
+    "homeName": "RB Leipzig",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-29T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 168,
+    "homeName": "Union Berlin",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-29T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 160,
+    "homeName": "1. FC Köln",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-29T16:30:00+00:00",
+    "homeId": 174,
+    "awayId": 162,
+    "homeName": "FC Schalke 04",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-30T13:30:00+00:00",
+    "homeId": 157,
+    "awayId": 159,
+    "homeName": "Bayern Munich",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-30T15:30:00+00:00",
+    "homeId": 161,
+    "awayId": 164,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-05T18:30:00+00:00",
+    "homeId": 164,
+    "awayId": 174,
+    "homeName": "FSV Mainz 05",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-05-05T18:30:00+00:00",
+    "homeId": 168,
+    "awayId": 192,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-06T13:30:00+00:00",
+    "homeId": 159,
+    "awayId": 172,
+    "homeName": "Hertha Berlin",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-06T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 173,
+    "homeName": "SC Freiburg",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-06T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 176,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-06T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 169,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-06T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 182,
+    "homeName": "FC Augsburg",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-06T16:30:00+00:00",
+    "homeId": 162,
+    "awayId": 157,
+    "homeName": "Werder Bremen",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-07T15:30:00+00:00",
+    "homeId": 165,
+    "awayId": 161,
+    "homeName": "Borussia Dortmund",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-12T18:30:00+00:00",
+    "homeId": 192,
+    "awayId": 159,
+    "homeName": "1. FC Köln",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-13T13:30:00+00:00",
+    "homeId": 157,
+    "awayId": 174,
+    "homeName": "Bayern Munich",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-13T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 167,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-13T13:30:00+00:00",
+    "homeId": 169,
+    "awayId": 164,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-13T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 170,
+    "homeName": "Vfl Bochum",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-13T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 160,
+    "homeName": "Union Berlin",
+    "awayName": "SC Freiburg",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-13T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 163,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-14T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 168,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-14T15:30:00+00:00",
+    "homeId": 173,
+    "awayId": 162,
+    "homeName": "RB Leipzig",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-19T18:30:00+00:00",
+    "homeId": 160,
+    "awayId": 161,
+    "homeName": "SC Freiburg",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-20T13:30:00+00:00",
+    "homeId": 159,
+    "awayId": 176,
+    "homeName": "Hertha Berlin",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-20T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 192,
+    "homeName": "Werder Bremen",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-20T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 182,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Union Berlin",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-20T13:30:00+00:00",
+    "homeId": 174,
+    "awayId": 169,
+    "homeName": "FC Schalke 04",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-20T16:30:00+00:00",
+    "homeId": 157,
+    "awayId": 173,
+    "homeName": "Bayern Munich",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-05-21T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 172,
+    "homeName": "FSV Mainz 05",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-05-21T15:30:00+00:00",
+    "homeId": 170,
+    "awayId": 165,
+    "homeName": "FC Augsburg",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-05-21T17:30:00+00:00",
+    "homeId": 168,
+    "awayId": 163,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-27T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 159,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Hertha Berlin",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-27T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 170,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-27T13:30:00+00:00",
+    "homeId": 165,
+    "awayId": 164,
+    "homeName": "Borussia Dortmund",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-27T13:30:00+00:00",
+    "homeId": 169,
+    "awayId": 160,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "SC Freiburg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-27T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 167,
+    "homeName": "VfB Stuttgart",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-27T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 174,
+    "homeName": "RB Leipzig",
+    "awayName": "FC Schalke 04",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-27T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 168,
+    "homeName": "Vfl Bochum",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-27T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 162,
+    "homeName": "Union Berlin",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-27T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 157,
+    "homeName": "1. FC Köln",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-06-01T18:45:00+00:00",
+    "homeId": 172,
+    "awayId": 175,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Hamburger SV",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-06-05T18:45:00+00:00",
+    "homeId": 175,
+    "awayId": 172,
+    "homeName": "Hamburger SV",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-18T18:30:00+00:00",
+    "homeId": 162,
+    "awayId": 157,
+    "homeName": "Werder Bremen",
+    "awayName": "Bayern Munich",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-08-19T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 180,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-19T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 160,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "SC Freiburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-19T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 173,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "RB Leipzig",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-19T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 163,
+    "homeName": "FC Augsburg",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-08-19T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 176,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-19T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 192,
+    "homeName": "Borussia Dortmund",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-20T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 164,
+    "homeName": "Union Berlin",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-20T15:30:00+00:00",
+    "homeId": 169,
+    "awayId": 181,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-25T18:30:00+00:00",
+    "homeId": 173,
+    "awayId": 172,
+    "homeName": "RB Leipzig",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-26T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 162,
+    "homeName": "SC Freiburg",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-26T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 165,
+    "homeName": "Vfl Bochum",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-26T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 167,
+    "homeName": "FC Heidenheim",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-26T13:30:00+00:00",
+    "homeId": 181,
+    "awayId": 182,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-08-26T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 161,
+    "homeName": "1. FC Köln",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-26T16:30:00+00:00",
+    "homeId": 163,
+    "awayId": 168,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-27T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 169,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-27T15:30:00+00:00",
+    "homeId": 157,
+    "awayId": 170,
+    "homeName": "Bayern Munich",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-01T18:30:00+00:00",
+    "homeId": 165,
+    "awayId": 180,
+    "homeName": "Borussia Dortmund",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-02T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 164,
+    "homeName": "Werder Bremen",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-02T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 161,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-02T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 181,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-02T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 176,
+    "homeName": "FC Augsburg",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-02T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 160,
+    "homeName": "VfB Stuttgart",
+    "awayName": "SC Freiburg",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-02T16:30:00+00:00",
+    "homeId": 163,
+    "awayId": 157,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-03T13:30:00+00:00",
+    "homeId": 169,
+    "awayId": 192,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-03T15:30:00+00:00",
+    "homeId": 182,
+    "awayId": 173,
+    "homeName": "Union Berlin",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-15T18:30:00+00:00",
+    "homeId": 157,
+    "awayId": 168,
+    "homeName": "Bayern Munich",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-16T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 165,
+    "homeName": "SC Freiburg",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-09-16T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 182,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Union Berlin",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-16T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 172,
+    "homeName": "FSV Mainz 05",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-16T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 170,
+    "homeName": "RB Leipzig",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-16T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 167,
+    "homeName": "1. FC Köln",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-16T16:30:00+00:00",
+    "homeId": 176,
+    "awayId": 169,
+    "homeName": "Vfl Bochum",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-17T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 162,
+    "homeName": "FC Heidenheim",
+    "awayName": "Werder Bremen",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-17T15:30:00+00:00",
+    "homeId": 181,
+    "awayId": 163,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-22T18:30:00+00:00",
+    "homeId": 172,
+    "awayId": 181,
+    "homeName": "VfB Stuttgart",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-23T13:30:00+00:00",
+    "homeId": 157,
+    "awayId": 176,
+    "homeName": "Bayern Munich",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-23T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 173,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-23T13:30:00+00:00",
+    "homeId": 165,
+    "awayId": 161,
+    "homeName": "Borussia Dortmund",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-23T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 164,
+    "homeName": "FC Augsburg",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-23T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 167,
+    "homeName": "Union Berlin",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-23T16:30:00+00:00",
+    "homeId": 162,
+    "awayId": 192,
+    "homeName": "Werder Bremen",
+    "awayName": "1. FC Köln",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-24T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 180,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-24T15:30:00+00:00",
+    "homeId": 169,
+    "awayId": 160,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-29T18:30:00+00:00",
+    "homeId": 167,
+    "awayId": 165,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-30T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 169,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-30T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 168,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-30T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 163,
+    "homeName": "Vfl Bochum",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-30T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 182,
+    "homeName": "FC Heidenheim",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-30T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 172,
+    "homeName": "1. FC Köln",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-30T16:30:00+00:00",
+    "homeId": 173,
+    "awayId": 157,
+    "homeName": "RB Leipzig",
+    "awayName": "Bayern Munich",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-01T13:30:00+00:00",
+    "homeId": 181,
+    "awayId": 162,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "Werder Bremen",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-01T15:30:00+00:00",
+    "homeId": 160,
+    "awayId": 170,
+    "homeName": "SC Freiburg",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-06T18:30:00+00:00",
+    "homeId": 163,
+    "awayId": 164,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-07T13:30:00+00:00",
+    "homeId": 165,
+    "awayId": 182,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Union Berlin",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-07T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 181,
+    "homeName": "FC Augsburg",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-07T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 161,
+    "homeName": "VfB Stuttgart",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-07T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 176,
+    "homeName": "RB Leipzig",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-07T16:30:00+00:00",
+    "homeId": 162,
+    "awayId": 167,
+    "homeName": "Werder Bremen",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-08T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 192,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "1. FC Köln",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-08T15:30:00+00:00",
+    "homeId": 157,
+    "awayId": 160,
+    "homeName": "Bayern Munich",
+    "awayName": "SC Freiburg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-08T17:30:00+00:00",
+    "homeId": 169,
+    "awayId": 180,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-20T18:30:00+00:00",
+    "homeId": 165,
+    "awayId": 162,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-21T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 176,
+    "homeName": "SC Freiburg",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-21T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 168,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-21T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 169,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-21T13:30:00+00:00",
+    "homeId": 181,
+    "awayId": 173,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-21T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 172,
+    "homeName": "Union Berlin",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-21T16:30:00+00:00",
+    "homeId": 164,
+    "awayId": 157,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-22T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 163,
+    "homeName": "1. FC Köln",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-22T15:30:00+00:00",
+    "homeId": 180,
+    "awayId": 170,
+    "homeName": "FC Heidenheim",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-10-27T18:30:00+00:00",
+    "homeId": 176,
+    "awayId": 164,
+    "homeName": "Vfl Bochum",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-28T13:30:00+00:00",
+    "homeId": 157,
+    "awayId": 181,
+    "homeName": "Bayern Munich",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 8,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-28T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 182,
+    "homeName": "Werder Bremen",
+    "awayName": "Union Berlin",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-28T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 180,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-28T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 161,
+    "homeName": "FC Augsburg",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-28T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 167,
+    "homeName": "VfB Stuttgart",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-28T16:30:00+00:00",
+    "homeId": 173,
+    "awayId": 192,
+    "homeName": "RB Leipzig",
+    "awayName": "1. FC Köln",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-29T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 165,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-29T16:30:00+00:00",
+    "homeId": 168,
+    "awayId": 160,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "SC Freiburg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-03T19:30:00+00:00",
+    "homeId": 181,
+    "awayId": 176,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-04T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 163,
+    "homeName": "SC Freiburg",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-04T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 173,
+    "homeName": "FSV Mainz 05",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-04T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 168,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-04T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 169,
+    "homeName": "Union Berlin",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-04T14:30:00+00:00",
+    "homeId": 192,
+    "awayId": 170,
+    "homeName": "1. FC Köln",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-04T17:30:00+00:00",
+    "homeId": 165,
+    "awayId": 157,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Bayern Munich",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-11-05T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 162,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-05T16:30:00+00:00",
+    "homeId": 180,
+    "awayId": 172,
+    "homeName": "FC Heidenheim",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-10T19:30:00+00:00",
+    "homeId": 163,
+    "awayId": 161,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-11T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 180,
+    "homeName": "Bayern Munich",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-11T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 167,
+    "homeName": "FC Augsburg",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-11T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 165,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-11T14:30:00+00:00",
+    "homeId": 181,
+    "awayId": 164,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-11T17:30:00+00:00",
+    "homeId": 176,
+    "awayId": 192,
+    "homeName": "Vfl Bochum",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-12T14:30:00+00:00",
+    "homeId": 168,
+    "awayId": 182,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Union Berlin",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-12T16:30:00+00:00",
+    "homeId": 162,
+    "awayId": 169,
+    "homeName": "Werder Bremen",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-12T18:30:00+00:00",
+    "homeId": 173,
+    "awayId": 160,
+    "homeName": "RB Leipzig",
+    "awayName": "SC Freiburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-24T19:30:00+00:00",
+    "homeId": 192,
+    "awayId": 157,
+    "homeName": "1. FC Köln",
+    "awayName": "Bayern Munich",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-25T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 181,
+    "homeName": "SC Freiburg",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-25T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 173,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-25T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 168,
+    "homeName": "Werder Bremen",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-25T14:30:00+00:00",
+    "homeId": 165,
+    "awayId": 163,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-25T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 170,
+    "homeName": "Union Berlin",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-25T17:30:00+00:00",
+    "homeId": 169,
+    "awayId": 172,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-26T14:30:00+00:00",
+    "homeId": 180,
+    "awayId": 176,
+    "homeName": "FC Heidenheim",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-26T16:30:00+00:00",
+    "homeId": 167,
+    "awayId": 164,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-01T19:30:00+00:00",
+    "homeId": 181,
+    "awayId": 192,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "1. FC Köln",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-02T14:30:00+00:00",
+    "homeId": 163,
+    "awayId": 167,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-02T14:30:00+00:00",
+    "homeId": 173,
+    "awayId": 180,
+    "homeName": "RB Leipzig",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-02T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 161,
+    "homeName": "Vfl Bochum",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-02T17:30:00+00:00",
+    "homeId": 172,
+    "awayId": 162,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-03T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 160,
+    "homeName": "FSV Mainz 05",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-03T16:30:00+00:00",
+    "homeId": 168,
+    "awayId": 165,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-03T18:30:00+00:00",
+    "homeId": 170,
+    "awayId": 169,
+    "homeName": "FC Augsburg",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-08T19:30:00+00:00",
+    "homeId": 167,
+    "awayId": 176,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-09T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 160,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-09T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 170,
+    "homeName": "Werder Bremen",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-09T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 157,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Bayern Munich",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-09T14:30:00+00:00",
+    "homeId": 180,
+    "awayId": 181,
+    "homeName": "FC Heidenheim",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-09T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 163,
+    "homeName": "Union Berlin",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-09T17:30:00+00:00",
+    "homeId": 165,
+    "awayId": 173,
+    "homeName": "Borussia Dortmund",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-10T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 168,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-10T16:30:00+00:00",
+    "homeId": 192,
+    "awayId": 164,
+    "homeName": "1. FC Köln",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-15T19:30:00+00:00",
+    "homeId": 163,
+    "awayId": 162,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-16T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 180,
+    "homeName": "FSV Mainz 05",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-16T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 165,
+    "homeName": "FC Augsburg",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-16T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 182,
+    "homeName": "Vfl Bochum",
+    "awayName": "Union Berlin",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-16T14:30:00+00:00",
+    "homeId": 181,
+    "awayId": 161,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-16T17:30:00+00:00",
+    "homeId": 173,
+    "awayId": 167,
+    "homeName": "RB Leipzig",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-17T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 192,
+    "homeName": "SC Freiburg",
+    "awayName": "1. FC Köln",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-17T16:30:00+00:00",
+    "homeId": 168,
+    "awayId": 169,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-17T18:30:00+00:00",
+    "homeId": 157,
+    "awayId": 172,
+    "homeName": "Bayern Munich",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-19T17:30:00+00:00",
+    "homeId": 162,
+    "awayId": 173,
+    "homeName": "Werder Bremen",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-19T19:30:00+00:00",
+    "homeId": 165,
+    "awayId": 164,
+    "homeName": "Borussia Dortmund",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-19T19:30:00+00:00",
+    "homeId": 167,
+    "awayId": 181,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-20T17:30:00+00:00",
+    "homeId": 182,
+    "awayId": 192,
+    "homeName": "Union Berlin",
+    "awayName": "1. FC Köln",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-20T19:30:00+00:00",
+    "homeId": 161,
+    "awayId": 157,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-20T19:30:00+00:00",
+    "homeId": 168,
+    "awayId": 176,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-20T19:30:00+00:00",
+    "homeId": 169,
+    "awayId": 163,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-20T19:30:00+00:00",
+    "homeId": 172,
+    "awayId": 170,
+    "homeName": "VfB Stuttgart",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-20T19:30:00+00:00",
+    "homeId": 180,
+    "awayId": 160,
+    "homeName": "FC Heidenheim",
+    "awayName": "SC Freiburg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-12T19:30:00+00:00",
+    "homeId": 157,
+    "awayId": 167,
+    "homeName": "Bayern Munich",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-13T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 182,
+    "homeName": "SC Freiburg",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-13T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 161,
+    "homeName": "FSV Mainz 05",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-13T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 168,
+    "homeName": "FC Augsburg",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-13T14:30:00+00:00",
+    "homeId": 173,
+    "awayId": 169,
+    "homeName": "RB Leipzig",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-13T14:30:00+00:00",
+    "homeId": 192,
+    "awayId": 180,
+    "homeName": "1. FC Köln",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-13T17:30:00+00:00",
+    "homeId": 181,
+    "awayId": 165,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-01-14T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 162,
+    "homeName": "Vfl Bochum",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-14T16:30:00+00:00",
+    "homeId": 163,
+    "awayId": 172,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-20T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 167,
+    "homeName": "SC Freiburg",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-20T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 172,
+    "homeName": "Vfl Bochum",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-20T14:30:00+00:00",
+    "homeId": 180,
+    "awayId": 161,
+    "homeName": "FC Heidenheim",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-20T14:30:00+00:00",
+    "homeId": 181,
+    "awayId": 169,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-20T14:30:00+00:00",
+    "homeId": 192,
+    "awayId": 165,
+    "homeName": "1. FC Köln",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-01-20T17:30:00+00:00",
+    "homeId": 173,
+    "awayId": 168,
+    "homeName": "RB Leipzig",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-01-21T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 162,
+    "homeName": "Bayern Munich",
+    "awayName": "Werder Bremen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-21T16:30:00+00:00",
+    "homeId": 163,
+    "awayId": 170,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-24T19:30:00+00:00",
+    "homeId": 157,
+    "awayId": 182,
+    "homeName": "Bayern Munich",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-26T19:30:00+00:00",
+    "homeId": 169,
+    "awayId": 164,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-27T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 192,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-27T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 160,
+    "homeName": "Werder Bremen",
+    "awayName": "SC Freiburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-27T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 180,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-01-27T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 157,
+    "homeName": "FC Augsburg",
+    "awayName": "Bayern Munich",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-01-27T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 173,
+    "homeName": "VfB Stuttgart",
+    "awayName": "RB Leipzig",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-01-27T17:30:00+00:00",
+    "homeId": 168,
+    "awayId": 163,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-28T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 181,
+    "homeName": "Union Berlin",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-01-28T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 176,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-02T19:30:00+00:00",
+    "homeId": 180,
+    "awayId": 165,
+    "homeName": "FC Heidenheim",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-03T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 163,
+    "homeName": "Bayern Munich",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-03T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 172,
+    "homeName": "SC Freiburg",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-03T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 162,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Werder Bremen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-03T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 170,
+    "homeName": "Vfl Bochum",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-03T14:30:00+00:00",
+    "homeId": 181,
+    "awayId": 168,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-03T17:30:00+00:00",
+    "homeId": 192,
+    "awayId": 169,
+    "homeName": "1. FC Köln",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-04T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 167,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-04T16:30:00+00:00",
+    "homeId": 173,
+    "awayId": 182,
+    "homeName": "RB Leipzig",
+    "awayName": "Union Berlin",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-07T17:30:00+00:00",
+    "homeId": 164,
+    "awayId": 182,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-09T19:30:00+00:00",
+    "homeId": 165,
+    "awayId": 160,
+    "homeName": "Borussia Dortmund",
+    "awayName": "SC Freiburg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-10T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 180,
+    "homeName": "Werder Bremen",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-10T14:30:00+00:00",
+    "homeId": 163,
+    "awayId": 181,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-10T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 176,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-10T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 173,
+    "homeName": "FC Augsburg",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-10T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 161,
+    "homeName": "Union Berlin",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-10T17:30:00+00:00",
+    "homeId": 168,
+    "awayId": 157,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Bayern Munich",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-11T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 164,
+    "homeName": "VfB Stuttgart",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-11T16:30:00+00:00",
+    "homeId": 167,
+    "awayId": 192,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-16T19:30:00+00:00",
+    "homeId": 192,
+    "awayId": 162,
+    "homeName": "1. FC Köln",
+    "awayName": "Werder Bremen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-17T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 165,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-17T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 170,
+    "homeName": "FSV Mainz 05",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-17T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 182,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-17T14:30:00+00:00",
+    "homeId": 180,
+    "awayId": 168,
+    "homeName": "FC Heidenheim",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-17T14:30:00+00:00",
+    "homeId": 181,
+    "awayId": 172,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-17T17:30:00+00:00",
+    "homeId": 173,
+    "awayId": 163,
+    "homeName": "RB Leipzig",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-18T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 169,
+    "homeName": "SC Freiburg",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-18T16:30:00+00:00",
+    "homeId": 176,
+    "awayId": 157,
+    "homeName": "Vfl Bochum",
+    "awayName": "Bayern Munich",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-23T19:30:00+00:00",
+    "homeId": 168,
+    "awayId": 164,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-24T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 181,
+    "homeName": "Werder Bremen",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-24T14:30:00+00:00",
+    "homeId": 163,
+    "awayId": 176,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-24T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 192,
+    "homeName": "VfB Stuttgart",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-24T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 180,
+    "homeName": "Union Berlin",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-24T17:30:00+00:00",
+    "homeId": 157,
+    "awayId": 173,
+    "homeName": "Bayern Munich",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-25T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 161,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-25T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 167,
+    "homeName": "Borussia Dortmund",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-25T18:30:00+00:00",
+    "homeId": 170,
+    "awayId": 160,
+    "homeName": "FC Augsburg",
+    "awayName": "SC Freiburg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-01T19:30:00+00:00",
+    "homeId": 160,
+    "awayId": 157,
+    "homeName": "SC Freiburg",
+    "awayName": "Bayern Munich",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-02T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 163,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-02T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 173,
+    "homeName": "Vfl Bochum",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-03-02T14:30:00+00:00",
+    "homeId": 180,
+    "awayId": 169,
+    "homeName": "FC Heidenheim",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-02T14:30:00+00:00",
+    "homeId": 181,
+    "awayId": 170,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "FC Augsburg",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "date": "2024-03-02T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 165,
+    "homeName": "Union Berlin",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-02T17:30:00+00:00",
+    "homeId": 161,
+    "awayId": 172,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-03T14:30:00+00:00",
+    "homeId": 192,
+    "awayId": 168,
+    "homeName": "1. FC Köln",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-03T16:30:00+00:00",
+    "homeId": 167,
+    "awayId": 162,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-08T19:30:00+00:00",
+    "homeId": 172,
+    "awayId": 182,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Union Berlin",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-09T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 164,
+    "homeName": "Bayern Munich",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 8,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-09T14:30:00+00:00",
+    "homeId": 163,
+    "awayId": 192,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "1. FC Köln",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-09T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 180,
+    "homeName": "FC Augsburg",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-09T14:30:00+00:00",
+    "homeId": 173,
+    "awayId": 181,
+    "homeName": "RB Leipzig",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-09T17:30:00+00:00",
+    "homeId": 162,
+    "awayId": 165,
+    "homeName": "Werder Bremen",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-10T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 160,
+    "homeName": "Vfl Bochum",
+    "awayName": "SC Freiburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-10T16:30:00+00:00",
+    "homeId": 169,
+    "awayId": 167,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-10T18:30:00+00:00",
+    "homeId": 168,
+    "awayId": 161,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-15T19:30:00+00:00",
+    "homeId": 192,
+    "awayId": 173,
+    "homeName": "1. FC Köln",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-03-16T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 170,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-16T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 176,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-16T14:30:00+00:00",
+    "homeId": 180,
+    "awayId": 163,
+    "homeName": "FC Heidenheim",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-16T14:30:00+00:00",
+    "homeId": 181,
+    "awayId": 157,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "Bayern Munich",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-03-16T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 162,
+    "homeName": "Union Berlin",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-16T17:30:00+00:00",
+    "homeId": 167,
+    "awayId": 172,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-17T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 168,
+    "homeName": "SC Freiburg",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-17T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 169,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-30T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 161,
+    "homeName": "Werder Bremen",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-30T14:30:00+00:00",
+    "homeId": 163,
+    "awayId": 160,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-30T14:30:00+00:00",
+    "homeId": 168,
+    "awayId": 167,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-30T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 182,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-30T14:30:00+00:00",
+    "homeId": 173,
+    "awayId": 164,
+    "homeName": "RB Leipzig",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-30T17:30:00+00:00",
+    "homeId": 157,
+    "awayId": 165,
+    "homeName": "Bayern Munich",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-31T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 192,
+    "homeName": "FC Augsburg",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-31T15:30:00+00:00",
+    "homeId": 172,
+    "awayId": 180,
+    "homeName": "VfB Stuttgart",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-03-31T17:30:00+00:00",
+    "homeId": 176,
+    "awayId": 181,
+    "homeName": "Vfl Bochum",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-05T18:30:00+00:00",
+    "homeId": 169,
+    "awayId": 162,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-06T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 173,
+    "homeName": "SC Freiburg",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-04-06T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 181,
+    "homeName": "FSV Mainz 05",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-06T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 157,
+    "homeName": "FC Heidenheim",
+    "awayName": "Bayern Munich",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-06T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 168,
+    "homeName": "Union Berlin",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-06T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 176,
+    "homeName": "1. FC Köln",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-06T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 172,
+    "homeName": "Borussia Dortmund",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-07T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 170,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-07T15:30:00+00:00",
+    "homeId": 161,
+    "awayId": 163,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-12T18:30:00+00:00",
+    "homeId": 170,
+    "awayId": 182,
+    "homeName": "FC Augsburg",
+    "awayName": "Union Berlin",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-13T13:30:00+00:00",
+    "homeId": 157,
+    "awayId": 192,
+    "homeName": "Bayern Munich",
+    "awayName": "1. FC Köln",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-13T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 165,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-13T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 167,
+    "homeName": "FSV Mainz 05",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-13T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 161,
+    "homeName": "RB Leipzig",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-13T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 180,
+    "homeName": "Vfl Bochum",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-13T16:30:00+00:00",
+    "homeId": 172,
+    "awayId": 169,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-14T13:30:00+00:00",
+    "homeId": 181,
+    "awayId": 160,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-14T15:30:00+00:00",
+    "homeId": 168,
+    "awayId": 162,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Werder Bremen",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-19T18:30:00+00:00",
+    "homeId": 169,
+    "awayId": 170,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-20T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 176,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-20T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 163,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-20T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 173,
+    "homeName": "FC Heidenheim",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-20T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 181,
+    "homeName": "1. FC Köln",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-20T16:30:00+00:00",
+    "homeId": 182,
+    "awayId": 157,
+    "homeName": "Union Berlin",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-04-21T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 172,
+    "homeName": "Werder Bremen",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-21T15:30:00+00:00",
+    "homeId": 165,
+    "awayId": 168,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-21T17:30:00+00:00",
+    "homeId": 160,
+    "awayId": 164,
+    "homeName": "SC Freiburg",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-26T18:30:00+00:00",
+    "homeId": 176,
+    "awayId": 167,
+    "homeName": "Vfl Bochum",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-27T13:30:00+00:00",
+    "homeId": 157,
+    "awayId": 169,
+    "homeName": "Bayern Munich",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-27T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 161,
+    "homeName": "SC Freiburg",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-27T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 162,
+    "homeName": "FC Augsburg",
+    "awayName": "Werder Bremen",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-27T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 165,
+    "homeName": "RB Leipzig",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-27T16:30:00+00:00",
+    "homeId": 168,
+    "awayId": 172,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-28T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 182,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-28T15:30:00+00:00",
+    "homeId": 164,
+    "awayId": 192,
+    "homeName": "FSV Mainz 05",
+    "awayName": "1. FC Köln",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-28T17:30:00+00:00",
+    "homeId": 181,
+    "awayId": 180,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-03T18:30:00+00:00",
+    "homeId": 167,
+    "awayId": 173,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-04T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 181,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-04T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 163,
+    "homeName": "Werder Bremen",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-04T13:30:00+00:00",
+    "homeId": 165,
+    "awayId": 170,
+    "homeName": "Borussia Dortmund",
+    "awayName": "FC Augsburg",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-04T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 157,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Bayern Munich",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-04T16:30:00+00:00",
+    "homeId": 192,
+    "awayId": 160,
+    "homeName": "1. FC Köln",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-05T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 176,
+    "homeName": "Union Berlin",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-05-05T15:30:00+00:00",
+    "homeId": 169,
+    "awayId": 168,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-05-05T17:30:00+00:00",
+    "homeId": 180,
+    "awayId": 164,
+    "homeName": "FC Heidenheim",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-10T18:30:00+00:00",
+    "homeId": 170,
+    "awayId": 172,
+    "homeName": "FC Augsburg",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-11T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 180,
+    "homeName": "SC Freiburg",
+    "awayName": "FC Heidenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-11T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 169,
+    "homeName": "Borussia Monchengladbach",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-11T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 162,
+    "homeName": "RB Leipzig",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-11T13:30:00+00:00",
+    "homeId": 192,
+    "awayId": 182,
+    "homeName": "1. FC Köln",
+    "awayName": "Union Berlin",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-11T16:30:00+00:00",
+    "homeId": 164,
+    "awayId": 165,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-12T13:30:00+00:00",
+    "homeId": 181,
+    "awayId": 167,
+    "homeName": "SV Darmstadt 98",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "date": "2024-05-12T15:30:00+00:00",
+    "homeId": 157,
+    "awayId": 161,
+    "homeName": "Bayern Munich",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-12T17:30:00+00:00",
+    "homeId": 176,
+    "awayId": 168,
+    "homeName": "Vfl Bochum",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-05-18T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 164,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-05-18T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 176,
+    "homeName": "Werder Bremen",
+    "awayName": "Vfl Bochum",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-18T13:30:00+00:00",
+    "homeId": 165,
+    "awayId": 181,
+    "homeName": "Borussia Dortmund",
+    "awayName": "SV Darmstadt 98",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-18T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 157,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Bayern Munich",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-18T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 170,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-18T13:30:00+00:00",
+    "homeId": 169,
+    "awayId": 173,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-18T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 163,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Borussia Monchengladbach",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-18T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 192,
+    "homeName": "FC Heidenheim",
+    "awayName": "1. FC Köln",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-18T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 160,
+    "homeName": "Union Berlin",
+    "awayName": "SC Freiburg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-23T18:30:00+00:00",
+    "homeId": 176,
+    "awayId": 158,
+    "homeName": "Vfl Bochum",
+    "awayName": "Fortuna Dusseldorf",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-23T18:30:00+00:00",
+    "homeId": 163,
+    "awayId": 168,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-24T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 172,
+    "homeName": "SC Freiburg",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-24T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 182,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-24T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 191,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-24T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 162,
+    "homeName": "FC Augsburg",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-24T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 176,
+    "homeName": "RB Leipzig",
+    "awayName": "VfL Bochum",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-24T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 169,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-25T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 157,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Bayern München",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-25T15:30:00+00:00",
+    "homeId": 186,
+    "awayId": 180,
+    "homeName": "FC St. Pauli",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-30T18:30:00+00:00",
+    "homeId": 182,
+    "awayId": 186,
+    "homeName": "Union Berlin",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-31T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 165,
+    "homeName": "Werder Bremen",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-31T13:30:00+00:00",
+    "homeId": 169,
+    "awayId": 167,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-31T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 164,
+    "homeName": "VfB Stuttgart",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-31T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 163,
+    "homeName": "VfL Bochum",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-31T13:30:00+00:00",
+    "homeId": 191,
+    "awayId": 161,
+    "homeName": "Holstein Kiel",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-31T16:30:00+00:00",
+    "homeId": 168,
+    "awayId": 173,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-01T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 170,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "FC Augsburg",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-01T15:30:00+00:00",
+    "homeId": 157,
+    "awayId": 160,
+    "homeName": "Bayern München",
+    "awayName": "SC Freiburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-13T18:30:00+00:00",
+    "homeId": 165,
+    "awayId": 180,
+    "homeName": "Borussia Dortmund",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-14T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 176,
+    "homeName": "SC Freiburg",
+    "awayName": "VfL Bochum",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-14T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 169,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-14T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 172,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-14T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 168,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-09-14T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 182,
+    "homeName": "RB Leipzig",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-14T16:30:00+00:00",
+    "homeId": 191,
+    "awayId": 157,
+    "homeName": "Holstein Kiel",
+    "awayName": "Bayern München",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "date": "2024-09-15T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 186,
+    "homeName": "FC Augsburg",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-15T15:30:00+00:00",
+    "homeId": 164,
+    "awayId": 162,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-20T18:30:00+00:00",
+    "homeId": 170,
+    "awayId": 164,
+    "homeName": "FC Augsburg",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-21T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 157,
+    "homeName": "Werder Bremen",
+    "awayName": "Bayern München",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-09-21T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 191,
+    "homeName": "VfL Bochum",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-21T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 160,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-21T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 167,
+    "homeName": "Union Berlin",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-21T16:30:00+00:00",
+    "homeId": 169,
+    "awayId": 163,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-22T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 161,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-22T15:30:00+00:00",
+    "homeId": 172,
+    "awayId": 165,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-22T17:30:00+00:00",
+    "homeId": 186,
+    "awayId": 173,
+    "homeName": "FC St. Pauli",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-27T18:30:00+00:00",
+    "homeId": 165,
+    "awayId": 176,
+    "homeName": "Borussia Dortmund",
+    "awayName": "VfL Bochum",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-28T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 186,
+    "homeName": "SC Freiburg",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-28T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 172,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-28T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 182,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-28T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 180,
+    "homeName": "FSV Mainz 05",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-28T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 170,
+    "homeName": "RB Leipzig",
+    "awayName": "FC Augsburg",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-28T16:30:00+00:00",
+    "homeId": 157,
+    "awayId": 168,
+    "homeName": "Bayern München",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-29T13:30:00+00:00",
+    "homeId": 191,
+    "awayId": 169,
+    "homeName": "Holstein Kiel",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-09-29T15:30:00+00:00",
+    "homeId": 167,
+    "awayId": 162,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Werder Bremen",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-10-04T18:30:00+00:00",
+    "homeId": 170,
+    "awayId": 163,
+    "homeName": "FC Augsburg",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-05T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 160,
+    "homeName": "Werder Bremen",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-05T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 191,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-05T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 161,
+    "homeName": "VfL Bochum",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-05T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 165,
+    "homeName": "Union Berlin",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-05T16:30:00+00:00",
+    "homeId": 186,
+    "awayId": 164,
+    "homeName": "FC St. Pauli",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-06T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 173,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-06T15:30:00+00:00",
+    "homeId": 169,
+    "awayId": 157,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Bayern München",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-06T17:30:00+00:00",
+    "homeId": 172,
+    "awayId": 167,
+    "homeName": "VfB Stuttgart",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-18T18:30:00+00:00",
+    "homeId": 165,
+    "awayId": 186,
+    "homeName": "Borussia Dortmund",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-19T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 170,
+    "homeName": "SC Freiburg",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-19T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 180,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-19T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 173,
+    "homeName": "FSV Mainz 05",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-19T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 176,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "VfL Bochum",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-19T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 169,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-19T16:30:00+00:00",
+    "homeId": 157,
+    "awayId": 172,
+    "homeName": "Bayern München",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-20T13:30:00+00:00",
+    "homeId": 191,
+    "awayId": 182,
+    "homeName": "Holstein Kiel",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-20T15:30:00+00:00",
+    "homeId": 161,
+    "awayId": 162,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-10-25T18:30:00+00:00",
+    "homeId": 164,
+    "awayId": 163,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-26T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 165,
+    "homeName": "FC Augsburg",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-26T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 191,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-26T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 160,
+    "homeName": "RB Leipzig",
+    "awayName": "SC Freiburg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-26T13:30:00+00:00",
+    "homeId": 186,
+    "awayId": 161,
+    "homeName": "FC St. Pauli",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-26T16:30:00+00:00",
+    "homeId": 162,
+    "awayId": 168,
+    "homeName": "Werder Bremen",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-27T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 157,
+    "homeName": "VfL Bochum",
+    "awayName": "Bayern München",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-10-27T16:30:00+00:00",
+    "homeId": 182,
+    "awayId": 169,
+    "homeName": "Union Berlin",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-27T18:30:00+00:00",
+    "homeId": 180,
+    "awayId": 167,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-01T19:30:00+00:00",
+    "homeId": 168,
+    "awayId": 172,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-02T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 182,
+    "homeName": "Bayern München",
+    "awayName": "Union Berlin",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-02T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 170,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-02T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 186,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-02T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 176,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "VfL Bochum",
+    "homeGoals": 7,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-02T14:30:00+00:00",
+    "homeId": 191,
+    "awayId": 180,
+    "homeName": "Holstein Kiel",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-02T17:30:00+00:00",
+    "homeId": 165,
+    "awayId": 173,
+    "homeName": "Borussia Dortmund",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-03T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 164,
+    "homeName": "SC Freiburg",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-03T16:30:00+00:00",
+    "homeId": 163,
+    "awayId": 162,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "Werder Bremen",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-08T19:30:00+00:00",
+    "homeId": 182,
+    "awayId": 160,
+    "homeName": "Union Berlin",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-09T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 191,
+    "homeName": "Werder Bremen",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-09T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 165,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-09T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 168,
+    "homeName": "VfL Bochum",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-09T14:30:00+00:00",
+    "homeId": 186,
+    "awayId": 157,
+    "homeName": "FC St. Pauli",
+    "awayName": "Bayern München",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-09T17:30:00+00:00",
+    "homeId": 173,
+    "awayId": 163,
+    "homeName": "RB Leipzig",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-10T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 167,
+    "homeName": "FC Augsburg",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-10T16:30:00+00:00",
+    "homeId": 172,
+    "awayId": 169,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-10T18:30:00+00:00",
+    "homeId": 180,
+    "awayId": 161,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-22T19:30:00+00:00",
+    "homeId": 157,
+    "awayId": 170,
+    "homeName": "Bayern München",
+    "awayName": "FC Augsburg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-23T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 182,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-23T14:30:00+00:00",
+    "homeId": 165,
+    "awayId": 160,
+    "homeName": "Borussia Dortmund",
+    "awayName": "SC Freiburg",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-23T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 173,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "RB Leipzig",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-23T14:30:00+00:00",
+    "homeId": 168,
+    "awayId": 180,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-23T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 176,
+    "homeName": "VfB Stuttgart",
+    "awayName": "VfL Bochum",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-23T17:30:00+00:00",
+    "homeId": 169,
+    "awayId": 162,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-24T14:30:00+00:00",
+    "homeId": 191,
+    "awayId": 164,
+    "homeName": "Holstein Kiel",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-24T16:30:00+00:00",
+    "homeId": 163,
+    "awayId": 186,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-29T19:30:00+00:00",
+    "homeId": 186,
+    "awayId": 191,
+    "homeName": "FC St. Pauli",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-30T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 163,
+    "homeName": "SC Freiburg",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-30T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 172,
+    "homeName": "Werder Bremen",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-30T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 176,
+    "homeName": "FC Augsburg",
+    "awayName": "VfL Bochum",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-30T14:30:00+00:00",
+    "homeId": 173,
+    "awayId": 161,
+    "homeName": "RB Leipzig",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-11-30T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 168,
+    "homeName": "Union Berlin",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-30T17:30:00+00:00",
+    "homeId": 165,
+    "awayId": 157,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Bayern München",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-01T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 167,
+    "homeName": "FSV Mainz 05",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-01T16:30:00+00:00",
+    "homeId": 180,
+    "awayId": 169,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-12-06T19:30:00+00:00",
+    "homeId": 172,
+    "awayId": 182,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Union Berlin",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-07T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 180,
+    "homeName": "Bayern München",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-07T14:30:00+00:00",
+    "homeId": 168,
+    "awayId": 186,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-07T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 170,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-07T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 162,
+    "homeName": "VfL Bochum",
+    "awayName": "Werder Bremen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-07T14:30:00+00:00",
+    "homeId": 191,
+    "awayId": 173,
+    "homeName": "Holstein Kiel",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-07T17:30:00+00:00",
+    "homeId": 163,
+    "awayId": 165,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-08T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 164,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-08T16:30:00+00:00",
+    "homeId": 167,
+    "awayId": 160,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "SC Freiburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-13T19:30:00+00:00",
+    "homeId": 160,
+    "awayId": 161,
+    "homeName": "SC Freiburg",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-14T14:30:00+00:00",
+    "homeId": 163,
+    "awayId": 191,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-14T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 157,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Bayern München",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-14T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 168,
+    "homeName": "FC Augsburg",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-14T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 176,
+    "homeName": "Union Berlin",
+    "awayName": "VfL Bochum",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-14T17:30:00+00:00",
+    "homeId": 186,
+    "awayId": 162,
+    "homeName": "FC St. Pauli",
+    "awayName": "Werder Bremen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-15T14:30:00+00:00",
+    "homeId": 180,
+    "awayId": 172,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-15T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 167,
+    "homeName": "Borussia Dortmund",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-15T18:30:00+00:00",
+    "homeId": 173,
+    "awayId": 169,
+    "homeName": "RB Leipzig",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-20T19:30:00+00:00",
+    "homeId": 157,
+    "awayId": 173,
+    "homeName": "Bayern München",
+    "awayName": "RB Leipzig",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-21T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 182,
+    "homeName": "Werder Bremen",
+    "awayName": "Union Berlin",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-21T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 163,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-21T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 164,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-21T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 186,
+    "homeName": "VfB Stuttgart",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-21T14:30:00+00:00",
+    "homeId": 191,
+    "awayId": 170,
+    "homeName": "Holstein Kiel",
+    "awayName": "FC Augsburg",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-21T17:30:00+00:00",
+    "homeId": 168,
+    "awayId": 160,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "SC Freiburg",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-22T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 180,
+    "homeName": "VfL Bochum",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-22T16:30:00+00:00",
+    "homeId": 161,
+    "awayId": 165,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-10T19:45:00+00:00",
+    "homeId": 165,
+    "awayId": 168,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-11T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 191,
+    "homeName": "SC Freiburg",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-11T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 176,
+    "homeName": "FSV Mainz 05",
+    "awayName": "VfL Bochum",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-11T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 161,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-11T14:30:00+00:00",
+    "homeId": 180,
+    "awayId": 182,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "Union Berlin",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-11T14:30:00+00:00",
+    "homeId": 186,
+    "awayId": 169,
+    "homeName": "FC St. Pauli",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-11T17:30:00+00:00",
+    "homeId": 163,
+    "awayId": 157,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "Bayern München",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-12T14:30:00+00:00",
+    "homeId": 173,
+    "awayId": 162,
+    "homeName": "RB Leipzig",
+    "awayName": "Werder Bremen",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-12T16:30:00+00:00",
+    "homeId": 170,
+    "awayId": 172,
+    "homeName": "FC Augsburg",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-14T17:30:00+00:00",
+    "homeId": 191,
+    "awayId": 165,
+    "homeName": "Holstein Kiel",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-14T19:30:00+00:00",
+    "homeId": 161,
+    "awayId": 163,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-14T19:30:00+00:00",
+    "homeId": 168,
+    "awayId": 164,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-14T19:30:00+00:00",
+    "homeId": 169,
+    "awayId": 160,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "SC Freiburg",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-15T17:30:00+00:00",
+    "homeId": 176,
+    "awayId": 186,
+    "homeName": "VfL Bochum",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-15T19:30:00+00:00",
+    "homeId": 157,
+    "awayId": 167,
+    "homeName": "Bayern München",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-15T19:30:00+00:00",
+    "homeId": 162,
+    "awayId": 180,
+    "homeName": "Werder Bremen",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-15T19:30:00+00:00",
+    "homeId": 172,
+    "awayId": 173,
+    "homeName": "VfB Stuttgart",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-15T19:30:00+00:00",
+    "homeId": 182,
+    "awayId": 170,
+    "homeName": "Union Berlin",
+    "awayName": "FC Augsburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-17T19:30:00+00:00",
+    "homeId": 169,
+    "awayId": 165,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-18T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 161,
+    "homeName": "Bayern München",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-18T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 160,
+    "homeName": "VfB Stuttgart",
+    "awayName": "SC Freiburg",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-18T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 173,
+    "homeName": "VfL Bochum",
+    "awayName": "RB Leipzig",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-18T14:30:00+00:00",
+    "homeId": 180,
+    "awayId": 186,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-18T14:30:00+00:00",
+    "homeId": 191,
+    "awayId": 167,
+    "homeName": "Holstein Kiel",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-18T17:30:00+00:00",
+    "homeId": 168,
+    "awayId": 163,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-19T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 164,
+    "homeName": "Union Berlin",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-19T16:30:00+00:00",
+    "homeId": 162,
+    "awayId": 170,
+    "homeName": "Werder Bremen",
+    "awayName": "FC Augsburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-24T19:30:00+00:00",
+    "homeId": 161,
+    "awayId": 191,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-25T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 157,
+    "homeName": "SC Freiburg",
+    "awayName": "Bayern München",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-25T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 172,
+    "homeName": "FSV Mainz 05",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-25T14:30:00+00:00",
+    "homeId": 165,
+    "awayId": 162,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-25T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 180,
+    "homeName": "FC Augsburg",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-25T14:30:00+00:00",
+    "homeId": 173,
+    "awayId": 168,
+    "homeName": "RB Leipzig",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-25T17:30:00+00:00",
+    "homeId": 163,
+    "awayId": 176,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "VfL Bochum",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-26T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 169,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-26T16:30:00+00:00",
+    "homeId": 186,
+    "awayId": 182,
+    "homeName": "FC St. Pauli",
+    "awayName": "Union Berlin",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-31T19:30:00+00:00",
+    "homeId": 162,
+    "awayId": 164,
+    "homeName": "Werder Bremen",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-01T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 191,
+    "homeName": "Bayern München",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-01T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 163,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-01T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 160,
+    "homeName": "VfL Bochum",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-01T14:30:00+00:00",
+    "homeId": 180,
+    "awayId": 165,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-01T14:30:00+00:00",
+    "homeId": 186,
+    "awayId": 170,
+    "homeName": "FC St. Pauli",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-01T17:30:00+00:00",
+    "homeId": 182,
+    "awayId": 173,
+    "homeName": "Union Berlin",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-02T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 161,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-02T16:30:00+00:00",
+    "homeId": 168,
+    "awayId": 167,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-07T19:30:00+00:00",
+    "homeId": 157,
+    "awayId": 162,
+    "homeName": "Bayern München",
+    "awayName": "Werder Bremen",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-08T14:30:00+00:00",
+    "homeId": 160,
+    "awayId": 180,
+    "homeName": "SC Freiburg",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-08T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 168,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-08T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 170,
+    "homeName": "FSV Mainz 05",
+    "awayName": "FC Augsburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-08T14:30:00+00:00",
+    "homeId": 165,
+    "awayId": 172,
+    "homeName": "Borussia Dortmund",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-08T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 182,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-02-08T17:30:00+00:00",
+    "homeId": 163,
+    "awayId": 169,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-09T14:30:00+00:00",
+    "homeId": 191,
+    "awayId": 176,
+    "homeName": "Holstein Kiel",
+    "awayName": "VfL Bochum",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-09T16:30:00+00:00",
+    "homeId": 173,
+    "awayId": 186,
+    "homeName": "RB Leipzig",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-14T19:30:00+00:00",
+    "homeId": 170,
+    "awayId": 173,
+    "homeName": "FC Augsburg",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-15T14:30:00+00:00",
+    "homeId": 172,
+    "awayId": 161,
+    "homeName": "VfB Stuttgart",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-15T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 165,
+    "homeName": "VfL Bochum",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-15T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 163,
+    "homeName": "Union Berlin",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-15T14:30:00+00:00",
+    "homeId": 186,
+    "awayId": 160,
+    "homeName": "FC St. Pauli",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-15T17:30:00+00:00",
+    "homeId": 168,
+    "awayId": 157,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Bayern München",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-16T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 167,
+    "homeName": "Werder Bremen",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-16T16:30:00+00:00",
+    "homeId": 169,
+    "awayId": 191,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-16T18:30:00+00:00",
+    "homeId": 180,
+    "awayId": 164,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-21T19:30:00+00:00",
+    "homeId": 160,
+    "awayId": 162,
+    "homeName": "SC Freiburg",
+    "awayName": "Werder Bremen",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-22T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 176,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "VfL Bochum",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-22T14:30:00+00:00",
+    "homeId": 163,
+    "awayId": 170,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "FC Augsburg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-22T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 186,
+    "homeName": "FSV Mainz 05",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-22T14:30:00+00:00",
+    "homeId": 191,
+    "awayId": 168,
+    "homeName": "Holstein Kiel",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-22T17:30:00+00:00",
+    "homeId": 165,
+    "awayId": 182,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Union Berlin",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-23T14:30:00+00:00",
+    "homeId": 173,
+    "awayId": 180,
+    "homeName": "RB Leipzig",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-23T16:30:00+00:00",
+    "homeId": 157,
+    "awayId": 169,
+    "homeName": "Bayern München",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-23T18:30:00+00:00",
+    "homeId": 167,
+    "awayId": 172,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-28T19:30:00+00:00",
+    "homeId": 172,
+    "awayId": 157,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Bayern München",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-01T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 161,
+    "homeName": "Werder Bremen",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-01T14:30:00+00:00",
+    "homeId": 173,
+    "awayId": 164,
+    "homeName": "RB Leipzig",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-01T14:30:00+00:00",
+    "homeId": 176,
+    "awayId": 167,
+    "homeName": "VfL Bochum",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-01T14:30:00+00:00",
+    "homeId": 180,
+    "awayId": 163,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-01T14:30:00+00:00",
+    "homeId": 186,
+    "awayId": 165,
+    "homeName": "FC St. Pauli",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-01T17:30:00+00:00",
+    "homeId": 169,
+    "awayId": 168,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-03-02T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 191,
+    "homeName": "Union Berlin",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-02T16:30:00+00:00",
+    "homeId": 170,
+    "awayId": 160,
+    "homeName": "FC Augsburg",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-07T19:30:00+00:00",
+    "homeId": 163,
+    "awayId": 164,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-08T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 176,
+    "homeName": "Bayern München",
+    "awayName": "VfL Bochum",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-08T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 186,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-08T14:30:00+00:00",
+    "homeId": 165,
+    "awayId": 170,
+    "homeName": "Borussia Dortmund",
+    "awayName": "FC Augsburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-08T14:30:00+00:00",
+    "homeId": 168,
+    "awayId": 162,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Werder Bremen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-08T14:30:00+00:00",
+    "homeId": 191,
+    "awayId": 172,
+    "homeName": "Holstein Kiel",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-08T17:30:00+00:00",
+    "homeId": 160,
+    "awayId": 173,
+    "homeName": "SC Freiburg",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-09T14:30:00+00:00",
+    "homeId": 169,
+    "awayId": 182,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-09T16:30:00+00:00",
+    "homeId": 167,
+    "awayId": 180,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-14T19:30:00+00:00",
+    "homeId": 186,
+    "awayId": 167,
+    "homeName": "FC St. Pauli",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-15T14:30:00+00:00",
+    "homeId": 162,
+    "awayId": 163,
+    "homeName": "Werder Bremen",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-03-15T14:30:00+00:00",
+    "homeId": 164,
+    "awayId": 160,
+    "homeName": "FSV Mainz 05",
+    "awayName": "SC Freiburg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-15T14:30:00+00:00",
+    "homeId": 170,
+    "awayId": 161,
+    "homeName": "FC Augsburg",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-15T14:30:00+00:00",
+    "homeId": 182,
+    "awayId": 157,
+    "homeName": "Union Berlin",
+    "awayName": "Bayern München",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-15T17:30:00+00:00",
+    "homeId": 173,
+    "awayId": 165,
+    "homeName": "RB Leipzig",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-16T15:20:00+00:00",
+    "homeId": 176,
+    "awayId": 169,
+    "homeName": "VfL Bochum",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-16T16:30:00+00:00",
+    "homeId": 180,
+    "awayId": 191,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-16T18:30:00+00:00",
+    "homeId": 172,
+    "awayId": 168,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-03-28T19:30:00+00:00",
+    "homeId": 168,
+    "awayId": 176,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "VfL Bochum",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-29T14:30:00+00:00",
+    "homeId": 157,
+    "awayId": 186,
+    "homeName": "Bayern München",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-29T14:30:00+00:00",
+    "homeId": 161,
+    "awayId": 180,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-29T14:30:00+00:00",
+    "homeId": 163,
+    "awayId": 173,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-29T14:30:00+00:00",
+    "homeId": 167,
+    "awayId": 170,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-29T14:30:00+00:00",
+    "homeId": 191,
+    "awayId": 162,
+    "homeName": "Holstein Kiel",
+    "awayName": "Werder Bremen",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-29T17:30:00+00:00",
+    "homeId": 169,
+    "awayId": 172,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-30T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 182,
+    "homeName": "SC Freiburg",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-30T15:30:00+00:00",
+    "homeId": 165,
+    "awayId": 164,
+    "homeName": "Borussia Dortmund",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-04T18:30:00+00:00",
+    "homeId": 170,
+    "awayId": 157,
+    "homeName": "FC Augsburg",
+    "awayName": "Bayern München",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-05T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 165,
+    "homeName": "SC Freiburg",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-04-05T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 191,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-05T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 167,
+    "homeName": "RB Leipzig",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-05T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 172,
+    "homeName": "VfL Bochum",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-04-05T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 168,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-05T16:30:00+00:00",
+    "homeId": 162,
+    "awayId": 169,
+    "homeName": "Werder Bremen",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-06T13:30:00+00:00",
+    "homeId": 186,
+    "awayId": 163,
+    "homeName": "FC St. Pauli",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-06T15:30:00+00:00",
+    "homeId": 182,
+    "awayId": 161,
+    "homeName": "Union Berlin",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-11T18:30:00+00:00",
+    "homeId": 161,
+    "awayId": 173,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-12T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 160,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "SC Freiburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-12T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 164,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-12T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 182,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Union Berlin",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-12T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 170,
+    "homeName": "VfL Bochum",
+    "awayName": "FC Augsburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-12T13:30:00+00:00",
+    "homeId": 191,
+    "awayId": 186,
+    "homeName": "Holstein Kiel",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-12T16:30:00+00:00",
+    "homeId": 157,
+    "awayId": 165,
+    "homeName": "Bayern München",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-13T13:30:00+00:00",
+    "homeId": 172,
+    "awayId": 162,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-13T15:30:00+00:00",
+    "homeId": 169,
+    "awayId": 180,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-19T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 167,
+    "homeName": "SC Freiburg",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-19T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 176,
+    "homeName": "Werder Bremen",
+    "awayName": "VfL Bochum",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-19T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 161,
+    "homeName": "FSV Mainz 05",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-19T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 191,
+    "homeName": "RB Leipzig",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-19T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 157,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "Bayern München",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-04-19T16:30:00+00:00",
+    "homeId": 182,
+    "awayId": 172,
+    "homeName": "Union Berlin",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-04-20T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 169,
+    "homeName": "FC Augsburg",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-20T15:30:00+00:00",
+    "homeId": 165,
+    "awayId": 163,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-20T17:30:00+00:00",
+    "homeId": 186,
+    "awayId": 168,
+    "homeName": "FC St. Pauli",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-25T18:30:00+00:00",
+    "homeId": 172,
+    "awayId": 180,
+    "homeName": "VfB Stuttgart",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-26T13:30:00+00:00",
+    "homeId": 157,
+    "awayId": 164,
+    "homeName": "Bayern München",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-26T13:30:00+00:00",
+    "homeId": 161,
+    "awayId": 160,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "SC Freiburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-26T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 165,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-26T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 170,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "FC Augsburg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-26T13:30:00+00:00",
+    "homeId": 191,
+    "awayId": 163,
+    "homeName": "Holstein Kiel",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-04-26T16:30:00+00:00",
+    "homeId": 169,
+    "awayId": 173,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "RB Leipzig",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-27T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 182,
+    "homeName": "VfL Bochum",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-27T15:30:00+00:00",
+    "homeId": 162,
+    "awayId": 186,
+    "homeName": "Werder Bremen",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-02T18:30:00+00:00",
+    "homeId": 180,
+    "awayId": 176,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "VfL Bochum",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-03T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 167,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-05-03T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 157,
+    "homeName": "RB Leipzig",
+    "awayName": "Bayern München",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-03T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 162,
+    "homeName": "Union Berlin",
+    "awayName": "Werder Bremen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-03T13:30:00+00:00",
+    "homeId": 186,
+    "awayId": 172,
+    "homeName": "FC St. Pauli",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-03T16:30:00+00:00",
+    "homeId": 165,
+    "awayId": 161,
+    "homeName": "Borussia Dortmund",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-04T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 191,
+    "homeName": "FC Augsburg",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-04T15:30:00+00:00",
+    "homeId": 160,
+    "awayId": 168,
+    "homeName": "SC Freiburg",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-04T17:30:00+00:00",
+    "homeId": 164,
+    "awayId": 169,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-09T18:30:00+00:00",
+    "homeId": 161,
+    "awayId": 167,
+    "homeName": "VfL Wolfsburg",
+    "awayName": "1899 Hoffenheim",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-10T13:30:00+00:00",
+    "homeId": 162,
+    "awayId": 173,
+    "homeName": "Werder Bremen",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-10T13:30:00+00:00",
+    "homeId": 176,
+    "awayId": 164,
+    "homeName": "VfL Bochum",
+    "awayName": "FSV Mainz 05",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-05-10T13:30:00+00:00",
+    "homeId": 182,
+    "awayId": 180,
+    "homeName": "Union Berlin",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-10T13:30:00+00:00",
+    "homeId": 191,
+    "awayId": 160,
+    "homeName": "Holstein Kiel",
+    "awayName": "SC Freiburg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-10T16:30:00+00:00",
+    "homeId": 157,
+    "awayId": 163,
+    "homeName": "Bayern München",
+    "awayName": "Borussia Mönchengladbach",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-11T13:30:00+00:00",
+    "homeId": 168,
+    "awayId": 165,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-05-11T15:30:00+00:00",
+    "homeId": 169,
+    "awayId": 186,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "FC St. Pauli",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-11T17:30:00+00:00",
+    "homeId": 172,
+    "awayId": 170,
+    "homeName": "VfB Stuttgart",
+    "awayName": "FC Augsburg",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-17T13:30:00+00:00",
+    "homeId": 160,
+    "awayId": 169,
+    "homeName": "SC Freiburg",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-17T13:30:00+00:00",
+    "homeId": 163,
+    "awayId": 161,
+    "homeName": "Borussia Mönchengladbach",
+    "awayName": "VfL Wolfsburg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-17T13:30:00+00:00",
+    "homeId": 164,
+    "awayId": 168,
+    "homeName": "FSV Mainz 05",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-17T13:30:00+00:00",
+    "homeId": 165,
+    "awayId": 191,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Holstein Kiel",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-05-17T13:30:00+00:00",
+    "homeId": 167,
+    "awayId": 157,
+    "homeName": "1899 Hoffenheim",
+    "awayName": "Bayern München",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-05-17T13:30:00+00:00",
+    "homeId": 170,
+    "awayId": 182,
+    "homeName": "FC Augsburg",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-17T13:30:00+00:00",
+    "homeId": 173,
+    "awayId": 172,
+    "homeName": "RB Leipzig",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-17T13:30:00+00:00",
+    "homeId": 180,
+    "awayId": 162,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "Werder Bremen",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-05-17T13:30:00+00:00",
+    "homeId": 186,
+    "awayId": 176,
+    "homeName": "FC St. Pauli",
+    "awayName": "VfL Bochum",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-22T18:30:00+00:00",
+    "homeId": 180,
+    "awayId": 1660,
+    "homeName": "1. FC Heidenheim",
+    "awayName": "SV Elversberg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-05-26T18:30:00+00:00",
+    "homeId": 1660,
+    "awayId": 180,
+    "homeName": "SV Elversberg",
+    "awayName": "1. FC Heidenheim",
+    "homeGoals": 1,
+    "awayGoals": 2
+  }
+]

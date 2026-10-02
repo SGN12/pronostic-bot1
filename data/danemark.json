@@ -1,0 +1,1932 @@
+[
+  {
+    "id": 864349,
+    "date": "2022-07-15T17:00:00.000Z",
+    "homeId": 397,
+    "awayId": 401,
+    "homeName": "FC Midtjylland",
+    "awayName": "Randers FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 864351,
+    "date": "2022-07-17T12:00:00.000Z",
+    "homeId": 625,
+    "awayId": 2073,
+    "homeName": "Lyngby",
+    "awayName": "Silkeborg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 864350,
+    "date": "2022-07-17T12:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 402,
+    "homeName": "Viborg",
+    "awayName": "Aalborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 864352,
+    "date": "2022-07-17T14:00:00.000Z",
+    "homeId": 400,
+    "awayId": 404,
+    "homeName": "FC Copenhagen",
+    "awayName": "AC Horsens",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 864353,
+    "date": "2022-07-17T16:00:00.000Z",
+    "homeId": 407,
+    "awayId": 406,
+    "homeName": "Brondby",
+    "awayName": "Aarhus",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 864354,
+    "date": "2022-07-18T17:00:00.000Z",
+    "homeId": 405,
+    "awayId": 398,
+    "homeName": "Odense",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 864355,
+    "date": "2022-07-22T17:00:00.000Z",
+    "homeId": 397,
+    "awayId": 2073,
+    "homeName": "FC Midtjylland",
+    "awayName": "Silkeborg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 864357,
+    "date": "2022-07-24T12:00:00.000Z",
+    "homeId": 401,
+    "awayId": 405,
+    "homeName": "Randers FC",
+    "awayName": "Odense",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 864356,
+    "date": "2022-07-24T12:00:00.000Z",
+    "homeId": 406,
+    "awayId": 2070,
+    "homeName": "Aarhus",
+    "awayName": "Viborg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 864358,
+    "date": "2022-07-24T14:00:00.000Z",
+    "homeId": 407,
+    "awayId": 398,
+    "homeName": "Brondby",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 864359,
+    "date": "2022-07-24T16:00:00.000Z",
+    "homeId": 402,
+    "awayId": 400,
+    "homeName": "Aalborg",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 864360,
+    "date": "2022-07-25T17:00:00.000Z",
+    "homeId": 404,
+    "awayId": 625,
+    "homeName": "AC Horsens",
+    "awayName": "Lyngby",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881638,
+    "date": "2022-07-29T17:00:00.000Z",
+    "homeId": 405,
+    "awayId": 397,
+    "homeName": "Odense",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "id": 881640,
+    "date": "2022-07-31T12:00:00.000Z",
+    "homeId": 402,
+    "awayId": 404,
+    "homeName": "Aalborg",
+    "awayName": "AC Horsens",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 881639,
+    "date": "2022-07-31T12:00:00.000Z",
+    "homeId": 406,
+    "awayId": 401,
+    "homeName": "Aarhus",
+    "awayName": "Randers FC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 881641,
+    "date": "2022-07-31T14:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 400,
+    "homeName": "Viborg",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 881642,
+    "date": "2022-07-31T16:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 407,
+    "homeName": "Silkeborg",
+    "awayName": "Brondby",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 881643,
+    "date": "2022-08-01T17:00:00.000Z",
+    "homeId": 398,
+    "awayId": 625,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Lyngby",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881644,
+    "date": "2022-08-05T16:00:00.000Z",
+    "homeId": 401,
+    "awayId": 404,
+    "homeName": "Randers FC",
+    "awayName": "AC Horsens",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881645,
+    "date": "2022-08-05T18:00:00.000Z",
+    "homeId": 625,
+    "awayId": 397,
+    "homeName": "Lyngby",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 881646,
+    "date": "2022-08-06T14:00:00.000Z",
+    "homeId": 398,
+    "awayId": 2070,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Viborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881647,
+    "date": "2022-08-07T14:00:00.000Z",
+    "homeId": 400,
+    "awayId": 407,
+    "homeName": "FC Copenhagen",
+    "awayName": "Brondby",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "id": 881648,
+    "date": "2022-08-07T16:00:00.000Z",
+    "homeId": 405,
+    "awayId": 406,
+    "homeName": "Odense",
+    "awayName": "Aarhus",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 881649,
+    "date": "2022-08-08T17:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 402,
+    "homeName": "Silkeborg",
+    "awayName": "Aalborg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 881650,
+    "date": "2022-08-12T17:00:00.000Z",
+    "homeId": 404,
+    "awayId": 397,
+    "homeName": "AC Horsens",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 881651,
+    "date": "2022-08-12T19:00:00.000Z",
+    "homeId": 400,
+    "awayId": 401,
+    "homeName": "FC Copenhagen",
+    "awayName": "Randers FC",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 881652,
+    "date": "2022-08-14T12:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 2073,
+    "homeName": "Viborg",
+    "awayName": "Silkeborg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 881653,
+    "date": "2022-08-14T14:00:00.000Z",
+    "homeId": 402,
+    "awayId": 398,
+    "homeName": "Aalborg",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 881654,
+    "date": "2022-08-14T16:00:00.000Z",
+    "homeId": 407,
+    "awayId": 405,
+    "homeName": "Brondby",
+    "awayName": "Odense",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 881655,
+    "date": "2022-08-15T17:00:00.000Z",
+    "homeId": 406,
+    "awayId": 625,
+    "homeName": "Aarhus",
+    "awayName": "Lyngby",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881656,
+    "date": "2022-08-19T17:00:00.000Z",
+    "homeId": 625,
+    "awayId": 400,
+    "homeName": "Lyngby",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 881657,
+    "date": "2022-08-20T14:00:00.000Z",
+    "homeId": 397,
+    "awayId": 406,
+    "homeName": "FC Midtjylland",
+    "awayName": "Aarhus",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881658,
+    "date": "2022-08-21T12:00:00.000Z",
+    "homeId": 398,
+    "awayId": 2073,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Silkeborg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881659,
+    "date": "2022-08-21T14:00:00.000Z",
+    "homeId": 401,
+    "awayId": 2070,
+    "homeName": "Randers FC",
+    "awayName": "Viborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881660,
+    "date": "2022-08-21T16:00:00.000Z",
+    "homeId": 402,
+    "awayId": 407,
+    "homeName": "Aalborg",
+    "awayName": "Brondby",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881661,
+    "date": "2022-08-22T17:00:00.000Z",
+    "homeId": 405,
+    "awayId": 404,
+    "homeName": "Odense",
+    "awayName": "AC Horsens",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881662,
+    "date": "2022-08-26T17:00:00.000Z",
+    "homeId": 404,
+    "awayId": 406,
+    "homeName": "AC Horsens",
+    "awayName": "Aarhus",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881663,
+    "date": "2022-08-28T12:00:00.000Z",
+    "homeId": 401,
+    "awayId": 402,
+    "homeName": "Randers FC",
+    "awayName": "Aalborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881664,
+    "date": "2022-08-28T12:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 625,
+    "homeName": "Viborg",
+    "awayName": "Lyngby",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881665,
+    "date": "2022-08-28T14:00:00.000Z",
+    "homeId": 398,
+    "awayId": 400,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 881666,
+    "date": "2022-08-28T16:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 405,
+    "homeName": "Silkeborg",
+    "awayName": "Odense",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 881667,
+    "date": "2022-08-29T17:00:00.000Z",
+    "homeId": 407,
+    "awayId": 397,
+    "homeName": "Brondby",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881669,
+    "date": "2022-09-02T17:00:00.000Z",
+    "homeId": 400,
+    "awayId": 2073,
+    "homeName": "FC Copenhagen",
+    "awayName": "Silkeborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881670,
+    "date": "2022-09-04T12:00:00.000Z",
+    "homeId": 405,
+    "awayId": 2070,
+    "homeName": "Odense",
+    "awayName": "Viborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 881671,
+    "date": "2022-09-04T12:00:00.000Z",
+    "homeId": 625,
+    "awayId": 401,
+    "homeName": "Lyngby",
+    "awayName": "Randers FC",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881672,
+    "date": "2022-09-04T14:00:00.000Z",
+    "homeId": 404,
+    "awayId": 407,
+    "homeName": "AC Horsens",
+    "awayName": "Brondby",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881673,
+    "date": "2022-09-04T16:00:00.000Z",
+    "homeId": 397,
+    "awayId": 402,
+    "homeName": "FC Midtjylland",
+    "awayName": "Aalborg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881668,
+    "date": "2022-09-05T17:00:00.000Z",
+    "homeId": 406,
+    "awayId": 398,
+    "homeName": "Aarhus",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 881678,
+    "date": "2022-09-10T17:00:00.000Z",
+    "homeId": 405,
+    "awayId": 400,
+    "homeName": "Odense",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881676,
+    "date": "2022-09-11T12:00:00.000Z",
+    "homeId": 398,
+    "awayId": 397,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881675,
+    "date": "2022-09-11T12:00:00.000Z",
+    "homeId": 402,
+    "awayId": 625,
+    "homeName": "Aalborg",
+    "awayName": "Lyngby",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881674,
+    "date": "2022-09-11T14:00:00.000Z",
+    "homeId": 407,
+    "awayId": 401,
+    "homeName": "Brondby",
+    "awayName": "Randers FC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 881677,
+    "date": "2022-09-11T16:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 406,
+    "homeName": "Silkeborg",
+    "awayName": "Aarhus",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881679,
+    "date": "2022-09-12T17:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 404,
+    "homeName": "Viborg",
+    "awayName": "AC Horsens",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881682,
+    "date": "2022-09-16T17:00:00.000Z",
+    "homeId": 404,
+    "awayId": 398,
+    "homeName": "AC Horsens",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881685,
+    "date": "2022-09-17T15:00:00.000Z",
+    "homeId": 406,
+    "awayId": 402,
+    "homeName": "Aarhus",
+    "awayName": "Aalborg",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 881681,
+    "date": "2022-09-18T12:00:00.000Z",
+    "homeId": 401,
+    "awayId": 2073,
+    "homeName": "Randers FC",
+    "awayName": "Silkeborg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 881680,
+    "date": "2022-09-18T12:00:00.000Z",
+    "homeId": 625,
+    "awayId": 405,
+    "homeName": "Lyngby",
+    "awayName": "Odense",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881683,
+    "date": "2022-09-18T14:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 407,
+    "homeName": "Viborg",
+    "awayName": "Brondby",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 881684,
+    "date": "2022-09-18T16:00:00.000Z",
+    "homeId": 397,
+    "awayId": 400,
+    "homeName": "FC Midtjylland",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881688,
+    "date": "2022-09-30T17:00:00.000Z",
+    "homeId": 402,
+    "awayId": 405,
+    "homeName": "Aalborg",
+    "awayName": "Odense",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881687,
+    "date": "2022-10-02T12:00:00.000Z",
+    "homeId": 397,
+    "awayId": 2070,
+    "homeName": "FC Midtjylland",
+    "awayName": "Viborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881691,
+    "date": "2022-10-02T12:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 404,
+    "homeName": "Silkeborg",
+    "awayName": "AC Horsens",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881686,
+    "date": "2022-10-02T14:00:00.000Z",
+    "homeId": 407,
+    "awayId": 625,
+    "homeName": "Brondby",
+    "awayName": "Lyngby",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 881690,
+    "date": "2022-10-02T16:00:00.000Z",
+    "homeId": 400,
+    "awayId": 406,
+    "homeName": "FC Copenhagen",
+    "awayName": "Aarhus",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881689,
+    "date": "2022-10-03T17:00:00.000Z",
+    "homeId": 398,
+    "awayId": 401,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Randers FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 881695,
+    "date": "2022-10-07T17:00:00.000Z",
+    "homeId": 625,
+    "awayId": 2070,
+    "homeName": "Lyngby",
+    "awayName": "Viborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881693,
+    "date": "2022-10-08T17:00:00.000Z",
+    "homeId": 400,
+    "awayId": 398,
+    "homeName": "FC Copenhagen",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881692,
+    "date": "2022-10-09T12:00:00.000Z",
+    "homeId": 406,
+    "awayId": 397,
+    "homeName": "Aarhus",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 881694,
+    "date": "2022-10-09T14:00:00.000Z",
+    "homeId": 405,
+    "awayId": 2073,
+    "homeName": "Odense",
+    "awayName": "Silkeborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881696,
+    "date": "2022-10-09T16:00:00.000Z",
+    "homeId": 401,
+    "awayId": 407,
+    "homeName": "Randers FC",
+    "awayName": "Brondby",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 881697,
+    "date": "2022-10-10T17:00:00.000Z",
+    "homeId": 404,
+    "awayId": 402,
+    "homeName": "AC Horsens",
+    "awayName": "Aalborg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 881700,
+    "date": "2022-10-14T17:00:00.000Z",
+    "homeId": 625,
+    "awayId": 402,
+    "homeName": "Lyngby",
+    "awayName": "Aalborg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881698,
+    "date": "2022-10-16T12:00:00.000Z",
+    "homeId": 407,
+    "awayId": 400,
+    "homeName": "Brondby",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881701,
+    "date": "2022-10-16T12:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 405,
+    "homeName": "Viborg",
+    "awayName": "Odense",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 881699,
+    "date": "2022-10-16T14:00:00.000Z",
+    "homeId": 398,
+    "awayId": 406,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Aarhus",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881703,
+    "date": "2022-10-16T16:00:00.000Z",
+    "homeId": 397,
+    "awayId": 404,
+    "homeName": "FC Midtjylland",
+    "awayName": "AC Horsens",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881702,
+    "date": "2022-10-17T17:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 401,
+    "homeName": "Silkeborg",
+    "awayName": "Randers FC",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 881709,
+    "date": "2022-10-21T17:00:00.000Z",
+    "homeId": 405,
+    "awayId": 625,
+    "homeName": "Odense",
+    "awayName": "Lyngby",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 881705,
+    "date": "2022-10-22T14:00:00.000Z",
+    "homeId": 400,
+    "awayId": 397,
+    "homeName": "FC Copenhagen",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881708,
+    "date": "2022-10-23T12:00:00.000Z",
+    "homeId": 401,
+    "awayId": 398,
+    "homeName": "Randers FC",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881707,
+    "date": "2022-10-23T14:00:00.000Z",
+    "homeId": 404,
+    "awayId": 2073,
+    "homeName": "AC Horsens",
+    "awayName": "Silkeborg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 881704,
+    "date": "2022-10-23T16:00:00.000Z",
+    "homeId": 406,
+    "awayId": 407,
+    "homeName": "Aarhus",
+    "awayName": "Brondby",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 881706,
+    "date": "2022-10-24T17:00:00.000Z",
+    "homeId": 402,
+    "awayId": 2070,
+    "homeName": "Aalborg",
+    "awayName": "Viborg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 881715,
+    "date": "2022-10-28T17:00:00.000Z",
+    "homeId": 398,
+    "awayId": 404,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "AC Horsens",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 881713,
+    "date": "2022-10-29T14:00:00.000Z",
+    "homeId": 401,
+    "awayId": 400,
+    "homeName": "Randers FC",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881712,
+    "date": "2022-10-30T13:00:00.000Z",
+    "homeId": 625,
+    "awayId": 406,
+    "homeName": "Lyngby",
+    "awayName": "Aarhus",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 881711,
+    "date": "2022-10-30T15:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 2070,
+    "homeName": "Silkeborg",
+    "awayName": "Viborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 881714,
+    "date": "2022-10-30T17:00:00.000Z",
+    "homeId": 407,
+    "awayId": 402,
+    "homeName": "Brondby",
+    "awayName": "Aalborg",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 881710,
+    "date": "2022-10-31T18:00:00.000Z",
+    "homeId": 397,
+    "awayId": 405,
+    "homeName": "FC Midtjylland",
+    "awayName": "Odense",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 881719,
+    "date": "2022-11-04T18:00:00.000Z",
+    "homeId": 404,
+    "awayId": 401,
+    "homeName": "AC Horsens",
+    "awayName": "Randers FC",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 881718,
+    "date": "2022-11-06T13:00:00.000Z",
+    "homeId": 402,
+    "awayId": 2073,
+    "homeName": "Aalborg",
+    "awayName": "Silkeborg",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 881721,
+    "date": "2022-11-06T13:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 406,
+    "homeName": "Viborg",
+    "awayName": "Aarhus",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881717,
+    "date": "2022-11-06T15:00:00.000Z",
+    "homeId": 400,
+    "awayId": 625,
+    "homeName": "FC Copenhagen",
+    "awayName": "Lyngby",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 881720,
+    "date": "2022-11-06T17:00:00.000Z",
+    "homeId": 405,
+    "awayId": 407,
+    "homeName": "Odense",
+    "awayName": "Brondby",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881716,
+    "date": "2022-11-07T18:00:00.000Z",
+    "homeId": 397,
+    "awayId": 398,
+    "homeName": "FC Midtjylland",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 881727,
+    "date": "2022-11-12T15:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 625,
+    "homeName": "Silkeborg",
+    "awayName": "Lyngby",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881724,
+    "date": "2022-11-13T13:00:00.000Z",
+    "homeId": 404,
+    "awayId": 405,
+    "homeName": "AC Horsens",
+    "awayName": "Odense",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 881723,
+    "date": "2022-11-13T13:00:00.000Z",
+    "homeId": 406,
+    "awayId": 400,
+    "homeName": "Aarhus",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881722,
+    "date": "2022-11-13T15:00:00.000Z",
+    "homeId": 407,
+    "awayId": 2070,
+    "homeName": "Brondby",
+    "awayName": "Viborg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 881726,
+    "date": "2022-11-13T17:00:00.000Z",
+    "homeId": 398,
+    "awayId": 402,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Aalborg",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 881725,
+    "date": "2022-11-13T19:00:00.000Z",
+    "homeId": 401,
+    "awayId": 397,
+    "homeName": "Randers FC",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 881729,
+    "date": "2023-02-17T18:00:00.000Z",
+    "homeId": 402,
+    "awayId": 406,
+    "homeName": "Aalborg",
+    "awayName": "Aarhus",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 881730,
+    "date": "2023-02-19T13:00:00.000Z",
+    "homeId": 405,
+    "awayId": 401,
+    "homeName": "Odense",
+    "awayName": "Randers FC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 881731,
+    "date": "2023-02-19T13:00:00.000Z",
+    "homeId": 625,
+    "awayId": 398,
+    "homeName": "Lyngby",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881733,
+    "date": "2023-02-19T15:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 400,
+    "homeName": "Silkeborg",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 881728,
+    "date": "2023-02-19T17:00:00.000Z",
+    "homeId": 407,
+    "awayId": 404,
+    "homeName": "Brondby",
+    "awayName": "AC Horsens",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "id": 881732,
+    "date": "2023-02-20T18:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 397,
+    "homeName": "Viborg",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 881735,
+    "date": "2023-02-24T18:00:00.000Z",
+    "homeId": 398,
+    "awayId": 405,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Odense",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 881739,
+    "date": "2023-02-26T13:00:00.000Z",
+    "homeId": 401,
+    "awayId": 625,
+    "homeName": "Randers FC",
+    "awayName": "Lyngby",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881736,
+    "date": "2023-02-26T13:00:00.000Z",
+    "homeId": 404,
+    "awayId": 2070,
+    "homeName": "AC Horsens",
+    "awayName": "Viborg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 881738,
+    "date": "2023-02-26T15:00:00.000Z",
+    "homeId": 400,
+    "awayId": 402,
+    "homeName": "FC Copenhagen",
+    "awayName": "Aalborg",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881734,
+    "date": "2023-02-26T17:00:00.000Z",
+    "homeId": 406,
+    "awayId": 2073,
+    "homeName": "Aarhus",
+    "awayName": "Silkeborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881737,
+    "date": "2023-02-27T18:00:00.000Z",
+    "homeId": 397,
+    "awayId": 407,
+    "homeName": "FC Midtjylland",
+    "awayName": "Brondby",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 881740,
+    "date": "2023-03-03T18:00:00.000Z",
+    "homeId": 406,
+    "awayId": 404,
+    "homeName": "Aarhus",
+    "awayName": "AC Horsens",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 881745,
+    "date": "2023-03-05T13:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 401,
+    "homeName": "Viborg",
+    "awayName": "Randers FC",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 881744,
+    "date": "2023-03-05T13:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 398,
+    "homeName": "Silkeborg",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881743,
+    "date": "2023-03-05T15:00:00.000Z",
+    "homeId": 625,
+    "awayId": 407,
+    "homeName": "Lyngby",
+    "awayName": "Brondby",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881741,
+    "date": "2023-03-05T17:30:00.000Z",
+    "homeId": 400,
+    "awayId": 405,
+    "homeName": "FC Copenhagen",
+    "awayName": "Odense",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "id": 881742,
+    "date": "2023-03-06T18:00:00.000Z",
+    "homeId": 402,
+    "awayId": 397,
+    "homeName": "Aalborg",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 881749,
+    "date": "2023-03-10T18:00:00.000Z",
+    "homeId": 405,
+    "awayId": 402,
+    "homeName": "Odense",
+    "awayName": "Aalborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881751,
+    "date": "2023-03-12T13:00:00.000Z",
+    "homeId": 397,
+    "awayId": 625,
+    "homeName": "FC Midtjylland",
+    "awayName": "Lyngby",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 881750,
+    "date": "2023-03-12T13:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 398,
+    "homeName": "Viborg",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881747,
+    "date": "2023-03-12T15:00:00.000Z",
+    "homeId": 404,
+    "awayId": 400,
+    "homeName": "AC Horsens",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "id": 881746,
+    "date": "2023-03-12T17:00:00.000Z",
+    "homeId": 407,
+    "awayId": 2073,
+    "homeName": "Brondby",
+    "awayName": "Silkeborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881748,
+    "date": "2023-03-13T18:00:00.000Z",
+    "homeId": 401,
+    "awayId": 406,
+    "homeName": "Randers FC",
+    "awayName": "Aarhus",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 881755,
+    "date": "2023-03-19T14:00:00.000Z",
+    "homeId": 398,
+    "awayId": 407,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Brondby",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881753,
+    "date": "2023-03-19T14:00:00.000Z",
+    "homeId": 400,
+    "awayId": 2070,
+    "homeName": "FC Copenhagen",
+    "awayName": "Viborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 881754,
+    "date": "2023-03-19T14:00:00.000Z",
+    "homeId": 402,
+    "awayId": 401,
+    "homeName": "Aalborg",
+    "awayName": "Randers FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 881752,
+    "date": "2023-03-19T14:00:00.000Z",
+    "homeId": 406,
+    "awayId": 405,
+    "homeName": "Aarhus",
+    "awayName": "Odense",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 881757,
+    "date": "2023-03-19T14:00:00.000Z",
+    "homeId": 625,
+    "awayId": 404,
+    "homeName": "Lyngby",
+    "awayName": "AC Horsens",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 881756,
+    "date": "2023-03-19T14:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 397,
+    "homeName": "Silkeborg",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017268,
+    "date": "2023-03-31T17:00:00.000Z",
+    "homeId": 405,
+    "awayId": 397,
+    "homeName": "Odense",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017270,
+    "date": "2023-04-02T12:00:00.000Z",
+    "homeId": 404,
+    "awayId": 402,
+    "homeName": "AC Horsens",
+    "awayName": "Aalborg",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1017269,
+    "date": "2023-04-02T12:00:00.000Z",
+    "homeId": 625,
+    "awayId": 2073,
+    "homeName": "Lyngby",
+    "awayName": "Silkeborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017238,
+    "date": "2023-04-02T14:00:00.000Z",
+    "homeId": 407,
+    "awayId": 2070,
+    "homeName": "Brondby",
+    "awayName": "Viborg",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017239,
+    "date": "2023-04-02T16:00:00.000Z",
+    "homeId": 400,
+    "awayId": 398,
+    "homeName": "FC Copenhagen",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017240,
+    "date": "2023-04-03T17:00:00.000Z",
+    "homeId": 406,
+    "awayId": 401,
+    "homeName": "Aarhus",
+    "awayName": "Randers FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017241,
+    "date": "2023-04-09T14:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 406,
+    "homeName": "Viborg",
+    "awayName": "Aarhus",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017272,
+    "date": "2023-04-10T12:00:00.000Z",
+    "homeId": 397,
+    "awayId": 625,
+    "homeName": "FC Midtjylland",
+    "awayName": "Lyngby",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017271,
+    "date": "2023-04-10T12:00:00.000Z",
+    "homeId": 402,
+    "awayId": 405,
+    "homeName": "Aalborg",
+    "awayName": "Odense",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017242,
+    "date": "2023-04-10T14:00:00.000Z",
+    "homeId": 401,
+    "awayId": 400,
+    "homeName": "Randers FC",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017243,
+    "date": "2023-04-10T16:00:00.000Z",
+    "homeId": 398,
+    "awayId": 407,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Brondby",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017273,
+    "date": "2023-04-11T16:30:00.000Z",
+    "homeId": 2073,
+    "awayId": 404,
+    "homeName": "Silkeborg",
+    "awayName": "AC Horsens",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017274,
+    "date": "2023-04-14T17:00:00.000Z",
+    "homeId": 397,
+    "awayId": 402,
+    "homeName": "FC Midtjylland",
+    "awayName": "Aalborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017276,
+    "date": "2023-04-16T12:00:00.000Z",
+    "homeId": 405,
+    "awayId": 2073,
+    "homeName": "Odense",
+    "awayName": "Silkeborg",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017275,
+    "date": "2023-04-16T12:00:00.000Z",
+    "homeId": 625,
+    "awayId": 404,
+    "homeName": "Lyngby",
+    "awayName": "AC Horsens",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017244,
+    "date": "2023-04-16T14:00:00.000Z",
+    "homeId": 400,
+    "awayId": 2070,
+    "homeName": "FC Copenhagen",
+    "awayName": "Viborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017245,
+    "date": "2023-04-16T16:00:00.000Z",
+    "homeId": 407,
+    "awayId": 406,
+    "homeName": "Brondby",
+    "awayName": "Aarhus",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017246,
+    "date": "2023-04-17T17:00:00.000Z",
+    "homeId": 401,
+    "awayId": 398,
+    "homeName": "Randers FC",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017277,
+    "date": "2023-04-21T17:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 402,
+    "homeName": "Silkeborg",
+    "awayName": "Aalborg",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017278,
+    "date": "2023-04-23T12:00:00.000Z",
+    "homeId": 404,
+    "awayId": 397,
+    "homeName": "AC Horsens",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017247,
+    "date": "2023-04-23T12:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 398,
+    "homeName": "Viborg",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017248,
+    "date": "2023-04-23T14:00:00.000Z",
+    "homeId": 407,
+    "awayId": 401,
+    "homeName": "Brondby",
+    "awayName": "Randers FC",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1017249,
+    "date": "2023-04-23T16:00:00.000Z",
+    "homeId": 406,
+    "awayId": 400,
+    "homeName": "Aarhus",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017279,
+    "date": "2023-04-24T17:00:00.000Z",
+    "homeId": 405,
+    "awayId": 625,
+    "homeName": "Odense",
+    "awayName": "Lyngby",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017280,
+    "date": "2023-04-28T17:00:00.000Z",
+    "homeId": 404,
+    "awayId": 405,
+    "homeName": "AC Horsens",
+    "awayName": "Odense",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017281,
+    "date": "2023-04-30T12:00:00.000Z",
+    "homeId": 402,
+    "awayId": 625,
+    "homeName": "Aalborg",
+    "awayName": "Lyngby",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017250,
+    "date": "2023-04-30T12:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 401,
+    "homeName": "Viborg",
+    "awayName": "Randers FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017251,
+    "date": "2023-04-30T14:00:00.000Z",
+    "homeId": 400,
+    "awayId": 407,
+    "homeName": "FC Copenhagen",
+    "awayName": "Brondby",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017252,
+    "date": "2023-04-30T16:00:00.000Z",
+    "homeId": 398,
+    "awayId": 406,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Aarhus",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017282,
+    "date": "2023-05-01T17:00:00.000Z",
+    "homeId": 397,
+    "awayId": 2073,
+    "homeName": "FC Midtjylland",
+    "awayName": "Silkeborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017283,
+    "date": "2023-05-07T10:00:00.000Z",
+    "homeId": 402,
+    "awayId": 404,
+    "homeName": "Aalborg",
+    "awayName": "AC Horsens",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017285,
+    "date": "2023-05-07T12:00:00.000Z",
+    "homeId": 625,
+    "awayId": 397,
+    "homeName": "Lyngby",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017284,
+    "date": "2023-05-07T12:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 405,
+    "homeName": "Silkeborg",
+    "awayName": "Odense",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017253,
+    "date": "2023-05-07T14:00:00.000Z",
+    "homeId": 401,
+    "awayId": 407,
+    "homeName": "Randers FC",
+    "awayName": "Brondby",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017254,
+    "date": "2023-05-07T16:00:00.000Z",
+    "homeId": 406,
+    "awayId": 2070,
+    "homeName": "Aarhus",
+    "awayName": "Viborg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017255,
+    "date": "2023-05-08T17:00:00.000Z",
+    "homeId": 398,
+    "awayId": 400,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017286,
+    "date": "2023-05-12T17:00:00.000Z",
+    "homeId": 405,
+    "awayId": 402,
+    "homeName": "Odense",
+    "awayName": "Aalborg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017288,
+    "date": "2023-05-14T12:00:00.000Z",
+    "homeId": 397,
+    "awayId": 404,
+    "homeName": "FC Midtjylland",
+    "awayName": "AC Horsens",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017287,
+    "date": "2023-05-14T12:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 625,
+    "homeName": "Silkeborg",
+    "awayName": "Lyngby",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017256,
+    "date": "2023-05-14T14:00:00.000Z",
+    "homeId": 407,
+    "awayId": 400,
+    "homeName": "Brondby",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017257,
+    "date": "2023-05-14T16:00:00.000Z",
+    "homeId": 406,
+    "awayId": 398,
+    "homeName": "Aarhus",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017258,
+    "date": "2023-05-15T17:00:00.000Z",
+    "homeId": 401,
+    "awayId": 2070,
+    "homeName": "Randers FC",
+    "awayName": "Viborg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017291,
+    "date": "2023-05-19T17:00:00.000Z",
+    "homeId": 404,
+    "awayId": 2073,
+    "homeName": "AC Horsens",
+    "awayName": "Silkeborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017289,
+    "date": "2023-05-21T12:00:00.000Z",
+    "homeId": 402,
+    "awayId": 397,
+    "homeName": "Aalborg",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017290,
+    "date": "2023-05-21T12:00:00.000Z",
+    "homeId": 625,
+    "awayId": 405,
+    "homeName": "Lyngby",
+    "awayName": "Odense",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "id": 1017259,
+    "date": "2023-05-21T14:05:00.000Z",
+    "homeId": 2070,
+    "awayId": 407,
+    "homeName": "Viborg",
+    "awayName": "Brondby",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017260,
+    "date": "2023-05-21T16:00:00.000Z",
+    "homeId": 400,
+    "awayId": 406,
+    "homeName": "FC Copenhagen",
+    "awayName": "Aarhus",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017261,
+    "date": "2023-05-22T17:00:00.000Z",
+    "homeId": 398,
+    "awayId": 401,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Randers FC",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017292,
+    "date": "2023-05-26T17:00:00.000Z",
+    "homeId": 405,
+    "awayId": 404,
+    "homeName": "Odense",
+    "awayName": "AC Horsens",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017294,
+    "date": "2023-05-29T12:00:00.000Z",
+    "homeId": 625,
+    "awayId": 402,
+    "homeName": "Lyngby",
+    "awayName": "Aalborg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017293,
+    "date": "2023-05-29T12:00:00.000Z",
+    "homeId": 2073,
+    "awayId": 397,
+    "homeName": "Silkeborg",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017262,
+    "date": "2023-05-29T14:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 400,
+    "homeName": "Viborg",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017263,
+    "date": "2023-05-29T16:00:00.000Z",
+    "homeId": 407,
+    "awayId": 398,
+    "homeName": "Brondby",
+    "awayName": "FC Nordsjaelland",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017264,
+    "date": "2023-05-30T17:00:00.000Z",
+    "homeId": 401,
+    "awayId": 406,
+    "homeName": "Randers FC",
+    "awayName": "Aarhus",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "id": 1017295,
+    "date": "2023-06-03T12:00:00.000Z",
+    "homeId": 397,
+    "awayId": 405,
+    "homeName": "FC Midtjylland",
+    "awayName": "Odense",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "id": 1017296,
+    "date": "2023-06-03T12:00:00.000Z",
+    "homeId": 402,
+    "awayId": 2073,
+    "homeName": "Aalborg",
+    "awayName": "Silkeborg",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017297,
+    "date": "2023-06-03T12:00:00.000Z",
+    "homeId": 404,
+    "awayId": 625,
+    "homeName": "AC Horsens",
+    "awayName": "Lyngby",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017265,
+    "date": "2023-06-04T15:00:00.000Z",
+    "homeId": 398,
+    "awayId": 2070,
+    "homeName": "FC Nordsjaelland",
+    "awayName": "Viborg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": 1017266,
+    "date": "2023-06-04T15:00:00.000Z",
+    "homeId": 400,
+    "awayId": 401,
+    "homeName": "FC Copenhagen",
+    "awayName": "Randers FC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": 1017267,
+    "date": "2023-06-04T15:00:00.000Z",
+    "homeId": 406,
+    "awayId": 407,
+    "homeName": "Aarhus",
+    "awayName": "Brondby",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "id": 1030274,
+    "date": "2023-06-09T17:00:00.000Z",
+    "homeId": 2070,
+    "awayId": 397,
+    "homeName": "Viborg",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 0,
+    "awayGoals": 1
+  }
+]

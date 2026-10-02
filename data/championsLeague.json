@@ -1,0 +1,6068 @@
+[
+  {
+    "date": "2022-06-21T13:00:00+00:00",
+    "homeId": 2249,
+    "awayId": 3342,
+    "homeName": "La Fiorita",
+    "awayName": "Inter Club d'Escaldes",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-06-21T19:30:00+00:00",
+    "homeId": 2273,
+    "awayId": 278,
+    "homeName": "FC Levadia Tallinn",
+    "awayName": "Vikingur Reykjavik",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "date": "2022-06-24T19:30:00+00:00",
+    "homeId": 3342,
+    "awayId": 278,
+    "homeName": "Inter Club d'Escaldes",
+    "awayName": "Vikingur Reykjavik",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-05T16:00:00+00:00",
+    "homeId": 709,
+    "awayId": 2246,
+    "homeName": "Pyunik Yerevan",
+    "awayName": "CFR 1907 Cluj",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-05T17:00:00+00:00",
+    "homeId": 375,
+    "awayId": 278,
+    "homeName": "Malmo FF",
+    "awayName": "Vikingur Reykjavik",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-05T17:45:00+00:00",
+    "homeId": 566,
+    "awayId": 673,
+    "homeName": "Ludogorets",
+    "awayName": "Sutjeska",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-05T18:00:00+00:00",
+    "homeId": 347,
+    "awayId": 556,
+    "homeName": "Lech Poznan",
+    "awayName": "Qarabag",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-05T18:00:00+00:00",
+    "homeId": 354,
+    "awayId": 583,
+    "homeName": "The New Saints",
+    "awayName": "Linfield",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-05T18:00:00+00:00",
+    "homeId": 12733,
+    "awayId": 586,
+    "homeName": "Ballkani",
+    "awayName": "FK Zalgiris Vilnius",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-05T18:30:00+00:00",
+    "homeId": 652,
+    "awayId": 3884,
+    "homeName": "Shamrock Rovers",
+    "awayName": "Hibernians",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-05T18:45:00+00:00",
+    "homeId": 2265,
+    "awayId": 667,
+    "homeName": "Shkupi 1927",
+    "awayName": "Lincoln Red Imps FC",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-06T14:00:00+00:00",
+    "homeId": 2259,
+    "awayId": 651,
+    "homeName": "FK Tobol Kostanay",
+    "awayName": "Ferencvarosi TC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-06T16:00:00+00:00",
+    "homeId": 327,
+    "awayId": 701,
+    "homeName": "Bodo/Glimt",
+    "awayName": "KI Klaksvik",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-06T16:00:00+00:00",
+    "homeId": 649,
+    "awayId": 4160,
+    "homeName": "HJK Helsinki",
+    "awayName": "Rīgas FS",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-06T17:30:00+00:00",
+    "homeId": 578,
+    "awayId": 694,
+    "homeName": "F91 Dudelange",
+    "awayName": "Tirana",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-06T18:00:00+00:00",
+    "homeId": 588,
+    "awayId": 568,
+    "homeName": "Zrinjski",
+    "awayName": "Sheriff Tiraspol",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-06T18:15:00+00:00",
+    "homeId": 552,
+    "awayId": 392,
+    "homeName": "Maribor",
+    "awayName": "Shakhter Soligorsk",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-06T18:30:00+00:00",
+    "homeId": 656,
+    "awayId": 705,
+    "homeName": "Slovan Bratislava",
+    "awayName": "Dinamo Batumi",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-12T16:00:00+00:00",
+    "homeId": 556,
+    "awayId": 347,
+    "homeName": "Qarabag",
+    "awayName": "Lech Poznan",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-12T16:00:00+00:00",
+    "homeId": 667,
+    "awayId": 2265,
+    "homeName": "Lincoln Red Imps FC",
+    "awayName": "Shkupi 1927",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-12T17:00:00+00:00",
+    "homeId": 568,
+    "awayId": 588,
+    "homeName": "Sheriff Tiraspol",
+    "awayName": "Zrinjski",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-12T18:00:00+00:00",
+    "homeId": 694,
+    "awayId": 578,
+    "homeName": "Tirana",
+    "awayName": "F91 Dudelange",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-12T18:00:00+00:00",
+    "homeId": 3884,
+    "awayId": 652,
+    "homeName": "Hibernians",
+    "awayName": "Shamrock Rovers",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-12T19:00:00+00:00",
+    "homeId": 673,
+    "awayId": 566,
+    "homeName": "Sutjeska",
+    "awayName": "Ludogorets",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-12T19:30:00+00:00",
+    "homeId": 278,
+    "awayId": 375,
+    "homeName": "Vikingur Reykjavik",
+    "awayName": "Malmo FF",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-07-13T17:00:00+00:00",
+    "homeId": 392,
+    "awayId": 552,
+    "homeName": "Shakhter Soligorsk",
+    "awayName": "Maribor",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-13T17:00:00+00:00",
+    "homeId": 701,
+    "awayId": 327,
+    "homeName": "KI Klaksvik",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-13T18:00:00+00:00",
+    "homeId": 651,
+    "awayId": 2259,
+    "homeName": "Ferencvarosi TC",
+    "awayName": "FK Tobol Kostanay",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-19T16:00:00+00:00",
+    "homeId": 556,
+    "awayId": 783,
+    "homeName": "Qarabag",
+    "awayName": "FC Zurich",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-19T16:00:00+00:00",
+    "homeId": 586,
+    "awayId": 375,
+    "homeName": "FK Zalgiris Vilnius",
+    "awayName": "Malmo FF",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-19T16:00:00+00:00",
+    "homeId": 709,
+    "awayId": 578,
+    "homeName": "Pyunik Yerevan",
+    "awayName": "F91 Dudelange",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-19T17:45:00+00:00",
+    "homeId": 397,
+    "awayId": 614,
+    "homeName": "FC Midtjylland",
+    "awayName": "AEK Larnaca",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-19T17:45:00+00:00",
+    "homeId": 566,
+    "awayId": 652,
+    "homeName": "Ludogorets",
+    "awayName": "Shamrock Rovers",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-19T18:45:00+00:00",
+    "homeId": 583,
+    "awayId": 327,
+    "homeName": "Linfield",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-19T19:00:00+00:00",
+    "homeId": 620,
+    "awayId": 2265,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "Shkupi 1927",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-20T16:00:00+00:00",
+    "homeId": 649,
+    "awayId": 567,
+    "homeName": "HJK Helsinki",
+    "awayName": "Plzen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-20T17:00:00+00:00",
+    "homeId": 4195,
+    "awayId": 553,
+    "homeName": "Maccabi Haifa",
+    "awayName": "Olympiakos Piraeus",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-20T18:00:00+00:00",
+    "homeId": 572,
+    "awayId": 611,
+    "homeName": "Dynamo Kyiv",
+    "awayName": "Fenerbahçe",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-20T18:00:00+00:00",
+    "homeId": 651,
+    "awayId": 656,
+    "homeName": "Ferencvarosi TC",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-20T18:15:00+00:00",
+    "homeId": 552,
+    "awayId": 568,
+    "homeName": "Maribor",
+    "awayName": "Sheriff Tiraspol",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-26T17:00:00+00:00",
+    "homeId": 567,
+    "awayId": 649,
+    "homeName": "Plzen",
+    "awayName": "HJK Helsinki",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-26T17:00:00+00:00",
+    "homeId": 568,
+    "awayId": 552,
+    "homeName": "Sheriff Tiraspol",
+    "awayName": "Maribor",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-26T17:30:00+00:00",
+    "homeId": 578,
+    "awayId": 709,
+    "homeName": "F91 Dudelange",
+    "awayName": "Pyunik Yerevan",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-07-26T19:00:00+00:00",
+    "homeId": 652,
+    "awayId": 566,
+    "homeName": "Shamrock Rovers",
+    "awayName": "Ludogorets",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-26T19:00:00+00:00",
+    "homeId": 2265,
+    "awayId": 620,
+    "homeName": "Shkupi 1927",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-07-27T16:00:00+00:00",
+    "homeId": 327,
+    "awayId": 583,
+    "homeName": "Bodo/Glimt",
+    "awayName": "Linfield",
+    "homeGoals": 8,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-07-27T17:00:00+00:00",
+    "homeId": 375,
+    "awayId": 586,
+    "homeName": "Malmo FF",
+    "awayName": "FK Zalgiris Vilnius",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-07-27T18:30:00+00:00",
+    "homeId": 656,
+    "awayId": 651,
+    "homeName": "Slovan Bratislava",
+    "awayName": "Ferencvarosi TC",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-07-27T19:00:00+00:00",
+    "homeId": 553,
+    "awayId": 4195,
+    "homeName": "Olympiakos Piraeus",
+    "awayName": "Maccabi Haifa",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-08-02T17:00:00+00:00",
+    "homeId": 568,
+    "awayId": 567,
+    "homeName": "Sheriff Tiraspol",
+    "awayName": "Plzen",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-02T17:45:00+00:00",
+    "homeId": 566,
+    "awayId": 620,
+    "homeName": "Ludogorets",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-02T18:00:00+00:00",
+    "homeId": 91,
+    "awayId": 197,
+    "homeName": "Monaco",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-02T18:45:00+00:00",
+    "homeId": 1393,
+    "awayId": 257,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Rangers",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-02T19:00:00+00:00",
+    "homeId": 211,
+    "awayId": 397,
+    "homeName": "Benfica",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-03T16:00:00+00:00",
+    "homeId": 327,
+    "awayId": 586,
+    "homeName": "Bodo/Glimt",
+    "awayName": "FK Zalgiris Vilnius",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-03T16:00:00+00:00",
+    "homeId": 556,
+    "awayId": 651,
+    "homeName": "Qarabag",
+    "awayName": "Ferencvarosi TC",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-03T17:00:00+00:00",
+    "homeId": 4195,
+    "awayId": 602,
+    "homeName": "Maccabi Haifa",
+    "awayName": "Apollon Limassol",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-03T18:00:00+00:00",
+    "homeId": 572,
+    "awayId": 637,
+    "homeName": "Dynamo Kyiv",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-03T18:45:00+00:00",
+    "homeId": 598,
+    "awayId": 709,
+    "homeName": "FK Crvena Zvezda",
+    "awayName": "Pyunik Yerevan",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-09T16:00:00+00:00",
+    "homeId": 586,
+    "awayId": 327,
+    "homeName": "FK Zalgiris Vilnius",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-09T17:00:00+00:00",
+    "homeId": 567,
+    "awayId": 568,
+    "homeName": "Plzen",
+    "awayName": "Sheriff Tiraspol",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-09T17:00:00+00:00",
+    "homeId": 602,
+    "awayId": 4195,
+    "homeName": "Apollon Limassol",
+    "awayName": "Maccabi Haifa",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-09T17:00:00+00:00",
+    "homeId": 709,
+    "awayId": 598,
+    "homeName": "Pyunik Yerevan",
+    "awayName": "FK Crvena Zvezda",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-09T17:45:00+00:00",
+    "homeId": 397,
+    "awayId": 211,
+    "homeName": "FC Midtjylland",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-09T18:00:00+00:00",
+    "homeId": 620,
+    "awayId": 566,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "Ludogorets",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-09T18:00:00+00:00",
+    "homeId": 651,
+    "awayId": 556,
+    "homeName": "Ferencvarosi TC",
+    "awayName": "Qarabag",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-08-09T18:45:00+00:00",
+    "homeId": 257,
+    "awayId": 1393,
+    "homeName": "Rangers",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-16T19:00:00+00:00",
+    "homeId": 257,
+    "awayId": 197,
+    "homeName": "Rangers",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-16T19:00:00+00:00",
+    "homeId": 327,
+    "awayId": 620,
+    "homeName": "Bodo/Glimt",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-16T19:00:00+00:00",
+    "homeId": 400,
+    "awayId": 998,
+    "homeName": "FC Copenhagen",
+    "awayName": "Trabzonspor",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-17T16:45:00+00:00",
+    "homeId": 556,
+    "awayId": 567,
+    "homeName": "Qarabag",
+    "awayName": "Plzen",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-17T19:00:00+00:00",
+    "homeId": 572,
+    "awayId": 211,
+    "homeName": "Dynamo Kyiv",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-17T19:00:00+00:00",
+    "homeId": 4195,
+    "awayId": 598,
+    "homeName": "Maccabi Haifa",
+    "awayName": "FK Crvena Zvezda",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-23T19:00:00+00:00",
+    "homeId": 211,
+    "awayId": 572,
+    "homeName": "Benfica",
+    "awayName": "Dynamo Kyiv",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-08-23T19:00:00+00:00",
+    "homeId": 567,
+    "awayId": 556,
+    "homeName": "Plzen",
+    "awayName": "Qarabag",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-23T19:00:00+00:00",
+    "homeId": 598,
+    "awayId": 4195,
+    "homeName": "FK Crvena Zvezda",
+    "awayName": "Maccabi Haifa",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-08-24T19:00:00+00:00",
+    "homeId": 197,
+    "awayId": 257,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Rangers",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-08-24T19:00:00+00:00",
+    "homeId": 998,
+    "awayId": 400,
+    "homeName": "Trabzonspor",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-06T16:45:00+00:00",
+    "homeId": 165,
+    "awayId": 400,
+    "homeName": "Borussia Dortmund",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-06T16:45:00+00:00",
+    "homeId": 620,
+    "awayId": 49,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "Chelsea",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-06T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 496,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Juventus",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-06T19:00:00+00:00",
+    "homeId": 173,
+    "awayId": 550,
+    "homeName": "RB Leipzig",
+    "awayName": "Shakhtar Donetsk",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-09-06T19:00:00+00:00",
+    "homeId": 211,
+    "awayId": 4195,
+    "homeName": "Benfica",
+    "awayName": "Maccabi Haifa",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-06T19:00:00+00:00",
+    "homeId": 247,
+    "awayId": 541,
+    "homeName": "Celtic",
+    "awayName": "Real Madrid",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-09-06T19:00:00+00:00",
+    "homeId": 536,
+    "awayId": 50,
+    "homeName": "Sevilla",
+    "awayName": "Manchester City",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-09-06T19:00:00+00:00",
+    "homeId": 571,
+    "awayId": 489,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "AC Milan",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-07T16:45:00+00:00",
+    "homeId": 169,
+    "awayId": 228,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-09-07T16:45:00+00:00",
+    "homeId": 194,
+    "awayId": 257,
+    "homeName": "Ajax",
+    "awayName": "Rangers",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-07T19:00:00+00:00",
+    "homeId": 47,
+    "awayId": 81,
+    "homeName": "Tottenham",
+    "awayName": "Marseille",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-07T19:00:00+00:00",
+    "homeId": 492,
+    "awayId": 40,
+    "homeName": "Napoli",
+    "awayName": "Liverpool",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-07T19:00:00+00:00",
+    "homeId": 505,
+    "awayId": 157,
+    "homeName": "Inter",
+    "awayName": "Bayern Munich",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-07T19:00:00+00:00",
+    "homeId": 529,
+    "awayId": 567,
+    "homeName": "Barcelona",
+    "awayName": "Plzen",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-07T19:00:00+00:00",
+    "homeId": 530,
+    "awayId": 212,
+    "homeName": "Atletico Madrid",
+    "awayName": "FC Porto",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-07T19:00:00+00:00",
+    "homeId": 569,
+    "awayId": 168,
+    "homeName": "Club Brugge KV",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-13T16:45:00+00:00",
+    "homeId": 228,
+    "awayId": 47,
+    "homeName": "Sporting CP",
+    "awayName": "Tottenham",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-13T16:45:00+00:00",
+    "homeId": 567,
+    "awayId": 505,
+    "homeName": "Plzen",
+    "awayName": "Inter",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-13T19:00:00+00:00",
+    "homeId": 40,
+    "awayId": 194,
+    "homeName": "Liverpool",
+    "awayName": "Ajax",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-13T19:00:00+00:00",
+    "homeId": 81,
+    "awayId": 169,
+    "homeName": "Marseille",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-13T19:00:00+00:00",
+    "homeId": 157,
+    "awayId": 529,
+    "homeName": "Bayern Munich",
+    "awayName": "Barcelona",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-13T19:00:00+00:00",
+    "homeId": 168,
+    "awayId": 530,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-13T19:00:00+00:00",
+    "homeId": 212,
+    "awayId": 569,
+    "homeName": "FC Porto",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-09-14T16:45:00+00:00",
+    "homeId": 489,
+    "awayId": 620,
+    "homeName": "AC Milan",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-14T16:45:00+00:00",
+    "homeId": 550,
+    "awayId": 247,
+    "homeName": "Shakhtar Donetsk",
+    "awayName": "Celtic",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-14T19:00:00+00:00",
+    "homeId": 49,
+    "awayId": 571,
+    "homeName": "Chelsea",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-14T19:00:00+00:00",
+    "homeId": 50,
+    "awayId": 165,
+    "homeName": "Manchester City",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-09-14T19:00:00+00:00",
+    "homeId": 257,
+    "awayId": 492,
+    "homeName": "Rangers",
+    "awayName": "Napoli",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-09-14T19:00:00+00:00",
+    "homeId": 400,
+    "awayId": 536,
+    "homeName": "FC Copenhagen",
+    "awayName": "Sevilla",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-14T19:00:00+00:00",
+    "homeId": 496,
+    "awayId": 211,
+    "homeName": "Juventus",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-09-14T19:00:00+00:00",
+    "homeId": 541,
+    "awayId": 173,
+    "homeName": "Real Madrid",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-09-14T19:00:00+00:00",
+    "homeId": 4195,
+    "awayId": 85,
+    "homeName": "Maccabi Haifa",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-04T16:45:00+00:00",
+    "homeId": 81,
+    "awayId": 228,
+    "homeName": "Marseille",
+    "awayName": "Sporting CP",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-04T16:45:00+00:00",
+    "homeId": 157,
+    "awayId": 567,
+    "homeName": "Bayern Munich",
+    "awayName": "Plzen",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-04T19:00:00+00:00",
+    "homeId": 40,
+    "awayId": 257,
+    "homeName": "Liverpool",
+    "awayName": "Rangers",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-04T19:00:00+00:00",
+    "homeId": 169,
+    "awayId": 47,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Tottenham",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-04T19:00:00+00:00",
+    "homeId": 194,
+    "awayId": 492,
+    "homeName": "Ajax",
+    "awayName": "Napoli",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "date": "2022-10-04T19:00:00+00:00",
+    "homeId": 212,
+    "awayId": 168,
+    "homeName": "FC Porto",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-04T19:00:00+00:00",
+    "homeId": 505,
+    "awayId": 529,
+    "homeName": "Inter",
+    "awayName": "Barcelona",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-04T19:00:00+00:00",
+    "homeId": 569,
+    "awayId": 530,
+    "homeName": "Club Brugge KV",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-05T16:45:00+00:00",
+    "homeId": 173,
+    "awayId": 247,
+    "homeName": "RB Leipzig",
+    "awayName": "Celtic",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-05T16:45:00+00:00",
+    "homeId": 571,
+    "awayId": 620,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-05T19:00:00+00:00",
+    "homeId": 49,
+    "awayId": 489,
+    "homeName": "Chelsea",
+    "awayName": "AC Milan",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-05T19:00:00+00:00",
+    "homeId": 50,
+    "awayId": 400,
+    "homeName": "Manchester City",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-05T19:00:00+00:00",
+    "homeId": 211,
+    "awayId": 85,
+    "homeName": "Benfica",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-05T19:00:00+00:00",
+    "homeId": 496,
+    "awayId": 4195,
+    "homeName": "Juventus",
+    "awayName": "Maccabi Haifa",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-05T19:00:00+00:00",
+    "homeId": 536,
+    "awayId": 165,
+    "homeName": "Sevilla",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-10-05T19:00:00+00:00",
+    "homeId": 541,
+    "awayId": 550,
+    "homeName": "Real Madrid",
+    "awayName": "Shakhtar Donetsk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-11T16:45:00+00:00",
+    "homeId": 400,
+    "awayId": 50,
+    "homeName": "FC Copenhagen",
+    "awayName": "Manchester City",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-11T16:45:00+00:00",
+    "homeId": 4195,
+    "awayId": 496,
+    "homeName": "Maccabi Haifa",
+    "awayName": "Juventus",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-11T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 211,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-11T19:00:00+00:00",
+    "homeId": 165,
+    "awayId": 536,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Sevilla",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-11T19:00:00+00:00",
+    "homeId": 247,
+    "awayId": 173,
+    "homeName": "Celtic",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-11T19:00:00+00:00",
+    "homeId": 489,
+    "awayId": 49,
+    "homeName": "AC Milan",
+    "awayName": "Chelsea",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-11T19:00:00+00:00",
+    "homeId": 550,
+    "awayId": 541,
+    "homeName": "Shakhtar Donetsk",
+    "awayName": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-11T19:00:00+00:00",
+    "homeId": 620,
+    "awayId": 571,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-12T16:45:00+00:00",
+    "homeId": 492,
+    "awayId": 194,
+    "homeName": "Napoli",
+    "awayName": "Ajax",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-12T16:45:00+00:00",
+    "homeId": 530,
+    "awayId": 569,
+    "homeName": "Atletico Madrid",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-12T19:00:00+00:00",
+    "homeId": 47,
+    "awayId": 169,
+    "homeName": "Tottenham",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-12T19:00:00+00:00",
+    "homeId": 168,
+    "awayId": 212,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-12T19:00:00+00:00",
+    "homeId": 228,
+    "awayId": 81,
+    "homeName": "Sporting CP",
+    "awayName": "Marseille",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-12T19:00:00+00:00",
+    "homeId": 257,
+    "awayId": 40,
+    "homeName": "Rangers",
+    "awayName": "Liverpool",
+    "homeGoals": 1,
+    "awayGoals": 7
+  },
+  {
+    "date": "2022-10-12T19:00:00+00:00",
+    "homeId": 529,
+    "awayId": 505,
+    "homeName": "Barcelona",
+    "awayName": "Inter",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-12T19:00:00+00:00",
+    "homeId": 567,
+    "awayId": 157,
+    "homeName": "Plzen",
+    "awayName": "Bayern Munich",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-10-25T16:45:00+00:00",
+    "homeId": 536,
+    "awayId": 400,
+    "homeName": "Sevilla",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-25T16:45:00+00:00",
+    "homeId": 571,
+    "awayId": 49,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Chelsea",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-25T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 4195,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Maccabi Haifa",
+    "homeGoals": 7,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-25T19:00:00+00:00",
+    "homeId": 165,
+    "awayId": 50,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Manchester City",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-25T19:00:00+00:00",
+    "homeId": 173,
+    "awayId": 541,
+    "homeName": "RB Leipzig",
+    "awayName": "Real Madrid",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-10-25T19:00:00+00:00",
+    "homeId": 211,
+    "awayId": 496,
+    "homeName": "Benfica",
+    "awayName": "Juventus",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-25T19:00:00+00:00",
+    "homeId": 247,
+    "awayId": 550,
+    "homeName": "Celtic",
+    "awayName": "Shakhtar Donetsk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-25T19:00:00+00:00",
+    "homeId": 620,
+    "awayId": 489,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "AC Milan",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-10-26T16:45:00+00:00",
+    "homeId": 505,
+    "awayId": 567,
+    "homeName": "Inter",
+    "awayName": "Plzen",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-26T16:45:00+00:00",
+    "homeId": 569,
+    "awayId": 212,
+    "homeName": "Club Brugge KV",
+    "awayName": "FC Porto",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-10-26T19:00:00+00:00",
+    "homeId": 47,
+    "awayId": 228,
+    "homeName": "Tottenham",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-26T19:00:00+00:00",
+    "homeId": 169,
+    "awayId": 81,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Marseille",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-10-26T19:00:00+00:00",
+    "homeId": 194,
+    "awayId": 40,
+    "homeName": "Ajax",
+    "awayName": "Liverpool",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-26T19:00:00+00:00",
+    "homeId": 492,
+    "awayId": 257,
+    "homeName": "Napoli",
+    "awayName": "Rangers",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-10-26T19:00:00+00:00",
+    "homeId": 529,
+    "awayId": 157,
+    "homeName": "Barcelona",
+    "awayName": "Bayern Munich",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-10-26T19:00:00+00:00",
+    "homeId": 530,
+    "awayId": 168,
+    "homeName": "Atletico Madrid",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-01T17:45:00+00:00",
+    "homeId": 168,
+    "awayId": 569,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-01T17:45:00+00:00",
+    "homeId": 212,
+    "awayId": 530,
+    "homeName": "FC Porto",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-01T20:00:00+00:00",
+    "homeId": 40,
+    "awayId": 492,
+    "homeName": "Liverpool",
+    "awayName": "Napoli",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-01T20:00:00+00:00",
+    "homeId": 81,
+    "awayId": 47,
+    "homeName": "Marseille",
+    "awayName": "Tottenham",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-01T20:00:00+00:00",
+    "homeId": 157,
+    "awayId": 505,
+    "homeName": "Bayern Munich",
+    "awayName": "Inter",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-01T20:00:00+00:00",
+    "homeId": 228,
+    "awayId": 169,
+    "homeName": "Sporting CP",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-01T20:00:00+00:00",
+    "homeId": 257,
+    "awayId": 194,
+    "homeName": "Rangers",
+    "awayName": "Ajax",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2022-11-01T20:00:00+00:00",
+    "homeId": 567,
+    "awayId": 529,
+    "homeName": "Plzen",
+    "awayName": "Barcelona",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-11-02T17:45:00+00:00",
+    "homeId": 541,
+    "awayId": 247,
+    "homeName": "Real Madrid",
+    "awayName": "Celtic",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-02T17:45:00+00:00",
+    "homeId": 550,
+    "awayId": 173,
+    "homeName": "Shakhtar Donetsk",
+    "awayName": "RB Leipzig",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2022-11-02T20:00:00+00:00",
+    "homeId": 49,
+    "awayId": 620,
+    "homeName": "Chelsea",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-02T20:00:00+00:00",
+    "homeId": 50,
+    "awayId": 536,
+    "homeName": "Manchester City",
+    "awayName": "Sevilla",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-02T20:00:00+00:00",
+    "homeId": 400,
+    "awayId": 165,
+    "homeName": "FC Copenhagen",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2022-11-02T20:00:00+00:00",
+    "homeId": 489,
+    "awayId": 571,
+    "homeName": "AC Milan",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2022-11-02T20:00:00+00:00",
+    "homeId": 496,
+    "awayId": 85,
+    "homeName": "Juventus",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2022-11-02T20:00:00+00:00",
+    "homeId": 4195,
+    "awayId": 211,
+    "homeName": "Maccabi Haifa",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "date": "2023-02-14T20:00:00+00:00",
+    "homeId": 85,
+    "awayId": 157,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Bayern Munich",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-14T20:00:00+00:00",
+    "homeId": 489,
+    "awayId": 47,
+    "homeName": "AC Milan",
+    "awayName": "Tottenham",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-15T20:00:00+00:00",
+    "homeId": 165,
+    "awayId": 49,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Chelsea",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-02-15T20:00:00+00:00",
+    "homeId": 569,
+    "awayId": 211,
+    "homeName": "Club Brugge KV",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-21T20:00:00+00:00",
+    "homeId": 40,
+    "awayId": 541,
+    "homeName": "Liverpool",
+    "awayName": "Real Madrid",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-02-21T20:00:00+00:00",
+    "homeId": 169,
+    "awayId": 492,
+    "homeName": "Eintracht Frankfurt",
+    "awayName": "Napoli",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-02-22T20:00:00+00:00",
+    "homeId": 173,
+    "awayId": 50,
+    "homeName": "RB Leipzig",
+    "awayName": "Manchester City",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-02-22T20:00:00+00:00",
+    "homeId": 505,
+    "awayId": 212,
+    "homeName": "Inter",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-07T20:00:00+00:00",
+    "homeId": 49,
+    "awayId": 165,
+    "homeName": "Chelsea",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-07T20:00:00+00:00",
+    "homeId": 211,
+    "awayId": 569,
+    "homeName": "Benfica",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-03-08T20:00:00+00:00",
+    "homeId": 47,
+    "awayId": 489,
+    "homeName": "Tottenham",
+    "awayName": "AC Milan",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-08T20:00:00+00:00",
+    "homeId": 157,
+    "awayId": 85,
+    "homeName": "Bayern Munich",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-14T20:00:00+00:00",
+    "homeId": 50,
+    "awayId": 173,
+    "homeName": "Manchester City",
+    "awayName": "RB Leipzig",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-14T20:00:00+00:00",
+    "homeId": 212,
+    "awayId": 505,
+    "homeName": "FC Porto",
+    "awayName": "Inter",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-15T20:00:00+00:00",
+    "homeId": 492,
+    "awayId": 169,
+    "homeName": "Napoli",
+    "awayName": "Eintracht Frankfurt",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-03-15T20:00:00+00:00",
+    "homeId": 541,
+    "awayId": 40,
+    "homeName": "Real Madrid",
+    "awayName": "Liverpool",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-11T19:00:00+00:00",
+    "homeId": 50,
+    "awayId": 157,
+    "homeName": "Manchester City",
+    "awayName": "Bayern Munich",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-11T19:00:00+00:00",
+    "homeId": 211,
+    "awayId": 505,
+    "homeName": "Benfica",
+    "awayName": "Inter",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-12T19:00:00+00:00",
+    "homeId": 489,
+    "awayId": 492,
+    "homeName": "AC Milan",
+    "awayName": "Napoli",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-12T19:00:00+00:00",
+    "homeId": 541,
+    "awayId": 49,
+    "homeName": "Real Madrid",
+    "awayName": "Chelsea",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-04-18T19:00:00+00:00",
+    "homeId": 49,
+    "awayId": 541,
+    "homeName": "Chelsea",
+    "awayName": "Real Madrid",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-04-18T19:00:00+00:00",
+    "homeId": 492,
+    "awayId": 489,
+    "homeName": "Napoli",
+    "awayName": "AC Milan",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-19T19:00:00+00:00",
+    "homeId": 157,
+    "awayId": 50,
+    "homeName": "Bayern Munich",
+    "awayName": "Manchester City",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-04-19T19:00:00+00:00",
+    "homeId": 505,
+    "awayId": 211,
+    "homeName": "Inter",
+    "awayName": "Benfica",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-05-09T19:00:00+00:00",
+    "homeId": 541,
+    "awayId": 50,
+    "homeName": "Real Madrid",
+    "awayName": "Manchester City",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-05-10T19:00:00+00:00",
+    "homeId": 489,
+    "awayId": 505,
+    "homeName": "AC Milan",
+    "awayName": "Inter",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-05-16T19:00:00+00:00",
+    "homeId": 505,
+    "awayId": 489,
+    "homeName": "Inter",
+    "awayName": "AC Milan",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-05-17T19:00:00+00:00",
+    "homeId": 50,
+    "awayId": 541,
+    "homeName": "Manchester City",
+    "awayName": "Real Madrid",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-06-10T19:00:00+00:00",
+    "homeId": 50,
+    "awayId": 505,
+    "homeName": "Manchester City",
+    "awayName": "Inter",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-06-27T13:00:00+00:00",
+    "homeId": 3345,
+    "awayId": 579,
+    "homeName": "Atlètic Club d'Escaldes",
+    "awayName": "Buducnost Podgorica",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-06-27T19:00:00+00:00",
+    "homeId": 700,
+    "awayId": 276,
+    "homeName": "Tre Penne",
+    "awayName": "Breidablik",
+    "homeGoals": 1,
+    "awayGoals": 7
+  },
+  {
+    "date": "2023-06-30T19:00:00+00:00",
+    "homeId": 579,
+    "awayId": 276,
+    "homeName": "Buducnost Podgorica",
+    "awayName": "Breidablik",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-07-11T15:00:00+00:00",
+    "homeId": 2276,
+    "awayId": 588,
+    "homeName": "FC Urartu",
+    "awayName": "Zrinjski",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-11T15:30:00+00:00",
+    "homeId": 667,
+    "awayId": 556,
+    "homeName": "Lincoln Red Imps FC",
+    "awayName": "Qarabag",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-11T16:00:00+00:00",
+    "homeId": 586,
+    "awayId": 4346,
+    "homeName": "FK Zalgiris Vilnius",
+    "awayName": "Struga",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-11T18:00:00+00:00",
+    "homeId": 677,
+    "awayId": 4153,
+    "homeName": "Olimpija Ljubljana",
+    "awayName": "Valmiera / BSS",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-11T18:00:00+00:00",
+    "homeId": 3491,
+    "awayId": 687,
+    "homeName": "Raków Częstochowa",
+    "awayName": "Flora Tallinn",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-11T18:00:00+00:00",
+    "homeId": 4626,
+    "awayId": 4195,
+    "homeName": "Hamrun Spartans",
+    "awayName": "Maccabi Haifa",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-07-11T18:45:00+00:00",
+    "homeId": 652,
+    "awayId": 276,
+    "homeName": "Shamrock Rovers",
+    "awayName": "Breidablik",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-11T18:45:00+00:00",
+    "homeId": 701,
+    "awayId": 651,
+    "homeName": "KI Klaksvik",
+    "awayName": "Ferencvarosi TC",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-11T18:45:00+00:00",
+    "homeId": 708,
+    "awayId": 388,
+    "homeName": "Partizani",
+    "awayName": "Bate Borisov",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-11T18:45:00+00:00",
+    "homeId": 12733,
+    "awayId": 566,
+    "homeName": "Ballkani",
+    "awayName": "Ludogorets",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-12T14:00:00+00:00",
+    "homeId": 562,
+    "awayId": 2262,
+    "homeName": "FC Astana",
+    "awayName": "Dinamo Tbilisi",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-12T16:00:00+00:00",
+    "homeId": 649,
+    "awayId": 5354,
+    "homeName": "HJK Helsinki",
+    "awayName": "Larne",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-12T17:00:00+00:00",
+    "homeId": 367,
+    "awayId": 354,
+    "homeName": "BK Hacken",
+    "awayName": "The New Saints",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-12T17:30:00+00:00",
+    "homeId": 2596,
+    "awayId": 568,
+    "homeName": "Farul Constanta",
+    "awayName": "Sheriff Tiraspol",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-12T18:30:00+00:00",
+    "homeId": 656,
+    "awayId": 11907,
+    "homeName": "Slovan Bratislava",
+    "awayName": "Swift Hesperange",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-18T15:00:00+00:00",
+    "homeId": 4346,
+    "awayId": 586,
+    "homeName": "Struga",
+    "awayName": "FK Zalgiris Vilnius",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-18T17:00:00+00:00",
+    "homeId": 687,
+    "awayId": 3491,
+    "homeName": "Flora Tallinn",
+    "awayName": "Raków Częstochowa",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-07-18T17:00:00+00:00",
+    "homeId": 4195,
+    "awayId": 4626,
+    "homeName": "Maccabi Haifa",
+    "awayName": "Hamrun Spartans",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-18T18:00:00+00:00",
+    "homeId": 354,
+    "awayId": 367,
+    "homeName": "The New Saints",
+    "awayName": "BK Hacken",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-18T18:00:00+00:00",
+    "homeId": 388,
+    "awayId": 708,
+    "homeName": "Bate Borisov",
+    "awayName": "Partizani",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-18T19:15:00+00:00",
+    "homeId": 276,
+    "awayId": 652,
+    "homeName": "Breidablik",
+    "awayName": "Shamrock Rovers",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-19T15:00:00+00:00",
+    "homeId": 4153,
+    "awayId": 677,
+    "homeName": "Valmiera / BSS",
+    "awayName": "Olimpija Ljubljana",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-19T16:00:00+00:00",
+    "homeId": 556,
+    "awayId": 667,
+    "homeName": "Qarabag",
+    "awayName": "Lincoln Red Imps FC",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-19T16:00:00+00:00",
+    "homeId": 651,
+    "awayId": 701,
+    "homeName": "Ferencvarosi TC",
+    "awayName": "KI Klaksvik",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-07-19T16:00:00+00:00",
+    "homeId": 2262,
+    "awayId": 562,
+    "homeName": "Dinamo Tbilisi",
+    "awayName": "FC Astana",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-19T18:00:00+00:00",
+    "homeId": 566,
+    "awayId": 12733,
+    "homeName": "Ludogorets",
+    "awayName": "Ballkani",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-19T18:00:00+00:00",
+    "homeId": 11907,
+    "awayId": 656,
+    "homeName": "Swift Hesperange",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-25T16:00:00+00:00",
+    "homeId": 586,
+    "awayId": 645,
+    "homeName": "FK Zalgiris Vilnius",
+    "awayName": "Galatasaray",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-25T16:00:00+00:00",
+    "homeId": 649,
+    "awayId": 329,
+    "homeName": "HJK Helsinki",
+    "awayName": "Molde",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-25T18:00:00+00:00",
+    "homeId": 620,
+    "awayId": 562,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "FC Astana",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-25T18:00:00+00:00",
+    "homeId": 3623,
+    "awayId": 617,
+    "homeName": "Dnipro-1",
+    "awayName": "Panathinaikos",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-07-25T18:30:00+00:00",
+    "homeId": 2184,
+    "awayId": 742,
+    "homeName": "Servette FC",
+    "awayName": "Genk",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-25T19:00:00+00:00",
+    "homeId": 588,
+    "awayId": 656,
+    "homeName": "Zrinjski",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-25T19:15:00+00:00",
+    "homeId": 276,
+    "awayId": 400,
+    "homeName": "Breidablik",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-26T17:00:00+00:00",
+    "homeId": 568,
+    "awayId": 4195,
+    "homeName": "Sheriff Tiraspol",
+    "awayName": "Maccabi Haifa",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-07-26T17:00:00+00:00",
+    "homeId": 3408,
+    "awayId": 388,
+    "homeName": "Aris",
+    "awayName": "Bate Borisov",
+    "homeGoals": 6,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-26T18:15:00+00:00",
+    "homeId": 3491,
+    "awayId": 556,
+    "homeName": "Raków Częstochowa",
+    "awayName": "Qarabag",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-07-26T18:45:00+00:00",
+    "homeId": 566,
+    "awayId": 677,
+    "homeName": "Ludogorets",
+    "awayName": "Olimpija Ljubljana",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-07-26T18:45:00+00:00",
+    "homeId": 701,
+    "awayId": 367,
+    "homeName": "KI Klaksvik",
+    "awayName": "BK Hacken",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-01T17:30:00+00:00",
+    "homeId": 617,
+    "awayId": 3623,
+    "homeName": "Panathinaikos",
+    "awayName": "Dnipro-1",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-01T18:00:00+00:00",
+    "homeId": 388,
+    "awayId": 3408,
+    "homeName": "Bate Borisov",
+    "awayName": "Aris",
+    "homeGoals": 3,
+    "awayGoals": 5
+  },
+  {
+    "date": "2023-08-01T18:00:00+00:00",
+    "homeId": 677,
+    "awayId": 566,
+    "homeName": "Olimpija Ljubljana",
+    "awayName": "Ludogorets",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-01T18:30:00+00:00",
+    "homeId": 656,
+    "awayId": 588,
+    "homeName": "Slovan Bratislava",
+    "awayName": "Zrinjski",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-02T14:00:00+00:00",
+    "homeId": 562,
+    "awayId": 620,
+    "homeName": "FC Astana",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-02T16:00:00+00:00",
+    "homeId": 556,
+    "awayId": 3491,
+    "homeName": "Qarabag",
+    "awayName": "Raków Częstochowa",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-02T17:00:00+00:00",
+    "homeId": 329,
+    "awayId": 649,
+    "homeName": "Molde",
+    "awayName": "HJK Helsinki",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-02T18:00:00+00:00",
+    "homeId": 400,
+    "awayId": 276,
+    "homeName": "FC Copenhagen",
+    "awayName": "Breidablik",
+    "homeGoals": 6,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-02T18:30:00+00:00",
+    "homeId": 645,
+    "awayId": 586,
+    "homeName": "Galatasaray",
+    "awayName": "FK Zalgiris Vilnius",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-08T18:00:00+00:00",
+    "homeId": 400,
+    "awayId": 628,
+    "homeName": "FC Copenhagen",
+    "awayName": "Sparta Praha",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-08T18:00:00+00:00",
+    "homeId": 3491,
+    "awayId": 3408,
+    "homeName": "Raków Częstochowa",
+    "awayName": "Aris",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-08T18:30:00+00:00",
+    "homeId": 197,
+    "awayId": 637,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Sturm Graz",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-08T18:45:00+00:00",
+    "homeId": 701,
+    "awayId": 329,
+    "homeName": "KI Klaksvik",
+    "awayName": "Molde",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-08T19:00:00+00:00",
+    "homeId": 217,
+    "awayId": 2646,
+    "homeName": "SC Braga",
+    "awayName": "TSC Backa Topola",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-08T19:00:00+00:00",
+    "homeId": 677,
+    "awayId": 645,
+    "homeName": "Olimpija Ljubljana",
+    "awayName": "Galatasaray",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-09T18:00:00+00:00",
+    "homeId": 617,
+    "awayId": 81,
+    "homeName": "Panathinaikos",
+    "awayName": "Marseille",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-09T18:30:00+00:00",
+    "homeId": 656,
+    "awayId": 4195,
+    "homeName": "Slovan Bratislava",
+    "awayName": "Maccabi Haifa",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-09T18:45:00+00:00",
+    "homeId": 257,
+    "awayId": 2184,
+    "homeName": "Rangers",
+    "awayName": "Servette FC",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-15T17:00:00+00:00",
+    "homeId": 3408,
+    "awayId": 3491,
+    "homeName": "Aris",
+    "awayName": "Raków Częstochowa",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-15T17:00:00+00:00",
+    "homeId": 4195,
+    "awayId": 656,
+    "homeName": "Maccabi Haifa",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-15T18:00:00+00:00",
+    "homeId": 620,
+    "awayId": 575,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-15T18:00:00+00:00",
+    "homeId": 645,
+    "awayId": 677,
+    "homeName": "Galatasaray",
+    "awayName": "Olimpija Ljubljana",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-15T18:00:00+00:00",
+    "homeId": 2646,
+    "awayId": 217,
+    "homeName": "TSC Backa Topola",
+    "awayName": "SC Braga",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-08-15T18:30:00+00:00",
+    "homeId": 637,
+    "awayId": 197,
+    "homeName": "Sturm Graz",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-15T18:30:00+00:00",
+    "homeId": 2184,
+    "awayId": 257,
+    "homeName": "Servette FC",
+    "awayName": "Rangers",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-19T18:45:00+00:00",
+    "homeId": 575,
+    "awayId": 620,
+    "homeName": "AEK Athens FC",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-22T19:00:00+00:00",
+    "homeId": 257,
+    "awayId": 197,
+    "homeName": "Rangers",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-08-22T19:00:00+00:00",
+    "homeId": 740,
+    "awayId": 575,
+    "homeName": "Antwerp",
+    "awayName": "AEK Athens FC",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-22T19:00:00+00:00",
+    "homeId": 3491,
+    "awayId": 400,
+    "homeName": "Raków Częstochowa",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-23T19:00:00+00:00",
+    "homeId": 217,
+    "awayId": 617,
+    "homeName": "SC Braga",
+    "awayName": "Panathinaikos",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-23T19:00:00+00:00",
+    "homeId": 329,
+    "awayId": 645,
+    "homeName": "Molde",
+    "awayName": "Galatasaray",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-08-23T19:00:00+00:00",
+    "homeId": 4195,
+    "awayId": 565,
+    "homeName": "Maccabi Haifa",
+    "awayName": "BSC Young Boys",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-29T19:00:00+00:00",
+    "homeId": 565,
+    "awayId": 4195,
+    "homeName": "BSC Young Boys",
+    "awayName": "Maccabi Haifa",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-08-29T19:00:00+00:00",
+    "homeId": 617,
+    "awayId": 217,
+    "homeName": "Panathinaikos",
+    "awayName": "SC Braga",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-29T19:00:00+00:00",
+    "homeId": 645,
+    "awayId": 329,
+    "homeName": "Galatasaray",
+    "awayName": "Molde",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-30T19:00:00+00:00",
+    "homeId": 197,
+    "awayId": 257,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Rangers",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-30T19:00:00+00:00",
+    "homeId": 400,
+    "awayId": 3491,
+    "homeName": "FC Copenhagen",
+    "awayName": "Raków Częstochowa",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-08-30T19:00:00+00:00",
+    "homeId": 575,
+    "awayId": 740,
+    "homeName": "AEK Athens FC",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-19T16:45:00+00:00",
+    "homeId": 489,
+    "awayId": 34,
+    "homeName": "AC Milan",
+    "awayName": "Newcastle",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-19T16:45:00+00:00",
+    "homeId": 565,
+    "awayId": 173,
+    "homeName": "BSC Young Boys",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-19T19:00:00+00:00",
+    "homeId": 50,
+    "awayId": 598,
+    "homeName": "Manchester City",
+    "awayName": "FK Crvena Zvezda",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-19T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 165,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-19T19:00:00+00:00",
+    "homeId": 209,
+    "awayId": 247,
+    "homeName": "Feyenoord",
+    "awayName": "Celtic",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-19T19:00:00+00:00",
+    "homeId": 487,
+    "awayId": 530,
+    "homeName": "Lazio",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-19T19:00:00+00:00",
+    "homeId": 529,
+    "awayId": 740,
+    "homeName": "Barcelona",
+    "awayName": "Antwerp",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-19T19:00:00+00:00",
+    "homeId": 550,
+    "awayId": 212,
+    "homeName": "Shakhtar Donetsk",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-20T16:45:00+00:00",
+    "homeId": 541,
+    "awayId": 182,
+    "homeName": "Real Madrid",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-20T16:45:00+00:00",
+    "homeId": 645,
+    "awayId": 400,
+    "homeName": "Galatasaray",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-20T19:00:00+00:00",
+    "homeId": 42,
+    "awayId": 197,
+    "homeName": "Arsenal",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-09-20T19:00:00+00:00",
+    "homeId": 157,
+    "awayId": 33,
+    "homeName": "Bayern Munich",
+    "awayName": "Manchester United",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-09-20T19:00:00+00:00",
+    "homeId": 211,
+    "awayId": 571,
+    "homeName": "Benfica",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-20T19:00:00+00:00",
+    "homeId": 217,
+    "awayId": 492,
+    "homeName": "SC Braga",
+    "awayName": "Napoli",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-09-20T19:00:00+00:00",
+    "homeId": 536,
+    "awayId": 116,
+    "homeName": "Sevilla",
+    "awayName": "Lens",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-09-20T19:00:00+00:00",
+    "homeId": 548,
+    "awayId": 505,
+    "homeName": "Real Sociedad",
+    "awayName": "Inter",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-03T16:45:00+00:00",
+    "homeId": 182,
+    "awayId": 217,
+    "homeName": "Union Berlin",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-03T16:45:00+00:00",
+    "homeId": 571,
+    "awayId": 548,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Real Sociedad",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-03T19:00:00+00:00",
+    "homeId": 33,
+    "awayId": 645,
+    "homeName": "Manchester United",
+    "awayName": "Galatasaray",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-03T19:00:00+00:00",
+    "homeId": 116,
+    "awayId": 42,
+    "homeName": "Lens",
+    "awayName": "Arsenal",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-03T19:00:00+00:00",
+    "homeId": 197,
+    "awayId": 536,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Sevilla",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-03T19:00:00+00:00",
+    "homeId": 400,
+    "awayId": 157,
+    "homeName": "FC Copenhagen",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-03T19:00:00+00:00",
+    "homeId": 492,
+    "awayId": 541,
+    "homeName": "Napoli",
+    "awayName": "Real Madrid",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-03T19:00:00+00:00",
+    "homeId": 505,
+    "awayId": 211,
+    "homeName": "Inter",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-04T16:45:00+00:00",
+    "homeId": 530,
+    "awayId": 209,
+    "homeName": "Atletico Madrid",
+    "awayName": "Feyenoord",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-04T16:45:00+00:00",
+    "homeId": 740,
+    "awayId": 550,
+    "homeName": "Antwerp",
+    "awayName": "Shakhtar Donetsk",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-04T19:00:00+00:00",
+    "homeId": 34,
+    "awayId": 85,
+    "homeName": "Newcastle",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-04T19:00:00+00:00",
+    "homeId": 165,
+    "awayId": 489,
+    "homeName": "Borussia Dortmund",
+    "awayName": "AC Milan",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-04T19:00:00+00:00",
+    "homeId": 173,
+    "awayId": 50,
+    "homeName": "RB Leipzig",
+    "awayName": "Manchester City",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-04T19:00:00+00:00",
+    "homeId": 212,
+    "awayId": 529,
+    "homeName": "FC Porto",
+    "awayName": "Barcelona",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-04T19:00:00+00:00",
+    "homeId": 247,
+    "awayId": 487,
+    "homeName": "Celtic",
+    "awayName": "Lazio",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-04T19:00:00+00:00",
+    "homeId": 598,
+    "awayId": 565,
+    "homeName": "FK Crvena Zvezda",
+    "awayName": "BSC Young Boys",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-24T16:45:00+00:00",
+    "homeId": 505,
+    "awayId": 571,
+    "homeName": "Inter",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-24T16:45:00+00:00",
+    "homeId": 645,
+    "awayId": 157,
+    "homeName": "Galatasaray",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-24T19:00:00+00:00",
+    "homeId": 33,
+    "awayId": 400,
+    "homeName": "Manchester United",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-24T19:00:00+00:00",
+    "homeId": 116,
+    "awayId": 197,
+    "homeName": "Lens",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-24T19:00:00+00:00",
+    "homeId": 182,
+    "awayId": 492,
+    "homeName": "Union Berlin",
+    "awayName": "Napoli",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-24T19:00:00+00:00",
+    "homeId": 211,
+    "awayId": 548,
+    "homeName": "Benfica",
+    "awayName": "Real Sociedad",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-24T19:00:00+00:00",
+    "homeId": 217,
+    "awayId": 541,
+    "homeName": "SC Braga",
+    "awayName": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-24T19:00:00+00:00",
+    "homeId": 536,
+    "awayId": 42,
+    "homeName": "Sevilla",
+    "awayName": "Arsenal",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-25T16:45:00+00:00",
+    "homeId": 209,
+    "awayId": 487,
+    "homeName": "Feyenoord",
+    "awayName": "Lazio",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-25T16:45:00+00:00",
+    "homeId": 529,
+    "awayId": 550,
+    "homeName": "Barcelona",
+    "awayName": "Shakhtar Donetsk",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-25T19:00:00+00:00",
+    "homeId": 34,
+    "awayId": 165,
+    "homeName": "Newcastle",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-25T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 489,
+    "homeName": "Paris Saint Germain",
+    "awayName": "AC Milan",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-10-25T19:00:00+00:00",
+    "homeId": 173,
+    "awayId": 598,
+    "homeName": "RB Leipzig",
+    "awayName": "FK Crvena Zvezda",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-10-25T19:00:00+00:00",
+    "homeId": 247,
+    "awayId": 530,
+    "homeName": "Celtic",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-10-25T19:00:00+00:00",
+    "homeId": 565,
+    "awayId": 50,
+    "homeName": "BSC Young Boys",
+    "awayName": "Manchester City",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-10-25T19:00:00+00:00",
+    "homeId": 740,
+    "awayId": 212,
+    "homeName": "Antwerp",
+    "awayName": "FC Porto",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2023-11-07T17:45:00+00:00",
+    "homeId": 165,
+    "awayId": 34,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Newcastle",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-07T17:45:00+00:00",
+    "homeId": 550,
+    "awayId": 529,
+    "homeName": "Shakhtar Donetsk",
+    "awayName": "Barcelona",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-07T20:00:00+00:00",
+    "homeId": 50,
+    "awayId": 565,
+    "homeName": "Manchester City",
+    "awayName": "BSC Young Boys",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-07T20:00:00+00:00",
+    "homeId": 212,
+    "awayId": 740,
+    "homeName": "FC Porto",
+    "awayName": "Antwerp",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-07T20:00:00+00:00",
+    "homeId": 487,
+    "awayId": 209,
+    "homeName": "Lazio",
+    "awayName": "Feyenoord",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-07T20:00:00+00:00",
+    "homeId": 489,
+    "awayId": 85,
+    "homeName": "AC Milan",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-07T20:00:00+00:00",
+    "homeId": 530,
+    "awayId": 247,
+    "homeName": "Atletico Madrid",
+    "awayName": "Celtic",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-07T20:00:00+00:00",
+    "homeId": 598,
+    "awayId": 173,
+    "homeName": "FK Crvena Zvezda",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-08T17:45:00+00:00",
+    "homeId": 492,
+    "awayId": 182,
+    "homeName": "Napoli",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-08T17:45:00+00:00",
+    "homeId": 548,
+    "awayId": 211,
+    "homeName": "Real Sociedad",
+    "awayName": "Benfica",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-08T20:00:00+00:00",
+    "homeId": 42,
+    "awayId": 536,
+    "homeName": "Arsenal",
+    "awayName": "Sevilla",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-08T20:00:00+00:00",
+    "homeId": 157,
+    "awayId": 645,
+    "homeName": "Bayern Munich",
+    "awayName": "Galatasaray",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-08T20:00:00+00:00",
+    "homeId": 197,
+    "awayId": 116,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Lens",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-08T20:00:00+00:00",
+    "homeId": 400,
+    "awayId": 33,
+    "homeName": "FC Copenhagen",
+    "awayName": "Manchester United",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-08T20:00:00+00:00",
+    "homeId": 541,
+    "awayId": 217,
+    "homeName": "Real Madrid",
+    "awayName": "SC Braga",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-08T20:00:00+00:00",
+    "homeId": 571,
+    "awayId": 505,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Inter",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-28T17:45:00+00:00",
+    "homeId": 487,
+    "awayId": 247,
+    "homeName": "Lazio",
+    "awayName": "Celtic",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-28T17:45:00+00:00",
+    "homeId": 550,
+    "awayId": 740,
+    "homeName": "Shakhtar Donetsk",
+    "awayName": "Antwerp",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-28T20:00:00+00:00",
+    "homeId": 50,
+    "awayId": 173,
+    "homeName": "Manchester City",
+    "awayName": "RB Leipzig",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-28T20:00:00+00:00",
+    "homeId": 85,
+    "awayId": 34,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Newcastle",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-28T20:00:00+00:00",
+    "homeId": 209,
+    "awayId": 530,
+    "homeName": "Feyenoord",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-28T20:00:00+00:00",
+    "homeId": 489,
+    "awayId": 165,
+    "homeName": "AC Milan",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-28T20:00:00+00:00",
+    "homeId": 529,
+    "awayId": 212,
+    "homeName": "Barcelona",
+    "awayName": "FC Porto",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-28T20:00:00+00:00",
+    "homeId": 565,
+    "awayId": 598,
+    "homeName": "BSC Young Boys",
+    "awayName": "FK Crvena Zvezda",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-29T17:45:00+00:00",
+    "homeId": 536,
+    "awayId": 197,
+    "homeName": "Sevilla",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-29T17:45:00+00:00",
+    "homeId": 645,
+    "awayId": 33,
+    "homeName": "Galatasaray",
+    "awayName": "Manchester United",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-29T20:00:00+00:00",
+    "homeId": 42,
+    "awayId": 116,
+    "homeName": "Arsenal",
+    "awayName": "Lens",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-29T20:00:00+00:00",
+    "homeId": 157,
+    "awayId": 400,
+    "homeName": "Bayern Munich",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-11-29T20:00:00+00:00",
+    "homeId": 211,
+    "awayId": 505,
+    "homeName": "Benfica",
+    "awayName": "Inter",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-11-29T20:00:00+00:00",
+    "homeId": 217,
+    "awayId": 182,
+    "homeName": "SC Braga",
+    "awayName": "Union Berlin",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-11-29T20:00:00+00:00",
+    "homeId": 541,
+    "awayId": 492,
+    "homeName": "Real Madrid",
+    "awayName": "Napoli",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-11-29T20:00:00+00:00",
+    "homeId": 548,
+    "awayId": 571,
+    "homeName": "Real Sociedad",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-12T17:45:00+00:00",
+    "homeId": 116,
+    "awayId": 536,
+    "homeName": "Lens",
+    "awayName": "Sevilla",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-12T17:45:00+00:00",
+    "homeId": 197,
+    "awayId": 42,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Arsenal",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-12T20:00:00+00:00",
+    "homeId": 33,
+    "awayId": 157,
+    "homeName": "Manchester United",
+    "awayName": "Bayern Munich",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-12T20:00:00+00:00",
+    "homeId": 182,
+    "awayId": 541,
+    "homeName": "Union Berlin",
+    "awayName": "Real Madrid",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-12T20:00:00+00:00",
+    "homeId": 400,
+    "awayId": 645,
+    "homeName": "FC Copenhagen",
+    "awayName": "Galatasaray",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-12T20:00:00+00:00",
+    "homeId": 492,
+    "awayId": 217,
+    "homeName": "Napoli",
+    "awayName": "SC Braga",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-12T20:00:00+00:00",
+    "homeId": 505,
+    "awayId": 548,
+    "homeName": "Inter",
+    "awayName": "Real Sociedad",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-12T20:00:00+00:00",
+    "homeId": 571,
+    "awayId": 211,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-13T17:45:00+00:00",
+    "homeId": 173,
+    "awayId": 565,
+    "homeName": "RB Leipzig",
+    "awayName": "BSC Young Boys",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-13T17:45:00+00:00",
+    "homeId": 598,
+    "awayId": 50,
+    "homeName": "FK Crvena Zvezda",
+    "awayName": "Manchester City",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-13T20:00:00+00:00",
+    "homeId": 34,
+    "awayId": 489,
+    "homeName": "Newcastle",
+    "awayName": "AC Milan",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2023-12-13T20:00:00+00:00",
+    "homeId": 165,
+    "awayId": 85,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-13T20:00:00+00:00",
+    "homeId": 212,
+    "awayId": 550,
+    "homeName": "FC Porto",
+    "awayName": "Shakhtar Donetsk",
+    "homeGoals": 5,
+    "awayGoals": 3
+  },
+  {
+    "date": "2023-12-13T20:00:00+00:00",
+    "homeId": 247,
+    "awayId": 209,
+    "homeName": "Celtic",
+    "awayName": "Feyenoord",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2023-12-13T20:00:00+00:00",
+    "homeId": 530,
+    "awayId": 487,
+    "homeName": "Atletico Madrid",
+    "awayName": "Lazio",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2023-12-13T20:00:00+00:00",
+    "homeId": 740,
+    "awayId": 529,
+    "homeName": "Antwerp",
+    "awayName": "Barcelona",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-02-13T20:00:00+00:00",
+    "homeId": 173,
+    "awayId": 541,
+    "homeName": "RB Leipzig",
+    "awayName": "Real Madrid",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-13T20:00:00+00:00",
+    "homeId": 400,
+    "awayId": 50,
+    "homeName": "FC Copenhagen",
+    "awayName": "Manchester City",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-02-14T20:00:00+00:00",
+    "homeId": 85,
+    "awayId": 548,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Real Sociedad",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-14T20:00:00+00:00",
+    "homeId": 487,
+    "awayId": 157,
+    "homeName": "Lazio",
+    "awayName": "Bayern Munich",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-20T20:00:00+00:00",
+    "homeId": 197,
+    "awayId": 165,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-02-20T20:00:00+00:00",
+    "homeId": 505,
+    "awayId": 530,
+    "homeName": "Inter",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-21T20:00:00+00:00",
+    "homeId": 212,
+    "awayId": 42,
+    "homeName": "FC Porto",
+    "awayName": "Arsenal",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-02-21T20:00:00+00:00",
+    "homeId": 492,
+    "awayId": 529,
+    "homeName": "Napoli",
+    "awayName": "Barcelona",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-05T20:00:00+00:00",
+    "homeId": 157,
+    "awayId": 487,
+    "homeName": "Bayern Munich",
+    "awayName": "Lazio",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-03-05T20:00:00+00:00",
+    "homeId": 548,
+    "awayId": 85,
+    "homeName": "Real Sociedad",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-03-06T20:00:00+00:00",
+    "homeId": 50,
+    "awayId": 400,
+    "homeName": "Manchester City",
+    "awayName": "FC Copenhagen",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-06T20:00:00+00:00",
+    "homeId": 541,
+    "awayId": 173,
+    "homeName": "Real Madrid",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-12T20:00:00+00:00",
+    "homeId": 529,
+    "awayId": 492,
+    "homeName": "Barcelona",
+    "awayName": "Napoli",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-03-13T20:00:00+00:00",
+    "homeId": 165,
+    "awayId": 197,
+    "homeName": "Borussia Dortmund",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-09T19:00:00+00:00",
+    "homeId": 42,
+    "awayId": 157,
+    "homeName": "Arsenal",
+    "awayName": "Bayern Munich",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-09T19:00:00+00:00",
+    "homeId": 541,
+    "awayId": 50,
+    "homeName": "Real Madrid",
+    "awayName": "Manchester City",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-10T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 529,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Barcelona",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-04-10T19:00:00+00:00",
+    "homeId": 530,
+    "awayId": 165,
+    "homeName": "Atletico Madrid",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-04-16T19:00:00+00:00",
+    "homeId": 165,
+    "awayId": 530,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-04-16T19:00:00+00:00",
+    "homeId": 529,
+    "awayId": 85,
+    "homeName": "Barcelona",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-04-17T19:00:00+00:00",
+    "homeId": 157,
+    "awayId": 42,
+    "homeName": "Bayern Munich",
+    "awayName": "Arsenal",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-04-30T19:00:00+00:00",
+    "homeId": 157,
+    "awayId": 541,
+    "homeName": "Bayern Munich",
+    "awayName": "Real Madrid",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-05-01T19:00:00+00:00",
+    "homeId": 165,
+    "awayId": 85,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-05-07T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 165,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-05-08T19:00:00+00:00",
+    "homeId": 541,
+    "awayId": 157,
+    "homeName": "Real Madrid",
+    "awayName": "Bayern Munich",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-06-01T19:00:00+00:00",
+    "homeId": 165,
+    "awayId": 541,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Real Madrid",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-07-09T15:30:00+00:00",
+    "homeId": 3874,
+    "awayId": 649,
+    "homeName": "Panevėžys",
+    "awayName": "HJK Helsinki",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-09T16:45:00+00:00",
+    "homeId": 4626,
+    "awayId": 667,
+    "homeName": "Hamrun Spartans",
+    "awayName": "Lincoln Red Imps FC",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-09T18:00:00+00:00",
+    "homeId": 354,
+    "awayId": 3745,
+    "homeName": "The New Saints",
+    "awayName": "Dečić",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-09T18:00:00+00:00",
+    "homeId": 703,
+    "awayId": 12733,
+    "homeName": "UE Santa Coloma",
+    "awayName": "Ballkani",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-07-09T18:45:00+00:00",
+    "homeId": 278,
+    "awayId": 652,
+    "homeName": "Vikingur Reykjavik",
+    "awayName": "Shamrock Rovers",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-09T19:00:00+00:00",
+    "homeId": 5308,
+    "awayId": 559,
+    "homeName": "Virtus",
+    "awayName": "FCSB",
+    "homeGoals": 1,
+    "awayGoals": 7
+  },
+  {
+    "date": "2024-07-10T15:00:00+00:00",
+    "homeId": 692,
+    "awayId": 2271,
+    "homeName": "Ordabasy",
+    "awayName": "Petrocub",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-10T16:00:00+00:00",
+    "homeId": 687,
+    "awayId": 4360,
+    "homeName": "Flora Tallinn",
+    "awayName": "Celje",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-07-10T17:00:00+00:00",
+    "homeId": 656,
+    "awayId": 4346,
+    "homeName": "Slovan Bratislava",
+    "awayName": "Struga",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-07-10T17:00:00+00:00",
+    "homeId": 4160,
+    "awayId": 5354,
+    "homeName": "Rīgas FS",
+    "awayName": "Larne",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-10T18:00:00+00:00",
+    "homeId": 566,
+    "awayId": 705,
+    "homeName": "Ludogorets",
+    "awayName": "Dinamo Batumi",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-10T18:00:00+00:00",
+    "homeId": 701,
+    "awayId": 684,
+    "homeName": "KI Klaksvik",
+    "awayName": "FC Differdange 03",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-10T18:45:00+00:00",
+    "homeId": 394,
+    "awayId": 709,
+    "homeName": "Dinamo Minsk",
+    "awayName": "Pyunik Yerevan",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-10T19:00:00+00:00",
+    "homeId": 3364,
+    "awayId": 3327,
+    "homeName": "Borac Banja Luka",
+    "awayName": "Egnatia Rrogozhinë",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-16T16:00:00+00:00",
+    "homeId": 649,
+    "awayId": 3874,
+    "homeName": "HJK Helsinki",
+    "awayName": "Panevėžys",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-16T16:00:00+00:00",
+    "homeId": 709,
+    "awayId": 394,
+    "homeName": "Pyunik Yerevan",
+    "awayName": "Dinamo Minsk",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-16T17:00:00+00:00",
+    "homeId": 4360,
+    "awayId": 687,
+    "homeName": "Celje",
+    "awayName": "Flora Tallinn",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-16T17:30:00+00:00",
+    "homeId": 559,
+    "awayId": 5308,
+    "homeName": "FCSB",
+    "awayName": "Virtus",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-16T19:00:00+00:00",
+    "homeId": 652,
+    "awayId": 278,
+    "homeName": "Shamrock Rovers",
+    "awayName": "Vikingur Reykjavik",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-16T19:00:00+00:00",
+    "homeId": 3745,
+    "awayId": 354,
+    "homeName": "Dečić",
+    "awayName": "The New Saints",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-17T15:00:00+00:00",
+    "homeId": 4346,
+    "awayId": 656,
+    "homeName": "Struga",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-07-17T17:00:00+00:00",
+    "homeId": 684,
+    "awayId": 701,
+    "homeName": "FC Differdange 03",
+    "awayName": "KI Klaksvik",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-17T17:00:00+00:00",
+    "homeId": 705,
+    "awayId": 566,
+    "homeName": "Dinamo Batumi",
+    "awayName": "Ludogorets",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-17T17:00:00+00:00",
+    "homeId": 2271,
+    "awayId": 692,
+    "homeName": "Petrocub",
+    "awayName": "Ordabasy",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-17T19:00:00+00:00",
+    "homeId": 5354,
+    "awayId": 4160,
+    "homeName": "Larne",
+    "awayName": "Rīgas FS",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-07-23T15:00:00+00:00",
+    "homeId": 327,
+    "awayId": 4160,
+    "homeName": "Bodo/Glimt",
+    "awayName": "Rīgas FS",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-23T15:30:00+00:00",
+    "homeId": 3874,
+    "awayId": 336,
+    "homeName": "Panevėžys",
+    "awayName": "Jagiellonia",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-07-23T16:00:00+00:00",
+    "homeId": 667,
+    "awayId": 556,
+    "homeName": "Lincoln Red Imps FC",
+    "awayName": "Qarabag",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-07-23T17:00:00+00:00",
+    "homeId": 375,
+    "awayId": 701,
+    "homeName": "Malmo FF",
+    "awayName": "KI Klaksvik",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-23T17:00:00+00:00",
+    "homeId": 2247,
+    "awayId": 2271,
+    "homeName": "Apoel Nicosia",
+    "awayName": "Petrocub",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-23T17:30:00+00:00",
+    "homeId": 559,
+    "awayId": 604,
+    "homeName": "FCSB",
+    "awayName": "Maccabi Tel Aviv",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-23T18:00:00+00:00",
+    "homeId": 572,
+    "awayId": 573,
+    "homeName": "Dynamo Kyiv",
+    "awayName": "FK Partizan",
+    "homeGoals": 6,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-07-23T18:00:00+00:00",
+    "homeId": 651,
+    "awayId": 354,
+    "homeName": "Ferencvarosi TC",
+    "awayName": "The New Saints",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-23T18:00:00+00:00",
+    "homeId": 703,
+    "awayId": 397,
+    "homeName": "UE Santa Coloma",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-07-23T18:30:00+00:00",
+    "homeId": 606,
+    "awayId": 611,
+    "homeName": "FC Lugano",
+    "awayName": "Fenerbahçe",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-07-23T19:00:00+00:00",
+    "homeId": 652,
+    "awayId": 628,
+    "homeName": "Shamrock Rovers",
+    "awayName": "Sparta Praha",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-07-24T17:30:00+00:00",
+    "homeId": 619,
+    "awayId": 3364,
+    "homeName": "PAOK",
+    "awayName": "Borac Banja Luka",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-07-24T18:00:00+00:00",
+    "homeId": 566,
+    "awayId": 394,
+    "homeName": "Ludogorets",
+    "awayName": "Dinamo Minsk",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-24T18:15:00+00:00",
+    "homeId": 4360,
+    "awayId": 656,
+    "homeName": "Celje",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-30T16:00:00+00:00",
+    "homeId": 556,
+    "awayId": 667,
+    "homeName": "Qarabag",
+    "awayName": "Lincoln Red Imps FC",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-30T17:00:00+00:00",
+    "homeId": 611,
+    "awayId": 606,
+    "homeName": "Fenerbahçe",
+    "awayName": "FC Lugano",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-30T17:00:00+00:00",
+    "homeId": 628,
+    "awayId": 652,
+    "homeName": "Sparta Praha",
+    "awayName": "Shamrock Rovers",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-07-30T17:00:00+00:00",
+    "homeId": 2271,
+    "awayId": 2247,
+    "homeName": "Petrocub",
+    "awayName": "Apoel Nicosia",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-30T18:00:00+00:00",
+    "homeId": 354,
+    "awayId": 651,
+    "homeName": "The New Saints",
+    "awayName": "Ferencvarosi TC",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-07-30T18:30:00+00:00",
+    "homeId": 656,
+    "awayId": 4360,
+    "homeName": "Slovan Bratislava",
+    "awayName": "Celje",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-30T18:45:00+00:00",
+    "homeId": 701,
+    "awayId": 375,
+    "homeName": "KI Klaksvik",
+    "awayName": "Malmo FF",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-07-31T17:00:00+00:00",
+    "homeId": 4160,
+    "awayId": 327,
+    "homeName": "Rīgas FS",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-07-31T17:15:00+00:00",
+    "homeId": 397,
+    "awayId": 703,
+    "homeName": "FC Midtjylland",
+    "awayName": "UE Santa Coloma",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-31T18:00:00+00:00",
+    "homeId": 573,
+    "awayId": 572,
+    "homeName": "FK Partizan",
+    "awayName": "Dynamo Kyiv",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-07-31T18:00:00+00:00",
+    "homeId": 604,
+    "awayId": 559,
+    "homeName": "Maccabi Tel Aviv",
+    "awayName": "FCSB",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-31T18:30:00+00:00",
+    "homeId": 336,
+    "awayId": 3874,
+    "homeName": "Jagiellonia",
+    "awayName": "Panevėžys",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-07-31T18:45:00+00:00",
+    "homeId": 394,
+    "awayId": 566,
+    "homeName": "Dinamo Minsk",
+    "awayName": "Ludogorets",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-07-31T19:00:00+00:00",
+    "homeId": 3364,
+    "awayId": 619,
+    "homeName": "Borac Banja Luka",
+    "awayName": "PAOK",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-06T16:00:00+00:00",
+    "homeId": 556,
+    "awayId": 566,
+    "homeName": "Qarabag",
+    "awayName": "Ludogorets",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-06T17:00:00+00:00",
+    "homeId": 375,
+    "awayId": 619,
+    "homeName": "Malmo FF",
+    "awayName": "PAOK",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-06T17:15:00+00:00",
+    "homeId": 397,
+    "awayId": 651,
+    "homeName": "FC Midtjylland",
+    "awayName": "Ferencvarosi TC",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-06T18:00:00+00:00",
+    "homeId": 572,
+    "awayId": 257,
+    "homeName": "Dynamo Kyiv",
+    "awayName": "Rangers",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-06T18:00:00+00:00",
+    "homeId": 628,
+    "awayId": 559,
+    "homeName": "Sparta Praha",
+    "awayName": "FCSB",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-06T18:30:00+00:00",
+    "homeId": 79,
+    "awayId": 611,
+    "homeName": "Lille",
+    "awayName": "Fenerbahçe",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-06T18:45:00+00:00",
+    "homeId": 571,
+    "awayId": 415,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Twente",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-07T17:00:00+00:00",
+    "homeId": 560,
+    "awayId": 1393,
+    "homeName": "Slavia Praha",
+    "awayName": "Union St. Gilloise",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-07T18:30:00+00:00",
+    "homeId": 656,
+    "awayId": 2247,
+    "homeName": "Slovan Bratislava",
+    "awayName": "Apoel Nicosia",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-07T18:45:00+00:00",
+    "homeId": 336,
+    "awayId": 327,
+    "homeName": "Jagiellonia",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-13T17:00:00+00:00",
+    "homeId": 327,
+    "awayId": 336,
+    "homeName": "Bodo/Glimt",
+    "awayName": "Jagiellonia",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-13T17:00:00+00:00",
+    "homeId": 415,
+    "awayId": 571,
+    "homeName": "Twente",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-13T17:00:00+00:00",
+    "homeId": 2247,
+    "awayId": 656,
+    "homeName": "Apoel Nicosia",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-13T18:00:00+00:00",
+    "homeId": 651,
+    "awayId": 397,
+    "homeName": "Ferencvarosi TC",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-13T18:30:00+00:00",
+    "homeId": 559,
+    "awayId": 628,
+    "homeName": "FCSB",
+    "awayName": "Sparta Praha",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-13T18:30:00+00:00",
+    "homeId": 1393,
+    "awayId": 560,
+    "homeName": "Union St. Gilloise",
+    "awayName": "Slavia Praha",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-13T18:45:00+00:00",
+    "homeId": 257,
+    "awayId": 572,
+    "homeName": "Rangers",
+    "awayName": "Dynamo Kyiv",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-20T19:00:00+00:00",
+    "homeId": 79,
+    "awayId": 560,
+    "homeName": "Lille",
+    "awayName": "Slavia Praha",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-20T19:00:00+00:00",
+    "homeId": 327,
+    "awayId": 598,
+    "homeName": "Bodo/Glimt",
+    "awayName": "FK Crvena Zvezda",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-20T19:00:00+00:00",
+    "homeId": 620,
+    "awayId": 556,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "Qarabag",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-21T19:00:00+00:00",
+    "homeId": 375,
+    "awayId": 628,
+    "homeName": "Malmo FF",
+    "awayName": "Sparta Praha",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-21T19:00:00+00:00",
+    "homeId": 397,
+    "awayId": 656,
+    "homeName": "FC Midtjylland",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-21T19:00:00+00:00",
+    "homeId": 565,
+    "awayId": 645,
+    "homeName": "BSC Young Boys",
+    "awayName": "Galatasaray",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-21T19:00:00+00:00",
+    "homeId": 572,
+    "awayId": 571,
+    "homeName": "Dynamo Kyiv",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-27T19:00:00+00:00",
+    "homeId": 571,
+    "awayId": 572,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Dynamo Kyiv",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-27T19:00:00+00:00",
+    "homeId": 628,
+    "awayId": 375,
+    "homeName": "Sparta Praha",
+    "awayName": "Malmo FF",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-27T19:00:00+00:00",
+    "homeId": 645,
+    "awayId": 565,
+    "homeName": "Galatasaray",
+    "awayName": "BSC Young Boys",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-28T16:45:00+00:00",
+    "homeId": 556,
+    "awayId": 620,
+    "homeName": "Qarabag",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-08-28T19:00:00+00:00",
+    "homeId": 560,
+    "awayId": 79,
+    "homeName": "Slavia Praha",
+    "awayName": "Lille",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-28T19:00:00+00:00",
+    "homeId": 598,
+    "awayId": 327,
+    "homeName": "FK Crvena Zvezda",
+    "awayName": "Bodo/Glimt",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-08-28T19:00:00+00:00",
+    "homeId": 656,
+    "awayId": 397,
+    "homeName": "Slovan Bratislava",
+    "awayName": "FC Midtjylland",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-17T16:45:00+00:00",
+    "homeId": 496,
+    "awayId": 197,
+    "homeName": "Juventus",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-17T16:45:00+00:00",
+    "homeId": 565,
+    "awayId": 66,
+    "homeName": "BSC Young Boys",
+    "awayName": "Aston Villa",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-17T19:00:00+00:00",
+    "homeId": 157,
+    "awayId": 620,
+    "homeName": "Bayern München",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 9,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-17T19:00:00+00:00",
+    "homeId": 228,
+    "awayId": 79,
+    "homeName": "Sporting CP",
+    "awayName": "Lille",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-17T19:00:00+00:00",
+    "homeId": 489,
+    "awayId": 40,
+    "homeName": "AC Milan",
+    "awayName": "Liverpool",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-17T19:00:00+00:00",
+    "homeId": 541,
+    "awayId": 172,
+    "homeName": "Real Madrid",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-18T16:45:00+00:00",
+    "homeId": 500,
+    "awayId": 550,
+    "homeName": "Bologna",
+    "awayName": "Shakhtar Donetsk",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-18T16:45:00+00:00",
+    "homeId": 628,
+    "awayId": 571,
+    "homeName": "Sparta Praha",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-18T19:00:00+00:00",
+    "homeId": 50,
+    "awayId": 505,
+    "homeName": "Manchester City",
+    "awayName": "Inter",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-18T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 547,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Girona",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-18T19:00:00+00:00",
+    "homeId": 247,
+    "awayId": 656,
+    "homeName": "Celtic",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-18T19:00:00+00:00",
+    "homeId": 569,
+    "awayId": 165,
+    "homeName": "Club Brugge KV",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-09-19T16:45:00+00:00",
+    "homeId": 209,
+    "awayId": 168,
+    "homeName": "Feyenoord",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-09-19T16:45:00+00:00",
+    "homeId": 598,
+    "awayId": 211,
+    "homeName": "FK Crvena Zvezda",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-09-19T19:00:00+00:00",
+    "homeId": 91,
+    "awayId": 529,
+    "homeName": "Monaco",
+    "awayName": "Barcelona",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-19T19:00:00+00:00",
+    "homeId": 106,
+    "awayId": 637,
+    "homeName": "Stade Brestois 29",
+    "awayName": "Sturm Graz",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-09-19T19:00:00+00:00",
+    "homeId": 499,
+    "awayId": 42,
+    "homeName": "Atalanta",
+    "awayName": "Arsenal",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-09-19T19:00:00+00:00",
+    "homeId": 530,
+    "awayId": 173,
+    "homeName": "Atletico Madrid",
+    "awayName": "RB Leipzig",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-01T16:45:00+00:00",
+    "homeId": 172,
+    "awayId": 628,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Sparta Praha",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-01T16:45:00+00:00",
+    "homeId": 571,
+    "awayId": 106,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Stade Brestois 29",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-10-01T19:00:00+00:00",
+    "homeId": 42,
+    "awayId": 85,
+    "homeName": "Arsenal",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-01T19:00:00+00:00",
+    "homeId": 165,
+    "awayId": 247,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Celtic",
+    "homeGoals": 7,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-01T19:00:00+00:00",
+    "homeId": 168,
+    "awayId": 489,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "AC Milan",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-01T19:00:00+00:00",
+    "homeId": 197,
+    "awayId": 228,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Sporting CP",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-01T19:00:00+00:00",
+    "homeId": 505,
+    "awayId": 598,
+    "homeName": "Inter",
+    "awayName": "FK Crvena Zvezda",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-01T19:00:00+00:00",
+    "homeId": 529,
+    "awayId": 565,
+    "homeName": "Barcelona",
+    "awayName": "BSC Young Boys",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-01T19:00:00+00:00",
+    "homeId": 656,
+    "awayId": 50,
+    "homeName": "Slovan Bratislava",
+    "awayName": "Manchester City",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-10-02T16:45:00+00:00",
+    "homeId": 547,
+    "awayId": 209,
+    "homeName": "Girona",
+    "awayName": "Feyenoord",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-02T16:45:00+00:00",
+    "homeId": 550,
+    "awayId": 499,
+    "homeName": "Shakhtar Donetsk",
+    "awayName": "Atalanta",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-02T19:00:00+00:00",
+    "homeId": 40,
+    "awayId": 500,
+    "homeName": "Liverpool",
+    "awayName": "Bologna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-02T19:00:00+00:00",
+    "homeId": 66,
+    "awayId": 157,
+    "homeName": "Aston Villa",
+    "awayName": "Bayern München",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-02T19:00:00+00:00",
+    "homeId": 79,
+    "awayId": 541,
+    "homeName": "Lille",
+    "awayName": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-02T19:00:00+00:00",
+    "homeId": 173,
+    "awayId": 496,
+    "homeName": "RB Leipzig",
+    "awayName": "Juventus",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-02T19:00:00+00:00",
+    "homeId": 211,
+    "awayId": 530,
+    "homeName": "Benfica",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-02T19:00:00+00:00",
+    "homeId": 620,
+    "awayId": 91,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "Monaco",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-02T19:00:00+00:00",
+    "homeId": 637,
+    "awayId": 569,
+    "homeName": "Sturm Graz",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-22T16:45:00+00:00",
+    "homeId": 91,
+    "awayId": 598,
+    "homeName": "Monaco",
+    "awayName": "FK Crvena Zvezda",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-22T16:45:00+00:00",
+    "homeId": 489,
+    "awayId": 569,
+    "homeName": "AC Milan",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-22T19:00:00+00:00",
+    "homeId": 42,
+    "awayId": 550,
+    "homeName": "Arsenal",
+    "awayName": "Shakhtar Donetsk",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-22T19:00:00+00:00",
+    "homeId": 66,
+    "awayId": 500,
+    "homeName": "Aston Villa",
+    "awayName": "Bologna",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-22T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 197,
+    "homeName": "Paris Saint Germain",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-22T19:00:00+00:00",
+    "homeId": 496,
+    "awayId": 172,
+    "homeName": "Juventus",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-22T19:00:00+00:00",
+    "homeId": 541,
+    "awayId": 165,
+    "homeName": "Real Madrid",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 5,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-22T19:00:00+00:00",
+    "homeId": 547,
+    "awayId": 656,
+    "homeName": "Girona",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-22T19:00:00+00:00",
+    "homeId": 637,
+    "awayId": 228,
+    "homeName": "Sturm Graz",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-10-23T16:45:00+00:00",
+    "homeId": 106,
+    "awayId": 168,
+    "homeName": "Stade Brestois 29",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-23T16:45:00+00:00",
+    "homeId": 499,
+    "awayId": 247,
+    "homeName": "Atalanta",
+    "awayName": "Celtic",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-23T19:00:00+00:00",
+    "homeId": 50,
+    "awayId": 628,
+    "homeName": "Manchester City",
+    "awayName": "Sparta Praha",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-10-23T19:00:00+00:00",
+    "homeId": 173,
+    "awayId": 40,
+    "homeName": "RB Leipzig",
+    "awayName": "Liverpool",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-23T19:00:00+00:00",
+    "homeId": 211,
+    "awayId": 209,
+    "homeName": "Benfica",
+    "awayName": "Feyenoord",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-23T19:00:00+00:00",
+    "homeId": 529,
+    "awayId": 157,
+    "homeName": "Barcelona",
+    "awayName": "Bayern München",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-23T19:00:00+00:00",
+    "homeId": 530,
+    "awayId": 79,
+    "homeName": "Atletico Madrid",
+    "awayName": "Lille",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-10-23T19:00:00+00:00",
+    "homeId": 565,
+    "awayId": 505,
+    "homeName": "BSC Young Boys",
+    "awayName": "Inter",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-10-23T19:00:00+00:00",
+    "homeId": 571,
+    "awayId": 620,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-05T17:45:00+00:00",
+    "homeId": 197,
+    "awayId": 547,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Girona",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-05T17:45:00+00:00",
+    "homeId": 656,
+    "awayId": 620,
+    "homeName": "Slovan Bratislava",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2024-11-05T20:00:00+00:00",
+    "homeId": 40,
+    "awayId": 168,
+    "homeName": "Liverpool",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-05T20:00:00+00:00",
+    "homeId": 79,
+    "awayId": 496,
+    "homeName": "Lille",
+    "awayName": "Juventus",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-05T20:00:00+00:00",
+    "homeId": 165,
+    "awayId": 637,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Sturm Graz",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-05T20:00:00+00:00",
+    "homeId": 228,
+    "awayId": 50,
+    "homeName": "Sporting CP",
+    "awayName": "Manchester City",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-05T20:00:00+00:00",
+    "homeId": 247,
+    "awayId": 173,
+    "homeName": "Celtic",
+    "awayName": "RB Leipzig",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-05T20:00:00+00:00",
+    "homeId": 500,
+    "awayId": 91,
+    "homeName": "Bologna",
+    "awayName": "Monaco",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-05T20:00:00+00:00",
+    "homeId": 541,
+    "awayId": 489,
+    "homeName": "Real Madrid",
+    "awayName": "AC Milan",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-06T17:45:00+00:00",
+    "homeId": 550,
+    "awayId": 565,
+    "homeName": "Shakhtar Donetsk",
+    "awayName": "BSC Young Boys",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-06T17:45:00+00:00",
+    "homeId": 569,
+    "awayId": 66,
+    "homeName": "Club Brugge KV",
+    "awayName": "Aston Villa",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-06T20:00:00+00:00",
+    "homeId": 85,
+    "awayId": 530,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-06T20:00:00+00:00",
+    "homeId": 157,
+    "awayId": 211,
+    "homeName": "Bayern München",
+    "awayName": "Benfica",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-06T20:00:00+00:00",
+    "homeId": 172,
+    "awayId": 499,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Atalanta",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-06T20:00:00+00:00",
+    "homeId": 209,
+    "awayId": 571,
+    "homeName": "Feyenoord",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-06T20:00:00+00:00",
+    "homeId": 505,
+    "awayId": 42,
+    "homeName": "Inter",
+    "awayName": "Arsenal",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-06T20:00:00+00:00",
+    "homeId": 598,
+    "awayId": 529,
+    "homeName": "FK Crvena Zvezda",
+    "awayName": "Barcelona",
+    "homeGoals": 2,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-11-06T20:00:00+00:00",
+    "homeId": 628,
+    "awayId": 106,
+    "homeName": "Sparta Praha",
+    "awayName": "Stade Brestois 29",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-26T17:45:00+00:00",
+    "homeId": 628,
+    "awayId": 530,
+    "homeName": "Sparta Praha",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "date": "2024-11-26T17:45:00+00:00",
+    "homeId": 656,
+    "awayId": 489,
+    "homeName": "Slovan Bratislava",
+    "awayName": "AC Milan",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-26T20:00:00+00:00",
+    "homeId": 50,
+    "awayId": 209,
+    "homeName": "Manchester City",
+    "awayName": "Feyenoord",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-26T20:00:00+00:00",
+    "homeId": 157,
+    "awayId": 85,
+    "homeName": "Bayern München",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-26T20:00:00+00:00",
+    "homeId": 168,
+    "awayId": 571,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-26T20:00:00+00:00",
+    "homeId": 228,
+    "awayId": 42,
+    "homeName": "Sporting CP",
+    "awayName": "Arsenal",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-11-26T20:00:00+00:00",
+    "homeId": 505,
+    "awayId": 173,
+    "homeName": "Inter",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-26T20:00:00+00:00",
+    "homeId": 529,
+    "awayId": 106,
+    "homeName": "Barcelona",
+    "awayName": "Stade Brestois 29",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-26T20:00:00+00:00",
+    "homeId": 565,
+    "awayId": 499,
+    "homeName": "BSC Young Boys",
+    "awayName": "Atalanta",
+    "homeGoals": 1,
+    "awayGoals": 6
+  },
+  {
+    "date": "2024-11-27T17:45:00+00:00",
+    "homeId": 598,
+    "awayId": 172,
+    "homeName": "FK Crvena Zvezda",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-27T17:45:00+00:00",
+    "homeId": 637,
+    "awayId": 547,
+    "homeName": "Sturm Graz",
+    "awayName": "Girona",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-27T20:00:00+00:00",
+    "homeId": 40,
+    "awayId": 541,
+    "homeName": "Liverpool",
+    "awayName": "Real Madrid",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-27T20:00:00+00:00",
+    "homeId": 66,
+    "awayId": 496,
+    "homeName": "Aston Villa",
+    "awayName": "Juventus",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-11-27T20:00:00+00:00",
+    "homeId": 91,
+    "awayId": 211,
+    "homeName": "Monaco",
+    "awayName": "Benfica",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-11-27T20:00:00+00:00",
+    "homeId": 197,
+    "awayId": 550,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Shakhtar Donetsk",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-27T20:00:00+00:00",
+    "homeId": 247,
+    "awayId": 569,
+    "homeName": "Celtic",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-11-27T20:00:00+00:00",
+    "homeId": 500,
+    "awayId": 79,
+    "homeName": "Bologna",
+    "awayName": "Lille",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-11-27T20:00:00+00:00",
+    "homeId": 620,
+    "awayId": 165,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-10T17:45:00+00:00",
+    "homeId": 547,
+    "awayId": 40,
+    "homeName": "Girona",
+    "awayName": "Liverpool",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-10T17:45:00+00:00",
+    "homeId": 620,
+    "awayId": 247,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "Celtic",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-10T20:00:00+00:00",
+    "homeId": 106,
+    "awayId": 197,
+    "homeName": "Stade Brestois 29",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-10T20:00:00+00:00",
+    "homeId": 168,
+    "awayId": 505,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Inter",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-10T20:00:00+00:00",
+    "homeId": 173,
+    "awayId": 66,
+    "homeName": "RB Leipzig",
+    "awayName": "Aston Villa",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-10T20:00:00+00:00",
+    "homeId": 499,
+    "awayId": 541,
+    "homeName": "Atalanta",
+    "awayName": "Real Madrid",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-10T20:00:00+00:00",
+    "homeId": 550,
+    "awayId": 157,
+    "homeName": "Shakhtar Donetsk",
+    "awayName": "Bayern München",
+    "homeGoals": 1,
+    "awayGoals": 5
+  },
+  {
+    "date": "2024-12-10T20:00:00+00:00",
+    "homeId": 569,
+    "awayId": 228,
+    "homeName": "Club Brugge KV",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-10T20:00:00+00:00",
+    "homeId": 571,
+    "awayId": 85,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-11T17:45:00+00:00",
+    "homeId": 79,
+    "awayId": 637,
+    "homeName": "Lille",
+    "awayName": "Sturm Graz",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-11T17:45:00+00:00",
+    "homeId": 530,
+    "awayId": 656,
+    "homeName": "Atletico Madrid",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-11T20:00:00+00:00",
+    "homeId": 42,
+    "awayId": 91,
+    "homeName": "Arsenal",
+    "awayName": "Monaco",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-11T20:00:00+00:00",
+    "homeId": 165,
+    "awayId": 529,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Barcelona",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-12-11T20:00:00+00:00",
+    "homeId": 172,
+    "awayId": 565,
+    "homeName": "VfB Stuttgart",
+    "awayName": "BSC Young Boys",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-11T20:00:00+00:00",
+    "homeId": 209,
+    "awayId": 628,
+    "homeName": "Feyenoord",
+    "awayName": "Sparta Praha",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2024-12-11T20:00:00+00:00",
+    "homeId": 211,
+    "awayId": 500,
+    "homeName": "Benfica",
+    "awayName": "Bologna",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2024-12-11T20:00:00+00:00",
+    "homeId": 489,
+    "awayId": 598,
+    "homeName": "AC Milan",
+    "awayName": "FK Crvena Zvezda",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-12-11T20:00:00+00:00",
+    "homeId": 496,
+    "awayId": 50,
+    "homeName": "Juventus",
+    "awayName": "Manchester City",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-21T17:45:00+00:00",
+    "homeId": 91,
+    "awayId": 66,
+    "homeName": "Monaco",
+    "awayName": "Aston Villa",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-21T17:45:00+00:00",
+    "homeId": 499,
+    "awayId": 637,
+    "homeName": "Atalanta",
+    "awayName": "Sturm Graz",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-21T20:00:00+00:00",
+    "homeId": 40,
+    "awayId": 79,
+    "homeName": "Liverpool",
+    "awayName": "Lille",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-21T20:00:00+00:00",
+    "homeId": 211,
+    "awayId": 529,
+    "homeName": "Benfica",
+    "awayName": "Barcelona",
+    "homeGoals": 4,
+    "awayGoals": 5
+  },
+  {
+    "date": "2025-01-21T20:00:00+00:00",
+    "homeId": 500,
+    "awayId": 165,
+    "homeName": "Bologna",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-21T20:00:00+00:00",
+    "homeId": 530,
+    "awayId": 168,
+    "homeName": "Atletico Madrid",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-21T20:00:00+00:00",
+    "homeId": 569,
+    "awayId": 496,
+    "homeName": "Club Brugge KV",
+    "awayName": "Juventus",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-21T20:00:00+00:00",
+    "homeId": 598,
+    "awayId": 197,
+    "homeName": "FK Crvena Zvezda",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-21T20:00:00+00:00",
+    "homeId": 656,
+    "awayId": 172,
+    "homeName": "Slovan Bratislava",
+    "awayName": "VfB Stuttgart",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-22T17:45:00+00:00",
+    "homeId": 173,
+    "awayId": 228,
+    "homeName": "RB Leipzig",
+    "awayName": "Sporting CP",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-22T17:45:00+00:00",
+    "homeId": 550,
+    "awayId": 106,
+    "homeName": "Shakhtar Donetsk",
+    "awayName": "Stade Brestois 29",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-22T20:00:00+00:00",
+    "homeId": 42,
+    "awayId": 620,
+    "homeName": "Arsenal",
+    "awayName": "Dinamo Zagreb",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-22T20:00:00+00:00",
+    "homeId": 85,
+    "awayId": 50,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Manchester City",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-22T20:00:00+00:00",
+    "homeId": 209,
+    "awayId": 157,
+    "homeName": "Feyenoord",
+    "awayName": "Bayern München",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-22T20:00:00+00:00",
+    "homeId": 247,
+    "awayId": 565,
+    "homeName": "Celtic",
+    "awayName": "BSC Young Boys",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-22T20:00:00+00:00",
+    "homeId": 489,
+    "awayId": 547,
+    "homeName": "AC Milan",
+    "awayName": "Girona",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-22T20:00:00+00:00",
+    "homeId": 541,
+    "awayId": 571,
+    "homeName": "Real Madrid",
+    "awayName": "Red Bull Salzburg",
+    "homeGoals": 5,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-22T20:00:00+00:00",
+    "homeId": 628,
+    "awayId": 505,
+    "homeName": "Sparta Praha",
+    "awayName": "Inter",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 50,
+    "awayId": 569,
+    "homeName": "Manchester City",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 66,
+    "awayId": 247,
+    "homeName": "Aston Villa",
+    "awayName": "Celtic",
+    "homeGoals": 4,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 79,
+    "awayId": 209,
+    "homeName": "Lille",
+    "awayName": "Feyenoord",
+    "homeGoals": 6,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 106,
+    "awayId": 541,
+    "homeName": "Stade Brestois 29",
+    "awayName": "Real Madrid",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 157,
+    "awayId": 656,
+    "homeName": "Bayern München",
+    "awayName": "Slovan Bratislava",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 165,
+    "awayId": 550,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Shakhtar Donetsk",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 168,
+    "awayId": 628,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Sparta Praha",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 172,
+    "awayId": 85,
+    "homeName": "VfB Stuttgart",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 197,
+    "awayId": 40,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Liverpool",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 228,
+    "awayId": 500,
+    "homeName": "Sporting CP",
+    "awayName": "Bologna",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 496,
+    "awayId": 211,
+    "homeName": "Juventus",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 505,
+    "awayId": 91,
+    "homeName": "Inter",
+    "awayName": "Monaco",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 529,
+    "awayId": 499,
+    "homeName": "Barcelona",
+    "awayName": "Atalanta",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 547,
+    "awayId": 42,
+    "homeName": "Girona",
+    "awayName": "Arsenal",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 565,
+    "awayId": 598,
+    "homeName": "BSC Young Boys",
+    "awayName": "FK Crvena Zvezda",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 571,
+    "awayId": 530,
+    "homeName": "Red Bull Salzburg",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 620,
+    "awayId": 489,
+    "homeName": "Dinamo Zagreb",
+    "awayName": "AC Milan",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-01-29T20:00:00+00:00",
+    "homeId": 637,
+    "awayId": 173,
+    "homeName": "Sturm Graz",
+    "awayName": "RB Leipzig",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-11T17:45:00+00:00",
+    "homeId": 106,
+    "awayId": 85,
+    "homeName": "Stade Brestois 29",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-11T20:00:00+00:00",
+    "homeId": 50,
+    "awayId": 541,
+    "homeName": "Manchester City",
+    "awayName": "Real Madrid",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-11T20:00:00+00:00",
+    "homeId": 228,
+    "awayId": 165,
+    "homeName": "Sporting CP",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-11T20:00:00+00:00",
+    "homeId": 496,
+    "awayId": 197,
+    "homeName": "Juventus",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-12T17:45:00+00:00",
+    "homeId": 569,
+    "awayId": 499,
+    "homeName": "Club Brugge KV",
+    "awayName": "Atalanta",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-12T20:00:00+00:00",
+    "homeId": 91,
+    "awayId": 211,
+    "homeName": "Monaco",
+    "awayName": "Benfica",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-12T20:00:00+00:00",
+    "homeId": 209,
+    "awayId": 489,
+    "homeName": "Feyenoord",
+    "awayName": "AC Milan",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-12T20:00:00+00:00",
+    "homeId": 247,
+    "awayId": 157,
+    "homeName": "Celtic",
+    "awayName": "Bayern München",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-02-18T17:45:00+00:00",
+    "homeId": 489,
+    "awayId": 209,
+    "homeName": "AC Milan",
+    "awayName": "Feyenoord",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-18T20:00:00+00:00",
+    "homeId": 157,
+    "awayId": 247,
+    "homeName": "Bayern München",
+    "awayName": "Celtic",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-02-18T20:00:00+00:00",
+    "homeId": 211,
+    "awayId": 91,
+    "homeName": "Benfica",
+    "awayName": "Monaco",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-18T20:00:00+00:00",
+    "homeId": 499,
+    "awayId": 569,
+    "homeName": "Atalanta",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-02-19T17:45:00+00:00",
+    "homeId": 165,
+    "awayId": 228,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Sporting CP",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-19T20:00:00+00:00",
+    "homeId": 85,
+    "awayId": 106,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Stade Brestois 29",
+    "homeGoals": 7,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-02-19T20:00:00+00:00",
+    "homeId": 541,
+    "awayId": 50,
+    "homeName": "Real Madrid",
+    "awayName": "Manchester City",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-04T17:45:00+00:00",
+    "homeId": 569,
+    "awayId": 66,
+    "homeName": "Club Brugge KV",
+    "awayName": "Aston Villa",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-03-04T20:00:00+00:00",
+    "homeId": 165,
+    "awayId": 79,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Lille",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-04T20:00:00+00:00",
+    "homeId": 197,
+    "awayId": 42,
+    "homeName": "PSV Eindhoven",
+    "awayName": "Arsenal",
+    "homeGoals": 1,
+    "awayGoals": 7
+  },
+  {
+    "date": "2025-03-04T20:00:00+00:00",
+    "homeId": 541,
+    "awayId": 530,
+    "homeName": "Real Madrid",
+    "awayName": "Atletico Madrid",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-05T17:45:00+00:00",
+    "homeId": 209,
+    "awayId": 505,
+    "homeName": "Feyenoord",
+    "awayName": "Inter",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-05T20:00:00+00:00",
+    "homeId": 85,
+    "awayId": 40,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Liverpool",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-05T20:00:00+00:00",
+    "homeId": 157,
+    "awayId": 168,
+    "homeName": "Bayern München",
+    "awayName": "Bayer Leverkusen",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-03-05T20:00:00+00:00",
+    "homeId": 211,
+    "awayId": 529,
+    "homeName": "Benfica",
+    "awayName": "Barcelona",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-11T17:45:00+00:00",
+    "homeId": 529,
+    "awayId": 211,
+    "homeName": "Barcelona",
+    "awayName": "Benfica",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-11T20:00:00+00:00",
+    "homeId": 168,
+    "awayId": 157,
+    "homeName": "Bayer Leverkusen",
+    "awayName": "Bayern München",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-11T20:00:00+00:00",
+    "homeId": 505,
+    "awayId": 209,
+    "homeName": "Inter",
+    "awayName": "Feyenoord",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-03-12T17:45:00+00:00",
+    "homeId": 79,
+    "awayId": 165,
+    "homeName": "Lille",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-12T20:00:00+00:00",
+    "homeId": 42,
+    "awayId": 197,
+    "homeName": "Arsenal",
+    "awayName": "PSV Eindhoven",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-03-12T20:00:00+00:00",
+    "homeId": 66,
+    "awayId": 569,
+    "homeName": "Aston Villa",
+    "awayName": "Club Brugge KV",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-08T19:00:00+00:00",
+    "homeId": 42,
+    "awayId": 541,
+    "homeName": "Arsenal",
+    "awayName": "Real Madrid",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-08T19:00:00+00:00",
+    "homeId": 157,
+    "awayId": 505,
+    "homeName": "Bayern München",
+    "awayName": "Inter",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-09T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 66,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Aston Villa",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-09T19:00:00+00:00",
+    "homeId": 529,
+    "awayId": 165,
+    "homeName": "Barcelona",
+    "awayName": "Borussia Dortmund",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "date": "2025-04-15T19:00:00+00:00",
+    "homeId": 66,
+    "awayId": 85,
+    "homeName": "Aston Villa",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-15T19:00:00+00:00",
+    "homeId": 165,
+    "awayId": 529,
+    "homeName": "Borussia Dortmund",
+    "awayName": "Barcelona",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-16T19:00:00+00:00",
+    "homeId": 505,
+    "awayId": 157,
+    "homeName": "Inter",
+    "awayName": "Bayern München",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-16T19:00:00+00:00",
+    "homeId": 541,
+    "awayId": 42,
+    "homeName": "Real Madrid",
+    "awayName": "Arsenal",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "date": "2025-04-29T19:00:00+00:00",
+    "homeId": 42,
+    "awayId": 85,
+    "homeName": "Arsenal",
+    "awayName": "Paris Saint Germain",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-04-30T19:00:00+00:00",
+    "homeId": 529,
+    "awayId": 505,
+    "homeName": "Barcelona",
+    "awayName": "Inter",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2025-05-07T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 42,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Arsenal",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2025-05-31T19:00:00+00:00",
+    "homeId": 85,
+    "awayId": 505,
+    "homeName": "Paris Saint Germain",
+    "awayName": "Inter",
+    "homeGoals": 5,
+    "awayGoals": 0
+  }
+]
