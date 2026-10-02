@@ -19,3 +19,7 @@ test-*.js
 test-*.json
 =
 e.homeAway
+
+# Backups locaux
+api-server-backup-calendrier.html
+public/*backup*
