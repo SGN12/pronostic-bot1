@@ -16,7 +16,6 @@ remplir-cache.backup*.js
 remplir-cache.before-*.js
 historique-complet-backup.js
 test-*.js
-test-*.json
 =
 e.homeAway
 

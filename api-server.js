@@ -680,123 +680,172 @@ function calculerPronostic(
 app.get(
     "/api/pronostic",
     async (req, res) => {
-
         try {
-
-            const home =
-                String(
-                    req.query.home || ""
-                ).trim();
-
-            const away =
-                String(
-                    req.query.away || ""
-                ).trim();
-
-            const competition =
-                String(
-                    req.query.competition ||
-                    "premierLeague"
-                ).trim();
+            const home = String(req.query.home || "").trim();
+            const away = String(req.query.away || "").trim();
+            const competition = String(
+                req.query.competition || "premierLeague"
+            ).trim();
 
             if (!home || !away) {
-
                 return res.status(400).json({
-
-                    erreur:
-                        "Utilise ?home=Chelsea&away=Arsenal"
-
+                    succes: false,
+                    erreur: "Équipes domicile et extérieure manquantes."
                 });
             }
 
-            const data =
-                await chargerMatchs(competition);
+            if (!competition || !COMPETITIONS[competition]) {
+                return res.status(400).json({
+                    succes: false,
+                    erreur: "Compétition invalide ou manquante."
+                });
+            }
 
-            const matchs =
-                data
-                    .map(normaliserMatch)
-                    .filter(m =>
-                        m.homeGoals !== null &&
-                        m.awayGoals !== null
+            const matchs = chargerHistoriqueDepuisCache(competition);
+
+            function normaliserNomEquipe(nom) {
+                return String(nom || "")
+                    .toLowerCase()
+                    .normalize("NFD")
+                    .replace(/[\u0300-\u036f]/g, "")
+                    .replace(/\bfc\b/g, "")
+                    .replace(/\bafc\b/g, "")
+                    .replace(/\s+/g, " ")
+                    .trim();
+            }
+
+            const aliasEquipes = {
+                "psg": "paris saint germain",
+                "paris sg": "paris saint germain",
+                "om": "marseille",
+                "ol": "lyon",
+                "asm": "monaco",
+                "losc": "lille"
+            };
+
+            function trouverEquipe(nom) {
+                const recherche = normaliserNomEquipe(nom);
+                const rechercheFinale =
+                    aliasEquipes[recherche] || recherche;
+
+                return matchs.find(m => {
+                    const domicile =
+                        normaliserNomEquipe(m.homeName);
+                    const exterieur =
+                        normaliserNomEquipe(m.awayName);
+
+                    return (
+                        domicile === rechercheFinale ||
+                        exterieur === rechercheFinale
                     );
+                });
+            }
 
-            const homeMatch =
-                matchs.find(
-                    m =>
-                        m.homeName
-                            .toLowerCase() ===
-                        home.toLowerCase()
-                );
+            function trouverIdEquipe(match, nom) {
+                const recherche = normaliserNomEquipe(nom);
 
-            const awayMatch =
-                matchs.find(
-                    m =>
-                        m.awayName
-                            .toLowerCase() ===
-                        away.toLowerCase()
-                );
+                if (
+                    normaliserNomEquipe(match.homeName) === recherche
+                ) {
+                    return match.homeId;
+                }
+
+                if (
+                    normaliserNomEquipe(match.awayName) === recherche
+                ) {
+                    return match.awayId;
+                }
+
+                return null;
+            }
+
+            const homeMatch = trouverEquipe(home);
+            const awayMatch = trouverEquipe(away);
 
             if (!homeMatch) {
-
                 return res.status(404).json({
-
+                    succes: false,
                     erreur:
                         `Équipe domicile introuvable : ${home}`
-
                 });
             }
 
             if (!awayMatch) {
-
                 return res.status(404).json({
-
+                    succes: false,
                     erreur:
                         `Équipe extérieure introuvable : ${away}`
+                });
+            }
 
+            const homeId = trouverIdEquipe(homeMatch, home);
+            const awayId = trouverIdEquipe(awayMatch, away);
+
+            if (!homeId || !awayId) {
+                return res.status(404).json({
+                    succes: false,
+                    erreur: "Impossible d'identifier les IDs des équipes."
                 });
             }
 
             const pronostic =
-                calculerPronostic(
+                moteur.calculerPronostic(
                     matchs,
-                    homeMatch.homeId,
-                    awayMatch.awayId
+                    homeId,
+                    awayId
                 );
 
-            res.json({
-
+            return res.json({
                 succes: true,
-
                 match: {
-
-                    domicile:
-                        homeMatch.homeName,
-
-                    exterieur:
-                        awayMatch.awayName
+                    domicile: home,
+                    exterieur: away
                 },
-
-                pronostic
+                pronostic: {
+                    prediction: pronostic.prediction,
+                    confiance: Number(
+                        (pronostic.probabilite * 100).toFixed(2)
+                    ),
+                    probabilites: {
+                        domicile: Number(
+                            (pronostic.home * 100).toFixed(2)
+                        ),
+                        nul: Number(
+                            (pronostic.draw * 100).toFixed(2)
+                        ),
+                        exterieur: Number(
+                            (pronostic.away * 100).toFixed(2)
+                        )
+                    },
+                    scoreProbable: pronostic.scoreProbable,
+                    over25: Number(
+                        (pronostic.over25 * 100).toFixed(2)
+                    ),
+                    btts: Number(
+                        (pronostic.btts * 100).toFixed(2)
+                    ),
+                    butsAttendus: {
+                        domicile: Number(
+                            pronostic.lambdaHome.toFixed(2)
+                        ),
+                        exterieur: Number(
+                            pronostic.lambdaAway.toFixed(2)
+                        )
+                    }
+                }
             });
 
-        }
-        catch (error) {
+        } catch (error) {
+            console.error("API PRONOSTIC ERROR:", error);
 
-            console.error(
-                "API ERROR:",
-                error.message
-            );
-
-            res.status(500).json({
-
+            return res.status(500).json({
                 succes: false,
-
-                erreur:
-                    error.message
+                erreur: error.message
             });
         }
     }
 );
+
 // ==========================================
 // RECHERCHE DES ÉQUIPES
 // ==========================================
